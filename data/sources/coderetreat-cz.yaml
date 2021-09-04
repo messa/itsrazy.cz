@@ -1,9 +1,216 @@
 series:
   meetupcom:
     url: https://www.meetup.com/CodeRetreat-CZ/
-    description: Coderetreat je jednodenní intenzivní cvičení zaměřené na základy
-      vývoje softwaru. Díky tomu, že vývojáři nejsou pod tlakem rychlého doručování
-      výsledků, poskytuje Coderetreat možnost cíleně se soustře
+    description: Coderetreat je jednodenní intenzivní cvičení zaměřené na základy vývoje softwaru. Díky tomu, že vývojáři nejsou pod tlakem rychlého doručování výsledků, poskytuje Coderetreat možnost cíleně se soustře
     title: CodeRetreat CZ (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/3/d/7/f/600_466095743.jpeg
-  events: []
+  events:
+  - meetupcom:
+      description: 'Sat, Nov 7, 2020, 9:00 AM: Rok 2020 moc nepřeje osobním setkáním a když už se nemůže setkat osobně, zkusíme to aspoň online.Global Day of Codertreat, https://www.coderetreat.org je takovým malým svátk'
+      title: Global Day of Coderetreat 2020 - ČR, Online
+      image: https://secure.meetupstatic.com/photos/event/9/5/0/3/600_492998147.jpeg
+      url: https://www.meetup.com/CodeRetreat-CZ/events/273897052/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/CodeRetreat-CZ/events/273897052/ica
+      - ' l/x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20201107T090000
+      - DTEND;TZID=Europe/Prague:20201107T160000
+      - STATUS:CONFIRMED
+      - SUMMARY:Global Day of Coderetreat 2020 - ČR\, Online
+      - 'DESCRIPTION:CodeRetreat CZ\nSaturday\, November 7 at 9:00 AM\n\nRok 2020 '
+      - ' moc nepřeje osobním setkáním a když už se nemůže setkat osobně\, zkusíme'
+      - '  to aspoň online. Global Day of Codertreat\,...\n\nhttps://www.meetup.co'
+      - ' m/CodeRetreat-CZ/events/273897052/'
+      - CLASS:PUBLIC
+      - CREATED:20201013T073026Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/CodeRetreat-CZ/events/273897052/
+      - LAST-MODIFIED:20201107T152853Z
+      - UID:event_273897052@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Sat, Nov 16, 2019, 9:00 AM: Zveme vás na jednodenní intenzivní cvičení zaměřené na základy vývoje software zvané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu, psaní testů a spolupráci v pá'
+      title: Global Day of CodeRetreat 2019 - Praha
+      image: https://secure.meetupstatic.com/photos/event/3/d/7/f/600_466095743.jpeg
+      url: https://www.meetup.com/CodeRetreat-CZ/events/265154359/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/CodeRetreat-CZ/events/265154359/ica
+      - ' l/x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20191116T090000
+      - DTEND;TZID=Europe/Prague:20191116T180000
+      - STATUS:CONFIRMED
+      - SUMMARY:Global Day of CodeRetreat 2019 - Praha
+      - DESCRIPTION:CodeRetreat CZ\nSaturday\, November 16 at 9:00 AM\n\nZveme vá
+      - ' s na jednodenní intenzivní cvičení zaměřené na základy vývoje software z'
+      - ' vané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu\, psaní t.'
+      - ' ..\n\nhttps://www.meetup.com/CodeRetreat-CZ/events/265154359/'
+      - CLASS:PUBLIC
+      - CREATED:20190925T180158Z
+      - GEO:50.08;14.43
+      - LOCATION:Zonky (Na Okraji 335/42\, Prague\, CO\, Czech Republic)
+      - URL:https://www.meetup.com/CodeRetreat-CZ/events/265154359/
+      - LAST-MODIFIED:20191116T175743Z
+      - UID:event_265154359@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Sat, Nov 16, 2019, 9:00 AM: Zveme vás na jednodenní intenzivní cvičení zaměřené na základy vývoje software zvané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu, psaní testů a spolupráci v pá'
+      title: Global Day of Coderetreat 2019 - Olomouc
+      image: https://secure.meetupstatic.com/photos/event/b/8/b/9/600_485387289.jpeg
+      url: https://www.meetup.com/CodeRetreat-CZ/events/265313497/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/CodeRetreat-CZ/events/265313497/ica
+      - ' l/x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20191116T090000
+      - DTEND;TZID=Europe/Prague:20191116T180000
+      - STATUS:CONFIRMED
+      - SUMMARY:Global Day of Coderetreat 2019 - Olomouc
+      - DESCRIPTION:CodeRetreat CZ\nSaturday\, November 16 at 9:00 AM\n\nZveme vá
+      - ' s na jednodenní intenzivní cvičení zaměřené na základy vývoje software z'
+      - ' vané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu\, psaní t.'
+      - ' ..\n\nhttps://www.meetup.com/CodeRetreat-CZ/events/265313497/'
+      - CLASS:PUBLIC
+      - CREATED:20191001T145536Z
+      - GEO:50.08;14.43
+      - 'LOCATION:Quadient Technologies Czech s.r.o. (\, Olomouc\, Czech Republic '
+      - ' 779 00)'
+      - URL:https://www.meetup.com/CodeRetreat-CZ/events/265313497/
+      - LAST-MODIFIED:20191116T175743Z
+      - UID:event_265313497@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Sat, Nov 17, 2018, 9:00 AM: Zveme vás na jednodenní intenzivní cvičení zaměřené na základy vývoje software zvané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu, psaní testů a spolupráci v pá'
+      title: Global Day of CodeRetreat 2018 - Praha
+      image: https://secure.meetupstatic.com/photos/event/3/d/7/f/600_466095743.jpeg
+      url: https://www.meetup.com/CodeRetreat-CZ/events/255966983/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/CodeRetreat-CZ/events/255966983/ica
+      - ' l/x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20181117T090000
+      - DTEND;TZID=Europe/Prague:20181117T180000
+      - STATUS:CONFIRMED
+      - SUMMARY:Global Day of CodeRetreat 2018 - Praha
+      - DESCRIPTION:CodeRetreat CZ\nSaturday\, November 17 at 9:00 AM\n\nZveme vá
+      - ' s na jednodenní intenzivní cvičení zaměřené na základy vývoje software z'
+      - ' vané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu\, psaní t.'
+      - ' ..\n\nhttps://www.meetup.com/CodeRetreat-CZ/events/255966983/'
+      - CLASS:PUBLIC
+      - CREATED:20181030T142010Z
+      - GEO:50.08;14.43
+      - LOCATION:Zonky (Na Okraji 335/42\, Prague\, CO\, Czech Republic)
+      - URL:https://www.meetup.com/CodeRetreat-CZ/events/255966983/
+      - LAST-MODIFIED:20181117T182948Z
+      - UID:event_255966983@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR

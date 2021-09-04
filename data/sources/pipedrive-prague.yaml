@@ -1,9 +1,7 @@
 series:
   meetupcom:
     url: https://www.meetup.com/pipedrive-talks-prague/events/280151778/
-    description: 'Tue, Sep 14, 2021, 6:00 PM: GraphQL is already far on the adoption
-      curve. It is slowly becoming mainstream, and we start seeing new products being
-      built primarily on GraphQL instead of REST. Most comp'
+    description: 'Tue, Sep 14, 2021, 6:00 PM: GraphQL is already far on the adoption curve. It is slowly becoming mainstream, and we start seeing new products being built primarily on GraphQL instead of REST. Most comp'
     title: 'Backend Meetup: GraphQL at Scale'
     image: https://secure.meetupstatic.com/photos/event/8/c/0/6/600_498395846.jpeg
   events: []

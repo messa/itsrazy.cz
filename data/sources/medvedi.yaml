@@ -1,9 +1,216 @@
 series:
   meetupcom:
     url: https://www.meetup.com/Medvědi/
-    description: This is a group for anyone interested in Business Analysis and Architecture
-      Design,Frontend Development (Angular, Vue.js, HTML 5, CSS, Responsive Designs,
-      Javascript, Gulp, webpack, npm, Node.JS, Anal
+    description: This is a group for anyone interested in Business Analysis and Architecture Design,Frontend Development (Angular, Vue.js, HTML 5, CSS, Responsive Designs, Javascript, Gulp, webpack, npm, Node.JS, Anal
     title: Medvědi (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/1/9/f/7/600_478206647.jpeg
-  events: []
+  events:
+  - meetupcom:
+      description: 'Thu, Jun 10, 2021, 7:00 PM: Ve čtvrtek 10.6. chystáme další živou Medvědárnu na Instagramu, tentokrát zaměřenou na JAVA lovers! :-)Těm, kteří se chtějí v Javě naučit sami více, předáme maximum toho, c'
+      title: Medvědárna
+      image: https://secure.meetupstatic.com/photos/event/1/c/5/6/600_496807254.jpeg
+      url: https://www.meetup.com/Medvědi/events/278701028/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/Medvědi/events/278701028/ical/x.ics
+      - ' '
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210610T190000
+      - DTEND;TZID=Europe/Prague:20210610T200000
+      - STATUS:CONFIRMED
+      - SUMMARY:Medvědárna
+      - DESCRIPTION:Medvědi\nThursday\, June 10 at 7:00 PM\n\nVe čtvrtek 10.6. ch
+      - ' ystáme další živou Medvědárnu na Instagramu\, tentokrát zaměřenou na JAV'
+      - ' A lovers! :-) Těm\, kteří se chtějí v Javě naučit sami více\, ...\n\nhtt'
+      - ' ps://www.meetup.com/Medv%C4%9Bdi/events/278701028/'
+      - CLASS:PUBLIC
+      - CREATED:20210608T134025Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/Medv%C4%9Bdi/events/278701028/
+      - LAST-MODIFIED:20210610T195420Z
+      - UID:event_278701028@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Thu, Mar 4, 2021, 5:00 PM: Hola hola, Medvědárna volá!Pojďme si dát medvědí dýchánek on-line, chceme si s vámi zase povídat. Tentokrát o tom, jak se změnila podoba náboru IT kapacit a co na tom vývojá'
+      title: Medvědárna ONLINE
+      image: https://secure.meetupstatic.com/photos/event/d/7/c/600_495003452.jpeg
+      url: https://www.meetup.com/Medvědi/events/276710007/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/Medvědi/events/276710007/ical/x.ics
+      - ' '
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210304T170000
+      - DTEND;TZID=Europe/Prague:20210304T180000
+      - STATUS:CONFIRMED
+      - SUMMARY:Medvědárna ONLINE
+      - DESCRIPTION:Medvědi\nThursday\, March 4 at 5:00 PM\n\nHola hola\, Medvědá
+      - ' rna volá!  Pojďme si dát medvědí dýchánek on-line\, chceme si s vámi zas'
+      - ' e povídat. Tentokrát o tom\, jak se změnila podoba náboru IT k...\n\nhtt'
+      - ' ps://www.meetup.com/Medv%C4%9Bdi/events/276710007/'
+      - CLASS:PUBLIC
+      - CREATED:20210303T131012Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/Medv%C4%9Bdi/events/276710007/
+      - LAST-MODIFIED:20210304T174114Z
+      - UID:event_276710007@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Wed, May 6, 2020, 5:00 PM: Rozhodli jsme se, že zkusíme udělat první ONLINE MedvědárnuPřenos zde: https://zoom.us/j/96688476433 (bude propojeno na FB i youtube)Big Brother v IT - měřit nebo neměřit, t'
+      title: Online Medvědárna
+      image: https://secure.meetupstatic.com/photos/event/d/e/4/2/600_490256898.jpeg
+      url: https://www.meetup.com/Medvědi/events/270291504/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/Medvědi/events/270291504/ical/x.ics
+      - ' '
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20200506T170000
+      - DTEND;TZID=Europe/Prague:20200506T183000
+      - STATUS:CONFIRMED
+      - SUMMARY:Online Medvědárna
+      - DESCRIPTION:Medvědi\nWednesday\, May 6 at 5:00 PM\n\nRozhodli jsme se\, ž
+      - ' e zkusíme udělat první ONLINE MedvědárnuPřenos zde:  https://zoom.us/j/9'
+      - ' 6688476433 (bude propojeno na FB i youtube) Big Brother v I...\n\nhttps:'
+      - ' //www.meetup.com/Medv%C4%9Bdi/events/270291504/'
+      - CLASS:PUBLIC
+      - CREATED:20200427T121345Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/Medv%C4%9Bdi/events/270291504/
+      - LAST-MODIFIED:20200506T172552Z
+      - UID:event_270291504@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Wed, Mar 4, 2020, 7:00 PM: OpenAPI - dobrý přítel nejen backend vývojářeNa další medvědárnu jsme pro přednášení ukecali Vlastíka Hájka :)) Vlastík je náš dlouholetý medvědí kamarád a na medvědárny cho'
+      title: Medvědárna
+      image: https://secure.meetupstatic.com/photos/event/9/7/6/9/600_489338761.jpeg
+      url: https://www.meetup.com/Medvědi/events/269001570/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/Medvědi/events/269001570/ical/x.ics
+      - ' '
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20200304T190000
+      - DTEND;TZID=Europe/Prague:20200304T203000
+      - STATUS:CONFIRMED
+      - SUMMARY:Medvědárna
+      - DESCRIPTION:Medvědi\nWednesday\, March 4 at 7:00 PM\n\nOpenAPI - dobrý př
+      - ' ítel nejen backend vývojáře Na další medvědárnu jsme pro přednášení ukec'
+      - ' ali Vlastíka Hájka :)) Vlastík je náš dlouholetý medvědí kam...\n\nhttps'
+      - ' ://www.meetup.com/Medv%C4%9Bdi/events/269001570/'
+      - CLASS:PUBLIC
+      - CREATED:20200226T094752Z
+      - GEO:50.08;14.43
+      - LOCATION:Vítkova 241/10 (Vítkova 241/10\, Praha 8-Karlín\, Czech Republic
+      - '  186 00)'
+      - URL:https://www.meetup.com/Medv%C4%9Bdi/events/269001570/
+      - LAST-MODIFIED:20200304T202834Z
+      - UID:event_269001570@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR

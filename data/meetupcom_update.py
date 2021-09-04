@@ -4,7 +4,9 @@ from argparse import ArgumentParser
 from logging import getLogger
 import lxml.html
 from pathlib import Path
+import re
 import requests
+from urllib.parse import urljoin
 import yaml
 
 
@@ -42,7 +44,12 @@ def process_source_file(source_file):
     if not source['series'].get('meetupcom'):
         logger.debug('No meetupcom field')
         return
-    source['series'].setdefault('events', [])
+    if not source['series']['meetupcom'].get('url'):
+        logger.debug('No meetupcom.url field')
+        return
+
+    m = re.match(r'^https://www\.meetup\.com/([^/?]+)/?', source['series']['meetupcom']['url'])
+    urlname, = m.groups()
 
     r = rs.get(source['series']['meetupcom']['url'])
     r.raise_for_status()
@@ -60,7 +67,58 @@ def process_source_file(source_file):
         elif link.attrib.get('rel') == 'image_src':
             source['series']['meetupcom']['image'] = link.attrib['href']
 
-    source_file.write_text(yaml.safe_dump(source, sort_keys=False, allow_unicode=True, default_flow_style=False))
+
+    event_urls = []
+    for a in root.xpath('//a'):
+        try:
+            a_href = urljoin(r.url, a.attrib['href'])
+        except KeyError:
+            continue
+        if f'/{urlname}/events/' in a_href and re.match(r'^https://www.meetup.com/[^/]+/events/[0-9]+/$', a_href):
+            if a_href not in event_urls:
+                event_urls.append(a_href)
+
+    source['series'].setdefault('events', [])
+    for event_url in event_urls:
+        process_event(event_url, source['series']['events'])
+
+    source_file.write_text(yaml.safe_dump(source, sort_keys=False, allow_unicode=True, default_flow_style=False, width=250))
+
+
+def process_event(event_url, events):
+    for event in events:
+        if event['meetupcom']['url'] == event_url:
+            break
+    else:
+        event = {'meetupcom': {}}
+        events.append(event)
+
+    r = rs.get(event_url)
+    r.raise_for_status()
+    root = lxml.html.fromstring(r.content)
+    # process <meta> elements
+    for meta in root.xpath('/html/head/meta'):
+        if meta.attrib.get('property') == 'og:title':
+            event['meetupcom']['title'] = meta.attrib['content']
+        elif meta.attrib.get('name') == 'description':
+            event['meetupcom']['description'] = meta.attrib['content']
+    # process <link> elements
+    for link in root.xpath('/html/head/link'):
+        if link.attrib.get('rel') == 'canonical':
+            event['meetupcom']['url'] = link.attrib['href']
+        elif link.attrib.get('rel') == 'image_src':
+            event['meetupcom']['image'] = link.attrib['href']
+
+    assert event_url.endswith('/')
+    r = rs.get(event_url + 'ical/x.ics')
+    r.raise_for_status()
+    event['meetupcom']['ical_raw'] = preprocess_raw_ical(r.text)
+
+
+def preprocess_raw_ical(raw):
+    lines = raw.splitlines()
+    lines = [line for line in lines if not line.startswith('DTSTAMP:')]
+    return lines
 
 
 if __name__ == '__main__':

@@ -1,33 +1,267 @@
-https://www.meetup.com/Morning-Talks/events/280508421/
-https://www.datascript.cz/morning-talks/event-modeling-a-event-driven-architecture-v-praxi/
-
-
-
-https://www.meetup.com/Morning-Talks/events/280508395/?
-https://www.datascript.cz/morning-talks/automatizovana-sprava-linuxove-infrastruktury-success-story/
-
-
-
-https://www.meetup.com/Morning-Talks/events/280508445/?
-https://www.datascript.cz/morning-talks/it-bezpecnost-v-cloudu/
-
-
-https://www.meetup.com/Morning-Talks/events/280508464/
-https://www.datascript.cz/morning-talks/service-meshes-and-istio/
-
-
-
-https://www.meetup.com/Morning-Talks/events/280508477/
-https://www.datascript.cz/morning-talks/aws-naklady-prakticke-postrehy-na-co-si-dat-pozor/
-
-
-https://www.meetup.com/Morning-Talks/events/280508488/
-https://www.datascript.cz/morning-talks/prometheus-pro-logging-metering-a-profiling/
-
-
-
-https://www.datascript.cz/morning-talks/neni-business-analytik-jako-business-analytik/
-https://www.meetup.com/Morning-Talks/events/280508565/
-
-
-
+series:
+  meetupcom:
+    url: https://www.meetup.com/Morning-Talks/
+    description: DataScript je autorizovaným poskytovatelem IT kurzů a certifikací. V našich školicích prostorách poskytujeme řadu vysoce odborných a respektovaných IT kurzů, specializovaných technologických školení i
+    title: Morning Talks (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/1/1/e/4/600_479044580.jpeg
+  events:
+  - meetupcom:
+      description: 'Tue, Sep 21, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/automatizovana-sprava-linuxove-infrastruktury-success-story/Na co můžete těšit:Bezpečný provoz IT prostředí o veliko'
+      title: Automatizovaná správa linuxové infrastruktury  - success story
+      image: https://secure.meetupstatic.com/photos/event/5/1/a/2/600_498560898.jpeg
+      url: https://www.meetup.com/Morning-Talks/events/280508395/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/Morning-Talks/events/280508395/ical
+      - ' /x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210921T090000
+      - DTEND;TZID=Europe/Prague:20210921T100000
+      - STATUS:CONFIRMED
+      - SUMMARY:Automatizovaná správa linuxové infrastruktury  - success story
+      - DESCRIPTION:Morning Talks\nTuesday\, September 21 at 9:00 AM\n\nREGISTRAC
+      - ' E ZDE: https://www.datascript.cz/morning-talks/automatizovana-sprava-lin'
+      - ' uxove-infrastruktury-success-story/ Na co můžete těšit: Bezpečný prov...'
+      - ' \n\nhttps://www.meetup.com/Morning-Talks/events/280508395/'
+      - CLASS:PUBLIC
+      - CREATED:20210902T114633Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/Morning-Talks/events/280508395/
+      - LAST-MODIFIED:20210902T115143Z
+      - UID:event_280508395@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Wed, Sep 22, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/event-modeling-a-event-driven-architecture-v-praxi/Na co se můžete těšit:V rychlém a neustále se měnícím prostředí m'
+      title: Event Modeling a Event-Driven Architecture v praxi
+      image: https://secure.meetupstatic.com/photos/event/5/1/c/2/600_498560930.jpeg
+      url: https://www.meetup.com/Morning-Talks/events/280508421/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/Morning-Talks/events/280508421/ical
+      - ' /x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210922T090000
+      - DTEND;TZID=Europe/Prague:20210922T100000
+      - STATUS:CONFIRMED
+      - SUMMARY:Event Modeling a Event-Driven Architecture v praxi
+      - DESCRIPTION:Morning Talks\nWednesday\, September 22 at 9:00 AM\n\nREGISTR
+      - ' ACE ZDE: https://www.datascript.cz/morning-talks/event-modeling-a-event-'
+      - ' driven-architecture-v-praxi/ Na co se můžete těšit: V rychlém a neustál.'
+      - ' ..\n\nhttps://www.meetup.com/Morning-Talks/events/280508421/'
+      - CLASS:PUBLIC
+      - CREATED:20210902T115035Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/Morning-Talks/events/280508421/
+      - LAST-MODIFIED:20210902T115035Z
+      - UID:event_280508421@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Wed, Sep 29, 2021, 9:00 AM: REGISTRACE ZDE:https://www.datascript.cz/morning-talks/it-bezpecnost-v-cloudu/Na co se můžete těšit:S rozšířením cloudového světa je potřeba adekvátně reagovat i v oblasti '
+      title: IT bezpečnost v cloudu
+      image: https://secure.meetupstatic.com/photos/event/5/1/e/7/600_498560967.jpeg
+      url: https://www.meetup.com/Morning-Talks/events/280508445/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/Morning-Talks/events/280508445/ical
+      - ' /x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210929T090000
+      - DTEND;TZID=Europe/Prague:20210929T100000
+      - STATUS:CONFIRMED
+      - SUMMARY:IT bezpečnost v cloudu
+      - DESCRIPTION:Morning Talks\nWednesday\, September 29 at 9:00 AM\n\nREGISTR
+      - ' ACE ZDE:https://www.datascript.cz/morning-talks/it-bezpecnost-v-cloudu/ '
+      - ' Na co se můžete těšit:S rozšířením cloudového světa je potřeba adekvátn.'
+      - ' ..\n\nhttps://www.meetup.com/Morning-Talks/events/280508445/'
+      - CLASS:PUBLIC
+      - CREATED:20210902T115320Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/Morning-Talks/events/280508445/
+      - LAST-MODIFIED:20210902T115320Z
+      - UID:event_280508445@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Wed, Oct 6, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/service-meshes-and-istio/What you can look forward to:With more and more applications currently being deployed as mic'
+      title: Service Meshes and Istio
+      image: https://secure.meetupstatic.com/photos/event/5/1/f/8/600_498560984.jpeg
+      url: https://www.meetup.com/Morning-Talks/events/280508464/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/Morning-Talks/events/280508464/ical
+      - ' /x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20211006T090000
+      - DTEND;TZID=Europe/Prague:20211006T100000
+      - STATUS:CONFIRMED
+      - SUMMARY:Service Meshes and Istio
+      - DESCRIPTION:Morning Talks\nWednesday\, October 6 at 9:00 AM\n\nREGISTRACE
+      - '  ZDE: https://www.datascript.cz/morning-talks/service-meshes-and-istio/ '
+      - ' What you can look forward to:With more and more applications current...\'
+      - ' n\nhttps://www.meetup.com/Morning-Talks/events/280508464/'
+      - CLASS:PUBLIC
+      - CREATED:20210902T115528Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/Morning-Talks/events/280508464/
+      - LAST-MODIFIED:20210902T120944Z
+      - UID:event_280508464@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Wed, Jun 23, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/interaktivni-analyza-dat-s-apache-spark/Na co se můžete těšit:Apache Spark je distribuovaný výpočetní systém, který '
+      title: INTERAKTIVNÍ ANALÝZA DAT S APACHE SPARK
+      image: https://secure.meetupstatic.com/photos/event/b/9/e/b/600_495947595.jpeg
+      url: https://www.meetup.com/Morning-Talks/events/277807380/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/Morning-Talks/events/277807380/ical
+      - ' /x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210623T090000
+      - DTEND;TZID=Europe/Prague:20210623T110000
+      - STATUS:CONFIRMED
+      - SUMMARY:INTERAKTIVNÍ ANALÝZA DAT S APACHE SPARK
+      - DESCRIPTION:Morning Talks\nWednesday\, June 23 at 9:00 AM\n\nREGISTRACE Z
+      - ' DE: https://www.datascript.cz/morning-talks/interaktivni-analyza-dat-s-a'
+      - ' pache-spark/ Na co se můžete těšit: Apache Spark je distribuovaný ...\n\'
+      - ' nhttps://www.meetup.com/Morning-Talks/events/277807380/'
+      - CLASS:PUBLIC
+      - CREATED:20210426T103512Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/Morning-Talks/events/277807380/
+      - LAST-MODIFIED:20210623T093739Z
+      - UID:event_277807380@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR

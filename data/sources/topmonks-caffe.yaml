@@ -1,8 +1,216 @@
 series:
   meetupcom:
     url: https://www.meetup.com/TopMonks-Caffe/
-    description: Regular meetup focused on new technologies. For EVERYBODY who is
-      interested into it.
+    description: Regular meetup focused on new technologies. For EVERYBODY who is interested into it.
     title: TopMonks Caffè (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/2/2/8/5/600_473768837.jpeg
-  events: []
+  events:
+  - meetupcom:
+      description: 'Tue, Aug 3, 2021, 7:00 PM: Podíváme se na zoubek nástrojům, které časem ztratily svůj význam a dnes už jsou přežité.'
+      title: Jednoduše a rychle
+      image: https://secure.meetupstatic.com/photos/event/1/2/3/7/600_497884663.jpeg
+      url: https://www.meetup.com/TopMonks-Caffe/events/279829674/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/TopMonks-Caffe/events/279829674/ica
+      - ' l/x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210803T190000
+      - DTEND;TZID=Europe/Prague:20210803T210000
+      - STATUS:CONFIRMED
+      - SUMMARY:Jednoduše a rychle
+      - 'DESCRIPTION:TopMonks Caffè\nTuesday\, August 3 at 7:00 PM\n\nPodíváme se '
+      - ' na zoubek nástrojům\, které časem ztratily svůj význam a dnes už jsou př'
+      - ' ežité.\n\nhttps://www.meetup.com/TopMonks-Caffe/events/279829674/'
+      - CLASS:PUBLIC
+      - CREATED:20210731T201430Z
+      - GEO:50.08;14.43
+      - LOCATION:Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8\, Nové Měs
+      - ' to\, Praha-Praha 1\, Czech Republic 110 00)'
+      - URL:https://www.meetup.com/TopMonks-Caffe/events/279829674/
+      - LAST-MODIFIED:20210803T194632Z
+      - UID:event_279829674@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Tue, Jul 13, 2021, 7:00 PM: Jirka Jansa a Jirka Pénzeš prozradí své osobní zkušenosti z údržby a vývoje legacy systému. Zároveň se podíváme i na best practices a různé cesty, které se dají při vývoji '
+      title: Legacy | refactoring 2021
+      image: https://secure.meetupstatic.com/photos/event/a/b/d/600_497402749.jpeg
+      url: https://www.meetup.com/TopMonks-Caffe/events/279359705/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/TopMonks-Caffe/events/279359705/ica
+      - ' l/x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210713T190000
+      - DTEND;TZID=Europe/Prague:20210713T210000
+      - STATUS:CONFIRMED
+      - SUMMARY:Legacy | refactoring 2021
+      - DESCRIPTION:TopMonks Caffè\nTuesday\, July 13 at 7:00 PM\n\nJirka Jansa a
+      - '  Jirka Pénzeš prozradí své osobní zkušenosti z údržby a vývoje legacy sy'
+      - ' stému. Zároveň se podíváme i na best practices a různé cesty\, kte...\n\'
+      - ' nhttps://www.meetup.com/TopMonks-Caffe/events/279359705/'
+      - CLASS:PUBLIC
+      - CREATED:20210709T082042Z
+      - GEO:50.08;14.43
+      - LOCATION:Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8\, Nové Měs
+      - ' to\, Praha-Praha 1\, Czech Republic 110 00)'
+      - URL:https://www.meetup.com/TopMonks-Caffe/events/279359705/
+      - LAST-MODIFIED:20210713T195401Z
+      - UID:event_279359705@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Tue, Jun 1, 2021, 7:00 PM: Zkoušeli jste někdy párové programování nebo mob programming? Nejsou to nové techniky, ale v praxi stále málo použivané.Marian Schubert a Jirka Jansa nám prozradí své zkušen'
+      title: Mob programming a párování
+      image: https://secure.meetupstatic.com/photos/event/4/f/7/d/600_496520349.jpeg
+      url: https://www.meetup.com/TopMonks-Caffe/events/278418529/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/TopMonks-Caffe/events/278418529/ica
+      - ' l/x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210601T190000
+      - DTEND;TZID=Europe/Prague:20210601T210000
+      - STATUS:CONFIRMED
+      - SUMMARY:Mob programming a párování
+      - 'DESCRIPTION:TopMonks Caffè\nTuesday\, June 1 at 7:00 PM\n\nZkoušeli jste '
+      - ' někdy párové programování nebo mob programming? Nejsou to nové techniky\'
+      - ' , ale v praxi stále málo použivané. Marian Schubert a Jirka Jansa...\n\n'
+      - ' https://www.meetup.com/TopMonks-Caffe/events/278418529/'
+      - CLASS:PUBLIC
+      - CREATED:20210526T075623Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/TopMonks-Caffe/events/278418529/
+      - LAST-MODIFIED:20210601T202935Z
+      - UID:event_278418529@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Tue, May 4, 2021, 7:00 PM: Od bankovních systémů po první elektronickou vodní dýmkuČeká nás jubilejní TopMonks Caffè! Slavíme deset let své existence a proto toto caffè budeme věnovat právě naší cestě'
+      title: 10 let TopMonks
+      image: https://secure.meetupstatic.com/photos/event/f/c/a/600_495964042.jpeg
+      url: https://www.meetup.com/TopMonks-Caffe/events/277826737/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/TopMonks-Caffe/events/277826737/ica
+      - ' l/x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210504T190000
+      - DTEND;TZID=Europe/Prague:20210504T210000
+      - STATUS:CONFIRMED
+      - SUMMARY:10 let TopMonks
+      - DESCRIPTION:TopMonks Caffè\nTuesday\, May 4 at 7:00 PM\n\nOd bankovních s
+      - ' ystémů po první elektronickou vodní dýmku Čeká nás jubilejní TopMonks Ca'
+      - ' ffè! Slavíme deset let své existence a proto toto caffè budeme ...\n\nht'
+      - ' tps://www.meetup.com/TopMonks-Caffe/events/277826737/'
+      - CLASS:PUBLIC
+      - CREATED:20210427T074033Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/TopMonks-Caffe/events/277826737/
+      - LAST-MODIFIED:20210504T193719Z
+      - UID:event_277826737@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR

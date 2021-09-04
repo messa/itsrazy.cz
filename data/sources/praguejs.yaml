@@ -1,8 +1,317 @@
 series:
   meetupcom:
     url: https://www.meetup.com/praguejs/events/
-    description: Upcoming events for PragueJS in Prague, Czech Republic. A Meetup
-      group with over 1817 Members.
+    description: Upcoming events for PragueJS in Prague, Czech Republic. A Meetup group with over 1817 Members.
     title: Upcoming events | PragueJS (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
-  events: []
+  events:
+  - meetupcom:
+      description: 'Tue, Sep 14, 2021, 6:00 PM: Before jumping into our common meetup format, we decided to organize an after-summer party to meet you in person again, drink a couple of beers, discuss the organization an'
+      title: 2021 PragueJS After-Summer Party
+      image: https://secure.meetupstatic.com/photos/event/4/b/c/2/600_498559394.jpeg
+      url: https://www.meetup.com/praguejs/events/280506503/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/praguejs/events/280506503/ical/x.ic
+      - ' s'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210914T180000
+      - DTEND;TZID=Europe/Prague:20210914T230000
+      - STATUS:CONFIRMED
+      - SUMMARY:2021 PragueJS After-Summer Party
+      - DESCRIPTION:PragueJS\nTuesday\, September 14 at 6:00 PM\n\nBefore jumping
+      - '  into our common meetup format\, we decided to organize an after-summer '
+      - ' party to meet you in person again\, drink a couple of beers\, discu...\n'
+      - ' \nhttps://www.meetup.com/praguejs/events/280506503/'
+      - CLASS:PUBLIC
+      - CREATED:20210902T085606Z
+      - GEO:50.08;14.43
+      - LOCATION:Kasárna Karlín (Prvního pluku 20/2\, Karlín\, Praha-Praha 8\, Cz
+      - ' ech Republic 186 00)'
+      - URL:https://www.meetup.com/praguejs/events/280506503/
+      - LAST-MODIFIED:20210902T150555Z
+      - UID:event_280506503@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Tue, Oct 5, 2021, 6:30 PM: Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are'
+      title: '2021 #1 Static Site Generators'
+      image: https://secure.meetupstatic.com/photos/event/9/4/a/b/600_489338059.jpeg
+      url: https://www.meetup.com/praguejs/events/267847625/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/praguejs/events/267847625/ical/x.ic
+      - ' s'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20211005T183000
+      - DTEND;TZID=Europe/Prague:20211005T203000
+      - STATUS:CONFIRMED
+      - 'SUMMARY:2021 #1 Static Site Generators'
+      - DESCRIPTION:PragueJS\nTuesday\, October 5 at 6:30 PM\n\nGet out and get s
+      - ' ocial in 2020 : come out and discuss JS together!Get in touch with the o'
+      - ' rganizers with any questions you have. We welcome a diverse r...\n\nhttp'
+      - ' s://www.meetup.com/praguejs/events/267847625/'
+      - CLASS:PUBLIC
+      - CREATED:20200112T061514Z
+      - GEO:50.08;14.43
+      - LOCATION:Kavárna co hledá jméno (Stroupežnického 493/10\, Smíchov\, Pragu
+      - ' e\, Czech Republic)'
+      - URL:https://www.meetup.com/praguejs/events/267847625/
+      - LAST-MODIFIED:20210902T085757Z
+      - UID:event_267847625@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Tue, Nov 2, 2021, 6:30 PM: Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are'
+      title: '2021 #2 Optimization Techniques'
+      image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
+      url: https://www.meetup.com/praguejs/events/267847681/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/praguejs/events/267847681/ical/x.ic
+      - ' s'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20211102T183000
+      - DTEND;TZID=Europe/Prague:20211102T203000
+      - STATUS:CONFIRMED
+      - 'SUMMARY:2021 #2 Optimization Techniques'
+      - 'DESCRIPTION:PragueJS\nTuesday\, November 2 at 6:30 PM\n\nGet out and get '
+      - ' social in 2020 : come out and discuss JS together!Get in touch with the '
+      - ' organizers with any questions you have. We welcome a diverse r...\n\nhtt'
+      - ' ps://www.meetup.com/praguejs/events/267847681/'
+      - CLASS:PUBLIC
+      - CREATED:20200112T061819Z
+      - GEO:50.08;14.43
+      - URL:https://www.meetup.com/praguejs/events/267847681/
+      - LAST-MODIFIED:20210902T085951Z
+      - UID:event_267847681@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Tue, Dec 7, 2021, 6:30 PM: Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are'
+      title: '2021 #3 Gaming Development'
+      image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
+      url: https://www.meetup.com/praguejs/events/267847634/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/praguejs/events/267847634/ical/x.ic
+      - ' s'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20211207T183000
+      - DTEND;TZID=Europe/Prague:20211207T203000
+      - STATUS:CONFIRMED
+      - 'SUMMARY:2021 #3 Gaming Development'
+      - 'DESCRIPTION:PragueJS\nTuesday\, December 7 at 6:30 PM\n\nGet out and get '
+      - ' social in 2020 : come out and discuss JS together!Get in touch with the '
+      - ' organizers with any questions you have. We welcome a diverse r...\n\nhtt'
+      - ' ps://www.meetup.com/praguejs/events/267847634/'
+      - CLASS:PUBLIC
+      - CREATED:20200112T061559Z
+      - GEO:50.08;14.43
+      - URL:https://www.meetup.com/praguejs/events/267847634/
+      - LAST-MODIFIED:20210902T090141Z
+      - UID:event_267847634@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Tue, Jan 25, 2022, 6:30 PM: Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that ar'
+      title: '2022 #1 Server Side JavaScript'
+      image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
+      url: https://www.meetup.com/praguejs/events/269001730/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/praguejs/events/269001730/ical/x.ic
+      - ' s'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20220125T183000
+      - DTEND;TZID=Europe/Prague:20220125T203000
+      - STATUS:CONFIRMED
+      - 'SUMMARY:2022 #1 Server Side JavaScript'
+      - 'DESCRIPTION:PragueJS\nTuesday\, January 25 at 6:30 PM\n\nGet out and get '
+      - ' social in 2020 : come out and discuss JS together!Get in touch with the '
+      - ' organizers with any questions you have. We welcome a diverse r...\n\nhtt'
+      - ' ps://www.meetup.com/praguejs/events/269001730/'
+      - CLASS:PUBLIC
+      - CREATED:20200226T095137Z
+      - GEO:50.08;14.43
+      - URL:https://www.meetup.com/praguejs/events/269001730/
+      - LAST-MODIFIED:20210902T090220Z
+      - UID:event_269001730@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Tue, Feb 22, 2022, 6:30 PM: Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that ar'
+      title: '2022 #2 Client-side Databases'
+      image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
+      url: https://www.meetup.com/praguejs/events/267847695/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/praguejs/events/267847695/ical/x.ic
+      - ' s'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20220222T183000
+      - DTEND;TZID=Europe/Prague:20220222T203000
+      - STATUS:CONFIRMED
+      - 'SUMMARY:2022 #2 Client-side Databases'
+      - DESCRIPTION:PragueJS\nTuesday\, February 22 at 6:30 PM\n\nGet out and get
+      - '  social in 2020 : come out and discuss JS together!Get in touch with the'
+      - '  organizers with any questions you have. We welcome a diverse r...\n\nht'
+      - ' tps://www.meetup.com/praguejs/events/267847695/'
+      - CLASS:PUBLIC
+      - CREATED:20200112T062006Z
+      - GEO:50.08;14.43
+      - URL:https://www.meetup.com/praguejs/events/267847695/
+      - LAST-MODIFIED:20210902T090252Z
+      - UID:event_267847695@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR

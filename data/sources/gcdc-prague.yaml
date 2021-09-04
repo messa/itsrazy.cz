@@ -1,9 +1,219 @@
 series:
   meetupcom:
     url: https://www.meetup.com/GCDC-Prague/
-    description: Google Cloud Developer Community Prague (GCDC Prague). Cílem je vytvořit
-      místo pro online i offline setkání vývojářů, analytiků, konzultantů nebo architektů
-      pro sdílení znalostí a zkušenosti se služba
+    description: Google Cloud Developer Community Prague (GCDC Prague). Cílem je vytvořit místo pro online i offline setkání vývojářů, analytiků, konzultantů nebo architektů pro sdílení znalostí a zkušenosti se služba
     title: Google Cloud Developer Community Prague (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/d/f/b/5/600_471357269.jpeg
-  events: []
+  events:
+  - meetupcom:
+      description: 'Wed, May 19, 2021, 6:30 PM: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o tom jak s GCP začít]Proč?======Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme přílež'
+      title: Cloud Talks vol.7 {Jak začít s GCP}
+      image: https://secure.meetupstatic.com/photos/event/7/6/7/0/600_495210320.jpeg
+      url: https://www.meetup.com/GCDC-Prague/events/276944440/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/GCDC-Prague/events/276944440/ical/x
+      - ' .ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210519T183000
+      - DTEND;TZID=Europe/Prague:20210519T200000
+      - STATUS:CONFIRMED
+      - SUMMARY:Cloud Talks vol.7 {Jak začít s GCP}
+      - DESCRIPTION:Google Cloud Developer Community Prague\nWednesday\, May 19 a
+      - ' t 6:30 PM\n\nProč?======Baví nás Google Cloud technologie a díky sérii C'
+      - ' loud talks vytváříme příležitost k setkávání nad tématy\, které Vás zají'
+      - ' mají. Pomocí krátkýc...\n\nhttps://www.meetup.com/GCDC-Prague/events/276'
+      - ' 944440/'
+      - CLASS:PUBLIC
+      - CREATED:20210315T111456Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/GCDC-Prague/events/276944440/
+      - LAST-MODIFIED:20210519T185022Z
+      - UID:event_276944440@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Wed, Mar 3, 2021, 6:30 PM: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o K8s]Proč?======Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme příležitost k setkávání'
+      title: Cloud Talks vol.6 {Kubernetes}
+      image: https://secure.meetupstatic.com/photos/event/4/b/f/3/600_490519443.jpeg
+      url: https://www.meetup.com/GCDC-Prague/events/274666372/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/GCDC-Prague/events/274666372/ical/x
+      - ' .ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20210303T183000
+      - DTEND;TZID=Europe/Prague:20210303T200000
+      - STATUS:CONFIRMED
+      - SUMMARY:Cloud Talks vol.6 {Kubernetes}
+      - 'DESCRIPTION:Google Cloud Developer Community Prague\nWednesday\, March 3 '
+      - ' at 6:30 PM\n\nProč?======Baví nás Google Cloud technologie a díky sérii '
+      - ' Cloud talks vytváříme příležitost k setkávání nad tématy\, které Vás zaj'
+      - ' ímají. Pomocí krátkýc...\n\nhttps://www.meetup.com/GCDC-Prague/events/27'
+      - ' 4666372/'
+      - CLASS:PUBLIC
+      - CREATED:20201118T092734Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/GCDC-Prague/events/274666372/
+      - LAST-MODIFIED:20210303T194221Z
+      - UID:event_274666372@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Wed, Nov 11, 2020, 6:30 PM: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o Serverless Computing]Proč?======Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme příle'
+      title: Cloud Talks vol.5 {Serverless Computing}
+      image: https://secure.meetupstatic.com/photos/event/4/b/f/3/600_490519443.jpeg
+      url: https://www.meetup.com/GCDC-Prague/events/273622225/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/GCDC-Prague/events/273622225/ical/x
+      - ' .ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20201111T183000
+      - DTEND;TZID=Europe/Prague:20201111T200000
+      - STATUS:CONFIRMED
+      - SUMMARY:Cloud Talks vol.5 {Serverless Computing}
+      - DESCRIPTION:Google Cloud Developer Community Prague\nWednesday\, November
+      - '  11 at 6:30 PM\n\nProč?======Baví nás Google Cloud technologie a díky sé'
+      - ' rii Cloud talks vytváříme příležitost k setkávání nad tématy\, které Vás'
+      - '  zajímají. Pomocí krátkýc...\n\nhttps://www.meetup.com/GCDC-Prague/event'
+      - ' s/273622225/'
+      - CLASS:PUBLIC
+      - CREATED:20200930T201537Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/GCDC-Prague/events/273622225/
+      - LAST-MODIFIED:20201111T195352Z
+      - UID:event_273622225@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      description: 'Wed, Oct 7, 2020, 6:30 PM: [Pojďme se potkat online a nasdílet zkušenosti o práci s daty]Proč?======Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme příležitost k setkávání nad tém'
+      title: Cloud Talks vol.4 {Data}
+      image: https://secure.meetupstatic.com/photos/event/4/b/f/3/600_490519443.jpeg
+      url: https://www.meetup.com/GCDC-Prague/events/272110257/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/GCDC-Prague/events/272110257/ical/x
+      - ' .ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20201007T183000
+      - DTEND;TZID=Europe/Prague:20201007T200000
+      - STATUS:CONFIRMED
+      - SUMMARY:Cloud Talks vol.4 {Data}
+      - 'DESCRIPTION:Google Cloud Developer Community Prague\nWednesday\, October '
+      - ' 7 at 6:30 PM\n\nProč?======Baví nás Google Cloud technologie a díky séri'
+      - ' i Cloud talks vytváříme příležitost k setkávání nad tématy\, které Vás z'
+      - ' ajímají. Pomocí krátkýc...\n\nhttps://www.meetup.com/GCDC-Prague/events/'
+      - ' 272110257/'
+      - CLASS:PUBLIC
+      - CREATED:20200723T210918Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/GCDC-Prague/events/272110257/
+      - LAST-MODIFIED:20201007T184843Z
+      - UID:event_272110257@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
