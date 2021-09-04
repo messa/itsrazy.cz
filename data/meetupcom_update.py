@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from argparse import ArgumentParser
+from icalendar import Calendar
 from logging import getLogger
 import lxml.html
 from pathlib import Path
@@ -113,6 +114,15 @@ def process_event(event_url, events):
     r = rs.get(event_url + 'ical/x.ics')
     r.raise_for_status()
     event['meetupcom']['ical_raw'] = preprocess_raw_ical(r.text)
+    cal = Calendar.from_ical(r.text)
+    #print(cal)
+    from pprint import pprint
+    cal_event, = cal.walk('vevent')
+    for k, v in cal_event.items():
+        event['ical'][k.lower()] = str(v)
+    #event['ical_location'] = cal_event['location']
+    import sys
+    sys.exit(1)
 
 
 def preprocess_raw_ical(raw):
