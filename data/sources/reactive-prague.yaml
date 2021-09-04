@@ -1,15 +1,13 @@
 series:
   meetupcom:
     url: https://www.meetup.com/ReactiveMeetupsPrague/
-    description: Reactive meetups Prague strive to create a community of developers around all cutting-edge mobile and web tech stacks. We like applications that are useful and easy to maintain!Our meetups are organiz
-    title: Reactive Meetups Prague (Prague, Czech Republic)
-    image: https://secure.meetupstatic.com/photos/event/6/d/c/1/600_490888097.jpeg
     meta_description: Reactive meetups Prague strive to create a community of developers around all cutting-edge mobile and web tech stacks. We like applications that are useful and easy to maintain!Our meetups are organiz
     og_title: Reactive Meetups Prague (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/6/d/c/1/600_490888097.jpeg
   events:
   - meetupcom:
-      description: 'Tue, Mar 2, 2021, 7:00 PM: WHAT CAN YOU LOOK FORWARD TO:JAKUB KOPRIVA#metatalk 15minTALKConnection optional data into strongly typed components using TSTALK ABSTRACTTypescript is very useful when it c'
-      title: Reactive Online Meetup|Frontend Skill-up
+      meta_description: 'Tue, Mar 2, 2021, 7:00 PM: WHAT CAN YOU LOOK FORWARD TO:JAKUB KOPRIVA#metatalk 15minTALKConnection optional data into strongly typed components using TSTALK ABSTRACTTypescript is very useful when it c'
+      og_title: Reactive Online Meetup|Frontend Skill-up
       image: https://secure.meetupstatic.com/photos/event/7/3/c/c/600_494849644.jpeg
       url: https://www.meetup.com/ReactiveMeetupsPrague/events/276503080/
       ical_raw:
@@ -59,11 +57,9 @@ series:
       - UID:event_276503080@meetup.com
       - END:VEVENT
       - END:VCALENDAR
-      meta_description: 'Tue, Mar 2, 2021, 7:00 PM: WHAT CAN YOU LOOK FORWARD TO:JAKUB KOPRIVA#metatalk 15minTALKConnection optional data into strongly typed components using TSTALK ABSTRACTTypescript is very useful when it c'
-      og_title: Reactive Online Meetup|Frontend Skill-up
   - meetupcom:
-      description: 'Tue, Dec 1, 2020, 7:00 PM: WHAT CAN YOU LOOK FORWARD TO:𝗠𝗜𝗟𝗢𝗦 𝗕𝗥𝗢𝗨𝗟𝗜𝗞Barclays#metatalk (10min)𝗧𝗔𝗟𝗞Coding is fun𝗧𝗔𝗟𝗞 𝗔𝗕𝗦𝗧𝗥𝗔𝗖𝗧Introduction to Barclays Prague Technology Cente'
-      title: Reactive Online Meetup|Painless App Coding with GraphQL
+      meta_description: 'Tue, Dec 1, 2020, 7:00 PM: WHAT CAN YOU LOOK FORWARD TO:𝗠𝗜𝗟𝗢𝗦 𝗕𝗥𝗢𝗨𝗟𝗜𝗞Barclays#metatalk (10min)𝗧𝗔𝗟𝗞Coding is fun𝗧𝗔𝗟𝗞 𝗔𝗕𝗦𝗧𝗥𝗔𝗖𝗧Introduction to Barclays Prague Technology Cente'
+      og_title: Reactive Online Meetup|Painless App Coding with GraphQL
       image: https://secure.meetupstatic.com/photos/event/a/c/4/b/600_493604107.jpeg
       url: https://www.meetup.com/ReactiveMeetupsPrague/events/274690980/
       ical_raw:
@@ -114,11 +110,9 @@ series:
       - UID:event_274690980@meetup.com
       - END:VEVENT
       - END:VCALENDAR
-      meta_description: 'Tue, Dec 1, 2020, 7:00 PM: WHAT CAN YOU LOOK FORWARD TO:𝗠𝗜𝗟𝗢𝗦 𝗕𝗥𝗢𝗨𝗟𝗜𝗞Barclays#metatalk (10min)𝗧𝗔𝗟𝗞Coding is fun𝗧𝗔𝗟𝗞 𝗔𝗕𝗦𝗧𝗥𝗔𝗖𝗧Introduction to Barclays Prague Technology Cente'
-      og_title: Reactive Online Meetup|Painless App Coding with GraphQL
   - meetupcom:
-      description: 'Tue, Nov 10, 2020, 7:00 PM: Link to connect👉 https://bit.ly/join_the_webinar_here𝗔𝗟𝗘𝗫𝗔𝗡𝗗𝗘𝗥 𝗦𝗠𝗜𝗥𝗡𝗢𝗩Mews Developers#metatalk𝗧𝗔𝗟𝗞Running custom neural networks in a browser𝗧𝗔𝗟𝗞 �'
-      title: Reactive Online Meetup|How to Design Complex Async Apps
+      meta_description: 'Tue, Nov 10, 2020, 7:00 PM: Link to connect👉 https://bit.ly/join_the_webinar_here𝗔𝗟𝗘𝗫𝗔𝗡𝗗𝗘𝗥 𝗦𝗠𝗜𝗥𝗡𝗢𝗩Mews Developers#metatalk𝗧𝗔𝗟𝗞Running custom neural networks in a browser𝗧𝗔𝗟𝗞 �'
+      og_title: Reactive Online Meetup|How to Design Complex Async Apps
       image: https://secure.meetupstatic.com/photos/event/5/d/f/0/600_493284048.jpeg
       url: https://www.meetup.com/ReactiveMeetupsPrague/events/274261647/
       ical_raw:
@@ -169,11 +163,9 @@ series:
       - UID:event_274261647@meetup.com
       - END:VEVENT
       - END:VCALENDAR
-      meta_description: 'Tue, Nov 10, 2020, 7:00 PM: Link to connect👉 https://bit.ly/join_the_webinar_here𝗔𝗟𝗘𝗫𝗔𝗡𝗗𝗘𝗥 𝗦𝗠𝗜𝗥𝗡𝗢𝗩Mews Developers#metatalk𝗧𝗔𝗟𝗞Running custom neural networks in a browser𝗧𝗔𝗟𝗞 �'
-      og_title: Reactive Online Meetup|How to Design Complex Async Apps
   - meetupcom:
-      description: 'Tue, Sep 15, 2020, 7:00 PM: Let''s explore the topic of GraphQL this time!Please connect for another exciting Reactive Online Meetup 𝗻𝗲𝘅𝘁 𝗧𝘂𝗲𝘀𝗱𝗮𝘆, 𝗦𝗘𝗣𝗧𝗘𝗠𝗕𝗘𝗥 𝟭𝟱, 𝗮𝘁 𝟳 𝗽𝗺 𝗖𝗘�'
-      title: '#9 Reactive Online Meetups|GraphQL experience'
+      meta_description: 'Tue, Sep 15, 2020, 7:00 PM: Let''s explore the topic of GraphQL this time!Please connect for another exciting Reactive Online Meetup 𝗻𝗲𝘅𝘁 𝗧𝘂𝗲𝘀𝗱𝗮𝘆, 𝗦𝗘𝗣𝗧𝗘𝗠𝗕𝗘𝗥 𝟭𝟱, 𝗮𝘁 𝟳 𝗽𝗺 𝗖𝗘�'
+      og_title: '#9 Reactive Online Meetups|GraphQL experience'
       image: https://secure.meetupstatic.com/photos/event/5/d/d/d/600_492144029.jpeg
       url: https://www.meetup.com/ReactiveMeetupsPrague/events/273005403/
       ical_raw:
@@ -224,5 +216,3 @@ series:
       - UID:event_273005403@meetup.com
       - END:VEVENT
       - END:VCALENDAR
-      meta_description: 'Tue, Sep 15, 2020, 7:00 PM: Let''s explore the topic of GraphQL this time!Please connect for another exciting Reactive Online Meetup 𝗻𝗲𝘅𝘁 𝗧𝘂𝗲𝘀𝗱𝗮𝘆, 𝗦𝗘𝗣𝗧𝗘𝗠𝗕𝗘𝗥 𝟭𝟱, 𝗮𝘁 𝟳 𝗽𝗺 𝗖𝗘�'
-      og_title: '#9 Reactive Online Meetups|GraphQL experience'
