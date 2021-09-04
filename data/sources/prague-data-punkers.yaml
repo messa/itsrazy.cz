@@ -1,1 +1,3 @@
-https://www.meetup.com/data-punkers/events/past/
+series:
+  meetupcom:
+    url: https://www.meetup.com/data-punkers/events/past/

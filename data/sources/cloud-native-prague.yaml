@@ -1,1 +1,3 @@
-https://www.meetup.com/Cloud-Native-Prague
+series:
+  meetupcom:
+    url: https://www.meetup.com/Cloud-Native-Prague

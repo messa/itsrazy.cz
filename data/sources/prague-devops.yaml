@@ -1,4 +1,8 @@
-https://www.meetup.com/Prague-DevOps-Meetup/events/280234441/
+series:
+  meetupcom:
+    url: https://www.meetup.com/Prague-DevOps-Meetup/
+
+# https://www.meetup.com/Prague-DevOps-Meetup/events/280234441/
 
 
 
