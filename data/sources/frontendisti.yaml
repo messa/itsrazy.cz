@@ -1,3 +1,7 @@
+
+
+https://www.meetup.com/frontendisti/events/
+
 series:
   id: frontendisti
   events:
@@ -5,3 +9,7 @@ series:
     url: https://frontendisti.cz/konference
     title: Historicky první česká frontendová konference Frontendisti.cz
     date: 2021-05-29
+  - id: meetup-com-280481673
+    url: https://www.meetup.com/frontendisti-brno/events/280481673/
+    title: OFFLINE Frontendisti v Brně
+    date: 2021-09-09
