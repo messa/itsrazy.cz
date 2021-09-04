@@ -1,0 +1,7 @@
+series:
+  id: pyvo-plzen
+  events:
+  - id: plzen-pyvo-2021-09
+    date: 2021-09-08
+    url: https://pyvo.cz/plzen-pyvo/2021-09/
+    title: "Plzeňské Pyvo #22 Vědecké a průmyslové výpočty s Pythonem"

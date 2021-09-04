@@ -13,19 +13,38 @@ function IndexPage({ foo }) {
 
 export async function getStaticProps(context) {
   const dataDir = findDataDir(__dirname)
-  const allData = []
+  const allSeries = new Map()
   fs.readdirSync(dataDir).forEach(file => {
     if (file.endsWith('.yaml')) {
       const filePath = dataDir + '/' + file
       const fileContents = fs.readFileSync(filePath, 'utf8')
       const fileData = yaml.load(fileContents)
-      allData.push({ filePath, fileData })
+      if (fileData.series) {
+          allSeries.set(fileData.series.id, loadSeries(fileData.series))
+      }
     }
   })
   return {
     props: { // will be passed to the page component as props
-      foo: allData,
+      foo: Object.fromEntries(allSeries),
     },
+  }
+}
+
+function loadSeries(data) {
+  return {
+    id: data.id,
+    events: data.events.map(ev => loadEvent(ev)),
+  }
+}
+
+function loadEvent(data) {
+  return {
+    id: data.id,
+    date: data.date.toISOString(),
+    title: data.title,
+    url: data.url,
+    venue: data.venue || null,
   }
 }
 

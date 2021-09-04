@@ -1,0 +1,10 @@
+series:
+  id: pyvo-praha
+  events:
+  - id: praha-pyvo-2021-09
+    url: https://pyvo.cz/praha-pyvo/2021-09/
+    date: 2021-09-15
+    title: "Pražské Pyvo #126"
+    venue:
+      name: Holešovická šachta
+      address: Bubenská 242/14
