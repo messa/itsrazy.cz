@@ -5,14 +5,14 @@ from logging import getLogger
 import lxml.html
 from pathlib import Path
 import re
-import requests
+from requests_cache import CachedSession # https://requests-cache.readthedocs.io/en/stable/user_guide.html
 from urllib.parse import urljoin
 import yaml
 
 
 logger = getLogger(Path(__file__).with_suffix('').name)
 
-rs = requests.Session()
+rs = CachedSession()
 
 
 def main():
