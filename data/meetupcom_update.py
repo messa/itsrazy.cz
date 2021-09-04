@@ -39,25 +39,28 @@ def process_source_file(source_file):
     except Exception as e:
         logger.warning('Failed to load source file %s as YAML: %r', source_file, e)
         return
-    source['series'].setdefault('meetupcom', [])
+    if not source['series'].get('meetupcom'):
+        logger.debug('No meetupcom field')
+        return
     source['series'].setdefault('events', [])
 
     r = rs.get(source['series']['meetupcom']['url'])
     r.raise_for_status()
     root = lxml.html.fromstring(r.content)
+    # process <meta> elements
     for meta in root.xpath('/html/head/meta'):
         if meta.attrib.get('property') == 'og:title':
             source['series']['meetupcom']['title'] = meta.attrib['content']
         elif meta.attrib.get('name') == 'description':
             source['series']['meetupcom']['description'] = meta.attrib['content']
+    # process <link> elements
     for link in root.xpath('/html/head/link'):
         if link.attrib.get('rel') == 'canonical':
             source['series']['meetupcom']['url'] = link.attrib['href']
         elif link.attrib.get('rel') == 'image_src':
             source['series']['meetupcom']['image'] = link.attrib['href']
 
-
-    source_file.write_text(yaml.safe_dump(source, sort_keys=False))
+    source_file.write_text(yaml.safe_dump(source, sort_keys=False, allow_unicode=True, default_flow_style=False))
 
 
 if __name__ == '__main__':

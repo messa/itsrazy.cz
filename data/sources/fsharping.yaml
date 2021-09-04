@@ -1,10 +1,9 @@
 series:
   meetupcom:
     url: https://www.meetup.com/FSharping/
-    description: "FSharping je komunita nad\u0161enc\u016F okolo jazyka F# a funkcion\xE1\
-      ln\xEDho programov\xE1n\xED. Chceme se spole\u010Dn\u011B u\u010Dit, p\u0159\
-      ed\xE1vat si znalosti a spole\u010Dn\u011B pro\u0161lap\xE1vat cesty. Je \xFA\
-      pln\u011B jedno, jakou \xFArove\u0148 znalost\xED a zku\u0161en"
+    description: FSharping je komunita nadšenců okolo jazyka F# a funkcionálního programování.
+      Chceme se společně učit, předávat si znalosti a společně prošlapávat cesty.
+      Je úplně jedno, jakou úroveň znalostí a zkušen
     title: FSharping (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
   events: []
