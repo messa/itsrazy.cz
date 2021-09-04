@@ -1,13 +1,13 @@
 series:
   meetupcom:
     url: https://www.meetup.com/Medvědi/
-    description: This is a group for anyone interested in Business Analysis and Architecture Design,Frontend Development (Angular, Vue.js, HTML 5, CSS, Responsive Designs, Javascript, Gulp, webpack, npm, Node.JS, Anal
-    title: Medvědi (Prague, Czech Republic)
+    meta_description: This is a group for anyone interested in Business Analysis and Architecture Design,Frontend Development (Angular, Vue.js, HTML 5, CSS, Responsive Designs, Javascript, Gulp, webpack, npm, Node.JS, Anal
+    og_title: Medvědi (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/1/9/f/7/600_478206647.jpeg
   events:
   - meetupcom:
-      description: 'Thu, Jun 10, 2021, 7:00 PM: Ve čtvrtek 10.6. chystáme další živou Medvědárnu na Instagramu, tentokrát zaměřenou na JAVA lovers! :-)Těm, kteří se chtějí v Javě naučit sami více, předáme maximum toho, c'
-      title: Medvědárna
+      meta_description: 'Thu, Jun 10, 2021, 7:00 PM: Ve čtvrtek 10.6. chystáme další živou Medvědárnu na Instagramu, tentokrát zaměřenou na JAVA lovers! :-)Těm, kteří se chtějí v Javě naučit sami více, předáme maximum toho, c'
+      og_title: Medvědárna
       image: https://secure.meetupstatic.com/photos/event/1/c/5/6/600_496807254.jpeg
       url: https://www.meetup.com/Medvědi/events/278701028/
       ical_raw:
@@ -58,8 +58,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Thu, Mar 4, 2021, 5:00 PM: Hola hola, Medvědárna volá!Pojďme si dát medvědí dýchánek on-line, chceme si s vámi zase povídat. Tentokrát o tom, jak se změnila podoba náboru IT kapacit a co na tom vývojá'
-      title: Medvědárna ONLINE
+      meta_description: 'Thu, Mar 4, 2021, 5:00 PM: Hola hola, Medvědárna volá!Pojďme si dát medvědí dýchánek on-line, chceme si s vámi zase povídat. Tentokrát o tom, jak se změnila podoba náboru IT kapacit a co na tom vývojá'
+      og_title: Medvědárna ONLINE
       image: https://secure.meetupstatic.com/photos/event/d/7/c/600_495003452.jpeg
       url: https://www.meetup.com/Medvědi/events/276710007/
       ical_raw:
@@ -110,8 +110,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Wed, May 6, 2020, 5:00 PM: Rozhodli jsme se, že zkusíme udělat první ONLINE MedvědárnuPřenos zde: https://zoom.us/j/96688476433 (bude propojeno na FB i youtube)Big Brother v IT - měřit nebo neměřit, t'
-      title: Online Medvědárna
+      meta_description: 'Wed, May 6, 2020, 5:00 PM: Rozhodli jsme se, že zkusíme udělat první ONLINE MedvědárnuPřenos zde: https://zoom.us/j/96688476433 (bude propojeno na FB i youtube)Big Brother v IT - měřit nebo neměřit, t'
+      og_title: Online Medvědárna
       image: https://secure.meetupstatic.com/photos/event/d/e/4/2/600_490256898.jpeg
       url: https://www.meetup.com/Medvědi/events/270291504/
       ical_raw:
@@ -162,8 +162,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Wed, Mar 4, 2020, 7:00 PM: OpenAPI - dobrý přítel nejen backend vývojářeNa další medvědárnu jsme pro přednášení ukecali Vlastíka Hájka :)) Vlastík je náš dlouholetý medvědí kamarád a na medvědárny cho'
-      title: Medvědárna
+      meta_description: 'Wed, Mar 4, 2020, 7:00 PM: OpenAPI - dobrý přítel nejen backend vývojářeNa další medvědárnu jsme pro přednášení ukecali Vlastíka Hájka :)) Vlastík je náš dlouholetý medvědí kamarád a na medvědárny cho'
+      og_title: Medvědárna
       image: https://secure.meetupstatic.com/photos/event/9/7/6/9/600_489338761.jpeg
       url: https://www.meetup.com/Medvědi/events/269001570/
       ical_raw:

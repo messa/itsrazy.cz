@@ -1,13 +1,13 @@
 series:
   meetupcom:
     url: https://www.meetup.com/FSharping/
-    description: FSharping je komunita nadšenců okolo jazyka F# a funkcionálního programování. Chceme se společně učit, předávat si znalosti a společně prošlapávat cesty. Je úplně jedno, jakou úroveň znalostí a zkušen
-    title: FSharping (Prague, Czech Republic)
+    meta_description: FSharping je komunita nadšenců okolo jazyka F# a funkcionálního programování. Chceme se společně učit, předávat si znalosti a společně prošlapávat cesty. Je úplně jedno, jakou úroveň znalostí a zkušen
+    og_title: FSharping (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
   events:
   - meetupcom:
-      description: 'Wed, Aug 4, 2021, 6:00 PM: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects, and other great things (not only) from the IT world an'
-      title: FSharping |> Beer
+      meta_description: 'Wed, Aug 4, 2021, 6:00 PM: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects, and other great things (not only) from the IT world an'
+      og_title: FSharping |> Beer
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/279609755/
       ical_raw:
@@ -58,8 +58,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Wed, Aug 19, 2020, 6:00 PM: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects and other great things (not only) from IT world and fu'
-      title: FSharping |> Beer
+      meta_description: 'Wed, Aug 19, 2020, 6:00 PM: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects and other great things (not only) from IT world and fu'
+      og_title: FSharping |> Beer
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/271789552/
       ical_raw:
@@ -111,8 +111,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Fri, Jun 5, 2020, 11:00 AM: 5. června nás čeká již třetí ročník virtuální konference fsharpConf, organizované lidmi z @fsharponline. Můžete se těšit na F# experty z celého světa. Uvidíte praktické vyu'
-      title: fsharpConf 2020
+      meta_description: 'Fri, Jun 5, 2020, 11:00 AM: 5. června nás čeká již třetí ročník virtuální konference fsharpConf, organizované lidmi z @fsharponline. Můžete se těšit na F# experty z celého světa. Uvidíte praktické vyu'
+      og_title: fsharpConf 2020
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/270899664/
       ical_raw:
@@ -163,8 +163,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Tue, Feb 25, 2020, 6:00 PM: We would like to invite you to our very first FShaping Functional Programming workshop.==== Basic information ====Workshop is planned for 3 hours.We will start at 18:00! (W'
-      title: 'Josef Starýchfojtů: Advanced FP in F# (Workshop)'
+      meta_description: 'Tue, Feb 25, 2020, 6:00 PM: We would like to invite you to our very first FShaping Functional Programming workshop.==== Basic information ====Workshop is planned for 3 hours.We will start at 18:00! (W'
+      og_title: 'Josef Starýchfojtů: Advanced FP in F# (Workshop)'
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/268054108/
       ical_raw:

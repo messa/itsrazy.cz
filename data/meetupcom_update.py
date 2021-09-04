@@ -57,9 +57,9 @@ def process_source_file(source_file):
     # process <meta> elements
     for meta in root.xpath('/html/head/meta'):
         if meta.attrib.get('property') == 'og:title':
-            source['series']['meetupcom']['title'] = meta.attrib['content']
+            source['series']['meetupcom']['og_title'] = meta.attrib['content']
         elif meta.attrib.get('name') == 'description':
-            source['series']['meetupcom']['description'] = meta.attrib['content']
+            source['series']['meetupcom']['meta_description'] = meta.attrib['content']
     # process <link> elements
     for link in root.xpath('/html/head/link'):
         if link.attrib.get('rel') == 'canonical':
@@ -99,9 +99,9 @@ def process_event(event_url, events):
     # process <meta> elements
     for meta in root.xpath('/html/head/meta'):
         if meta.attrib.get('property') == 'og:title':
-            event['meetupcom']['title'] = meta.attrib['content']
+            event['meetupcom']['og_title'] = meta.attrib['content']
         elif meta.attrib.get('name') == 'description':
-            event['meetupcom']['description'] = meta.attrib['content']
+            event['meetupcom']['meta_description'] = meta.attrib['content']
     # process <link> elements
     for link in root.xpath('/html/head/link'):
         if link.attrib.get('rel') == 'canonical':

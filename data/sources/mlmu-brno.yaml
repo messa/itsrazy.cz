@@ -1,13 +1,13 @@
 series:
   meetupcom:
     url: https://www.meetup.com/Machine-Learning-Meetup-Brno/
-    description: 'Machine Learning Meetup (MLMU) is a community of those interested in (not only) machine learning. Visit our regular meeting and get inspired and educated by interesting talks and people. Cutting edge '
-    title: Machine Learning Meetup Brno (Brno, Czech Republic)
+    meta_description: 'Machine Learning Meetup (MLMU) is a community of those interested in (not only) machine learning. Visit our regular meeting and get inspired and educated by interesting talks and people. Cutting edge '
+    og_title: Machine Learning Meetup Brno (Brno, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/7/6/6/f/600_456450319.jpeg
   events:
   - meetupcom:
-      description: 'Wed, Jul 21, 2021, 6:00 PM: Little update: We arranged small refreshments on the grill!Dear friends,After a long time (almost a year!), let''s meet in person! Usually, we don''t organize meetups in summ'
-      title: MLMU Beer & grill & chat
+      meta_description: 'Wed, Jul 21, 2021, 6:00 PM: Little update: We arranged small refreshments on the grill!Dear friends,After a long time (almost a year!), let''s meet in person! Usually, we don''t organize meetups in summ'
+      og_title: MLMU Beer & grill & chat
       image: https://secure.meetupstatic.com/photos/event/7/6/6/f/600_456450319.jpeg
       url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/279295286/
       ical_raw:
@@ -61,8 +61,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Thu, Jun 24, 2021, 7:00 PM: The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that tradition'
-      title: 'D<AI>DALOS – Post-Human Creativity: The Use of AI in Art'
+      meta_description: 'Thu, Jun 24, 2021, 7:00 PM: The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that tradition'
+      og_title: 'D<AI>DALOS – Post-Human Creativity: The Use of AI in Art'
       image: https://secure.meetupstatic.com/photos/event/c/e/3/6/600_496912790.jpeg
       url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278824055/
       ical_raw:
@@ -115,8 +115,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Mon, Jun 7, 2021, 7:30 PM: We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the opening lecture of a discus'
-      title: 'D<AI>DALOS – From Automation to Intelligence: The Long History of AI'
+      meta_description: 'Mon, Jun 7, 2021, 7:30 PM: We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the opening lecture of a discus'
+      og_title: 'D<AI>DALOS – From Automation to Intelligence: The Long History of AI'
       image: https://secure.meetupstatic.com/photos/event/d/4/a/5/600_496614437.jpeg
       url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278523645/
       ical_raw:
@@ -170,8 +170,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Wed, May 26, 2021, 6:00 PM: The talks will be live on YouTube.Multiple speakers will shows us how they different technologies to successfully implement MLOps with variety of organizations and they wil'
-      title: 'MLMU Online #15: Key factors of successful MLOps'
+      meta_description: 'Wed, May 26, 2021, 6:00 PM: The talks will be live on YouTube.Multiple speakers will shows us how they different technologies to successfully implement MLOps with variety of organizations and they wil'
+      og_title: 'MLMU Online #15: Key factors of successful MLOps'
       image: https://secure.meetupstatic.com/photos/event/7/8/0/600_496381920.jpeg
       url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278273823/
       ical_raw:

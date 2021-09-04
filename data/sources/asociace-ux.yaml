@@ -2,13 +2,13 @@ series:
   url: http://www.asociaceux.cz/
   meetupcom:
     url: https://www.meetup.com/asociace-ux/
-    description: Monthly delicacies for designer brains. We are going nonstop since June 2013. Organized by UX Association and sometimes in English.Každý měsíc nové pochoutky pro designerské mozečky. Jedeme nonstop od
-    title: Asociace UX (Prague, Czech Republic)
+    meta_description: Monthly delicacies for designer brains. We are going nonstop since June 2013. Organized by UX Association and sometimes in English.Každý měsíc nové pochoutky pro designerské mozečky. Jedeme nonstop od
+    og_title: Asociace UX (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/8/6/2/b/600_462814347.jpeg
   events:
   - meetupcom:
-      description: 'Mon, Sep 6, 2021, 6:30 PM: Září znamená návrat školních lavic a nejinak tomu bude i v případě UX Monday. Opět se totiž vedle online streamu potkáme také v offline režimu (detaily níže) a hlavně se pod'
-      title: 'UX Monday: Podpora začínajících designérů v týmu'
+      meta_description: 'Mon, Sep 6, 2021, 6:30 PM: Září znamená návrat školních lavic a nejinak tomu bude i v případě UX Monday. Opět se totiž vedle online streamu potkáme také v offline režimu (detaily níže) a hlavně se pod'
+      og_title: 'UX Monday: Podpora začínajících designérů v týmu'
       image: https://secure.meetupstatic.com/photos/event/6/1/a/c/600_498505004.jpeg
       url: https://www.meetup.com/asociace-ux/events/280440185/
       ical_raw:
@@ -60,8 +60,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Thu, Aug 5, 2021, 6:00 PM: UPDATE: The weather is not nice, so we''re going to Sad Man''s Tongue Bar & Bistro at Konviktska 7!If you have something you want to talk about or show the group (something yo'
-      title: PRAGUE UX WRITERS MEETUP Vol. 21 - August
+      meta_description: 'Thu, Aug 5, 2021, 6:00 PM: UPDATE: The weather is not nice, so we''re going to Sad Man''s Tongue Bar & Bistro at Konviktska 7!If you have something you want to talk about or show the group (something yo'
+      og_title: PRAGUE UX WRITERS MEETUP Vol. 21 - August
       image: https://secure.meetupstatic.com/photos/event/c/b/0/a/600_497991978.jpeg
       url: https://www.meetup.com/asociace-ux/events/279577242/
       ical_raw:

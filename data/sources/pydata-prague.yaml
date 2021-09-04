@@ -1,7 +1,7 @@
 series:
   meetupcom:
     url: https://www.meetup.com/PyData-Prague/events/279339785/
-    description: 'Tue, Jul 13, 2021, 6:30 PM: Hello PyData lovers,it''s been a while since our last (on-line, not to mention in-person) PyData meet-up. We are sorry for not having arranged anything in the lockdown perio'
-    title: 'PyData Prague #9 - Reinforcement Yearning'
+    meta_description: 'Tue, Jul 13, 2021, 6:30 PM: Hello PyData lovers,it''s been a while since our last (on-line, not to mention in-person) PyData meet-up. We are sorry for not having arranged anything in the lockdown perio'
+    og_title: 'PyData Prague #9 - Reinforcement Yearning'
     image: https://secure.meetupstatic.com/photos/event/5/c/1/b/600_497483579.jpeg
   events: []

@@ -2,13 +2,13 @@ series:
   title: Prague Artificial Intelligence & Deep Learning
   meetupcom:
     url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/
-    description: We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.Who are we? We’re H2O.ai ( https://www.h2o.ai/ ), creators of the world’s leading ope
-    title: Prague Artificial Intelligence & Deep Learning (Prague, Czech Republic)
+    meta_description: We’re excited to bring you the latest happenings in AI, Machine Learning, Deep Learning, Data Science and Big Data.Who are we? We’re H2O.ai ( https://www.h2o.ai/ ), creators of the world’s leading ope
+    og_title: Prague Artificial Intelligence & Deep Learning (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/1/6/c/e/600_485045838.jpeg
   events:
   - meetupcom:
-      description: 'Tue, Sep 14, 2021, 11:00 AM: One of the top use-cases for AI is Fraud Detection and Prevention. The power of avoiding and detecting Fraud in advance is clear: a few hours can have a major impact on lo'
-      title: 'Improving the Speed and Accuracy of Fraud Identification using AI '
+      meta_description: 'Tue, Sep 14, 2021, 11:00 AM: One of the top use-cases for AI is Fraud Detection and Prevention. The power of avoiding and detecting Fraud in advance is clear: a few hours can have a major impact on lo'
+      og_title: 'Improving the Speed and Accuracy of Fraud Identification using AI '
       image: https://secure.meetupstatic.com/photos/event/4/9/1/4/600_498558708.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280505740/
       ical_raw:
@@ -62,8 +62,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Thu, Aug 12, 2021, 11:15 PM: Register here for this talk: https://www.h2o.ai/ai-digital-transformation-for-hcos-strategies-best-practices-for-success/?utm_medium=Organic-Social&utm_source=meetup&utm_c'
-      title: AI & Digital Transformation for Healthcare Organizations
+      meta_description: 'Thu, Aug 12, 2021, 11:15 PM: Register here for this talk: https://www.h2o.ai/ai-digital-transformation-for-hcos-strategies-best-practices-for-success/?utm_medium=Organic-Social&utm_source=meetup&utm_c'
+      og_title: AI & Digital Transformation for Healthcare Organizations
       image: https://secure.meetupstatic.com/photos/event/3/c/6/f/600_497835471.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/279765728/
       ical_raw:

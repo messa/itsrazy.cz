@@ -1,13 +1,13 @@
 series:
   meetupcom:
     url: https://www.meetup.com/Prague-Machine-Learning/
-    description: 'Machine Learning Meetup (MLMU) is a community of those interested in (not only) machine learning. Visit our regular meeting and get inspired and educated by interesting talks and people. Cutting edge '
-    title: Machine Learning Meetup Prague (Prague, Czech Republic)
+    meta_description: 'Machine Learning Meetup (MLMU) is a community of those interested in (not only) machine learning. Visit our regular meeting and get inspired and educated by interesting talks and people. Cutting edge '
+    og_title: Machine Learning Meetup Prague (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/c/2/f/a/600_455269914.jpeg
   events:
   - meetupcom:
-      description: 'Thu, Jun 24, 2021, 7:00 PM: The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that tradition'
-      title: 'D<AI>DALOS – Post-Human Creativity: The Use of AI in Art'
+      meta_description: 'Thu, Jun 24, 2021, 7:00 PM: The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that tradition'
+      og_title: 'D<AI>DALOS – Post-Human Creativity: The Use of AI in Art'
       image: https://secure.meetupstatic.com/photos/event/c/e/2/6/600_496912774.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/278824052/
       ical_raw:
@@ -59,8 +59,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Mon, Jun 7, 2021, 7:30 PM: We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the opening lecture of a discus'
-      title: 'D<AI>DALOS – From Automation to Intelligence: The Long History of AI'
+      meta_description: 'Mon, Jun 7, 2021, 7:30 PM: We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the opening lecture of a discus'
+      og_title: 'D<AI>DALOS – From Automation to Intelligence: The Long History of AI'
       image: https://secure.meetupstatic.com/photos/event/d/4/a/2/600_496614434.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/278523643/
       ical_raw:
@@ -113,8 +113,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Wed, May 26, 2021, 6:00 PM: The talks will be live on YouTube.Multiple speakers will shows us how they different technologies to successfully implement MLOps with variety of organizations and they wil'
-      title: 'MLMU Online #15: Key factors of successful MLOps'
+      meta_description: 'Wed, May 26, 2021, 6:00 PM: The talks will be live on YouTube.Multiple speakers will shows us how they different technologies to successfully implement MLOps with variety of organizations and they wil'
+      og_title: 'MLMU Online #15: Key factors of successful MLOps'
       image: https://secure.meetupstatic.com/photos/event/7/8/c/600_496381932.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/278273820/
       ical_raw:
@@ -166,8 +166,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Wed, Apr 21, 2021, 6:00 PM: Online event - streamed on YouTube.Talk: MATS stack for machine learningAbstract: At Avast we complete over 17 million phishing detections a day, providing crucial online p'
-      title: 'Online MLMU #14: MLOps: Building feature stores and ML production pipelines'
+      meta_description: 'Wed, Apr 21, 2021, 6:00 PM: Online event - streamed on YouTube.Talk: MATS stack for machine learningAbstract: At Avast we complete over 17 million phishing detections a day, providing crucial online p'
+      og_title: 'Online MLMU #14: MLOps: Building feature stores and ML production pipelines'
       image: https://secure.meetupstatic.com/photos/event/4/2/f/d/600_495737149.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/277464280/
       ical_raw:

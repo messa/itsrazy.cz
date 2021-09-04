@@ -1,13 +1,13 @@
 series:
   meetupcom:
     url: https://www.meetup.com/data-punkers/events/past/
-    description: Past Events for Prague Data Punkers in Prague, Czech Republic. A Meetup group with over 418 Data Punkers.
-    title: Past Events | Prague Data Punkers (Prague, Czech Republic)
+    meta_description: Past Events for Prague Data Punkers in Prague, Czech Republic. A Meetup group with over 418 Data Punkers.
+    og_title: Past Events | Prague Data Punkers (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/3/a/3/0/600_487934896.jpeg
   events:
   - meetupcom:
-      description: 'Fri, Jun 25, 2021, 9:00 AM: Data Hackathon "Staň se analytikem"Registrace a další informace na https://hackathon.revolt.bi/POZOR: kapacita hackathonu je již téměř naplněna, budeme ale vypisovat i dalš'
-      title: Data Hackathon  "Staň se analytikem"
+      meta_description: 'Fri, Jun 25, 2021, 9:00 AM: Data Hackathon "Staň se analytikem"Registrace a další informace na https://hackathon.revolt.bi/POZOR: kapacita hackathonu je již téměř naplněna, budeme ale vypisovat i dalš'
+      og_title: Data Hackathon  "Staň se analytikem"
       image: https://secure.meetupstatic.com/photos/event/c/5/4/6/600_496790502.jpeg
       url: https://www.meetup.com/data-punkers/events/278702629/
       ical_raw:
@@ -59,8 +59,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Tue, Feb 18, 2020, 6:00 PM: Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu.Chceme vytvořit komunitu datařů, se kterou se budeme pravideln'
-      title: Jakub Šulta - od miliardového eshopu k prodeji ojetých aut, Tableau, KBC & Apify
+      meta_description: 'Tue, Feb 18, 2020, 6:00 PM: Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu.Chceme vytvořit komunitu datařů, se kterou se budeme pravideln'
+      og_title: Jakub Šulta - od miliardového eshopu k prodeji ojetých aut, Tableau, KBC & Apify
       image: https://secure.meetupstatic.com/photos/event/b/2/1/600_488222849.jpeg
       url: https://www.meetup.com/data-punkers/events/268054864/
       ical_raw:
@@ -113,8 +113,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Thu, Oct 31, 2019, 6:00 PM: Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu.Chceme vytvořit komunitu datařů, se kterou se budeme pravideln'
-      title: 'Data Punkers Meetup vol 1: Snowflake'
+      meta_description: 'Thu, Oct 31, 2019, 6:00 PM: Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu.Chceme vytvořit komunitu datařů, se kterou se budeme pravideln'
+      og_title: 'Data Punkers Meetup vol 1: Snowflake'
       image: https://secure.meetupstatic.com/photos/event/c/8/6/e/600_485631310.jpeg
       url: https://www.meetup.com/data-punkers/events/265556324/
       ical_raw:

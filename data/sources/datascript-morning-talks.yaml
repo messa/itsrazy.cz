@@ -1,13 +1,13 @@
 series:
   meetupcom:
     url: https://www.meetup.com/Morning-Talks/
-    description: DataScript je autorizovaným poskytovatelem IT kurzů a certifikací. V našich školicích prostorách poskytujeme řadu vysoce odborných a respektovaných IT kurzů, specializovaných technologických školení i
-    title: Morning Talks (Prague, Czech Republic)
+    meta_description: DataScript je autorizovaným poskytovatelem IT kurzů a certifikací. V našich školicích prostorách poskytujeme řadu vysoce odborných a respektovaných IT kurzů, specializovaných technologických školení i
+    og_title: Morning Talks (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/1/1/e/4/600_479044580.jpeg
   events:
   - meetupcom:
-      description: 'Tue, Sep 21, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/automatizovana-sprava-linuxove-infrastruktury-success-story/Na co můžete těšit:Bezpečný provoz IT prostředí o veliko'
-      title: Automatizovaná správa linuxové infrastruktury  - success story
+      meta_description: 'Tue, Sep 21, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/automatizovana-sprava-linuxove-infrastruktury-success-story/Na co můžete těšit:Bezpečný provoz IT prostředí o veliko'
+      og_title: Automatizovaná správa linuxové infrastruktury  - success story
       image: https://secure.meetupstatic.com/photos/event/5/1/a/2/600_498560898.jpeg
       url: https://www.meetup.com/Morning-Talks/events/280508395/
       ical_raw:
@@ -58,8 +58,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Wed, Sep 22, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/event-modeling-a-event-driven-architecture-v-praxi/Na co se můžete těšit:V rychlém a neustále se měnícím prostředí m'
-      title: Event Modeling a Event-Driven Architecture v praxi
+      meta_description: 'Wed, Sep 22, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/event-modeling-a-event-driven-architecture-v-praxi/Na co se můžete těšit:V rychlém a neustále se měnícím prostředí m'
+      og_title: Event Modeling a Event-Driven Architecture v praxi
       image: https://secure.meetupstatic.com/photos/event/5/1/c/2/600_498560930.jpeg
       url: https://www.meetup.com/Morning-Talks/events/280508421/
       ical_raw:
@@ -110,8 +110,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Wed, Sep 29, 2021, 9:00 AM: REGISTRACE ZDE:https://www.datascript.cz/morning-talks/it-bezpecnost-v-cloudu/Na co se můžete těšit:S rozšířením cloudového světa je potřeba adekvátně reagovat i v oblasti '
-      title: IT bezpečnost v cloudu
+      meta_description: 'Wed, Sep 29, 2021, 9:00 AM: REGISTRACE ZDE:https://www.datascript.cz/morning-talks/it-bezpecnost-v-cloudu/Na co se můžete těšit:S rozšířením cloudového světa je potřeba adekvátně reagovat i v oblasti '
+      og_title: IT bezpečnost v cloudu
       image: https://secure.meetupstatic.com/photos/event/5/1/e/7/600_498560967.jpeg
       url: https://www.meetup.com/Morning-Talks/events/280508445/
       ical_raw:
@@ -162,8 +162,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Wed, Oct 6, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/service-meshes-and-istio/What you can look forward to:With more and more applications currently being deployed as mic'
-      title: Service Meshes and Istio
+      meta_description: 'Wed, Oct 6, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/service-meshes-and-istio/What you can look forward to:With more and more applications currently being deployed as mic'
+      og_title: Service Meshes and Istio
       image: https://secure.meetupstatic.com/photos/event/5/1/f/8/600_498560984.jpeg
       url: https://www.meetup.com/Morning-Talks/events/280508464/
       ical_raw:
@@ -214,8 +214,8 @@ series:
       - END:VEVENT
       - END:VCALENDAR
   - meetupcom:
-      description: 'Wed, Jun 23, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/interaktivni-analyza-dat-s-apache-spark/Na co se můžete těšit:Apache Spark je distribuovaný výpočetní systém, který '
-      title: INTERAKTIVNÍ ANALÝZA DAT S APACHE SPARK
+      meta_description: 'Wed, Jun 23, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/interaktivni-analyza-dat-s-apache-spark/Na co se můžete těšit:Apache Spark je distribuovaný výpočetní systém, který '
+      og_title: INTERAKTIVNÍ ANALÝZA DAT S APACHE SPARK
       image: https://secure.meetupstatic.com/photos/event/b/9/e/b/600_495947595.jpeg
       url: https://www.meetup.com/Morning-Talks/events/277807380/
       ical_raw:

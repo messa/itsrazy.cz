@@ -1,7 +1,7 @@
 series:
   meetupcom:
     url: https://www.meetup.com/GDGPrague/
-    description: GDG (Google Developer Groups) Prague organizes public events for developers in Prague. GDG Prague is part of the non-profit organization GUG.cz.We have moved our activities to Meetup very recently, so
-    title: GDG Prague (Prague, Czech Republic)
+    meta_description: GDG (Google Developer Groups) Prague organizes public events for developers in Prague. GDG Prague is part of the non-profit organization GUG.cz.We have moved our activities to Meetup very recently, so
+    og_title: GDG Prague (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
   events: []
