@@ -1,3 +1,9 @@
 series:
   meetupcom:
     url: https://www.meetup.com/ReactiveMeetupsPrague/
+    description: Reactive meetups Prague strive to create a community of developers
+      around all cutting-edge mobile and web tech stacks. We like applications that
+      are useful and easy to maintain!Our meetups are organiz
+    title: Reactive Meetups Prague (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/6/d/c/1/600_490888097.jpeg
+  events: []

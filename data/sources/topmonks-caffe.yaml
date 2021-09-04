@@ -1,3 +1,8 @@
 series:
   meetupcom:
-    url: https://www.meetup.com/TopMonks-Caffe
+    url: https://www.meetup.com/TopMonks-Caffe/
+    description: Regular meetup focused on new technologies. For EVERYBODY who is
+      interested into it.
+    title: "TopMonks Caff\xE8 (Prague, Czech Republic)"
+    image: https://secure.meetupstatic.com/photos/event/2/2/8/5/600_473768837.jpeg
+  events: []

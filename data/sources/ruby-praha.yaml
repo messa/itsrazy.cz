@@ -1,4 +1,9 @@
 series:
   meetupcom:
     url: https://www.meetup.com/Praguerb/
-
+    description: This is a group for anyone interested in the programing language
+      Ruby. All skills levels are welcome. This group was started to bring together
+      Ruby enthusiasts and to learn from each other. Looking fo
+    title: Prague.rb / CSRUG (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
+  events: []

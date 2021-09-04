@@ -1,3 +1,9 @@
 series:
   meetupcom:
     url: https://www.meetup.com/Machine-Learning-Meetup-Brno/
+    description: 'Machine Learning Meetup (MLMU) is a community of those interested
+      in (not only) machine learning. Visit our regular meeting and get inspired and
+      educated by interesting talks and people. Cutting edge '
+    title: Machine Learning Meetup Brno (Brno, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/7/6/6/f/600_456450319.jpeg
+  events: []

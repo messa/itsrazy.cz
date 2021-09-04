@@ -1,3 +1,9 @@
 series:
   meetupcom:
-    url: https://www.meetup.com/Medv%C4%9Bdi
+    url: "https://www.meetup.com/Medv\u011Bdi/"
+    description: This is a group for anyone interested in Business Analysis and Architecture
+      Design,Frontend Development (Angular, Vue.js, HTML 5, CSS, Responsive Designs,
+      Javascript, Gulp, webpack, npm, Node.JS, Anal
+    title: "Medv\u011Bdi (Prague, Czech Republic)"
+    image: https://secure.meetupstatic.com/photos/event/1/9/f/7/600_478206647.jpeg
+  events: []

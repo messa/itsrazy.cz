@@ -1,3 +1,9 @@
 series:
   meetupcom:
     url: https://www.meetup.com/Prague-Machine-Learning/
+    description: 'Machine Learning Meetup (MLMU) is a community of those interested
+      in (not only) machine learning. Visit our regular meeting and get inspired and
+      educated by interesting talks and people. Cutting edge '
+    title: Machine Learning Meetup Prague (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/c/2/f/a/600_455269914.jpeg
+  events: []

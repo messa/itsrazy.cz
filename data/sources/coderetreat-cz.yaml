@@ -1,3 +1,10 @@
 series:
   meetupcom:
-    url: https://www.meetup.com/CodeRetreat-CZ
+    url: https://www.meetup.com/CodeRetreat-CZ/
+    description: "Coderetreat je jednodenn\xED intenzivn\xED cvi\u010Den\xED zam\u011B\
+      \u0159en\xE9 na z\xE1klady v\xFDvoje softwaru. D\xEDky tomu, \u017Ee v\xFDvoj\xE1\
+      \u0159i nejsou pod tlakem rychl\xE9ho doru\u010Dov\xE1n\xED v\xFDsledk\u016F\
+      , poskytuje Coderetreat mo\u017Enost c\xEDlen\u011B se soust\u0159e"
+    title: CodeRetreat CZ (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/3/d/7/f/600_466095743.jpeg
+  events: []

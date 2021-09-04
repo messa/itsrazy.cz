@@ -1,3 +1,10 @@
 series:
   meetupcom:
-    url: https://www.meetup.com/GCDC-Prague
+    url: https://www.meetup.com/GCDC-Prague/
+    description: "Google Cloud Developer Community Prague (GCDC Prague). C\xEDlem\
+      \ je vytvo\u0159it m\xEDsto pro online i offline setk\xE1n\xED v\xFDvoj\xE1\u0159\
+      \u016F, analytik\u016F, konzultant\u016F nebo architekt\u016F pro sd\xEDlen\xED\
+      \ znalost\xED a zku\u0161enosti se slu\u017Eba"
+    title: Google Cloud Developer Community Prague (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/d/f/b/5/600_471357269.jpeg
+  events: []

@@ -1,3 +1,10 @@
 series:
   meetupcom:
-    url: https://www.meetup.com/vuejs-cz-sk
+    url: https://www.meetup.com/vuejs-cz-sk/
+    description: "P\u0159ij\u010Fte se sezn\xE1mit a pokl\xE1bosit si o progresivn\xED\
+      m JS frameworku Vue.js a v\xFDvoji webov\xFDch str\xE1nek a aplikac\xED.Chyst\xE1\
+      me setk\xE1n\xED v Praze a Brn\u011B s prezentacemi, novinkami z komunity i\
+      \ uk\xE1zkami p\u0159\xEDpadov\xFDch"
+    title: Vue.js CZ/SK (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/b/1/e/7/600_469905543.jpeg
+  events: []
