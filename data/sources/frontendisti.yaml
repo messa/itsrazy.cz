@@ -58,3 +58,211 @@ series:
       - UID:event_278006831@meetup.com
       - END:VEVENT
       - END:VCALENDAR
+  - meetupcom:
+      meta_description: 'Wed, Oct 13, 2021, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
+      og_title: Meetup Frontedisti.cz, Wed, Oct 13, 2021, 7:00 PM
+      image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
+      url: https://www.meetup.com/frontendisti/events/mbjhpsyccnbrb/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/frontendisti/events/mbjhpsyccnbrb/i
+      - ' cal/x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20211013T190000
+      - DTEND;TZID=Europe/Prague:20211013T210000
+      - STATUS:CONFIRMED
+      - SUMMARY:Meetup Frontedisti.cz
+      - DESCRIPTION:Frontendisti.cz\nWednesday\, October 13 at 7:00 PM\n\nPo onli
+      - ' ne streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinac'
+      - ' i meetupu s online streamem. Hybridní akce budeme střídavě organizovat .'
+      - ' ..\n\nhttps://www.meetup.com/frontendisti/events/280531700/'
+      - CLASS:PUBLIC
+      - CREATED:20210901T150629Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/frontendisti/events/280531700/
+      - LAST-MODIFIED:20210901T150630Z
+      - UID:event_mbjhpsyccnbrb@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      meta_description: 'Wed, Nov 10, 2021, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
+      og_title: Meetup Frontedisti.cz, Wed, Nov 10, 2021, 7:00 PM
+      image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
+      url: https://www.meetup.com/frontendisti/events/mbjhpsyccpbnb/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/frontendisti/events/mbjhpsyccpbnb/i
+      - ' cal/x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20211110T190000
+      - DTEND;TZID=Europe/Prague:20211110T210000
+      - STATUS:CONFIRMED
+      - SUMMARY:Meetup Frontedisti.cz
+      - DESCRIPTION:Frontendisti.cz\nWednesday\, November 10 at 7:00 PM\n\nPo onl
+      - ' ine streamech a konferenci bychom podzim 2021 rádi zvládali jako kombina'
+      - ' ci meetupu s online streamem. Hybridní akce budeme střídavě organizovat '
+      - ' ...\n\nhttps://www.meetup.com/frontendisti/events/280531794/'
+      - CLASS:PUBLIC
+      - CREATED:20210901T150629Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/frontendisti/events/280531794/
+      - LAST-MODIFIED:20210901T150630Z
+      - UID:event_mbjhpsyccpbnb@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      meta_description: 'Wed, Dec 8, 2021, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každo'
+      og_title: Meetup Frontedisti.cz, Wed, Dec 8, 2021, 7:00 PM
+      image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
+      url: https://www.meetup.com/frontendisti/events/mbjhpsyccqblb/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/frontendisti/events/mbjhpsyccqblb/i
+      - ' cal/x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20211208T190000
+      - DTEND;TZID=Europe/Prague:20211208T210000
+      - STATUS:CONFIRMED
+      - SUMMARY:Meetup Frontedisti.cz
+      - DESCRIPTION:Frontendisti.cz\nWednesday\, December 8 at 7:00 PM\n\nPo onli
+      - ' ne streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinac'
+      - ' i meetupu s online streamem. Hybridní akce budeme střídavě organizovat .'
+      - ' ..\n\nhttps://www.meetup.com/frontendisti/events/280531796/'
+      - CLASS:PUBLIC
+      - CREATED:20210901T150629Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/frontendisti/events/280531796/
+      - LAST-MODIFIED:20210901T150630Z
+      - UID:event_mbjhpsyccqblb@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
+  - meetupcom:
+      meta_description: 'Wed, Jan 12, 2022, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
+      og_title: Meetup Frontedisti.cz, Wed, Jan 12, 2022, 7:00 PM
+      image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
+      url: https://www.meetup.com/frontendisti/events/mbjhpsydccbqb/
+      ical_raw:
+      - BEGIN:VCALENDAR
+      - VERSION:2.0
+      - PRODID:-//Meetup//RemoteApi//EN
+      - CALSCALE:GREGORIAN
+      - METHOD:PUBLISH
+      - X-ORIGINAL-URL:https://www.meetup.com/frontendisti/events/mbjhpsydccbqb/i
+      - ' cal/x.ics'
+      - X-WR-CALNAME:Events - x.ics
+      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+      - BEGIN:VTIMEZONE
+      - TZID:Europe/Prague
+      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+      - X-LIC-LOCATION:Europe/Prague
+      - BEGIN:DAYLIGHT
+      - TZOFFSETFROM:+0100
+      - TZOFFSETTO:+0200
+      - TZNAME:CEST
+      - DTSTART:19700329T020000
+      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+      - END:DAYLIGHT
+      - BEGIN:STANDARD
+      - TZOFFSETFROM:+0200
+      - TZOFFSETTO:+0100
+      - TZNAME:CET
+      - DTSTART:19701025T030000
+      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+      - END:STANDARD
+      - END:VTIMEZONE
+      - BEGIN:VEVENT
+      - DTSTART;TZID=Europe/Prague:20220112T190000
+      - DTEND;TZID=Europe/Prague:20220112T210000
+      - STATUS:CONFIRMED
+      - SUMMARY:Meetup Frontedisti.cz
+      - DESCRIPTION:Frontendisti.cz\nWednesday\, January 12 at 7:00 PM\n\nPo onli
+      - ' ne streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinac'
+      - ' i meetupu s online streamem. Hybridní akce budeme střídavě organizovat .'
+      - ' ..\n\nhttps://www.meetup.com/frontendisti/events/280531797/'
+      - CLASS:PUBLIC
+      - CREATED:20210901T150629Z
+      - GEO:50.08;14.43
+      - LOCATION:Online event
+      - URL:https://www.meetup.com/frontendisti/events/280531797/
+      - LAST-MODIFIED:20210901T150630Z
+      - UID:event_mbjhpsydccbqb@meetup.com
+      - END:VEVENT
+      - END:VCALENDAR
