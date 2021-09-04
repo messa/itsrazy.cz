@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 
 from argparse import ArgumentParser
-from icalendar import Calendar
 from logging import getLogger
 import lxml.html
 from pathlib import Path
 import re
 from requests_cache import CachedSession # https://requests-cache.readthedocs.io/en/stable/user_guide.html
+from textwrap import dedent
 from urllib.parse import urljoin
 import yaml
 
@@ -83,7 +83,13 @@ def process_source_file(source_file):
     for event_url in event_urls:
         process_event(event_url, source['series']['events'])
 
-    source_file.write_text(yaml.safe_dump(source, sort_keys=False, allow_unicode=True, default_flow_style=False, width=250))
+    source_file.write_text(
+        yaml.safe_dump(
+            source,
+            sort_keys=False,
+            allow_unicode=True,
+            default_flow_style=False,
+            width=250))
 
 
 def process_event(event_url, events):
@@ -113,22 +119,165 @@ def process_event(event_url, events):
     assert event_url.endswith('/')
     r = rs.get(event_url + 'ical/x.ics')
     r.raise_for_status()
-    event['meetupcom']['ical_raw'] = preprocess_raw_ical(r.text)
-    cal = Calendar.from_ical(r.text)
-    #print(cal)
-    from pprint import pprint
-    cal_event, = cal.walk('vevent')
-    for k, v in cal_event.items():
-        event['ical'][k.lower()] = str(v)
-    #event['ical_location'] = cal_event['location']
-    import sys
-    sys.exit(1)
+    cal = parse_ical(r.text)
+    event['ical'] = {
+        'description': cal['VEVENT']['DESCRIPTION'],
+    }
+
+    #event['meetupcom']['ical_raw'] = preprocess_raw_ical(r.text)
+
 
 
 def preprocess_raw_ical(raw):
     lines = raw.splitlines()
     lines = [line for line in lines if not line.startswith('DTSTAMP:')]
     return lines
+
+
+def parse_ical(data):
+    lines = data.splitlines()
+    pos = 0
+
+    def unescape(s):
+        return s.replace(r'\,', ',').replace(r'\n', '\n')
+
+    def parse_block():
+        nonlocal pos
+        assert lines[pos].startswith('BEGIN:')
+        block_name = lines[pos][6:]
+        pos += 1
+        block_data = {}
+        while True:
+            if lines[pos].startswith('END:'):
+                assert lines[pos] == f'END:{block_name}'
+                pos += 1
+                break
+            if lines[pos].startswith('BEGIN:'):
+                subblock_name, subblock_data = parse_block()
+                assert subblock_name not in block_data
+                block_data[subblock_name] = subblock_data
+                continue
+            if lines[pos].startswith(' '):
+                block_data[key] += unescape(lines[pos][1:])
+            else:
+                key, value = lines[pos].split(':', 1)
+                assert key not in block_data
+                block_data[key] = unescape(value)
+            pos += 1
+        return block_name, block_data
+
+    root_name, root_data = parse_block()
+    assert root_name == 'VCALENDAR'
+    return root_data
+
+
+def test_parse_ical():
+    sample_ical = dedent(r'''
+        BEGIN:VCALENDAR
+        VERSION:2.0
+        PRODID:-//Meetup//RemoteApi//EN
+        CALSCALE:GREGORIAN
+        METHOD:PUBLISH
+        X-ORIGINAL-URL:https://www.meetup.com/asociace-ux/events/280440185/ical/x
+         .ics
+        X-WR-CALNAME:Events - x.ics
+        X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+        BEGIN:VTIMEZONE
+        TZID:Europe/Prague
+        TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
+        X-LIC-LOCATION:Europe/Prague
+        BEGIN:DAYLIGHT
+        TZOFFSETFROM:+0100
+        TZOFFSETTO:+0200
+        TZNAME:CEST
+        DTSTART:19700329T020000
+        RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+        END:DAYLIGHT
+        BEGIN:STANDARD
+        TZOFFSETFROM:+0200
+        TZOFFSETTO:+0100
+        TZNAME:CET
+        DTSTART:19701025T030000
+        RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+        END:STANDARD
+        END:VTIMEZONE
+        BEGIN:VEVENT
+        DTSTAMP:20210904T225439Z
+        DTSTART;TZID=Europe/Prague:20210906T183000
+        DTEND;TZID=Europe/Prague:20210906T203000
+        STATUS:CONFIRMED
+        SUMMARY:UX Monday: Podpora začínajících designérů v týmu
+        DESCRIPTION:Asociace UX\nMonday\, September 6 at 6:30 PM\n\nZáří znamená 
+         návrat školních lavic a nejinak tomu bude i v případě UX Monday. Opět se
+          totiž vedle online streamu potkáme také v offline režimu (detail...\n\n
+         https://www.meetup.com/asociace-ux/events/280440185/
+        CLASS:PUBLIC
+        CREATED:20210830T121007Z
+        GEO:50.08;14.43
+        LOCATION:Svornosti 3321/2 (Svornosti 3321/2\, Smíchov\, Praha-Praha 5\, C
+         zech Republic 150 00)
+        URL:https://www.meetup.com/asociace-ux/events/280440185/
+        LAST-MODIFIED:20210830T145130Z
+        UID:event_280440185@meetup.com
+        END:VEVENT
+        END:VCALENDAR
+    ''').lstrip()
+    parsed = parse_ical(sample_ical)
+    assert parsed == {
+        'CALSCALE': 'GREGORIAN',
+        'METHOD': 'PUBLISH',
+        'PRODID': '-//Meetup//RemoteApi//EN',
+        'VERSION': '2.0',
+        'VEVENT': {
+            'CLASS': 'PUBLIC',
+            'CREATED': '20210830T121007Z',
+            'DESCRIPTION': 'Asociace UX\n'
+                           'Monday, September 6 at 6:30 PM\n'
+                           '\n'
+                           'Září znamená návrat školních lavic a nejinak tomu '
+                           'bude i v případě UX Monday. Opět se totiž vedle '
+                           'online streamu potkáme také v offline režimu '
+                           '(detail...\n'
+                           '\n'
+                           'https://www.meetup.com/asociace-ux/events/280440185/',
+            'DTEND;TZID=Europe/Prague': '20210906T203000',
+            'DTSTAMP': '20210904T225439Z',
+            'DTSTART;TZID=Europe/Prague': '20210906T183000',
+            'GEO': '50.08;14.43',
+            'LAST-MODIFIED': '20210830T145130Z',
+            'LOCATION': 'Svornosti 3321/2 (Svornosti 3321/2, Smíchov, '
+                        'Praha-Praha 5, Czech Republic 150 00)',
+            'STATUS': 'CONFIRMED',
+            'SUMMARY': 'UX Monday: Podpora začínajících designérů v týmu',
+            'UID': 'event_280440185@meetup.com',
+            'URL': 'https://www.meetup.com/asociace-ux/events/280440185/'
+        },
+        'VTIMEZONE': {
+            'DAYLIGHT': {
+                'DTSTART': '19700329T020000',
+                'RRULE': 'FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU',
+                'TZNAME': 'CEST',
+                'TZOFFSETFROM': '+0100',
+                'TZOFFSETTO': '+0200'
+            },
+            'STANDARD': {
+                'DTSTART': '19701025T030000',
+                'RRULE': 'FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU',
+                'TZNAME': 'CET',
+                'TZOFFSETFROM': '+0200',
+                'TZOFFSETTO': '+0100'
+            },
+            'TZID': 'Europe/Prague',
+            'TZURL': 'http://tzurl.org/zoneinfo-outlook/Europe/Prague',
+            'X-LIC-LOCATION': 'Europe/Prague'
+        },
+        'X-MS-OLK-FORCEINSPECTOROPEN': 'TRUE',
+        'X-ORIGINAL-URL': 'https://www.meetup.com/asociace-ux/events/280440185/ical/x.ics',
+        'X-WR-CALNAME': 'Events - x.ics'
+    }
+
+
+test_parse_ical()
 
 
 if __name__ == '__main__':
