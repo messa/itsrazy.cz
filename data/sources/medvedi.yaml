@@ -28,14 +28,8 @@ series:
         status: CONFIRMED
         uid: event_278701028@meetup.com
         url: https://www.meetup.com/Medv%C4%9Bdi/events/278701028/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210610T190000
-          datetime_utc: 20210610T170000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210610T200000
-          datetime_utc: 20210610T180000Z
+        dtstart: 2021-06-10 19:00:00+02:00
+        dtend: 2021-06-10 20:00:00+02:00
   - meetupcom:
       meta_description: 'Thu, Mar 4, 2021, 5:00 PM: Hola hola, Medvědárna volá!Pojďme si dát medvědí dýchánek on-line, chceme si s vámi zase povídat. Tentokrát o tom, jak se změnila podoba náboru IT kapacit a co na tom vývojá'
       og_title: Medvědárna ONLINE
@@ -59,14 +53,8 @@ series:
         status: CONFIRMED
         uid: event_276710007@meetup.com
         url: https://www.meetup.com/Medv%C4%9Bdi/events/276710007/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210304T170000
-          datetime_utc: 20210304T160000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210304T180000
-          datetime_utc: 20210304T170000Z
+        dtstart: 2021-03-04 17:00:00+01:00
+        dtend: 2021-03-04 18:00:00+01:00
   - meetupcom:
       meta_description: 'Wed, May 6, 2020, 5:00 PM: Rozhodli jsme se, že zkusíme udělat první ONLINE MedvědárnuPřenos zde: https://zoom.us/j/96688476433 (bude propojeno na FB i youtube)Big Brother v IT - měřit nebo neměřit, t'
       og_title: Online Medvědárna
@@ -90,14 +78,8 @@ series:
         status: CONFIRMED
         uid: event_270291504@meetup.com
         url: https://www.meetup.com/Medv%C4%9Bdi/events/270291504/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20200506T170000
-          datetime_utc: 20200506T150000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20200506T183000
-          datetime_utc: 20200506T163000Z
+        dtstart: 2020-05-06 17:00:00+02:00
+        dtend: 2020-05-06 18:30:00+02:00
   - meetupcom:
       meta_description: 'Wed, Mar 4, 2020, 7:00 PM: OpenAPI - dobrý přítel nejen backend vývojářeNa další medvědárnu jsme pro přednášení ukecali Vlastíka Hájka :)) Vlastík je náš dlouholetý medvědí kamarád a na medvědárny cho'
       og_title: Medvědárna
@@ -121,11 +103,5 @@ series:
         status: CONFIRMED
         uid: event_269001570@meetup.com
         url: https://www.meetup.com/Medv%C4%9Bdi/events/269001570/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20200304T190000
-          datetime_utc: 20200304T180000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20200304T203000
-          datetime_utc: 20200304T193000Z
+        dtstart: 2020-03-04 19:00:00+01:00
+        dtend: 2020-03-04 20:30:00+01:00

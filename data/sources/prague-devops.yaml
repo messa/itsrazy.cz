@@ -28,14 +28,8 @@ series:
         status: CONFIRMED
         uid: event_280234441@meetup.com
         url: https://www.meetup.com/Prague-DevOps-Meetup/events/280234441/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210908T190000
-          datetime_utc: 20210908T170000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210908T210000
-          datetime_utc: 20210908T190000Z
+        dtstart: 2021-09-08 19:00:00+02:00
+        dtend: 2021-09-08 21:00:00+02:00
   - meetupcom:
       meta_description: 'Wed, Aug 4, 2021, 7:00 PM: Hello doers,The second online devops meetup is here and we are ready to welcome all devops enthusiasts, from Prague or elsewhere.The structure of the session will be similar'
       og_title: Prague DevOps meetup online
@@ -59,11 +53,5 @@ series:
         status: CONFIRMED
         uid: event_277429169@meetup.com
         url: https://www.meetup.com/Prague-DevOps-Meetup/events/277429169/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210804T190000
-          datetime_utc: 20210804T170000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210804T203000
-          datetime_utc: 20210804T183000Z
+        dtstart: 2021-08-04 19:00:00+02:00
+        dtend: 2021-08-04 20:30:00+02:00

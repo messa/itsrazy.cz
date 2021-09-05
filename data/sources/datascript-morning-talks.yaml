@@ -28,14 +28,8 @@ series:
         status: CONFIRMED
         uid: event_280508395@meetup.com
         url: https://www.meetup.com/Morning-Talks/events/280508395/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210921T090000
-          datetime_utc: 20210921T070000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210921T100000
-          datetime_utc: 20210921T080000Z
+        dtstart: 2021-09-21 09:00:00+02:00
+        dtend: 2021-09-21 10:00:00+02:00
   - meetupcom:
       meta_description: 'Wed, Sep 22, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/event-modeling-a-event-driven-architecture-v-praxi/Na co se můžete těšit:V rychlém a neustále se měnícím prostředí m'
       og_title: Event Modeling a Event-Driven Architecture v praxi
@@ -59,14 +53,8 @@ series:
         status: CONFIRMED
         uid: event_280508421@meetup.com
         url: https://www.meetup.com/Morning-Talks/events/280508421/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210922T090000
-          datetime_utc: 20210922T070000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210922T100000
-          datetime_utc: 20210922T080000Z
+        dtstart: 2021-09-22 09:00:00+02:00
+        dtend: 2021-09-22 10:00:00+02:00
   - meetupcom:
       meta_description: 'Wed, Sep 29, 2021, 9:00 AM: REGISTRACE ZDE:https://www.datascript.cz/morning-talks/it-bezpecnost-v-cloudu/Na co se můžete těšit:S rozšířením cloudového světa je potřeba adekvátně reagovat i v oblasti '
       og_title: IT bezpečnost v cloudu
@@ -90,14 +78,8 @@ series:
         status: CONFIRMED
         uid: event_280508445@meetup.com
         url: https://www.meetup.com/Morning-Talks/events/280508445/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210929T090000
-          datetime_utc: 20210929T070000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210929T100000
-          datetime_utc: 20210929T080000Z
+        dtstart: 2021-09-29 09:00:00+02:00
+        dtend: 2021-09-29 10:00:00+02:00
   - meetupcom:
       meta_description: 'Wed, Oct 6, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/service-meshes-and-istio/What you can look forward to:With more and more applications currently being deployed as mic'
       og_title: Service Meshes and Istio
@@ -120,14 +102,8 @@ series:
         status: CONFIRMED
         uid: event_280508464@meetup.com
         url: https://www.meetup.com/Morning-Talks/events/280508464/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20211006T090000
-          datetime_utc: 20211006T070000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20211006T100000
-          datetime_utc: 20211006T080000Z
+        dtstart: 2021-10-06 09:00:00+02:00
+        dtend: 2021-10-06 10:00:00+02:00
   - meetupcom:
       meta_description: 'Wed, Jun 23, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/interaktivni-analyza-dat-s-apache-spark/Na co se můžete těšit:Apache Spark je distribuovaný výpočetní systém, který '
       og_title: INTERAKTIVNÍ ANALÝZA DAT S APACHE SPARK
@@ -150,11 +126,5 @@ series:
         status: CONFIRMED
         uid: event_277807380@meetup.com
         url: https://www.meetup.com/Morning-Talks/events/277807380/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210623T090000
-          datetime_utc: 20210623T070000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210623T110000
-          datetime_utc: 20210623T090000Z
+        dtstart: 2021-06-23 09:00:00+02:00
+        dtend: 2021-06-23 11:00:00+02:00

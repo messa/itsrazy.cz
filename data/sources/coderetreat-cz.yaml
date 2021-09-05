@@ -28,14 +28,8 @@ series:
         status: CONFIRMED
         uid: event_273897052@meetup.com
         url: https://www.meetup.com/CodeRetreat-CZ/events/273897052/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20201107T090000
-          datetime_utc: 20201107T080000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20201107T160000
-          datetime_utc: 20201107T150000Z
+        dtstart: 2020-11-07 09:00:00+01:00
+        dtend: 2020-11-07 16:00:00+01:00
   - meetupcom:
       meta_description: 'Sat, Nov 16, 2019, 9:00 AM: Zveme vás na jednodenní intenzivní cvičení zaměřené na základy vývoje software zvané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu, psaní testů a spolupráci v pá'
       og_title: Global Day of CodeRetreat 2019 - Praha
@@ -59,14 +53,8 @@ series:
         status: CONFIRMED
         uid: event_265154359@meetup.com
         url: https://www.meetup.com/CodeRetreat-CZ/events/265154359/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20191116T090000
-          datetime_utc: 20191116T080000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20191116T180000
-          datetime_utc: 20191116T170000Z
+        dtstart: 2019-11-16 09:00:00+01:00
+        dtend: 2019-11-16 18:00:00+01:00
   - meetupcom:
       meta_description: 'Sat, Nov 16, 2019, 9:00 AM: Zveme vás na jednodenní intenzivní cvičení zaměřené na základy vývoje software zvané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu, psaní testů a spolupráci v pá'
       og_title: Global Day of Coderetreat 2019 - Olomouc
@@ -90,14 +78,8 @@ series:
         status: CONFIRMED
         uid: event_265313497@meetup.com
         url: https://www.meetup.com/CodeRetreat-CZ/events/265313497/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20191116T090000
-          datetime_utc: 20191116T080000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20191116T180000
-          datetime_utc: 20191116T170000Z
+        dtstart: 2019-11-16 09:00:00+01:00
+        dtend: 2019-11-16 18:00:00+01:00
   - meetupcom:
       meta_description: 'Sat, Nov 17, 2018, 9:00 AM: Zveme vás na jednodenní intenzivní cvičení zaměřené na základy vývoje software zvané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu, psaní testů a spolupráci v pá'
       og_title: Global Day of CodeRetreat 2018 - Praha
@@ -121,11 +103,5 @@ series:
         status: CONFIRMED
         uid: event_255966983@meetup.com
         url: https://www.meetup.com/CodeRetreat-CZ/events/255966983/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20181117T090000
-          datetime_utc: 20181117T080000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20181117T180000
-          datetime_utc: 20181117T170000Z
+        dtstart: 2018-11-17 09:00:00+01:00
+        dtend: 2018-11-17 18:00:00+01:00

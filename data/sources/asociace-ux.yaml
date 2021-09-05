@@ -29,14 +29,8 @@ series:
         status: CONFIRMED
         uid: event_280440185@meetup.com
         url: https://www.meetup.com/asociace-ux/events/280440185/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210906T183000
-          datetime_utc: 20210906T163000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210906T203000
-          datetime_utc: 20210906T183000Z
+        dtstart: 2021-09-06 18:30:00+02:00
+        dtend: 2021-09-06 20:30:00+02:00
   - meetupcom:
       meta_description: 'Thu, Aug 5, 2021, 6:00 PM: UPDATE: The weather is not nice, so we''re going to Sad Man''s Tongue Bar & Bistro at Konviktska 7!If you have something you want to talk about or show the group (something yo'
       og_title: PRAGUE UX WRITERS MEETUP Vol. 21 - August
@@ -60,11 +54,5 @@ series:
         status: CONFIRMED
         uid: event_279577242@meetup.com
         url: https://www.meetup.com/asociace-ux/events/279577242/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210805T180000
-          datetime_utc: 20210805T160000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210805T200000
-          datetime_utc: 20210805T180000Z
+        dtstart: 2021-08-05 18:00:00+02:00
+        dtend: 2021-08-05 20:00:00+02:00

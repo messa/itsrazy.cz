@@ -28,14 +28,8 @@ series:
         status: CONFIRMED
         uid: event_278824052@meetup.com
         url: https://www.meetup.com/Prague-Machine-Learning/events/278824052/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210624T190000
-          datetime_utc: 20210624T170000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210624T210000
-          datetime_utc: 20210624T190000Z
+        dtstart: 2021-06-24 19:00:00+02:00
+        dtend: 2021-06-24 21:00:00+02:00
   - meetupcom:
       meta_description: 'Mon, Jun 7, 2021, 7:30 PM: We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the opening lecture of a discus'
       og_title: 'D<AI>DALOS – From Automation to Intelligence: The Long History of AI'
@@ -58,14 +52,8 @@ series:
         status: CONFIRMED
         uid: event_278523643@meetup.com
         url: https://www.meetup.com/Prague-Machine-Learning/events/278523643/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210607T193000
-          datetime_utc: 20210607T173000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210607T213000
-          datetime_utc: 20210607T193000Z
+        dtstart: 2021-06-07 19:30:00+02:00
+        dtend: 2021-06-07 21:30:00+02:00
   - meetupcom:
       meta_description: 'Wed, May 26, 2021, 6:00 PM: The talks will be live on YouTube.Multiple speakers will shows us how they different technologies to successfully implement MLOps with variety of organizations and they wil'
       og_title: 'MLMU Online #15: Key factors of successful MLOps'
@@ -89,14 +77,8 @@ series:
         status: CONFIRMED
         uid: event_278273820@meetup.com
         url: https://www.meetup.com/Prague-Machine-Learning/events/278273820/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210526T180000
-          datetime_utc: 20210526T160000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210526T200000
-          datetime_utc: 20210526T180000Z
+        dtstart: 2021-05-26 18:00:00+02:00
+        dtend: 2021-05-26 20:00:00+02:00
   - meetupcom:
       meta_description: 'Wed, Apr 21, 2021, 6:00 PM: Online event - streamed on YouTube.Talk: MATS stack for machine learningAbstract: At Avast we complete over 17 million phishing detections a day, providing crucial online p'
       og_title: 'Online MLMU #14: MLOps: Building feature stores and ML production pipelines'
@@ -120,11 +102,5 @@ series:
         status: CONFIRMED
         uid: event_277464280@meetup.com
         url: https://www.meetup.com/Prague-Machine-Learning/events/277464280/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210421T180000
-          datetime_utc: 20210421T160000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210421T200000
-          datetime_utc: 20210421T180000Z
+        dtstart: 2021-04-21 18:00:00+02:00
+        dtend: 2021-04-21 20:00:00+02:00

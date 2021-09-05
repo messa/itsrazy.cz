@@ -27,14 +27,8 @@ series:
         status: CONFIRMED
         uid: event_277852111@meetup.com
         url: https://www.meetup.com/vuejs-cz-sk/events/277852111/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210623T180000
-          datetime_utc: 20210623T160000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210623T193000
-          datetime_utc: 20210623T173000Z
+        dtstart: 2021-06-23 18:00:00+02:00
+        dtend: 2021-06-23 19:30:00+02:00
   - meetupcom:
       meta_description: 'Wed, Jul 29, 2020, 6:30 PM: Po karanténě se potkáme znova naživo nad zajímavými tématy z Vue.js vesmíru.Jako vždy, nebude chybět pivo, pizza a skvělá atmosféra našeho brněnského Vue.js kolektivu 😊Pro'
       og_title: 'Vue.js Meetup Brno #4'
@@ -58,14 +52,8 @@ series:
         status: CONFIRMED
         uid: event_271623946@meetup.com
         url: https://www.meetup.com/vuejs-cz-sk/events/271623946/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20200729T183000
-          datetime_utc: 20200729T163000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20200729T203000
-          datetime_utc: 20200729T183000Z
+        dtstart: 2020-07-29 18:30:00+02:00
+        dtend: 2020-07-29 20:30:00+02:00
   - meetupcom:
       meta_description: 'Mon, Mar 2, 2020, 6:30 PM: Na druhém meetupu jsme se koukli na Typescript ve Vue, Vue CLI a novinky ve Vue3.Na třetím meetupu kromě jiného s Vue3 pokračujeme. A připájíme i téma, které jste si sami od'
       og_title: 'Vue.js Meetup Brno #3'
@@ -89,14 +77,8 @@ series:
         status: CONFIRMED
         uid: event_268655132@meetup.com
         url: https://www.meetup.com/vuejs-cz-sk/events/268655132/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20200302T183000
-          datetime_utc: 20200302T173000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20200302T203000
-          datetime_utc: 20200302T193000Z
+        dtstart: 2020-03-02 18:30:00+01:00
+        dtend: 2020-03-02 20:30:00+01:00
   - meetupcom:
       meta_description: 'Wed, Jan 22, 2020, 6:30 PM: Tento event je pouze informativní!Nezapomeňte se registrovat na https://www.eventbrite.com/e/vueprague-2020-meetup-tickets-87456888909'
       og_title: VuePRAGUE 2020 Meetup
@@ -120,11 +102,5 @@ series:
         status: CONFIRMED
         uid: event_267453445@meetup.com
         url: https://www.meetup.com/vuejs-cz-sk/events/267453445/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20200122T183000
-          datetime_utc: 20200122T173000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20200122T210000
-          datetime_utc: 20200122T200000Z
+        dtstart: 2020-01-22 18:30:00+01:00
+        dtend: 2020-01-22 21:00:00+01:00

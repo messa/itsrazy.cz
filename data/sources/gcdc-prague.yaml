@@ -28,14 +28,8 @@ series:
         status: CONFIRMED
         uid: event_276944440@meetup.com
         url: https://www.meetup.com/GCDC-Prague/events/276944440/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210519T183000
-          datetime_utc: 20210519T163000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210519T200000
-          datetime_utc: 20210519T180000Z
+        dtstart: 2021-05-19 18:30:00+02:00
+        dtend: 2021-05-19 20:00:00+02:00
   - meetupcom:
       meta_description: 'Wed, Mar 3, 2021, 6:30 PM: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o K8s]Proč?======Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme příležitost k setkávání'
       og_title: Cloud Talks vol.6 {Kubernetes}
@@ -59,14 +53,8 @@ series:
         status: CONFIRMED
         uid: event_274666372@meetup.com
         url: https://www.meetup.com/GCDC-Prague/events/274666372/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210303T183000
-          datetime_utc: 20210303T173000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210303T200000
-          datetime_utc: 20210303T190000Z
+        dtstart: 2021-03-03 18:30:00+01:00
+        dtend: 2021-03-03 20:00:00+01:00
   - meetupcom:
       meta_description: 'Wed, Nov 11, 2020, 6:30 PM: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o Serverless Computing]Proč?======Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme příle'
       og_title: Cloud Talks vol.5 {Serverless Computing}
@@ -90,14 +78,8 @@ series:
         status: CONFIRMED
         uid: event_273622225@meetup.com
         url: https://www.meetup.com/GCDC-Prague/events/273622225/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20201111T183000
-          datetime_utc: 20201111T173000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20201111T200000
-          datetime_utc: 20201111T190000Z
+        dtstart: 2020-11-11 18:30:00+01:00
+        dtend: 2020-11-11 20:00:00+01:00
   - meetupcom:
       meta_description: 'Wed, Oct 7, 2020, 6:30 PM: [Pojďme se potkat online a nasdílet zkušenosti o práci s daty]Proč?======Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme příležitost k setkávání nad tém'
       og_title: Cloud Talks vol.4 {Data}
@@ -121,11 +103,5 @@ series:
         status: CONFIRMED
         uid: event_272110257@meetup.com
         url: https://www.meetup.com/GCDC-Prague/events/272110257/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20201007T183000
-          datetime_utc: 20201007T163000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20201007T200000
-          datetime_utc: 20201007T180000Z
+        dtstart: 2020-10-07 18:30:00+02:00
+        dtend: 2020-10-07 20:00:00+02:00

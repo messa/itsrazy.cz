@@ -28,14 +28,8 @@ series:
         status: CONFIRMED
         uid: event_278042296@meetup.com
         url: https://www.meetup.com/Cloud-Native-Prague/events/278042296/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210518T180000
-          datetime_utc: 20210518T160000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210518T200000
-          datetime_utc: 20210518T180000Z
+        dtstart: 2021-05-18 18:00:00+02:00
+        dtend: 2021-05-18 20:00:00+02:00
   - meetupcom:
       meta_description: 'Tue, Mar 2, 2021, 6:00 PM: Hey Cloud-natives,we are happy to announce another meetup with amazing talks. We will meet online, so there is no reason to change because of the stain on your old and belov'
       og_title: 'Cloud Native Prague Meetup #15'
@@ -59,14 +53,8 @@ series:
         status: CONFIRMED
         uid: event_276422404@meetup.com
         url: https://www.meetup.com/Cloud-Native-Prague/events/276422404/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210302T180000
-          datetime_utc: 20210302T170000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210302T193000
-          datetime_utc: 20210302T183000Z
+        dtstart: 2021-03-02 18:00:00+01:00
+        dtend: 2021-03-02 19:30:00+01:00
   - meetupcom:
       meta_description: 'Thu, Jan 28, 2021, 6:00 PM: Hi Cloud-natives,we hope you are safe and sound because winter is coming. We managed to prepare some exciting agenda for another online meetup - believe us or not - number '
       og_title: 'Cloud Native Prague Meetup #14'
@@ -90,14 +78,8 @@ series:
         status: CONFIRMED
         uid: event_275827515@meetup.com
         url: https://www.meetup.com/Cloud-Native-Prague/events/275827515/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210128T180000
-          datetime_utc: 20210128T170000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210128T193000
-          datetime_utc: 20210128T183000Z
+        dtstart: 2021-01-28 18:00:00+01:00
+        dtend: 2021-01-28 19:30:00+01:00
   - meetupcom:
       meta_description: 'Tue, Nov 24, 2020, 6:00 PM: Hey Cloud-natives,it seems like online meetups are our "new normal". Don''t be sad and come join us from your home, we will share experiences and discuss successes and f**k-'
       og_title: 'Cloud Native Prague Meetup #13'
@@ -121,11 +103,5 @@ series:
         status: CONFIRMED
         uid: event_274535019@meetup.com
         url: https://www.meetup.com/Cloud-Native-Prague/events/274535019/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20201124T180000
-          datetime_utc: 20201124T170000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20201124T203000
-          datetime_utc: 20201124T193000Z
+        dtstart: 2020-11-24 18:00:00+01:00
+        dtend: 2020-11-24 20:30:00+01:00

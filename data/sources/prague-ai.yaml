@@ -29,14 +29,8 @@ series:
         status: CONFIRMED
         uid: event_280505740@meetup.com
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280505740/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210914T110000
-          datetime_utc: 20210914T090000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210914T120000
-          datetime_utc: 20210914T100000Z
+        dtstart: 2021-09-14 11:00:00+02:00
+        dtend: 2021-09-14 12:00:00+02:00
   - meetupcom:
       meta_description: 'Thu, Aug 12, 2021, 11:15 PM: Register here for this talk: https://www.h2o.ai/ai-digital-transformation-for-hcos-strategies-best-practices-for-success/?utm_medium=Organic-Social&utm_source=meetup&utm_c'
       og_title: AI & Digital Transformation for Healthcare Organizations
@@ -60,11 +54,5 @@ series:
         status: CONFIRMED
         uid: event_279765728@meetup.com
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/279765728/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210812T231500
-          datetime_utc: 20210812T211500Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210812T233500
-          datetime_utc: 20210812T213500Z
+        dtstart: 2021-08-12 23:15:00+02:00
+        dtend: 2021-08-12 23:35:00+02:00

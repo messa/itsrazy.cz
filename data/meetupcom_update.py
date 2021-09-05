@@ -151,12 +151,7 @@ def parse_ical_datetime(event, key):
             tzname, = m.groups()
             dt = datetime.strptime(v, '%Y%m%dT%H%M%S')
             dt = pytz.timezone(tzname).localize(dt)
-            dt_utc = pytz.utc.normalize(dt)
-            return {
-                'timezone': tzname,
-                'datetime': v,
-                'datetime_utc': dt_utc.strftime('%Y%m%dT%H%M%SZ'),
-            }
+            return dt
     raise Exception(f'Could not find {key}')
 
 

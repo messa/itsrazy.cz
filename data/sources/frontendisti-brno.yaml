@@ -28,14 +28,8 @@ series:
         status: CONFIRMED
         uid: event_280481673@meetup.com
         url: https://www.meetup.com/frontendisti-brno/events/280481673/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210909T180000
-          datetime_utc: 20210909T160000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210909T200000
-          datetime_utc: 20210909T180000Z
+        dtstart: 2021-09-09 18:00:00+02:00
+        dtend: 2021-09-09 20:00:00+02:00
   - meetupcom:
       meta_description: 'Sat, May 29, 2021, 10:00 AM: Vstupenky na webu https://frontendisti.cz/konference---Těšit se můžete na tyto přednášky:JAN BIENTailwind CSS – framework, který zvládne každý grafický návrh?BOREK BERNARD'
       og_title: '{Front Konference} - Historicky první česká frontendová konference'
@@ -59,11 +53,5 @@ series:
         status: CONFIRMED
         uid: event_278005773@meetup.com
         url: https://www.meetup.com/frontendisti-brno/events/278005773/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210529T100000
-          datetime_utc: 20210529T080000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210529T170000
-          datetime_utc: 20210529T150000Z
+        dtstart: 2021-05-29 10:00:00+02:00
+        dtend: 2021-05-29 17:00:00+02:00

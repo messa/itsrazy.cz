@@ -28,14 +28,8 @@ series:
         status: CONFIRMED
         uid: event_280378855@meetup.com
         url: https://www.meetup.com/ProfessionalTesting/events/280378855/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210828T200000
-          datetime_utc: 20210828T180000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210828T230000
-          datetime_utc: 20210828T210000Z
+        dtstart: 2021-08-28 20:00:00+02:00
+        dtend: 2021-08-28 23:00:00+02:00
   - meetupcom:
       meta_description: 'Fri, May 21, 2021, 1:00 PM: Fedor je dnes DevOps Architekt ve Slovenské spořitelně a tvoří platformy, které umožňují automatizovat build-deploy-test a provozovat microservices. Svou kariéru začal jako'
       og_title: 'Fedor Pavkovček: Performance testing je tak trochu alchymie'
@@ -59,14 +53,8 @@ series:
         status: CONFIRMED
         uid: event_278273942@meetup.com
         url: https://www.meetup.com/ProfessionalTesting/events/278273942/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210521T130000
-          datetime_utc: 20210521T110000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210521T150000
-          datetime_utc: 20210521T130000Z
+        dtstart: 2021-05-21 13:00:00+02:00
+        dtend: 2021-05-21 15:00:00+02:00
   - meetupcom:
       meta_description: 'Thu, May 20, 2021, 1:00 PM: Nový spolumoderátor a nový formát, přijďte na premiéru :)===========Nastavit odběr a připomenutíhttp://bit.ly/teststacksubDISCORD: https://bit.ly/tt-discordPATREON: https:/'
       og_title: Bugy, fixy, hotfixy
@@ -90,14 +78,8 @@ series:
         status: CONFIRMED
         uid: event_278296129@meetup.com
         url: https://www.meetup.com/ProfessionalTesting/events/278296129/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210520T130000
-          datetime_utc: 20210520T110000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210520T150000
-          datetime_utc: 20210520T130000Z
+        dtstart: 2021-05-20 13:00:00+02:00
+        dtend: 2021-05-20 15:00:00+02:00
   - meetupcom:
       meta_description: 'Tue, Apr 27, 2021, 6:00 PM: Přednáška a diskuze na téma Testovací frameworky.Testovací frameworky jsou v dnešní zásadním základem automatizace každého vývojového týmu. Problém, je že si pod tímto pojm'
       og_title: 'online: QA Brno - Testovací frameworky'
@@ -121,11 +103,5 @@ series:
         status: CONFIRMED
         uid: event_277416092@meetup.com
         url: https://www.meetup.com/ProfessionalTesting/events/277416092/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210427T180000
-          datetime_utc: 20210427T160000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210427T200000
-          datetime_utc: 20210427T180000Z
+        dtstart: 2021-04-27 18:00:00+02:00
+        dtend: 2021-04-27 20:00:00+02:00

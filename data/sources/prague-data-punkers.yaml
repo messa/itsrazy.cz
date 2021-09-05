@@ -28,14 +28,8 @@ series:
         status: CONFIRMED
         uid: event_278702629@meetup.com
         url: https://www.meetup.com/data-punkers/events/278702629/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210625T090000
-          datetime_utc: 20210625T070000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210625T190000
-          datetime_utc: 20210625T170000Z
+        dtstart: 2021-06-25 09:00:00+02:00
+        dtend: 2021-06-25 19:00:00+02:00
   - meetupcom:
       meta_description: 'Tue, Feb 18, 2020, 6:00 PM: Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu.Chceme vytvořit komunitu datařů, se kterou se budeme pravideln'
       og_title: Jakub Šulta - od miliardového eshopu k prodeji ojetých aut, Tableau, KBC & Apify
@@ -59,14 +53,8 @@ series:
         status: CONFIRMED
         uid: event_268054864@meetup.com
         url: https://www.meetup.com/data-punkers/events/268054864/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20200218T180000
-          datetime_utc: 20200218T170000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20200218T220000
-          datetime_utc: 20200218T210000Z
+        dtstart: 2020-02-18 18:00:00+01:00
+        dtend: 2020-02-18 22:00:00+01:00
   - meetupcom:
       meta_description: 'Thu, Oct 31, 2019, 6:00 PM: Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu.Chceme vytvořit komunitu datařů, se kterou se budeme pravideln'
       og_title: 'Data Punkers Meetup vol 1: Snowflake'
@@ -90,11 +78,5 @@ series:
         status: CONFIRMED
         uid: event_265556324@meetup.com
         url: https://www.meetup.com/data-punkers/events/265556324/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20191031T180000
-          datetime_utc: 20191031T170000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20191031T220000
-          datetime_utc: 20191031T210000Z
+        dtstart: 2019-10-31 18:00:00+01:00
+        dtend: 2019-10-31 22:00:00+01:00

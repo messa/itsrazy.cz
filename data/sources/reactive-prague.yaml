@@ -28,14 +28,8 @@ series:
         status: CONFIRMED
         uid: event_276503080@meetup.com
         url: https://www.meetup.com/ReactiveMeetupsPrague/events/276503080/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210302T190000
-          datetime_utc: 20210302T180000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210302T203000
-          datetime_utc: 20210302T193000Z
+        dtstart: 2021-03-02 19:00:00+01:00
+        dtend: 2021-03-02 20:30:00+01:00
   - meetupcom:
       meta_description: 'Tue, Dec 1, 2020, 7:00 PM: WHAT CAN YOU LOOK FORWARD TO:𝗠𝗜𝗟𝗢𝗦 𝗕𝗥𝗢𝗨𝗟𝗜𝗞Barclays#metatalk (10min)𝗧𝗔𝗟𝗞Coding is fun𝗧𝗔𝗟𝗞 𝗔𝗕𝗦𝗧𝗥𝗔𝗖𝗧Introduction to Barclays Prague Technology Cente'
       og_title: Reactive Online Meetup|Painless App Coding with GraphQL
@@ -59,14 +53,8 @@ series:
         status: CONFIRMED
         uid: event_274690980@meetup.com
         url: https://www.meetup.com/ReactiveMeetupsPrague/events/274690980/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20201201T190000
-          datetime_utc: 20201201T180000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20201201T203000
-          datetime_utc: 20201201T193000Z
+        dtstart: 2020-12-01 19:00:00+01:00
+        dtend: 2020-12-01 20:30:00+01:00
   - meetupcom:
       meta_description: 'Tue, Nov 10, 2020, 7:00 PM: Link to connect👉 https://bit.ly/join_the_webinar_here𝗔𝗟𝗘𝗫𝗔𝗡𝗗𝗘𝗥 𝗦𝗠𝗜𝗥𝗡𝗢𝗩Mews Developers#metatalk𝗧𝗔𝗟𝗞Running custom neural networks in a browser𝗧𝗔𝗟𝗞 �'
       og_title: Reactive Online Meetup|How to Design Complex Async Apps
@@ -90,14 +78,8 @@ series:
         status: CONFIRMED
         uid: event_274261647@meetup.com
         url: https://www.meetup.com/ReactiveMeetupsPrague/events/274261647/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20201110T190000
-          datetime_utc: 20201110T180000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20201110T203000
-          datetime_utc: 20201110T193000Z
+        dtstart: 2020-11-10 19:00:00+01:00
+        dtend: 2020-11-10 20:30:00+01:00
   - meetupcom:
       meta_description: 'Tue, Sep 15, 2020, 7:00 PM: Let''s explore the topic of GraphQL this time!Please connect for another exciting Reactive Online Meetup 𝗻𝗲𝘅𝘁 𝗧𝘂𝗲𝘀𝗱𝗮𝘆, 𝗦𝗘𝗣𝗧𝗘𝗠𝗕𝗘𝗥 𝟭𝟱, 𝗮𝘁 𝟳 𝗽𝗺 𝗖𝗘�'
       og_title: '#9 Reactive Online Meetups|GraphQL experience'
@@ -120,11 +102,5 @@ series:
         status: CONFIRMED
         uid: event_273005403@meetup.com
         url: https://www.meetup.com/ReactiveMeetupsPrague/events/273005403/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20200915T190000
-          datetime_utc: 20200915T170000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20200915T203000
-          datetime_utc: 20200915T183000Z
+        dtstart: 2020-09-15 19:00:00+02:00
+        dtend: 2020-09-15 20:30:00+02:00
