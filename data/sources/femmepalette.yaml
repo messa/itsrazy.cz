@@ -1,0 +1,10 @@
+series:
+  id: femmepalette
+  events:
+  - id: 202109-meetup
+    url: https://www.eventbrite.co.uk/e/femme-palette-community-meet-up-tickets-168928974109
+    date: 2021-09-15
+    title: Femme Palette community meet up
+    venue:
+      name: NÁRODNÍ 38
+      address: Praha

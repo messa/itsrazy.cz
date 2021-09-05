@@ -1,0 +1,11 @@
+series:
+  id: strv-prague
+  events:
+  - id: 202109-strv-android-meetup
+    url: https://www.eventbrite.com/e/android-meetup-prg-tickets-165141916919
+    title: Android Meetup PRG
+    date: 2021-09-23
+    venue:
+      name: STRV
+      address: Rohanské nábřeží 23 (7th floor), 186 00 Prague
+      

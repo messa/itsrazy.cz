@@ -1,0 +1,18 @@
+series:
+  id: productboard-prague
+  events:
+  - id: 202109-productboard-frontend
+    url: https://www.eventbrite.com/e/frontend-meetup-prg-tickets-168004115833
+    title: Frontend Meetup PRG
+    date: 2021-09-15
+    venue:
+      name: Productboard
+      address: Boudníkova 2506/3, 180 00 Praha 8    
+  - id: 202109-productboard-backend
+    url: https://www.eventbrite.com/e/backend-meetup-prg-tickets-169474389461
+    title: Backend Meetup PRG
+    date: 2021-09-29
+    venue:
+      name: Productboard
+      address: Boudníkova 2506/3, 180 00 Praha 8
+      
