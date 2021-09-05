@@ -1,18 +1,58 @@
 series:
   id: productboard-prague
+  meetupcom:
+    url: https://www.meetup.com/productboard-meetups/
+    meta_description: '👋 Welcome! Join our unique space where all Product Makers can come together, learn from each other, support each other, and advocate for Product Excellence.🚀 We are a community of product managers, '
+    og_title: Productboard Meetups (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/6/d/a/5/600_498268069.jpeg
   events:
-  - id: 202109-productboard-frontend
-    url: https://www.eventbrite.com/e/frontend-meetup-prg-tickets-168004115833
-    title: Frontend Meetup PRG
-    date: 2021-09-15
-    venue:
-      name: Productboard
-      address: Boudníkova 2506/3, 180 00 Praha 8    
-  - id: 202109-productboard-backend
-    url: https://www.eventbrite.com/e/backend-meetup-prg-tickets-169474389461
-    title: Backend Meetup PRG
-    date: 2021-09-29
-    venue:
-      name: Productboard
-      address: Boudníkova 2506/3, 180 00 Praha 8
-      
+  - meetupcom:
+      meta_description: 'Wed, Sep 15, 2021, 6:00 PM: Productboard Meetups are back! And they will be better than ever!During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Ye'
+      og_title: Frontend Meetup PRG
+      image: https://secure.meetupstatic.com/photos/event/a/f/0/3/600_498344803.jpeg
+      url: https://www.meetup.com/productboard-meetups/events/280288916/
+      ical:
+        summary: Frontend Meetup PRG
+        description: 'Productboard Meetups
+
+          Wednesday, September 15 at 6:00 PM
+
+
+          Productboard Meetups are back! And they will be better than ever!During the pandemic, we moved into new offices, which have already been named Best St...
+
+
+          https://www.meetup.com/productboard-meetups/events/280288916/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280288916@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/280288916/
+        dtstart: 2021-09-15 18:00:00+02:00
+        dtend: 2021-09-15 22:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Sep 29, 2021, 6:00 PM: Productboard Backend Meetups are back! And they will be better than ever! During the pandemic, we moved into new offices, which have already been named Best Startup Office '
+      og_title: Backend Meetup PRG
+      image: https://secure.meetupstatic.com/photos/event/5/7/6/a/600_498562378.jpeg
+      url: https://www.meetup.com/productboard-meetups/events/280510069/
+      ical:
+        summary: Backend Meetup PRG
+        description: 'Productboard Meetups
+
+          Wednesday, September 29 at 6:00 PM
+
+
+          Productboard Backend Meetups are back! And they will be better than ever! During the pandemic, we moved into new offices, which have already been name...
+
+
+          https://www.meetup.com/productboard-meetups/events/280510069/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280510069@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/280510069/
+        dtstart: 2021-09-29 18:00:00+02:00
+        dtend: 2021-09-29 22:00:00+02:00
