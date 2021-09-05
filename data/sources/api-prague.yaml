@@ -1,0 +1,32 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/api-prague/
+    meta_description: 'We want to talk about everything around APIs, integrations, autonomous integrations, open source projects, coding languages, and have fun!If you are interested in sharing experiences about open APIs, '
+    og_title: 'API Prague: The people and tech behind open APIs (Prague, Czech Republic)'
+    image: https://secure.meetupstatic.com/photos/event/9/7/2/d/600_498578701.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Thu, Sep 16, 2021, 6:00 PM: ⚠️ Register via Eventbrite to get the ticket: https://www.eventbrite.com/e/superface-demo-day-self-integrating-applications-in-nodejs-tickets-169443392749Join us in celebra'
+      og_title: 'Superface Demo Day: Self-integrating applications in Node.js'
+      image: https://secure.meetupstatic.com/photos/event/9/7/4/6/600_498578726.jpeg
+      url: https://www.meetup.com/api-prague/events/280531427/
+      ical:
+        summary: 'Superface Demo Day: Self-integrating applications in Node.js'
+        description: 'API Prague: The people and tech behind open APIs
+
+          Thursday, September 16 at 6:00 PM
+
+
+          ⚠️ Register via Eventbrite to get the ticket:...
+
+
+          https://www.meetup.com/api-prague/events/280531427/'
+        location: Paralelní Polis (Dělnická 475, Praha 7-Holešovice, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280531427@meetup.com
+        url: https://www.meetup.com/api-prague/events/280531427/
+        dtstart: 2021-09-16 18:00:00+02:00
+        dtend: 2021-09-16 21:00:00+02:00

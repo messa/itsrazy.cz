@@ -4,4 +4,129 @@ series:
     meta_description: GDG (Google Developer Groups) Prague organizes public events for developers in Prague. GDG Prague is part of the non-profit organization GUG.cz.We have moved our activities to Meetup very recently, so
     og_title: GDG Prague (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
-  events: []
+  events:
+  - meetupcom:
+      meta_description: 'Mon, Sep 13, 2021, 6:30 PM: • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/'
+      og_title: GDG Garage Prague One, Mon, Sep 13, 2021, 6:30 PM
+      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      url: https://www.meetup.com/GDGPrague/events/drxpmsyccmbrb/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Monday, September 13 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/drxpmsyccmbrb/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_drxpmsyccmbrb@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/drxpmsyccmbrb/
+        dtstart: 2021-09-13 18:30:00+02:00
+        dtend: 2021-09-13 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Sep 27, 2021, 6:30 PM: • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/'
+      og_title: GDG Garage Prague One, Mon, Sep 27, 2021, 6:30 PM
+      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      url: https://www.meetup.com/GDGPrague/events/drxpmsyccmbkc/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Monday, September 27 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/drxpmsyccmbkc/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_drxpmsyccmbkc@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/drxpmsyccmbkc/
+        dtstart: 2021-09-27 18:30:00+02:00
+        dtend: 2021-09-27 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Oct 11, 2021, 6:30 PM: • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/'
+      og_title: GDG Garage Prague One, Mon, Oct 11, 2021, 6:30 PM
+      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      url: https://www.meetup.com/GDGPrague/events/drxpmsyccnbpb/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Monday, October 11 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/drxpmsyccnbpb/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_drxpmsyccnbpb@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/drxpmsyccnbpb/
+        dtstart: 2021-10-11 18:30:00+02:00
+        dtend: 2021-10-11 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Oct 25, 2021, 6:30 PM: • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/'
+      og_title: GDG Garage Prague One, Mon, Oct 25, 2021, 6:30 PM
+      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      url: https://www.meetup.com/GDGPrague/events/drxpmsyccnbhc/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Monday, October 25 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/drxpmsyccnbhc/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_drxpmsyccnbhc@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/drxpmsyccnbhc/
+        dtstart: 2021-10-25 18:30:00+02:00
+        dtend: 2021-10-25 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Aug 30, 2021, 6:30 PM: • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/'
+      og_title: GDG Garage Prague One, Mon, Aug 30, 2021, 6:30 PM
+      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      url: https://www.meetup.com/GDGPrague/events/drxpmsycclbnc/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Monday, August 30 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/280320700/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_drxpmsycclbnc@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/280320700/
+        dtstart: 2021-08-30 18:30:00+02:00
+        dtend: 2021-08-30 20:30:00+02:00

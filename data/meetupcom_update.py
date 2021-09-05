@@ -77,7 +77,7 @@ def process_source_file(source_file):
             a_href = urljoin(r.url, a.attrib['href'])
         except KeyError:
             continue
-        if f'/{urlname}/events/' in a_href and re.match(r'^https://www.meetup.com/[^/]+/events/(mbj[a-z]+|[0-9]+)/$', a_href):
+        if f'/{urlname}/events/' in a_href and re.match(r'^https://www.meetup.com/[^/]+/events/([a-z]{9,}|[0-9]+)/$', a_href):
             if a_href not in event_urls:
                 event_urls.append(a_href)
 

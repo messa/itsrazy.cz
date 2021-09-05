@@ -1,0 +1,57 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/naswp-cz/
+    meta_description: Česká WordPress komunita z portálu NášWP.cz (http://naswp.cz). Pořádáme WordCamp Praha, konference pro začátečníky i pokročilé, meetupy WP pivo a další akce.WordPress Global Community Sponsors help fu
+    og_title: NášWP WordPress komunita (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/9/f/1/4/600_487540724.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Wed, Sep 29, 2021, 6:30 PM: Protože to na fyzické WP pivo ještě nějakou dobu nevypadá, pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity.📢 Program bud'
+      og_title: 'WordPress pivo online #6'
+      image: https://secure.meetupstatic.com/photos/event/d/4/f/600_496983407.jpeg
+      url: https://www.meetup.com/naswp-cz/events/278915972/
+      ical:
+        summary: 'WordPress pivo online #6'
+        description: 'NášWP WordPress komunita
+
+          Wednesday, September 29 at 6:30 PM
+
+
+          Protože to na fyzické WP pivo ještě nějakou dobu nevypadá, pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové k...
+
+
+          https://www.meetup.com/naswp-cz/events/278915972/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278915972@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/278915972/
+        dtstart: 2021-09-29 18:30:00+02:00
+        dtend: 2021-09-29 21:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Jun 30, 2021, 6:30 PM: Pojďte si s námi naposled před létem sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity.Live stream: https://www.youtube.com/watch?v=1ab_FpQc'
+      og_title: 'WordPress pivo online #5'
+      image: https://secure.meetupstatic.com/photos/event/8/4/c/6/600_496353990.jpeg
+      url: https://www.meetup.com/naswp-cz/events/278242359/
+      ical:
+        summary: 'WordPress pivo online #5'
+        description: 'NášWP WordPress komunita
+
+          Wednesday, June 30 at 6:30 PM
+
+
+          Pojďte si s námi naposled před létem sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity. Live stream:...
+
+
+          https://www.meetup.com/naswp-cz/events/278242359/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278242359@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/278242359/
+        dtstart: 2021-06-30 18:30:00+02:00
+        dtend: 2021-06-30 21:30:00+02:00

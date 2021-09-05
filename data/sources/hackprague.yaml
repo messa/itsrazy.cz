@@ -1,0 +1,57 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/HackPrague/
+    meta_description: This group is for everyone who wants to see Technology topics from a broader and cross-disciplinary perspective. We cover various Tech topics like artificial intelligence and medicine, data science, s
+    og_title: HackPrague Hackers (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/7/8/5/2/600_486990802.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Sat, Oct 16, 2021, 8:30 AM: This year HackPrague hackathon will ”Focus on the past to anticipate the future” 😎 There is no specific theme this year, but you can expect many interesting challenges fro'
+      og_title: HackPrague 2021 hackathon
+      image: https://secure.meetupstatic.com/photos/event/b/a/8/a/600_498347754.jpeg
+      url: https://www.meetup.com/HackPrague/events/280291985/
+      ical:
+        summary: HackPrague 2021 hackathon
+        description: 'HackPrague Hackers
+
+          Saturday, October 16 at 8:30 AM
+
+
+          This year HackPrague hackathon will ”Focus on the past to anticipate the future” 😎 There is no specific theme this year, but you can expect many inter...
+
+
+          https://www.meetup.com/HackPrague/events/280291985/'
+        location: Impact Hub Praha D10 (Drtinova 557/10, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280291985@meetup.com
+        url: https://www.meetup.com/HackPrague/events/280291985/
+        dtstart: 2021-10-16 08:30:00+02:00
+        dtend: 2021-10-17 18:30:00+02:00
+  - meetupcom:
+      meta_description: 'Sat, Oct 31, 2020, 7:00 AM: Last year we were building hacks to improve the life in cities with the motto “the future is already here, it’s up to us to distribute it equally”. This year we will focus '
+      og_title: HackPrague 2020
+      image: https://secure.meetupstatic.com/photos/event/8/a/8/1/600_492455457.jpeg
+      url: https://www.meetup.com/HackPrague/events/272694585/
+      ical:
+        summary: HackPrague 2020
+        description: 'HackPrague Hackers
+
+          Saturday, October 31 at 7:00 AM
+
+
+          Last year we were building hacks to improve the life in cities with the motto “the future is already here, it’s up to us to distribute it equally”. Th...
+
+
+          https://www.meetup.com/HackPrague/events/272694585/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_272694585@meetup.com
+        url: https://www.meetup.com/HackPrague/events/272694585/
+        dtstart: 2020-10-31 07:00:00+01:00
+        dtend: 2020-11-01 19:00:00+01:00

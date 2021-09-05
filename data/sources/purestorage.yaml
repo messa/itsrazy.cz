@@ -1,0 +1,57 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/Pure-Storage-Talks/
+    meta_description: If you live in Czechia and work in the IT sector then there is a very strong chance you’ve heard about Pure Storage and our amazing new R&D centre here in Prague! We’re an Enterprise level tech firm w
+    og_title: Pure Storage Talks (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/8/d/c/e/600_492396302.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Tue, Sep 7, 2021, 6:00 PM: Pure Storage is pleased to invite you to "Tech Careers Up-Close: Ladies edition'''' on September 7th, 2021 at 18:00 CET.Why be there? Join us to hear from our panelists and th'
+      og_title: 'Tech Career Up-Close: Ladies Edition'
+      image: https://secure.meetupstatic.com/photos/event/9/5/3/5/600_498278197.jpeg
+      url: https://www.meetup.com/Pure-Storage-Talks/events/280232891/
+      ical:
+        summary: 'Tech Career Up-Close: Ladies Edition'
+        description: 'Pure Storage Talks
+
+          Tuesday, September 7 at 6:00 PM
+
+
+          Pure Storage is pleased to invite you to "Tech Careers Up-Close: Ladies edition'''' on September 7th, 2021 at 18:00 CET. Why be there? Join us to hear f...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/280232891/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280232891@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/280232891/
+        dtstart: 2021-09-07 18:00:00+02:00
+        dtend: 2021-09-07 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 10, 2021, 6:00 PM: ABOUT SPEAKER:ADAM MAZOUZ is a solution architect who just started with Pure Storage in Prague. He came from a datacenter storage engineering background working with differ'
+      og_title: Why ransomware is not a Joke, and how Pure Storage is making a difference
+      image: https://secure.meetupstatic.com/photos/event/5/0/2/e/600_496520526.jpeg
+      url: https://www.meetup.com/Pure-Storage-Talks/events/278418628/
+      ical:
+        summary: Why ransomware is not a Joke, and how Pure Storage is making a difference
+        description: 'Pure Storage Talks
+
+          Thursday, June 10 at 6:00 PM
+
+
+          ABOUT SPEAKER:ADAM MAZOUZ is a solution architect who just started with Pure Storage in Prague. He came from a datacenter storage engineering backgrou...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/278418628/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278418628@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/278418628/
+        dtstart: 2021-06-10 18:00:00+02:00
+        dtend: 2021-06-10 19:30:00+02:00

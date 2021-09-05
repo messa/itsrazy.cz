@@ -1,0 +1,132 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/czskppug/
+    meta_description: Cílem této skupiny je propojit se mezi sebou a podělit se o zkušenosti s Microsoft Power Apps, Power Automate a Power BI. Neváhejte spustit diskuzi nad tématem souvisejícím s touto oblastí. V plánu je
+    og_title: Czech and Slovak Power Platform User Group (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/5/f/0/e/600_489324334.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Thu, Sep 9, 2021, 5:00 PM: Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám to někde reálně běží, po'
+      og_title: '[ONLINE] CZSK PPUG Setkání a povídání, Thu, Sep 9, 2021, 5:00 PM'
+      image: https://secure.meetupstatic.com/photos/event/5/f/2/0/600_489324352.jpeg
+      url: https://www.meetup.com/czskppug/events/tspxdsyccmbmb/
+      ical:
+        summary: '[ONLINE] CZSK PPUG Setkání a povídání'
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, September 9 at 5:00 PM
+
+
+          Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám t...
+
+
+          https://www.meetup.com/czskppug/events/275722138/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_tspxdsyccmbmb@meetup.com
+        url: https://www.meetup.com/czskppug/events/275722138/
+        dtstart: 2021-09-09 17:00:00+02:00
+        dtend: 2021-09-09 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Oct 14, 2021, 5:00 PM: Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám to někde reálně běží, p'
+      og_title: '[ONLINE] CZSK PPUG Setkání a povídání, Thu, Oct 14, 2021, 5:00 PM'
+      image: https://secure.meetupstatic.com/photos/event/5/f/2/0/600_489324352.jpeg
+      url: https://www.meetup.com/czskppug/events/tspxdsyccnbsb/
+      ical:
+        summary: '[ONLINE] CZSK PPUG Setkání a povídání'
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, October 14 at 5:00 PM
+
+
+          Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám t...
+
+
+          https://www.meetup.com/czskppug/events/275722150/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_tspxdsyccnbsb@meetup.com
+        url: https://www.meetup.com/czskppug/events/275722150/
+        dtstart: 2021-10-14 17:00:00+02:00
+        dtend: 2021-10-14 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Nov 11, 2021, 5:00 PM: Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám to někde reálně běží, p'
+      og_title: '[ONLINE] CZSK PPUG Setkání a povídání, Thu, Nov 11, 2021, 5:00 PM'
+      image: https://secure.meetupstatic.com/photos/event/5/f/2/0/600_489324352.jpeg
+      url: https://www.meetup.com/czskppug/events/tspxdsyccpbpb/
+      ical:
+        summary: '[ONLINE] CZSK PPUG Setkání a povídání'
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, November 11 at 5:00 PM
+
+
+          Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám t...
+
+
+          https://www.meetup.com/czskppug/events/275722152/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_tspxdsyccpbpb@meetup.com
+        url: https://www.meetup.com/czskppug/events/275722152/
+        dtstart: 2021-11-11 17:00:00+01:00
+        dtend: 2021-11-11 19:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Dec 9, 2021, 5:00 PM: Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám to někde reálně běží, po'
+      og_title: '[ONLINE] CZSK PPUG Setkání a povídání, Thu, Dec 9, 2021, 5:00 PM'
+      image: https://secure.meetupstatic.com/photos/event/5/f/2/0/600_489324352.jpeg
+      url: https://www.meetup.com/czskppug/events/tspxdsyccqbmb/
+      ical:
+        summary: '[ONLINE] CZSK PPUG Setkání a povídání'
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, December 9 at 5:00 PM
+
+
+          Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám t...
+
+
+          https://www.meetup.com/czskppug/events/275722156/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_tspxdsyccqbmb@meetup.com
+        url: https://www.meetup.com/czskppug/events/275722156/
+        dtstart: 2021-12-09 17:00:00+01:00
+        dtend: 2021-12-09 19:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Aug 12, 2021, 5:00 PM: Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám to někde reálně běží, p'
+      og_title: '[ONLINE] CZSK PPUG Setkání a povídání, Thu, Aug 12, 2021, 5:00 PM'
+      image: https://secure.meetupstatic.com/photos/event/5/f/2/0/600_489324352.jpeg
+      url: https://www.meetup.com/czskppug/events/tspxdsycclbqb/
+      ical:
+        summary: '[ONLINE] CZSK PPUG Setkání a povídání'
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, August 12 at 5:00 PM
+
+
+          Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám t...
+
+
+          https://www.meetup.com/czskppug/events/275722133/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_tspxdsycclbqb@meetup.com
+        url: https://www.meetup.com/czskppug/events/275722133/
+        dtstart: 2021-08-12 17:00:00+02:00
+        dtend: 2021-08-12 19:00:00+02:00

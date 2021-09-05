@@ -1,0 +1,130 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/typedb-prague/
+    meta_description: 👋👋 Welcome to the Vaticle Community.This group gathers TypeDB Users and explorers to share valuable experiences and knowledge. You’ll find events on techniques for knowledge engineering, representat
+    og_title: TypeDB Prague Engineers (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/7/1/c/9/600_481769129.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Tue, Sep 7, 2021, 6:30 PM: Just under 10 months ago, Frank, Mark and their furiously passionate group of Julia Language community members set out to create a client driver for TypeDB, in Julia. Their '
+      og_title: A Client Interface in Julia - TypeDBClient.jl
+      image: https://secure.meetupstatic.com/photos/event/1/5/6/e/600_498365486.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280313150/
+      ical:
+        summary: A Client Interface in Julia - TypeDBClient.jl
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, September 7 at 6:30 PM
+
+
+          Just under 10 months ago, Frank, Mark and their furiously passionate group of Julia Language community members set out to create a client driver for T...
+
+
+          https://www.meetup.com/typedb-prague/events/280313150/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280313150@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280313150/
+        dtstart: 2021-09-07 18:30:00+02:00
+        dtend: 2021-09-07 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Sep 8, 2021, 6:30 PM: Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However, relational databa'
+      og_title: Beyond SQL | Comparing SQL to TypeQL
+      image: https://secure.meetupstatic.com/photos/event/2/1/c/3/600_496988643.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280293826/
+      ical:
+        summary: Beyond SQL | Comparing SQL to TypeQL
+        description: 'TypeDB Prague Engineers
+
+          Wednesday, September 8 at 6:30 PM
+
+
+          Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. How...
+
+
+          https://www.meetup.com/typedb-prague/events/280293826/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280293826@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280293826/
+        dtstart: 2021-09-08 18:30:00+02:00
+        dtend: 2021-09-08 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Sep 9, 2021, 6:30 PM: Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bodies of data on the web.'
+      og_title: Comparing Semantic Web Technologies to TypeDB
+      image: https://secure.meetupstatic.com/photos/event/c/d/6/2/600_497332578.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280293836/
+      ical:
+        summary: Comparing Semantic Web Technologies to TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Thursday, September 9 at 6:30 PM
+
+          \nSemantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bod...
+
+
+          https://www.meetup.com/typedb-prague/events/280293836/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280293836@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280293836/
+        dtstart: 2021-09-09 18:30:00+02:00
+        dtend: 2021-09-09 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Sep 14, 2021, 6:30 PM: Graph databases have matured into mainstream technologies and deliver tremendous value to organisations across any industry. They are more flexible than traditional relatio'
+      og_title: Comparing Labeled Property Graphs (Graph Databases) to TypeDB
+      image: https://secure.meetupstatic.com/photos/event/c/d/6/a/600_497332586.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280293830/
+      ical:
+        summary: Comparing Labeled Property Graphs (Graph Databases) to TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, September 14 at 6:30 PM
+
+          \nGraph databases have matured into mainstream technologies and deliver tremendous value to organisations across any industry. They are more flexible th...
+
+
+          https://www.meetup.com/typedb-prague/events/280293830/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280293830@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280293830/
+        dtstart: 2021-09-14 18:30:00+02:00
+        dtend: 2021-09-14 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Sep 1, 2021, 6:30 PM: How might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine?We''ll visit the key ideas behind actors, and then walk through how we br'
+      og_title: Reasoner Meet Actors | TypeDB's Native Reasoning Engine
+      image: https://secure.meetupstatic.com/photos/event/1/6/7/f/600_498365759.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280313709/
+      ical:
+        summary: Reasoner Meet Actors | TypeDB's Native Reasoning Engine
+        description: 'TypeDB Prague Engineers
+
+          Wednesday, September 1 at 6:30 PM
+
+
+          How might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine? We''ll visit the key ideas behind actors\, and the...
+
+
+          https://www.meetup.com/typedb-prague/events/280313709/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280313709@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280313709/
+        dtstart: 2021-09-01 18:30:00+02:00
+        dtend: 2021-09-01 19:30:00+02:00
