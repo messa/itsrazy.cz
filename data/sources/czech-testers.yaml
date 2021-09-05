@@ -10,206 +10,122 @@ series:
       og_title: Testerská Katovna
       image: https://secure.meetupstatic.com/photos/event/d/f/e/3/600_495237315.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/280378855/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/ProfessionalTesting/events/28037885
-      - ' 5/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210828T200000
-      - DTEND;TZID=Europe/Prague:20210828T230000
-      - STATUS:CONFIRMED
-      - SUMMARY:Testerská Katovna
-      - 'DESCRIPTION:CZECH TESTERS GROUP\nSaturday\, August 28 at 8:00 PM\n\nAhoj '
-      - ' testeři\,další Testerská Katovna již tuto sobotu od 20h. 🚀 Katovna prob'
-      - ' íhá na Discordu > Katovna > STAGE 🚀 Odkaz na discord audio:...\n\nhttps'
-      - ' ://www.meetup.com/ProfessionalTesting/events/280378855/'
-      - CLASS:PUBLIC
-      - CREATED:20210827T091010Z
-      - GEO:50.08;14.43
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/ProfessionalTesting/events/280378855/
-      - LAST-MODIFIED:20210828T215313Z
-      - UID:event_280378855@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: Testerská Katovna
+        description: 'CZECH TESTERS GROUP
+
+          Saturday, August 28 at 8:00 PM
+
+
+          Ahoj testeři,další Testerská Katovna již tuto sobotu od 20h. 🚀 Katovna probíhá na Discordu > Katovna > STAGE 🚀 Odkaz na discord audio:...
+
+
+          https://www.meetup.com/ProfessionalTesting/events/280378855/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280378855@meetup.com
+        url: https://www.meetup.com/ProfessionalTesting/events/280378855/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210828T200000
+          datetime_utc: 20210828T180000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210828T230000
+          datetime_utc: 20210828T210000Z
   - meetupcom:
       meta_description: 'Fri, May 21, 2021, 1:00 PM: Fedor je dnes DevOps Architekt ve Slovenské spořitelně a tvoří platformy, které umožňují automatizovat build-deploy-test a provozovat microservices. Svou kariéru začal jako'
       og_title: 'Fedor Pavkovček: Performance testing je tak trochu alchymie'
       image: https://secure.meetupstatic.com/photos/event/8/1/4/600_496382068.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/278273942/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/ProfessionalTesting/events/27827394
-      - ' 2/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210521T130000
-      - DTEND;TZID=Europe/Prague:20210521T150000
-      - STATUS:CONFIRMED
-      - 'SUMMARY:Fedor Pavkovček: Performance testing je tak trochu alchymie'
-      - DESCRIPTION:CZECH TESTERS GROUP\nFriday\, May 21 at 1:00 PM\n\nFedor je d
-      - ' nes DevOps Architekt ve Slovenské spořitelně a tvoří platformy\, které u'
-      - ' možňují automatizovat build-deploy-test a provozovat microservices. S...'
-      - ' \n\nhttps://www.meetup.com/ProfessionalTesting/events/278273942/'
-      - CLASS:PUBLIC
-      - CREATED:20210519T085114Z
-      - GEO:50.08;14.43
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/ProfessionalTesting/events/278273942/
-      - LAST-MODIFIED:20210521T134241Z
-      - UID:event_278273942@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: 'Fedor Pavkovček: Performance testing je tak trochu alchymie'
+        description: 'CZECH TESTERS GROUP
+
+          Friday, May 21 at 1:00 PM
+
+
+          Fedor je dnes DevOps Architekt ve Slovenské spořitelně a tvoří platformy, které umožňují automatizovat build-deploy-test a provozovat microservices. S...
+
+
+          https://www.meetup.com/ProfessionalTesting/events/278273942/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278273942@meetup.com
+        url: https://www.meetup.com/ProfessionalTesting/events/278273942/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210521T130000
+          datetime_utc: 20210521T110000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210521T150000
+          datetime_utc: 20210521T130000Z
   - meetupcom:
       meta_description: 'Thu, May 20, 2021, 1:00 PM: Nový spolumoderátor a nový formát, přijďte na premiéru :)===========Nastavit odběr a připomenutíhttp://bit.ly/teststacksubDISCORD: https://bit.ly/tt-discordPATREON: https:/'
       og_title: Bugy, fixy, hotfixy
       image: https://secure.meetupstatic.com/photos/event/4/b/f/c/600_496399452.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/278296129/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/ProfessionalTesting/events/27829612
-      - ' 9/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210520T130000
-      - DTEND;TZID=Europe/Prague:20210520T150000
-      - STATUS:CONFIRMED
-      - SUMMARY:Bugy\, fixy\, hotfixy
-      - DESCRIPTION:CZECH TESTERS GROUP\nThursday\, May 20 at 1:00 PM\n\nNový spo
-      - ' lumoderátor a nový formát\, přijďte na premiéru :) =========== Nastavit '
-      - ' odběr a připomenutíhttp://bit.ly/teststacksub DISCORD:...\n\nhttps://www'
-      - ' .meetup.com/ProfessionalTesting/events/278296129/'
-      - CLASS:PUBLIC
-      - CREATED:20210520T082319Z
-      - GEO:50.08;14.43
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/ProfessionalTesting/events/278296129/
-      - LAST-MODIFIED:20210520T135448Z
-      - UID:event_278296129@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: Bugy, fixy, hotfixy
+        description: 'CZECH TESTERS GROUP
+
+          Thursday, May 20 at 1:00 PM
+
+
+          Nový spolumoderátor a nový formát, přijďte na premiéru :) =========== Nastavit odběr a připomenutíhttp://bit.ly/teststacksub DISCORD:...
+
+
+          https://www.meetup.com/ProfessionalTesting/events/278296129/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278296129@meetup.com
+        url: https://www.meetup.com/ProfessionalTesting/events/278296129/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210520T130000
+          datetime_utc: 20210520T110000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210520T150000
+          datetime_utc: 20210520T130000Z
   - meetupcom:
       meta_description: 'Tue, Apr 27, 2021, 6:00 PM: Přednáška a diskuze na téma Testovací frameworky.Testovací frameworky jsou v dnešní zásadním základem automatizace každého vývojového týmu. Problém, je že si pod tímto pojm'
       og_title: 'online: QA Brno - Testovací frameworky'
       image: https://secure.meetupstatic.com/photos/event/9/5/d/2/600_495578354.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/277416092/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/ProfessionalTesting/events/27741609
-      - ' 2/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210427T180000
-      - DTEND;TZID=Europe/Prague:20210427T200000
-      - STATUS:CONFIRMED
-      - 'SUMMARY:online: QA Brno - Testovací frameworky'
-      - DESCRIPTION:CZECH TESTERS GROUP\nTuesday\, April 27 at 6:00 PM\n\nPřednáš
-      - ' ka a diskuze na téma Testovací frameworky. Testovací frameworky jsou v d'
-      - ' nešní zásadním základem automatizace každého vývojového týmu. Problém\, '
-      - ' ...\n\nhttps://www.meetup.com/ProfessionalTesting/events/277416092/'
-      - CLASS:PUBLIC
-      - CREATED:20210407T084136Z
-      - GEO:50.08;14.43
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/ProfessionalTesting/events/277416092/
-      - LAST-MODIFIED:20210427T190614Z
-      - UID:event_277416092@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: 'online: QA Brno - Testovací frameworky'
+        description: 'CZECH TESTERS GROUP
+
+          Tuesday, April 27 at 6:00 PM
+
+
+          Přednáška a diskuze na téma Testovací frameworky. Testovací frameworky jsou v dnešní zásadním základem automatizace každého vývojového týmu. Problém, ...
+
+
+          https://www.meetup.com/ProfessionalTesting/events/277416092/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_277416092@meetup.com
+        url: https://www.meetup.com/ProfessionalTesting/events/277416092/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210427T180000
+          datetime_utc: 20210427T160000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210427T200000
+          datetime_utc: 20210427T180000Z

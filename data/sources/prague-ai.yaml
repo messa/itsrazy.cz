@@ -11,105 +11,60 @@ series:
       og_title: 'Improving the Speed and Accuracy of Fraud Identification using AI '
       image: https://secure.meetupstatic.com/photos/event/4/9/1/4/600_498558708.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280505740/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/Prague-Artificial-Intelligence-Deep
-      - ' -Learning/events/280505740/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210914T110000
-      - DTEND;TZID=Europe/Prague:20210914T120000
-      - STATUS:CONFIRMED
-      - SUMMARY:Improving the Speed and Accuracy of Fraud Identification using AI
-      - '  '
-      - DESCRIPTION:Prague Artificial Intelligence & Deep Learning\nTuesday\, Sep
-      - ' tember 14 at 11:00 AM\n\nOne of the top use-cases for AI is Fraud Detect'
-      - ' ion and Prevention. The power of avoiding and detecting Fraud in advance'
-      - '  is clear: a few hours can have...\n\nhttps://www.meetup.com/Prague-Arti'
-      - ' ficial-Intelligence-Deep-Learning/events/280505740/'
-      - CLASS:PUBLIC
-      - CREATED:20210902T070431Z
-      - GEO:50.08;14.43
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/e
-      - ' vents/280505740/'
-      - LAST-MODIFIED:20210902T070431Z
-      - UID:event_280505740@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: 'Improving the Speed and Accuracy of Fraud Identification using AI '
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Tuesday, September 14 at 11:00 AM
+
+
+          One of the top use-cases for AI is Fraud Detection and Prevention. The power of avoiding and detecting Fraud in advance is clear: a few hours can have...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280505740/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280505740@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280505740/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210914T110000
+          datetime_utc: 20210914T090000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210914T120000
+          datetime_utc: 20210914T100000Z
   - meetupcom:
       meta_description: 'Thu, Aug 12, 2021, 11:15 PM: Register here for this talk: https://www.h2o.ai/ai-digital-transformation-for-hcos-strategies-best-practices-for-success/?utm_medium=Organic-Social&utm_source=meetup&utm_c'
       og_title: AI & Digital Transformation for Healthcare Organizations
       image: https://secure.meetupstatic.com/photos/event/3/c/6/f/600_497835471.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/279765728/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/Prague-Artificial-Intelligence-Deep
-      - ' -Learning/events/279765728/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210812T231500
-      - DTEND;TZID=Europe/Prague:20210812T233500
-      - STATUS:CONFIRMED
-      - SUMMARY:AI & Digital Transformation for Healthcare Organizations
-      - DESCRIPTION:Prague Artificial Intelligence & Deep Learning\nThursday\, Au
-      - ' gust 12 at 11:15 PM\n\nRegister here for this talk:...\n\nhttps://www.me'
-      - ' etup.com/Prague-Artificial-Intelligence-Deep-Learning/events/279765728/'
-      - CLASS:PUBLIC
-      - CREATED:20210728T211121Z
-      - GEO:50.08;14.43
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/e
-      - ' vents/279765728/'
-      - LAST-MODIFIED:20210812T222412Z
-      - UID:event_279765728@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: AI & Digital Transformation for Healthcare Organizations
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Thursday, August 12 at 11:15 PM
+
+
+          Register here for this talk:...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/279765728/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279765728@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/279765728/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210812T231500
+          datetime_utc: 20210812T211500Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210812T233500
+          datetime_utc: 20210812T213500Z

@@ -10,158 +10,91 @@ series:
       og_title: Data Hackathon  "Staň se analytikem"
       image: https://secure.meetupstatic.com/photos/event/c/5/4/6/600_496790502.jpeg
       url: https://www.meetup.com/data-punkers/events/278702629/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/data-punkers/events/278702629/ical/
-      - ' x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210625T090000
-      - DTEND;TZID=Europe/Prague:20210625T190000
-      - STATUS:CONFIRMED
-      - SUMMARY:Data Hackathon  "Staň se analytikem"
-      - DESCRIPTION:Prague Data Punkers\nFriday\, June 25 at 9:00 AM\n\nData Hack
-      - ' athon "Staň se analytikem"Registrace a další informace na https://hackat'
-      - ' hon.revolt.bi/ POZOR: kapacita hackathonu je již téměř naplněna\, bude..'
-      - ' .\n\nhttps://www.meetup.com/data-punkers/events/278702629/'
-      - CLASS:PUBLIC
-      - CREATED:20210608T151606Z
-      - GEO:50.08;14.43
-      - LOCATION:Revolt BI s.r.o. (Pobřežní 249/46\, Karlín\, Praha-Praha 8\, Cze
-      - ' ch Republic 186 00)'
-      - URL:https://www.meetup.com/data-punkers/events/278702629/
-      - LAST-MODIFIED:20210625T180200Z
-      - UID:event_278702629@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: Data Hackathon  "Staň se analytikem"
+        description: 'Prague Data Punkers
+
+          Friday, June 25 at 9:00 AM
+
+
+          Data Hackathon "Staň se analytikem"Registrace a další informace na https://hackathon.revolt.bi/ POZOR: kapacita hackathonu je již téměř naplněna, bude...
+
+
+          https://www.meetup.com/data-punkers/events/278702629/'
+        location: Revolt BI s.r.o. (Pobřežní 249/46, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278702629@meetup.com
+        url: https://www.meetup.com/data-punkers/events/278702629/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210625T090000
+          datetime_utc: 20210625T070000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210625T190000
+          datetime_utc: 20210625T170000Z
   - meetupcom:
       meta_description: 'Tue, Feb 18, 2020, 6:00 PM: Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu.Chceme vytvořit komunitu datařů, se kterou se budeme pravideln'
       og_title: Jakub Šulta - od miliardového eshopu k prodeji ojetých aut, Tableau, KBC & Apify
       image: https://secure.meetupstatic.com/photos/event/b/2/1/600_488222849.jpeg
       url: https://www.meetup.com/data-punkers/events/268054864/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/data-punkers/events/268054864/ical/
-      - ' x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20200218T180000
-      - DTEND;TZID=Europe/Prague:20200218T220000
-      - STATUS:CONFIRMED
-      - SUMMARY:Jakub Šulta - od miliardového eshopu k prodeji ojetých aut\, Tabl
-      - ' eau\, KBC & Apify'
-      - DESCRIPTION:Prague Data Punkers\nTuesday\, February 18 at 6:00 PM\n\nData
-      - '  Punkers Meetup je setkání pro všechny\, které zajímají moderní technolo'
-      - ' gie\, analytika a Big Data v cloudu. Chceme vytvořit komunitu datařů\, s'
-      - ' e kte...\n\nhttps://www.meetup.com/data-punkers/events/268054864/'
-      - CLASS:PUBLIC
-      - CREATED:20200120T090647Z
-      - GEO:50.08;14.43
-      - LOCATION:Avast (Pikrtova 1737/1A\, Praha 4-Nusle\, Czech Republic 140 00)
-      - ' '
-      - URL:https://www.meetup.com/data-punkers/events/268054864/
-      - LAST-MODIFIED:20200218T222122Z
-      - UID:event_268054864@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: Jakub Šulta - od miliardového eshopu k prodeji ojetých aut, Tableau, KBC & Apify
+        description: 'Prague Data Punkers
+
+          Tuesday, February 18 at 6:00 PM
+
+
+          Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu. Chceme vytvořit komunitu datařů, se kte...
+
+
+          https://www.meetup.com/data-punkers/events/268054864/'
+        location: Avast (Pikrtova 1737/1A, Praha 4-Nusle, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_268054864@meetup.com
+        url: https://www.meetup.com/data-punkers/events/268054864/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20200218T180000
+          datetime_utc: 20200218T170000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20200218T220000
+          datetime_utc: 20200218T210000Z
   - meetupcom:
       meta_description: 'Thu, Oct 31, 2019, 6:00 PM: Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu.Chceme vytvořit komunitu datařů, se kterou se budeme pravideln'
       og_title: 'Data Punkers Meetup vol 1: Snowflake'
       image: https://secure.meetupstatic.com/photos/event/c/8/6/e/600_485631310.jpeg
       url: https://www.meetup.com/data-punkers/events/265556324/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/data-punkers/events/265556324/ical/
-      - ' x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20191031T180000
-      - DTEND;TZID=Europe/Prague:20191031T220000
-      - STATUS:CONFIRMED
-      - 'SUMMARY:Data Punkers Meetup vol 1: Snowflake'
-      - DESCRIPTION:Prague Data Punkers\nThursday\, October 31 at 6:00 PM\n\nData
-      - '  Punkers Meetup je setkání pro všechny\, které zajímají moderní technolo'
-      - ' gie\, analytika a Big Data v cloudu. Chceme vytvořit komunitu datařů\, s'
-      - ' e kte...\n\nhttps://www.meetup.com/data-punkers/events/265556324/'
-      - CLASS:PUBLIC
-      - CREATED:20191010T093522Z
-      - GEO:50.08;14.43
-      - LOCATION:Avast (Pikrtova 1737/1A\, Praha 4-Nusle\, Czech Republic 140 00)
-      - ' '
-      - URL:https://www.meetup.com/data-punkers/events/265556324/
-      - LAST-MODIFIED:20191031T231809Z
-      - UID:event_265556324@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: 'Data Punkers Meetup vol 1: Snowflake'
+        description: 'Prague Data Punkers
+
+          Thursday, October 31 at 6:00 PM
+
+
+          Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu. Chceme vytvořit komunitu datařů, se kte...
+
+
+          https://www.meetup.com/data-punkers/events/265556324/'
+        location: Avast (Pikrtova 1737/1A, Praha 4-Nusle, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_265556324@meetup.com
+        url: https://www.meetup.com/data-punkers/events/265556324/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20191031T180000
+          datetime_utc: 20191031T170000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20191031T220000
+          datetime_utc: 20191031T210000Z

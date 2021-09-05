@@ -10,104 +10,60 @@ series:
       og_title: OFFLINE Frontendisti v Brně
       image: https://secure.meetupstatic.com/photos/event/1/b/600_498540027.jpeg
       url: https://www.meetup.com/frontendisti-brno/events/280481673/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/frontendisti-brno/events/280481673/
-      - ' ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210909T180000
-      - DTEND;TZID=Europe/Prague:20210909T200000
-      - STATUS:CONFIRMED
-      - SUMMARY:OFFLINE Frontendisti v Brně
-      - DESCRIPTION:Frontendisti.cz Brno\nThursday\, September 9 at 6:00 PM\n\nČt
-      - ' vrtek\, 9. září od 18:00\, program: 17:45: Open18:00 Networking19:00 Lig'
-      - ' hting talky- Frontendisti.cz a co nás čeká (+ překvapení)- Martin Kolář '
-      - ' - Takh...\n\nhttps://www.meetup.com/frontendisti-brno/events/280481673/'
-      - CLASS:PUBLIC
-      - CREATED:20210901T080051Z
-      - GEO:49.20;16.61
-      - LOCATION:SUPERKODERS (Hněvkovského 30/65\, Brno-jih-Komárov\, Czech Repub
-      - ' lic 617 00)'
-      - URL:https://www.meetup.com/frontendisti-brno/events/280481673/
-      - LAST-MODIFIED:20210904T095003Z
-      - UID:event_280481673@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: OFFLINE Frontendisti v Brně
+        description: 'Frontendisti.cz Brno
+
+          Thursday, September 9 at 6:00 PM
+
+
+          Čtvrtek, 9. září od 18:00, program: 17:45: Open18:00 Networking19:00 Lighting talky- Frontendisti.cz a co nás čeká (+ překvapení)- Martin Kolář - Takh...
+
+
+          https://www.meetup.com/frontendisti-brno/events/280481673/'
+        location: SUPERKODERS (Hněvkovského 30/65, Brno-jih-Komárov, Czech Republic 617 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_280481673@meetup.com
+        url: https://www.meetup.com/frontendisti-brno/events/280481673/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210909T180000
+          datetime_utc: 20210909T160000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210909T200000
+          datetime_utc: 20210909T180000Z
   - meetupcom:
       meta_description: 'Sat, May 29, 2021, 10:00 AM: Vstupenky na webu https://frontendisti.cz/konference---Těšit se můžete na tyto přednášky:JAN BIENTailwind CSS – framework, který zvládne každý grafický návrh?BOREK BERNARD'
       og_title: '{Front Konference} - Historicky první česká frontendová konference'
       image: https://secure.meetupstatic.com/photos/event/b/a/b/2/600_496127794.jpeg
       url: https://www.meetup.com/frontendisti-brno/events/278005773/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/frontendisti-brno/events/278005773/
-      - ' ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210529T100000
-      - DTEND;TZID=Europe/Prague:20210529T170000
-      - STATUS:CONFIRMED
-      - SUMMARY:{Front Konference} - Historicky první česká frontendová konferenc
-      - ' e'
-      - DESCRIPTION:Frontendisti.cz Brno\nSaturday\, May 29 at 10:00 AM\n\nVstupe
-      - ' nky na webu https://frontendisti.cz/konference ---Těšit se můžete na tyt'
-      - ' o přednášky: JAN BIENTailwind CSS – framework\, který zvládne každý graf'
-      - ' i...\n\nhttps://www.meetup.com/frontendisti-brno/events/278005773/'
-      - CLASS:PUBLIC
-      - CREATED:20210505T193212Z
-      - GEO:49.20;16.61
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/frontendisti-brno/events/278005773/
-      - LAST-MODIFIED:20210529T154926Z
-      - UID:event_278005773@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: '{Front Konference} - Historicky první česká frontendová konference'
+        description: 'Frontendisti.cz Brno
+
+          Saturday, May 29 at 10:00 AM
+
+
+          Vstupenky na webu https://frontendisti.cz/konference ---Těšit se můžete na tyto přednášky: JAN BIENTailwind CSS – framework, který zvládne každý grafi...
+
+
+          https://www.meetup.com/frontendisti-brno/events/278005773/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_278005773@meetup.com
+        url: https://www.meetup.com/frontendisti-brno/events/278005773/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210529T100000
+          datetime_utc: 20210529T080000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210529T170000
+          datetime_utc: 20210529T150000Z

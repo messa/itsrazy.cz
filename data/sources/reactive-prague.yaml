@@ -10,209 +10,121 @@ series:
       og_title: Reactive Online Meetup|Frontend Skill-up
       image: https://secure.meetupstatic.com/photos/event/7/3/c/c/600_494849644.jpeg
       url: https://www.meetup.com/ReactiveMeetupsPrague/events/276503080/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/ReactiveMeetupsPrague/events/276503
-      - ' 080/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210302T190000
-      - DTEND;TZID=Europe/Prague:20210302T203000
-      - STATUS:CONFIRMED
-      - SUMMARY:Reactive Online Meetup|Frontend Skill-up
-      - DESCRIPTION:Reactive Meetups Prague\nTuesday\, March 2 at 7:00 PM\n\nWHAT
-      - '  CAN YOU LOOK FORWARD TO: JAKUB KOPRIVA#metatalk 15min TALKConnection op'
-      - ' tional data into strongly typed components using TS TALK ABSTRACTTypescr'
-      - ' ip...\n\nhttps://www.meetup.com/ReactiveMeetupsPrague/events/276503080/'
-      - CLASS:PUBLIC
-      - CREATED:20210221T200712Z
-      - GEO:50.08;14.43
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/ReactiveMeetupsPrague/events/276503080/
-      - LAST-MODIFIED:20210302T204432Z
-      - UID:event_276503080@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: Reactive Online Meetup|Frontend Skill-up
+        description: 'Reactive Meetups Prague
+
+          Tuesday, March 2 at 7:00 PM
+
+
+          WHAT CAN YOU LOOK FORWARD TO: JAKUB KOPRIVA#metatalk 15min TALKConnection optional data into strongly typed components using TS TALK ABSTRACTTypescrip...
+
+
+          https://www.meetup.com/ReactiveMeetupsPrague/events/276503080/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_276503080@meetup.com
+        url: https://www.meetup.com/ReactiveMeetupsPrague/events/276503080/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210302T190000
+          datetime_utc: 20210302T180000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210302T203000
+          datetime_utc: 20210302T193000Z
   - meetupcom:
       meta_description: 'Tue, Dec 1, 2020, 7:00 PM: WHAT CAN YOU LOOK FORWARD TO:𝗠𝗜𝗟𝗢𝗦 𝗕𝗥𝗢𝗨𝗟𝗜𝗞Barclays#metatalk (10min)𝗧𝗔𝗟𝗞Coding is fun𝗧𝗔𝗟𝗞 𝗔𝗕𝗦𝗧𝗥𝗔𝗖𝗧Introduction to Barclays Prague Technology Cente'
       og_title: Reactive Online Meetup|Painless App Coding with GraphQL
       image: https://secure.meetupstatic.com/photos/event/a/c/4/b/600_493604107.jpeg
       url: https://www.meetup.com/ReactiveMeetupsPrague/events/274690980/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/ReactiveMeetupsPrague/events/274690
-      - ' 980/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20201201T190000
-      - DTEND;TZID=Europe/Prague:20201201T203000
-      - STATUS:CONFIRMED
-      - SUMMARY:Reactive Online Meetup|Painless App Coding with GraphQL
-      - DESCRIPTION:Reactive Meetups Prague\nTuesday\, December 1 at 7:00 PM\n\nW
-      - ' HAT CAN YOU LOOK FORWARD TO: 𝗠𝗜𝗟𝗢𝗦 𝗕𝗥𝗢𝗨𝗟𝗜𝗞Barclays#metatalk '
-      - ' (10min) 𝗧𝗔𝗟𝗞Coding is fun 𝗧𝗔𝗟𝗞 𝗔𝗕𝗦𝗧𝗥𝗔𝗖𝗧Introduction to B'
-      - ' arclays Prague Technology Center ...\n\nhttps://www.meetup.com/ReactiveM'
-      - ' eetupsPrague/events/274690980/'
-      - CLASS:PUBLIC
-      - CREATED:20201119T150825Z
-      - GEO:50.08;14.43
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/ReactiveMeetupsPrague/events/274690980/
-      - LAST-MODIFIED:20201201T202256Z
-      - UID:event_274690980@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: Reactive Online Meetup|Painless App Coding with GraphQL
+        description: 'Reactive Meetups Prague
+
+          Tuesday, December 1 at 7:00 PM
+
+
+          WHAT CAN YOU LOOK FORWARD TO: 𝗠𝗜𝗟𝗢𝗦 𝗕𝗥𝗢𝗨𝗟𝗜𝗞Barclays#metatalk (10min) 𝗧𝗔𝗟𝗞Coding is fun 𝗧𝗔𝗟𝗞 𝗔𝗕𝗦𝗧𝗥𝗔𝗖𝗧Introduction to Barclays Prague Technology Center ...
+
+
+          https://www.meetup.com/ReactiveMeetupsPrague/events/274690980/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_274690980@meetup.com
+        url: https://www.meetup.com/ReactiveMeetupsPrague/events/274690980/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20201201T190000
+          datetime_utc: 20201201T180000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20201201T203000
+          datetime_utc: 20201201T193000Z
   - meetupcom:
       meta_description: 'Tue, Nov 10, 2020, 7:00 PM: Link to connect👉 https://bit.ly/join_the_webinar_here𝗔𝗟𝗘𝗫𝗔𝗡𝗗𝗘𝗥 𝗦𝗠𝗜𝗥𝗡𝗢𝗩Mews Developers#metatalk𝗧𝗔𝗟𝗞Running custom neural networks in a browser𝗧𝗔𝗟𝗞 �'
       og_title: Reactive Online Meetup|How to Design Complex Async Apps
       image: https://secure.meetupstatic.com/photos/event/5/d/f/0/600_493284048.jpeg
       url: https://www.meetup.com/ReactiveMeetupsPrague/events/274261647/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/ReactiveMeetupsPrague/events/274261
-      - ' 647/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20201110T190000
-      - DTEND;TZID=Europe/Prague:20201110T203000
-      - STATUS:CONFIRMED
-      - SUMMARY:Reactive Online Meetup|How to Design Complex Async Apps
-      - DESCRIPTION:Reactive Meetups Prague\nTuesday\, November 10 at 7:00 PM\n\n
-      - ' Link to connect👉 https://bit.ly/join_the_webinar_here 𝗔𝗟𝗘𝗫𝗔𝗡𝗗𝗘?'
-      - ' ? 𝗦𝗠𝗜𝗥𝗡𝗢𝗩Mews Developers#metatalk 𝗧𝗔𝗟𝗞Running custom neural n'
-      - ' etworks in a browser𝗧𝗔𝗟𝗞 𝗔𝗕...\n\nhttps://www.meetup.com/ReactiveM'
-      - ' eetupsPrague/events/274261647/'
-      - CLASS:PUBLIC
-      - CREATED:20201029T183352Z
-      - GEO:50.08;14.43
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/ReactiveMeetupsPrague/events/274261647/
-      - LAST-MODIFIED:20201110T195532Z
-      - UID:event_274261647@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: Reactive Online Meetup|How to Design Complex Async Apps
+        description: 'Reactive Meetups Prague
+
+          Tuesday, November 10 at 7:00 PM
+
+
+          Link to connect👉 https://bit.ly/join_the_webinar_here 𝗔𝗟𝗘𝗫𝗔𝗡𝗗𝗘?? 𝗦𝗠𝗜𝗥𝗡𝗢𝗩Mews Developers#metatalk 𝗧𝗔𝗟𝗞Running custom neural networks in a browser𝗧𝗔𝗟𝗞 𝗔𝗕...
+
+
+          https://www.meetup.com/ReactiveMeetupsPrague/events/274261647/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_274261647@meetup.com
+        url: https://www.meetup.com/ReactiveMeetupsPrague/events/274261647/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20201110T190000
+          datetime_utc: 20201110T180000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20201110T203000
+          datetime_utc: 20201110T193000Z
   - meetupcom:
       meta_description: 'Tue, Sep 15, 2020, 7:00 PM: Let''s explore the topic of GraphQL this time!Please connect for another exciting Reactive Online Meetup 𝗻𝗲𝘅𝘁 𝗧𝘂𝗲𝘀𝗱𝗮𝘆, 𝗦𝗘𝗣𝗧𝗘𝗠𝗕𝗘𝗥 𝟭𝟱, 𝗮𝘁 𝟳 𝗽𝗺 𝗖𝗘�'
       og_title: '#9 Reactive Online Meetups|GraphQL experience'
       image: https://secure.meetupstatic.com/photos/event/5/d/d/d/600_492144029.jpeg
       url: https://www.meetup.com/ReactiveMeetupsPrague/events/273005403/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/ReactiveMeetupsPrague/events/273005
-      - ' 403/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20200915T190000
-      - DTEND;TZID=Europe/Prague:20200915T203000
-      - STATUS:CONFIRMED
-      - SUMMARY:#9 Reactive Online Meetups|GraphQL experience
-      - DESCRIPTION:Reactive Meetups Prague\nTuesday\, September 15 at 7:00 PM\n\
-      - ' nLet''s explore the topic of GraphQL this time! Please connect for anothe'
-      - ' r exciting Reactive Online Meetup 𝗻𝗲𝘅𝘁 𝗧𝘂𝗲𝘀𝗱𝗮𝘆\, 𝗦𝗘𝗣𝗧𝗘𝗠'
-      - ' 𝗕𝗘𝗥 𝟭𝟱\, 𝗮𝘁 𝟳 𝗽𝗺 𝗖𝗘𝗦𝗧. You...\n\nhttps://www.meetup.com/Re'
-      - ' activeMeetupsPrague/events/273005403/'
-      - CLASS:PUBLIC
-      - CREATED:20200903T130908Z
-      - GEO:50.08;14.43
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/ReactiveMeetupsPrague/events/273005403/
-      - LAST-MODIFIED:20200915T191121Z
-      - UID:event_273005403@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: '#9 Reactive Online Meetups|GraphQL experience'
+        description: 'Reactive Meetups Prague
+
+          Tuesday, September 15 at 7:00 PM
+
+          \nLet''s explore the topic of GraphQL this time! Please connect for another exciting Reactive Online Meetup 𝗻𝗲𝘅𝘁 𝗧𝘂𝗲𝘀𝗱𝗮𝘆, 𝗦𝗘𝗣𝗧𝗘𝗠𝗕𝗘𝗥 𝟭𝟱, 𝗮𝘁 𝟳 𝗽𝗺 𝗖𝗘𝗦𝗧. You...
+
+
+          https://www.meetup.com/ReactiveMeetupsPrague/events/273005403/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_273005403@meetup.com
+        url: https://www.meetup.com/ReactiveMeetupsPrague/events/273005403/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20200915T190000
+          datetime_utc: 20200915T170000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20200915T203000
+          datetime_utc: 20200915T183000Z

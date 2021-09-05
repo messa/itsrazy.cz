@@ -10,207 +10,120 @@ series:
       og_title: FSharping |> Beer
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/279609755/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/FSharping/events/279609755/ical/x.i
-      - ' cs'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210804T180000
-      - DTEND;TZID=Europe/Prague:20210804T210000
-      - STATUS:CONFIRMED
-      - SUMMARY:FSharping |> Beer
-      - DESCRIPTION:FSharping\nWednesday\, August 4 at 6:00 PM\n\nLike every summ
-      - ' er\, we will have a beer session somewhere in Prague to chat about F#\, '
-      - ' community\, conferences\, projects\, and other great things (not onl...\'
-      - ' n\nhttps://www.meetup.com/FSharping/events/279609755/'
-      - CLASS:PUBLIC
-      - CREATED:20210721T133232Z
-      - GEO:50.08;14.43
-      - LOCATION:Bernard Pub (Jeseniova 93\, Prague\, Czech Republic)
-      - URL:https://www.meetup.com/FSharping/events/279609755/
-      - LAST-MODIFIED:20210804T200031Z
-      - UID:event_279609755@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: FSharping |> Beer
+        description: 'FSharping
+
+          Wednesday, August 4 at 6:00 PM
+
+
+          Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects, and other great things (not onl...\n
+
+          https://www.meetup.com/FSharping/events/279609755/'
+        location: Bernard Pub (Jeseniova 93, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279609755@meetup.com
+        url: https://www.meetup.com/FSharping/events/279609755/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210804T180000
+          datetime_utc: 20210804T160000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210804T210000
+          datetime_utc: 20210804T190000Z
   - meetupcom:
       meta_description: 'Wed, Aug 19, 2020, 6:00 PM: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects and other great things (not only) from IT world and fu'
       og_title: FSharping |> Beer
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/271789552/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/FSharping/events/271789552/ical/x.i
-      - ' cs'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20200819T180000
-      - DTEND;TZID=Europe/Prague:20200819T230000
-      - STATUS:CONFIRMED
-      - SUMMARY:FSharping |> Beer
-      - DESCRIPTION:FSharping\nWednesday\, August 19 at 6:00 PM\n\nLike every sum
-      - ' mer\, we will have a beer session somewhere in Prague to chat about F#\,'
-      - '  community\, conferences\, projects and other great things (not only...\'
-      - ' n\nhttps://www.meetup.com/FSharping/events/271789552/'
-      - CLASS:PUBLIC
-      - CREATED:20200708T065257Z
-      - GEO:50.08;14.43
-      - LOCATION:Polo (J. Želivského 1790/35\, Praha 3-Žižkov\, Czech Republic 13
-      - ' 0 00)'
-      - URL:https://www.meetup.com/FSharping/events/271789552/
-      - LAST-MODIFIED:20200819T215341Z
-      - UID:event_271789552@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: FSharping |> Beer
+        description: 'FSharping
+
+          Wednesday, August 19 at 6:00 PM
+
+
+          Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects and other great things (not only...\n
+
+          https://www.meetup.com/FSharping/events/271789552/'
+        location: Polo (J. Želivského 1790/35, Praha 3-Žižkov, Czech Republic 130 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_271789552@meetup.com
+        url: https://www.meetup.com/FSharping/events/271789552/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20200819T180000
+          datetime_utc: 20200819T160000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20200819T230000
+          datetime_utc: 20200819T210000Z
   - meetupcom:
       meta_description: 'Fri, Jun 5, 2020, 11:00 AM: 5. června nás čeká již třetí ročník virtuální konference fsharpConf, organizované lidmi z @fsharponline. Můžete se těšit na F# experty z celého světa. Uvidíte praktické vyu'
       og_title: fsharpConf 2020
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/270899664/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/FSharping/events/270899664/ical/x.i
-      - ' cs'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20200605T110000
-      - DTEND;TZID=Europe/Prague:20200605T220000
-      - STATUS:CONFIRMED
-      - SUMMARY:fsharpConf 2020
-      - 'DESCRIPTION:FSharping\nFriday\, June 5 at 11:00 AM\n\n5. června nás čeká '
-      - ' již třetí ročník virtuální konference fsharpConf\, organizované lidmi z '
-      - ' @fsharponline. Můžete se těšit na F# experty z celého světa....\n\nhttps'
-      - ' ://www.meetup.com/FSharping/events/270899664/'
-      - CLASS:PUBLIC
-      - CREATED:20200527T070512Z
-      - GEO:50.08;14.43
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/FSharping/events/270899664/
-      - LAST-MODIFIED:20200605T204029Z
-      - UID:event_270899664@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: fsharpConf 2020
+        description: 'FSharping
+
+          Friday, June 5 at 11:00 AM
+
+
+          5. června nás čeká již třetí ročník virtuální konference fsharpConf, organizované lidmi z @fsharponline. Můžete se těšit na F# experty z celého světa....
+
+
+          https://www.meetup.com/FSharping/events/270899664/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_270899664@meetup.com
+        url: https://www.meetup.com/FSharping/events/270899664/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20200605T110000
+          datetime_utc: 20200605T090000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20200605T220000
+          datetime_utc: 20200605T200000Z
   - meetupcom:
       meta_description: 'Tue, Feb 25, 2020, 6:00 PM: We would like to invite you to our very first FShaping Functional Programming workshop.==== Basic information ====Workshop is planned for 3 hours.We will start at 18:00! (W'
       og_title: 'Josef Starýchfojtů: Advanced FP in F# (Workshop)'
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/268054108/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/FSharping/events/268054108/ical/x.i
-      - ' cs'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20200225T180000
-      - DTEND;TZID=Europe/Prague:20200225T210000
-      - STATUS:CONFIRMED
-      - 'SUMMARY:Josef Starýchfojtů: Advanced FP in F# (Workshop)'
-      - 'DESCRIPTION:FSharping\nTuesday\, February 25 at 6:00 PM\n\nWe would like '
-      - ' to invite you to our very first FShaping Functional Programming workshop'
-      - ' . ==== Basic information ==== Workshop is planned for 3 hours.We...\n\nh'
-      - ' ttps://www.meetup.com/FSharping/events/268054108/'
-      - CLASS:PUBLIC
-      - CREATED:20200120T073614Z
-      - GEO:50.08;14.43
-      - LOCATION:Pracovna (Vlkova 36\, Praha 3 - Žižkov\, Czech Republic)
-      - URL:https://www.meetup.com/FSharping/events/268054108/
-      - LAST-MODIFIED:20200225T205021Z
-      - UID:event_268054108@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: 'Josef Starýchfojtů: Advanced FP in F# (Workshop)'
+        description: 'FSharping
+
+          Tuesday, February 25 at 6:00 PM
+
+
+          We would like to invite you to our very first FShaping Functional Programming workshop. ==== Basic information ==== Workshop is planned for 3 hours.We...
+
+
+          https://www.meetup.com/FSharping/events/268054108/'
+        location: Pracovna (Vlkova 36, Praha 3 - Žižkov, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_268054108@meetup.com
+        url: https://www.meetup.com/FSharping/events/268054108/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20200225T180000
+          datetime_utc: 20200225T170000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20200225T210000
+          datetime_utc: 20200225T200000Z

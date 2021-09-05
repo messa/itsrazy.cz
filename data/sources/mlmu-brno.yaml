@@ -10,216 +10,121 @@ series:
       og_title: MLMU Beer & grill & chat
       image: https://secure.meetupstatic.com/photos/event/7/6/6/f/600_456450319.jpeg
       url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/279295286/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/Machine-Learning-Meetup-Brno/events
-      - ' /279295286/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210721T180000
-      - DTEND;TZID=Europe/Prague:20210721T210000
-      - STATUS:CONFIRMED
-      - SUMMARY:MLMU Beer & grill & chat
-      - DESCRIPTION:Machine Learning Meetup Brno\nWednesday\, July 21 at 6:00 PM\
-      - ' n\nLittle update: We arranged small refreshments on the grill!  Dear fri'
-      - ' ends\, After a long time (almost a year!)\, let''s meet in person! Usuall'
-      - ' y\, we don''t...\n\nhttps://www.meetup.com/Machine-Learning-Meetup-Brno/e'
-      - ' vents/279295286/'
-      - CLASS:PUBLIC
-      - CREATED:20210706T150737Z
-      - GEO:49.20;16.61
-      - LOCATION:Živo U Palečka (Koliště 643\, Brno-střed\, Czech Republic 602 00
-      - ' )'
-      - URL:https://www.meetup.com/Machine-Learning-Meetup-Brno/events/279295286/
-      - ' '
-      - LAST-MODIFIED:20210721T202425Z
-      - UID:event_279295286@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: MLMU Beer & grill & chat
+        description: 'Machine Learning Meetup Brno
+
+          Wednesday, July 21 at 6:00 PM\n
+
+          Little update: We arranged small refreshments on the grill!  Dear friends, After a long time (almost a year!), let''s meet in person! Usually, we don''t...
+
+
+          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/279295286/'
+        location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_279295286@meetup.com
+        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/279295286/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210721T180000
+          datetime_utc: 20210721T160000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210721T210000
+          datetime_utc: 20210721T190000Z
   - meetupcom:
       meta_description: 'Thu, Jun 24, 2021, 7:00 PM: The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that tradition'
       og_title: 'D<AI>DALOS – Post-Human Creativity: The Use of AI in Art'
       image: https://secure.meetupstatic.com/photos/event/c/e/3/6/600_496912790.jpeg
       url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278824055/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/Machine-Learning-Meetup-Brno/events
-      - ' /278824055/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210624T190000
-      - DTEND;TZID=Europe/Prague:20210624T210000
-      - STATUS:CONFIRMED
-      - 'SUMMARY:D<AI>DALOS – Post-Human Creativity: The Use of AI in Art'
-      - DESCRIPTION:Machine Learning Meetup Brno\nThursday\, June 24 at 7:00 PM\n
-      - ' \nThe artistic use of AI challenges some of the cornerstones of the mode'
-      - ' rn Western concepts of art and creativity. The artist who works with AI '
-      - ' blurs th...\n\nhttps://www.meetup.com/Machine-Learning-Meetup-Brno/event'
-      - ' s/278824055/'
-      - CLASS:PUBLIC
-      - CREATED:20210614T085349Z
-      - GEO:49.20;16.61
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278824055/
-      - ' '
-      - LAST-MODIFIED:20210624T193553Z
-      - UID:event_278824055@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: 'D<AI>DALOS – Post-Human Creativity: The Use of AI in Art'
+        description: 'Machine Learning Meetup Brno
+
+          Thursday, June 24 at 7:00 PM
+
+
+          The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs th...
+
+
+          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278824055/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_278824055@meetup.com
+        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278824055/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210624T190000
+          datetime_utc: 20210624T170000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210624T210000
+          datetime_utc: 20210624T190000Z
   - meetupcom:
       meta_description: 'Mon, Jun 7, 2021, 7:30 PM: We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the opening lecture of a discus'
       og_title: 'D<AI>DALOS – From Automation to Intelligence: The Long History of AI'
       image: https://secure.meetupstatic.com/photos/event/d/4/a/5/600_496614437.jpeg
       url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278523645/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/Machine-Learning-Meetup-Brno/events
-      - ' /278523645/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210607T193000
-      - DTEND;TZID=Europe/Prague:20210607T213000
-      - STATUS:CONFIRMED
-      - 'SUMMARY:D<AI>DALOS – From Automation to Intelligence: The Long History of'
-      - '  AI'
-      - DESCRIPTION:Machine Learning Meetup Brno\nMonday\, June 7 at 7:30 PM\n\nW
-      - ' e invite you to the lecture From Automation to Intelligence: The Long Hi'
-      - ' story of AI by Nathan Ensmenger from the Indiana University. This is the'
-      - '  open...\n\nhttps://www.meetup.com/Machine-Learning-Meetup-Brno/events/2'
-      - ' 78523645/'
-      - CLASS:PUBLIC
-      - CREATED:20210531T075623Z
-      - GEO:49.20;16.61
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278523645/
-      - ' '
-      - LAST-MODIFIED:20210607T203508Z
-      - UID:event_278523645@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: 'D<AI>DALOS – From Automation to Intelligence: The Long History of AI'
+        description: 'Machine Learning Meetup Brno
+
+          Monday, June 7 at 7:30 PM
+
+
+          We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the open...
+
+
+          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278523645/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_278523645@meetup.com
+        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278523645/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210607T193000
+          datetime_utc: 20210607T173000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210607T213000
+          datetime_utc: 20210607T193000Z
   - meetupcom:
       meta_description: 'Wed, May 26, 2021, 6:00 PM: The talks will be live on YouTube.Multiple speakers will shows us how they different technologies to successfully implement MLOps with variety of organizations and they wil'
       og_title: 'MLMU Online #15: Key factors of successful MLOps'
       image: https://secure.meetupstatic.com/photos/event/7/8/0/600_496381920.jpeg
       url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278273823/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/Machine-Learning-Meetup-Brno/events
-      - ' /278273823/ical/x.ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210526T180000
-      - DTEND;TZID=Europe/Prague:20210526T200000
-      - STATUS:CONFIRMED
-      - 'SUMMARY:MLMU Online #15: Key factors of successful MLOps'
-      - DESCRIPTION:Machine Learning Meetup Brno\nWednesday\, May 26 at 6:00 PM\n
-      - ' \nThe talks will be live on YouTube. Multiple speakers will shows us how'
-      - '  they different technologies to successfully implement MLOps with variet'
-      - ' y of org...\n\nhttps://www.meetup.com/Machine-Learning-Meetup-Brno/event'
-      - ' s/278273823/'
-      - CLASS:PUBLIC
-      - CREATED:20210519T082848Z
-      - GEO:49.20;16.61
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278273823/
-      - ' '
-      - LAST-MODIFIED:20210526T190002Z
-      - UID:event_278273823@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: 'MLMU Online #15: Key factors of successful MLOps'
+        description: 'Machine Learning Meetup Brno
+
+          Wednesday, May 26 at 6:00 PM
+
+
+          The talks will be live on YouTube. Multiple speakers will shows us how they different technologies to successfully implement MLOps with variety of org...
+
+
+          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278273823/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_278273823@meetup.com
+        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278273823/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210526T180000
+          datetime_utc: 20210526T160000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210526T200000
+          datetime_utc: 20210526T180000Z

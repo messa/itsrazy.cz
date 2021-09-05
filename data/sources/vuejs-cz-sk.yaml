@@ -10,209 +10,121 @@ series:
       og_title: 'Vue.js Meetup Brno #5'
       image: https://secure.meetupstatic.com/photos/event/5/9/b/4/600_495982964.jpeg
       url: https://www.meetup.com/vuejs-cz-sk/events/277852111/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/vuejs-cz-sk/events/277852111/ical/x
-      - ' .ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210623T180000
-      - DTEND;TZID=Europe/Prague:20210623T193000
-      - STATUS:CONFIRMED
-      - 'SUMMARY:Vue.js Meetup Brno #5'
-      - DESCRIPTION:Vue.js CZ/SK\nWednesday\, June 23 at 6:00 PM\n\nJelikož už ná
-      - ' s covidová nečinnost nebaví\, rozhodli jsme se opět zorganizovat večer n'
-      - ' a naše oblíbené téma Vue.js. V případě zájmu se zaregistrujte na e...\n\'
-      - ' nhttps://www.meetup.com/vuejs-cz-sk/events/277852111/'
-      - CLASS:PUBLIC
-      - CREATED:20210428T135348Z
-      - GEO:50.08;14.43
-      - LOCATION:Online event
-      - URL:https://www.meetup.com/vuejs-cz-sk/events/277852111/
-      - LAST-MODIFIED:20210623T190904Z
-      - UID:event_277852111@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: 'Vue.js Meetup Brno #5'
+        description: 'Vue.js CZ/SK
+
+          Wednesday, June 23 at 6:00 PM
+
+
+          Jelikož už nás covidová nečinnost nebaví, rozhodli jsme se opět zorganizovat večer na naše oblíbené téma Vue.js. V případě zájmu se zaregistrujte na e...
+
+          \nhttps://www.meetup.com/vuejs-cz-sk/events/277852111/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_277852111@meetup.com
+        url: https://www.meetup.com/vuejs-cz-sk/events/277852111/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210623T180000
+          datetime_utc: 20210623T160000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210623T193000
+          datetime_utc: 20210623T173000Z
   - meetupcom:
       meta_description: 'Wed, Jul 29, 2020, 6:30 PM: Po karanténě se potkáme znova naživo nad zajímavými tématy z Vue.js vesmíru.Jako vždy, nebude chybět pivo, pizza a skvělá atmosféra našeho brněnského Vue.js kolektivu 😊Pro'
       og_title: 'Vue.js Meetup Brno #4'
       image: https://secure.meetupstatic.com/photos/event/a/8/0/c/600_491323020.jpeg
       url: https://www.meetup.com/vuejs-cz-sk/events/271623946/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/vuejs-cz-sk/events/271623946/ical/x
-      - ' .ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20200729T183000
-      - DTEND;TZID=Europe/Prague:20200729T203000
-      - STATUS:CONFIRMED
-      - 'SUMMARY:Vue.js Meetup Brno #4'
-      - 'DESCRIPTION:Vue.js CZ/SK\nWednesday\, July 29 at 6:30 PM\n\nPo karanténě '
-      - ' se potkáme znova naživo nad zajímavými tématy z Vue.js vesmíru.Jako vždy'
-      - ' \, nebude chybět pivo\, pizza a skvělá atmosféra našeho brněnského ...\n'
-      - ' \nhttps://www.meetup.com/vuejs-cz-sk/events/271623946/'
-      - CLASS:PUBLIC
-      - CREATED:20200630T124657Z
-      - GEO:50.08;14.43
-      - 'LOCATION:ArtBar Druhý Pád (Štefánikova 836/1\, Brno-střed-Veveří\, Czech '
-      - ' Republic 602 00)'
-      - URL:https://www.meetup.com/vuejs-cz-sk/events/271623946/
-      - LAST-MODIFIED:20200729T190022Z
-      - UID:event_271623946@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: 'Vue.js Meetup Brno #4'
+        description: 'Vue.js CZ/SK
+
+          Wednesday, July 29 at 6:30 PM
+
+
+          Po karanténě se potkáme znova naživo nad zajímavými tématy z Vue.js vesmíru.Jako vždy, nebude chybět pivo, pizza a skvělá atmosféra našeho brněnského ...
+
+
+          https://www.meetup.com/vuejs-cz-sk/events/271623946/'
+        location: ArtBar Druhý Pád (Štefánikova 836/1, Brno-střed-Veveří, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_271623946@meetup.com
+        url: https://www.meetup.com/vuejs-cz-sk/events/271623946/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20200729T183000
+          datetime_utc: 20200729T163000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20200729T203000
+          datetime_utc: 20200729T183000Z
   - meetupcom:
       meta_description: 'Mon, Mar 2, 2020, 6:30 PM: Na druhém meetupu jsme se koukli na Typescript ve Vue, Vue CLI a novinky ve Vue3.Na třetím meetupu kromě jiného s Vue3 pokračujeme. A připájíme i téma, které jste si sami od'
       og_title: 'Vue.js Meetup Brno #3'
       image: https://secure.meetupstatic.com/photos/event/3/a/1/1/600_488954865.jpeg
       url: https://www.meetup.com/vuejs-cz-sk/events/268655132/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/vuejs-cz-sk/events/268655132/ical/x
-      - ' .ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20200302T183000
-      - DTEND;TZID=Europe/Prague:20200302T203000
-      - STATUS:CONFIRMED
-      - 'SUMMARY:Vue.js Meetup Brno #3'
-      - DESCRIPTION:Vue.js CZ/SK\nMonday\, March 2 at 6:30 PM\n\nNa druhém meetup
-      - ' u jsme se koukli na Typescript ve Vue\, Vue CLI a novinky ve Vue3. Na tř'
-      - ' etím meetupu kromě jiného s Vue3 pokračujeme. A připájíme i tém...\n\nht'
-      - ' tps://www.meetup.com/vuejs-cz-sk/events/268655132/'
-      - CLASS:PUBLIC
-      - CREATED:20200212T144716Z
-      - GEO:50.08;14.43
-      - 'LOCATION:ArtBar Druhý Pád (Štefánikova 836/1\, Brno-střed-Veveří\, Czech '
-      - ' Republic 602 00)'
-      - URL:https://www.meetup.com/vuejs-cz-sk/events/268655132/
-      - LAST-MODIFIED:20200302T201946Z
-      - UID:event_268655132@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: 'Vue.js Meetup Brno #3'
+        description: 'Vue.js CZ/SK
+
+          Monday, March 2 at 6:30 PM
+
+
+          Na druhém meetupu jsme se koukli na Typescript ve Vue, Vue CLI a novinky ve Vue3. Na třetím meetupu kromě jiného s Vue3 pokračujeme. A připájíme i tém...
+
+
+          https://www.meetup.com/vuejs-cz-sk/events/268655132/'
+        location: ArtBar Druhý Pád (Štefánikova 836/1, Brno-střed-Veveří, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_268655132@meetup.com
+        url: https://www.meetup.com/vuejs-cz-sk/events/268655132/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20200302T183000
+          datetime_utc: 20200302T173000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20200302T203000
+          datetime_utc: 20200302T193000Z
   - meetupcom:
       meta_description: 'Wed, Jan 22, 2020, 6:30 PM: Tento event je pouze informativní!Nezapomeňte se registrovat na https://www.eventbrite.com/e/vueprague-2020-meetup-tickets-87456888909'
       og_title: VuePRAGUE 2020 Meetup
       image: https://secure.meetupstatic.com/photos/event/5/9/e/2/600_488123010.jpeg
       url: https://www.meetup.com/vuejs-cz-sk/events/267453445/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/vuejs-cz-sk/events/267453445/ical/x
-      - ' .ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20200122T183000
-      - DTEND;TZID=Europe/Prague:20200122T210000
-      - STATUS:CONFIRMED
-      - SUMMARY:VuePRAGUE 2020 Meetup
-      - DESCRIPTION:Vue.js CZ/SK\nWednesday\, January 22 at 6:30 PM\n\nTento even
-      - ' t je pouze informativní!Nezapomeňte se registrovat na https://www.eventb'
-      - ' rite.com/e/vueprague-2020-meetup-tickets-87456888909\n\nhttps://www.meet'
-      - ' up.com/vuejs-cz-sk/events/267453445/'
-      - CLASS:PUBLIC
-      - CREATED:20191227T185821Z
-      - GEO:50.08;14.43
-      - LOCATION:HubHub Palác ARA (Perlová 5\, Praha 1-Staré Město\, Czech Republ
-      - ' ic 110 00)'
-      - URL:https://www.meetup.com/vuejs-cz-sk/events/267453445/
-      - LAST-MODIFIED:20200122T203909Z
-      - UID:event_267453445@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: VuePRAGUE 2020 Meetup
+        description: 'Vue.js CZ/SK
+
+          Wednesday, January 22 at 6:30 PM
+
+
+          Tento event je pouze informativní!Nezapomeňte se registrovat na https://www.eventbrite.com/e/vueprague-2020-meetup-tickets-87456888909
+
+
+          https://www.meetup.com/vuejs-cz-sk/events/267453445/'
+        location: HubHub Palác ARA (Perlová 5, Praha 1-Staré Město, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_267453445@meetup.com
+        url: https://www.meetup.com/vuejs-cz-sk/events/267453445/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20200122T183000
+          datetime_utc: 20200122T173000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20200122T210000
+          datetime_utc: 20200122T200000Z

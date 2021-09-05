@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 
 from argparse import ArgumentParser
+from datetime import datetime
 from logging import getLogger
 import lxml.html
 from pathlib import Path
+import pytz
 import re
 from requests_cache import CachedSession # https://requests-cache.readthedocs.io/en/stable/user_guide.html
 from textwrap import dedent
@@ -68,7 +70,6 @@ def process_source_file(source_file):
         elif link.attrib.get('rel') == 'image_src':
             source['series']['meetupcom']['image'] = link.attrib['href']
 
-
     event_urls = []
     for a in root.xpath('//a'):
         try:
@@ -120,11 +121,41 @@ def process_event(event_url, events):
     r = rs.get(event_url + 'ical/x.ics')
     r.raise_for_status()
     cal = parse_ical(r.text)
-    event['ical'] = {
+    event['meetupcom']['ical'] = {
+        'summary': cal['VEVENT']['SUMMARY'],
         'description': cal['VEVENT']['DESCRIPTION'],
+        'location': cal['VEVENT']['LOCATION'],
+        'geo': parse_ical_geo(cal['VEVENT']['GEO']),
+        'status': cal['VEVENT']['STATUS'],
+        'uid': cal['VEVENT']['UID'],
+        'url': cal['VEVENT']['URL'],
+        'dtstart': parse_ical_datetime(cal['VEVENT'], 'DTSTART'),
+        'dtend': parse_ical_datetime(cal['VEVENT'], 'DTEND'),
     }
 
-    #event['meetupcom']['ical_raw'] = preprocess_raw_ical(r.text)
+
+def parse_ical_geo(s):
+    lat, lon = s.split(';')
+    return {
+        'lat': float(lat),
+        'lon': float(lon),
+    }
+
+
+def parse_ical_datetime(event, key):
+    for k, v in event.items():
+        if k.startswith(key):
+            m = re.match(r'^;TZID=([^;=]+)$', k[len(key):])
+            tzname, = m.groups()
+            dt = datetime.strptime(v, '%Y%m%dT%H%M%S')
+            dt = pytz.timezone(tzname).localize(dt)
+            dt_utc = pytz.utc.normalize(dt)
+            return {
+                'timezone': tzname,
+                'datetime': v,
+                'datetime_utc': dt_utc.strftime('%Y%m%dT%H%M%SZ'),
+            }
+    raise Exception(f'Could not find {key}')
 
 
 

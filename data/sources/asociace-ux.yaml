@@ -11,104 +11,60 @@ series:
       og_title: 'UX Monday: Podpora začínajících designérů v týmu'
       image: https://secure.meetupstatic.com/photos/event/6/1/a/c/600_498505004.jpeg
       url: https://www.meetup.com/asociace-ux/events/280440185/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/asociace-ux/events/280440185/ical/x
-      - ' .ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210906T183000
-      - DTEND;TZID=Europe/Prague:20210906T203000
-      - STATUS:CONFIRMED
-      - 'SUMMARY:UX Monday: Podpora začínajících designérů v týmu'
-      - 'DESCRIPTION:Asociace UX\nMonday\, September 6 at 6:30 PM\n\nZáří znamená '
-      - ' návrat školních lavic a nejinak tomu bude i v případě UX Monday. Opět se'
-      - '  totiž vedle online streamu potkáme také v offline režimu (detail...\n\n'
-      - ' https://www.meetup.com/asociace-ux/events/280440185/'
-      - CLASS:PUBLIC
-      - CREATED:20210830T121007Z
-      - GEO:50.08;14.43
-      - LOCATION:Svornosti 3321/2 (Svornosti 3321/2\, Smíchov\, Praha-Praha 5\, C
-      - ' zech Republic 150 00)'
-      - URL:https://www.meetup.com/asociace-ux/events/280440185/
-      - LAST-MODIFIED:20210830T145130Z
-      - UID:event_280440185@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: 'UX Monday: Podpora začínajících designérů v týmu'
+        description: 'Asociace UX
+
+          Monday, September 6 at 6:30 PM
+
+
+          Září znamená návrat školních lavic a nejinak tomu bude i v případě UX Monday. Opět se totiž vedle online streamu potkáme také v offline režimu (detail...
+
+
+          https://www.meetup.com/asociace-ux/events/280440185/'
+        location: Svornosti 3321/2 (Svornosti 3321/2, Smíchov, Praha-Praha 5, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280440185@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/280440185/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210906T183000
+          datetime_utc: 20210906T163000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210906T203000
+          datetime_utc: 20210906T183000Z
   - meetupcom:
       meta_description: 'Thu, Aug 5, 2021, 6:00 PM: UPDATE: The weather is not nice, so we''re going to Sad Man''s Tongue Bar & Bistro at Konviktska 7!If you have something you want to talk about or show the group (something yo'
       og_title: PRAGUE UX WRITERS MEETUP Vol. 21 - August
       image: https://secure.meetupstatic.com/photos/event/c/b/0/a/600_497991978.jpeg
       url: https://www.meetup.com/asociace-ux/events/279577242/
-      ical_raw:
-      - BEGIN:VCALENDAR
-      - VERSION:2.0
-      - PRODID:-//Meetup//RemoteApi//EN
-      - CALSCALE:GREGORIAN
-      - METHOD:PUBLISH
-      - X-ORIGINAL-URL:https://www.meetup.com/asociace-ux/events/279577242/ical/x
-      - ' .ics'
-      - X-WR-CALNAME:Events - x.ics
-      - X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-      - BEGIN:VTIMEZONE
-      - TZID:Europe/Prague
-      - TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Prague
-      - X-LIC-LOCATION:Europe/Prague
-      - BEGIN:DAYLIGHT
-      - TZOFFSETFROM:+0100
-      - TZOFFSETTO:+0200
-      - TZNAME:CEST
-      - DTSTART:19700329T020000
-      - RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
-      - END:DAYLIGHT
-      - BEGIN:STANDARD
-      - TZOFFSETFROM:+0200
-      - TZOFFSETTO:+0100
-      - TZNAME:CET
-      - DTSTART:19701025T030000
-      - RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
-      - END:STANDARD
-      - END:VTIMEZONE
-      - BEGIN:VEVENT
-      - DTSTART;TZID=Europe/Prague:20210805T180000
-      - DTEND;TZID=Europe/Prague:20210805T200000
-      - STATUS:CONFIRMED
-      - SUMMARY:PRAGUE UX WRITERS MEETUP Vol. 21 - August
-      - 'DESCRIPTION:Asociace UX\nThursday\, August 5 at 6:00 PM\n\nUPDATE: The we'
-      - ' ather is not nice\, so we''re going to Sad Man''s Tongue Bar & Bistro at K'
-      - ' onviktska 7! If you have something you want to talk about or show...\n\n'
-      - ' https://www.meetup.com/asociace-ux/events/279577242/'
-      - CLASS:PUBLIC
-      - CREATED:20210719T213806Z
-      - GEO:50.08;14.43
-      - LOCATION:Sad Man's Tongue Bar & Bistro (Konviktská 7\, Staré Město\, Prah
-      - ' a-Praha 1\, Czech Republic 110 00)'
-      - URL:https://www.meetup.com/asociace-ux/events/279577242/
-      - LAST-MODIFIED:20210805T190841Z
-      - UID:event_279577242@meetup.com
-      - END:VEVENT
-      - END:VCALENDAR
+      ical:
+        summary: PRAGUE UX WRITERS MEETUP Vol. 21 - August
+        description: 'Asociace UX
+
+          Thursday, August 5 at 6:00 PM
+
+
+          UPDATE: The weather is not nice, so we''re going to Sad Man''s Tongue Bar & Bistro at Konviktska 7! If you have something you want to talk about or show...
+
+
+          https://www.meetup.com/asociace-ux/events/279577242/'
+        location: Sad Man's Tongue Bar & Bistro (Konviktská 7, Staré Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279577242@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/279577242/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210805T180000
+          datetime_utc: 20210805T160000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210805T200000
+          datetime_utc: 20210805T180000Z
