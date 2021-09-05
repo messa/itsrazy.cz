@@ -12,38 +12,39 @@ function IndexPage({ foo }) {
 }
 
 export async function getStaticProps(context) {
-  const dataDir = findDataDir(__dirname)
-  const allSeries = new Map()
-  fs.readdirSync(dataDir).forEach(file => {
+  const sourcesDir = findDataDir(__dirname) + '/sources'
+  const allSeries = new Array()
+  fs.readdirSync(sourcesDir).forEach(file => {
     if (file.endsWith('.yaml')) {
-      const filePath = dataDir + '/' + file
+      const filePath = sourcesDir + '/' + file
       const fileContents = fs.readFileSync(filePath, 'utf8')
       const fileData = yaml.load(fileContents)
       if (fileData.series) {
-          allSeries.set(fileData.series.id, loadSeries(fileData.series))
+        const series = loadSeries(fileData.series)
+        series.id = series.id || file
+        allSeries.push(series)
       }
     }
   })
   return {
     props: { // will be passed to the page component as props
-      foo: Object.fromEntries(allSeries),
+      foo: allSeries,
     },
   }
 }
 
 function loadSeries(data) {
   return {
-    id: data.id,
-    events: data.events.map(ev => loadEvent(ev)),
+    id: data.id || null,
+    events: (data.events || []).map(ev => loadEvent(ev)),
   }
 }
 
 function loadEvent(data) {
   return {
-    id: data.id,
-    date: data.date.toISOString(),
-    title: data.title,
-    url: data.url,
+    id: data.id || data.meetupcom.ical?.uid || null,
+    title: data.title || data.meetupcom.og_title || null,
+    url: data.url || data.meetupcom.url || null,
     venue: data.venue || null,
   }
 }
