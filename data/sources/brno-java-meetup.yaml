@@ -1,0 +1,106 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/Brno-Java-Meetup/
+    meta_description: Chceme sdílet zkušenosti napříč tématy, které zajímají týmy pracující kolem Javy:• Java ekosystém (Java core, JVM, Tooling, Frameworky)• Jazyky nad JVM (Kotlin, Scala..)• DevOps (CI, Cloud Native)• Da
+    og_title: Brno Java Meetup (Brno, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Thu, Sep 24, 2020, 7:00 PM: Kubernetes se velice rychle stal nejrozšířenější platformou pro provozování stateless aplikací. Stále více uživatelů dnes na Kubernetes přesouvá dokonce i své stateful apli'
+      og_title: Stateful aplikace na Kubernetes pomocí operátor patternu (online)
+      image: https://secure.meetupstatic.com/photos/event/c/6/4/f/600_492410767.jpeg
+      url: https://www.meetup.com/Brno-Java-Meetup/events/273090874/
+      ical:
+        summary: Stateful aplikace na Kubernetes pomocí operátor patternu (online)
+        description: 'Brno Java Meetup
+
+          Thursday, September 24 at 7:00 PM
+
+
+          Kubernetes se velice rychle stal nejrozšířenější platformou pro provozování stateless aplikací. Stále více uživatelů dnes na Kubernetes přesouvá dokon...
+
+
+          https://www.meetup.com/Brno-Java-Meetup/events/273090874/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_273090874@meetup.com
+        url: https://www.meetup.com/Brno-Java-Meetup/events/273090874/
+        dtstart: 2020-09-24 19:00:00+02:00
+        dtend: 2020-09-24 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, May 21, 2020, 3:30 PM: Hostem následujícího on-line meetupu bude Andrey Pechkurov (https://twitter.com/andreypechkurov). Se svým týmem postavil time-series databázi a bude mluvit o výzvách, které'
+      og_title: 'Embedded Time Series Storage: A Cookbook (online)'
+      image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
+      url: https://www.meetup.com/Brno-Java-Meetup/events/270671333/
+      ical:
+        summary: 'Embedded Time Series Storage: A Cookbook (online)'
+        description: 'Brno Java Meetup
+
+          Thursday, May 21 at 3:30 PM
+
+
+          Hostem následujícího on-line meetupu bude Andrey Pechkurov (https://twitter.com/andreypechkurov). Se svým týmem postavil time-series databázi a bude m...
+
+
+          https://www.meetup.com/Brno-Java-Meetup/events/270671333/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_270671333@meetup.com
+        url: https://www.meetup.com/Brno-Java-Meetup/events/270671333/
+        dtstart: 2020-05-21 15:30:00+02:00
+        dtend: 2020-05-21 16:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, May 7, 2020, 3:30 PM: Huseyin Babal (Team Lead @ Hazelcast Cloud, ex. Sony and eBay Engineer, https://twitter.com/huseyinbabal) posdílí své zkušenosti s designem a implementací managované infrast'
+      og_title: Lesson Learned From Building a Managed Service (online)
+      image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
+      url: https://www.meetup.com/Brno-Java-Meetup/events/270359625/
+      ical:
+        summary: Lesson Learned From Building a Managed Service (online)
+        description: 'Brno Java Meetup
+
+          Thursday, May 7 at 3:30 PM
+
+
+          Huseyin Babal (Team Lead @ Hazelcast Cloud, ex. Sony and eBay Engineer, https://twitter.com/huseyinbabal) posdílí své zkušenosti s designem a implemen...\n
+
+          https://www.meetup.com/Brno-Java-Meetup/events/270359625/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_270359625@meetup.com
+        url: https://www.meetup.com/Brno-Java-Meetup/events/270359625/
+        dtstart: 2020-05-07 15:30:00+02:00
+        dtend: 2020-05-07 16:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Apr 23, 2020, 3:30 PM: Hardcore téma pro milovníky low-level designu. Prezentovat bude Viliam Ďurina (https://github.com/viliam-durina).Abstrakt:Having fault-tolerance can be a factor to choose a'
+      og_title: Fault Tolerance in Distributed Systems using Snapshots (online)
+      image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
+      url: https://www.meetup.com/Brno-Java-Meetup/events/270104465/
+      ical:
+        summary: Fault Tolerance in Distributed Systems using Snapshots (online)
+        description: 'Brno Java Meetup
+
+          Thursday, April 23 at 3:30 PM
+
+
+          Hardcore téma pro milovníky low-level designu. Prezentovat bude Viliam Ďurina (https://github.com/viliam-durina). Abstrakt: Having fault-tolerance can...
+
+
+          https://www.meetup.com/Brno-Java-Meetup/events/270104465/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_270104465@meetup.com
+        url: https://www.meetup.com/Brno-Java-Meetup/events/270104465/
+        dtstart: 2020-04-23 15:30:00+02:00
+        dtend: 2020-04-23 16:30:00+02:00
