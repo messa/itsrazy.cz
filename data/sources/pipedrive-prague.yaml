@@ -1,7 +1,99 @@
 series:
   meetupcom:
-    url: https://www.meetup.com/pipedrive-talks-prague/events/280151778/
-    meta_description: 'Tue, Sep 14, 2021, 6:00 PM: GraphQL is already far on the adoption curve. It is slowly becoming mainstream, and we start seeing new products being built primarily on GraphQL instead of REST. Most comp'
-    og_title: 'Backend Meetup: GraphQL at Scale'
-    image: https://secure.meetupstatic.com/photos/event/8/c/0/6/600_498395846.jpeg
-  events: []
+    url: https://www.meetup.com/pipedrive-talks-prague/
+    meta_description: This group is for anyone who wants to continuously learn about the application of modern technologies in real life situations, solutions about common problems and much more. Some of the topics we regu
+    og_title: Pipedrive Talks Prague (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/6/a/8/6/600_475167270.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Wed, Sep 8, 2021, 5:00 PM: Most product professionals will have to work with an existing product or a subsection of it. Launching a new product is an experience very few go through. Luckily, these day'
+      og_title: From zero to launch - How the Pipedrive team launched a new product from scratch
+      image: https://secure.meetupstatic.com/photos/event/b/6/b/b/600_498526779.jpeg
+      url: https://www.meetup.com/pipedrive-talks-prague/events/280460361/
+      ical:
+        summary: From zero to launch - How the Pipedrive team launched a new product from scratch
+        description: 'Pipedrive Talks Prague
+
+          Wednesday, September 8 at 5:00 PM
+
+          \nMost product professionals will have to work with an existing product or a subsection of it. Launching a new product is an experience very few go thro...
+
+
+          https://www.meetup.com/pipedrive-talks-prague/events/280460361/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280460361@meetup.com
+        url: https://www.meetup.com/pipedrive-talks-prague/events/280460361/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210908T170000
+          datetime_utc: 20210908T150000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210908T190000
+          datetime_utc: 20210908T170000Z
+  - meetupcom:
+      meta_description: 'Tue, Sep 14, 2021, 6:00 PM: GraphQL is already far on the adoption curve. It is slowly becoming mainstream, and we start seeing new products being built primarily on GraphQL instead of REST. Most comp'
+      og_title: 'Backend Meetup: GraphQL at Scale'
+      image: https://secure.meetupstatic.com/photos/event/8/c/0/6/600_498395846.jpeg
+      url: https://www.meetup.com/pipedrive-talks-prague/events/280151778/
+      ical:
+        summary: 'Backend Meetup: GraphQL at Scale'
+        description: 'Pipedrive Talks Prague
+
+          Tuesday, September 14 at 6:00 PM
+
+
+          GraphQL is already far on the adoption curve. It is slowly becoming mainstream, and we start seeing new products being built primarily on GraphQL inst...
+
+
+          https://www.meetup.com/pipedrive-talks-prague/events/280151778/'
+        location: Pipedrive (Pernerova 697/35, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280151778@meetup.com
+        url: https://www.meetup.com/pipedrive-talks-prague/events/280151778/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210914T180000
+          datetime_utc: 20210914T160000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210914T230000
+          datetime_utc: 20210914T210000Z
+  - meetupcom:
+      meta_description: 'Thu, May 20, 2021, 5:00 PM: Welcome to Pipedrive’s first online product meetup!Pipedrive’s VP of Product, Krishna Panicker and his team launched a product called LeadBooster, which has generated more '
+      og_title: What did Pipedrive learn from its most successful product launch?
+      image: https://secure.meetupstatic.com/photos/event/8/c/3/f/600_496235903.jpeg
+      url: https://www.meetup.com/pipedrive-talks-prague/events/278117749/
+      ical:
+        summary: What did Pipedrive learn from its most successful product launch?
+        description: 'Pipedrive Talks Prague
+
+          Thursday, May 20 at 5:00 PM
+
+
+          Welcome to Pipedrive’s first online product meetup! Pipedrive’s VP of Product, Krishna Panicker and his team launched a product called LeadBooster, wh...
+
+
+          https://www.meetup.com/pipedrive-talks-prague/events/278117749/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278117749@meetup.com
+        url: https://www.meetup.com/pipedrive-talks-prague/events/278117749/
+        dtstart:
+          timezone: Europe/Prague
+          datetime: 20210520T170000
+          datetime_utc: 20210520T150000Z
+        dtend:
+          timezone: Europe/Prague
+          datetime: 20210520T180000
+          datetime_utc: 20210520T160000Z
