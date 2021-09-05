@@ -3,11 +3,11 @@ import { resolve } from 'path'
 import yaml from 'js-yaml'
 import Layout from '../components/Layout'
 
-function IndexPage({ foo }) {
+function IndexPage({ currentEvents }) {
   return (
     <Layout>
       <h1>ITsrazy.cz</h1>
-      <pre>{JSON.stringify(foo, null, 2)}</pre>
+      <pre>{JSON.stringify({ currentEvents }, null, 2)}</pre>
     </Layout>
   )
 }
@@ -27,9 +27,23 @@ export async function getStaticProps(context) {
       }
     }
   })
+  const currentEvents = []
+  allSeries.forEach(series => {
+    series.events.forEach(event => {
+      const dt = new Date(event.startDate);
+      if (dt >= new Date()) {
+        currentEvents.push(event)
+      }
+    })
+  })
+  currentEvents.sort((a, b) => {
+    if (a.startDate < b.startDate) return -1;
+    if (a.startDate > b.startDate) return 1;
+    return 0;
+  })
   return {
     props: { // will be passed to the page component as props
-      foo: allSeries,
+      currentEvents,
     },
   }
 }
@@ -46,7 +60,8 @@ function loadEvent(data) {
     id: data.id || data.meetupcom.ical?.uid || null,
     title: data.title || data.meetupcom.og_title || null,
     url: data.url || data.meetupcom.url || null,
-    venue: data.venue || null,
+    location: data.venue?.name || data.meetupcom?.ical?.location || null,
+    startDate: data.date?.toISOString() || data.meetupcom?.ical?.dtstart.toISOString() || null,
   }
 }
 
