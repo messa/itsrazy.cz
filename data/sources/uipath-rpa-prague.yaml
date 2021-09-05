@@ -1,0 +1,106 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/UiPath-RPA-Prague/
+    meta_description: An online and offline environment where RPA developers or enthusiasts:- meet each other- share about the challenges they encounter, learn together- build projects and components togetherShare your exp
+    og_title: UiPath RPA Prague (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/1/9/4/4/600_496506468.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Tue, Jun 15, 2021, 12:00 PM: The future of automation is coming to you. Live, online, and free.The global UiPath Community is coming together on June 15-16, 2021 to learn, build, and connect at UiPath'
+      og_title: UiPath DevCon 2021
+      image: https://secure.meetupstatic.com/photos/event/1/9/3/7/600_496506455.jpeg
+      url: https://www.meetup.com/UiPath-RPA-Prague/events/278400401/
+      ical:
+        summary: UiPath DevCon 2021
+        description: 'UiPath RPA Prague
+
+          Tuesday, June 15 at 12:00 PM
+
+
+          The future of automation is coming to you. Live, online, and free. The global UiPath Community is coming together on June 15-16, 2021 to learn, build,...
+
+
+          https://www.meetup.com/UiPath-RPA-Prague/events/278400401/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278400401@meetup.com
+        url: https://www.meetup.com/UiPath-RPA-Prague/events/278400401/
+        dtstart: 2021-06-15 12:00:00+02:00
+        dtend: 2021-06-15 16:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 25, 2020, 3:00 PM: Hello UiPath Community!New monthly global meetup coming up!Incorporating API automation into your overall strategy allows both RPA and Test Teams to improve execution effic'
+      og_title: Leveraging API Automation in UiPath Studio
+      image: https://secure.meetupstatic.com/photos/event/c/8/4/c/600_490791276.jpeg
+      url: https://www.meetup.com/UiPath-RPA-Prague/events/271224883/
+      ical:
+        summary: Leveraging API Automation in UiPath Studio
+        description: 'UiPath RPA Prague
+
+          Thursday, June 25 at 3:00 PM
+
+
+          Hello UiPath Community! New monthly global meetup coming up! Incorporating API automation into your overall strategy allows both RPA and Test Teams to...
+
+
+          https://www.meetup.com/UiPath-RPA-Prague/events/271224883/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_271224883@meetup.com
+        url: https://www.meetup.com/UiPath-RPA-Prague/events/271224883/
+        dtstart: 2020-06-25 15:00:00+02:00
+        dtend: 2020-06-25 16:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, May 28, 2020, 3:00 PM: Hello UiPath Community!Brand new virtual meetup coming up on how you can accelerate your implementation time with API integration!UiPath integrates deeply with the best tec'
+      og_title: Accelerate your implementation time with API integration
+      image: https://secure.meetupstatic.com/photos/event/4/b/6/f/600_490519311.jpeg
+      url: https://www.meetup.com/UiPath-RPA-Prague/events/270786749/
+      ical:
+        summary: Accelerate your implementation time with API integration
+        description: 'UiPath RPA Prague
+
+          Thursday, May 28 at 3:00 PM
+
+
+          Hello UiPath Community!  Brand new virtual meetup coming up on how you can accelerate your implementation time with API integration!  UiPath integrate...\n
+
+          https://www.meetup.com/UiPath-RPA-Prague/events/270786749/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_270786749@meetup.com
+        url: https://www.meetup.com/UiPath-RPA-Prague/events/270786749/
+        dtstart: 2020-05-28 15:00:00+02:00
+        dtend: 2020-05-28 16:30:00+02:00
+  - meetupcom:
+      meta_description: 'Fri, May 1, 2020, 4:30 PM: Hello UiPath Community,Second most wanted virtual meetup is here: UiPath Test suite: Mobile Automation!Register for the session here: https://bit.ly/UiPathTestSuite.As soon '
+      og_title: 'UiPath Test Suite: Mobile Automation: Virtual Meetup '
+      image: https://secure.meetupstatic.com/photos/event/e/3/8/7/600_490198247.jpeg
+      url: https://www.meetup.com/UiPath-RPA-Prague/events/270178392/
+      ical:
+        summary: 'UiPath Test Suite: Mobile Automation: Virtual Meetup '
+        description: 'UiPath RPA Prague
+
+          Friday, May 1 at 4:30 PM
+
+
+          Hello UiPath Community, Second most wanted virtual meetup is here: UiPath Test suite: Mobile Automation! Register for the session here:...
+
+
+          https://www.meetup.com/UiPath-RPA-Prague/events/270178392/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_270178392@meetup.com
+        url: https://www.meetup.com/UiPath-RPA-Prague/events/270178392/
+        dtstart: 2020-05-01 16:30:00+02:00
+        dtend: 2020-05-01 18:00:00+02:00

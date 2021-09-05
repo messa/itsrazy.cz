@@ -1,0 +1,132 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/Tesena-testing-club/
+    meta_description: The Tesena Meetup is an open forum for all people interested in SW testing who want to share their experience & develop their own professional skills, or just want to have a good time together and fin
+    og_title: Tesena Testing Club (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Fri, Sep 17, 2021, 9:00 AM: From analyzing user stories and designing test cases to their implementation into Postman’s framework. We will go together through data preparation, setting up Postman, and'
+      og_title: Real Project in Postman - Step by Step
+      image: https://secure.meetupstatic.com/photos/event/1/2/f/4/600_497824852.jpeg
+      url: https://www.meetup.com/Tesena-testing-club/events/279586716/
+      ical:
+        summary: Real Project in Postman - Step by Step
+        description: 'Tesena Testing Club
+
+          Friday, September 17 at 9:00 AM
+
+
+          From analyzing user stories and designing test cases to their implementation into Postman’s framework. We will go together through data preparation\, s...
+
+
+          https://www.meetup.com/Tesena-testing-club/events/279586716/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279586716@meetup.com
+        url: https://www.meetup.com/Tesena-testing-club/events/279586716/
+        dtstart: 2021-09-17 09:00:00+02:00
+        dtend: 2021-09-17 13:00:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Sep 20, 2021, 1:00 PM: In this workshop, you will get acquainted with Microsoft''s browser automation library called Playwright, which is taking the testing world by storm. It is versatile, allows'
+      og_title: Quick Introduction to Playwright
+      image: https://secure.meetupstatic.com/photos/event/b/7/4/a/600_497806922.jpeg
+      url: https://www.meetup.com/Tesena-testing-club/events/279586778/
+      ical:
+        summary: Quick Introduction to Playwright
+        description: 'Tesena Testing Club
+
+          Monday, September 20 at 1:00 PM
+
+
+          In this workshop, you will get acquainted with Microsoft''s browser automation library called Playwright, which is taking the testing world by storm. I...
+
+
+          https://www.meetup.com/Tesena-testing-club/events/279586778/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279586778@meetup.com
+        url: https://www.meetup.com/Tesena-testing-club/events/279586778/
+        dtstart: 2021-09-20 13:00:00+02:00
+        dtend: 2021-09-20 17:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Sep 29, 2021, 1:00 PM: Testing is a crucial enabler for the success of chatbots and voice assistants. Doing it manually requires enormous time and effort. As DevOps and AIOps grow in importance, '
+      og_title: From Manual to Automated Testing for Conversational AI
+      image: https://secure.meetupstatic.com/photos/event/b/7/5/1/600_497806929.jpeg
+      url: https://www.meetup.com/Tesena-testing-club/events/279608089/
+      ical:
+        summary: From Manual to Automated Testing for Conversational AI
+        description: 'Tesena Testing Club
+
+          Wednesday, September 29 at 1:00 PM
+
+
+          Testing is a crucial enabler for the success of chatbots and voice assistants. Doing it manually requires enormous time and effort. As DevOps and AIOp...
+
+
+          https://www.meetup.com/Tesena-testing-club/events/279608089/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279608089@meetup.com
+        url: https://www.meetup.com/Tesena-testing-club/events/279608089/
+        dtstart: 2021-09-29 13:00:00+02:00
+        dtend: 2021-09-29 17:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Oct 6, 2021, 1:00 PM: AI has been rapidly changing the way we approach software testing. Traditional test automation is time-consuming to create and breaks down easily in the presence of change. '
+      og_title: A Beginner's Guide to AI-Driven Testing
+      image: https://secure.meetupstatic.com/photos/event/b/7/5/6/600_497806934.jpeg
+      url: https://www.meetup.com/Tesena-testing-club/events/279608096/
+      ical:
+        summary: A Beginner's Guide to AI-Driven Testing
+        description: 'Tesena Testing Club
+
+          Wednesday, October 6 at 1:00 PM
+
+
+          AI has been rapidly changing the way we approach software testing. Traditional test automation is time-consuming to create and breaks down easily in t...
+
+
+          https://www.meetup.com/Tesena-testing-club/events/279608096/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279608096@meetup.com
+        url: https://www.meetup.com/Tesena-testing-club/events/279608096/
+        dtstart: 2021-10-06 13:00:00+02:00
+        dtend: 2021-10-06 17:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Nov 19, 2020, 2:00 PM: To register for the workshop visit our website https://www.tesena.com/en/riskstormingonline-workshopRiskStormingOnline WorkshopAbout the workshop: Testing is a craft, but i'
+      og_title: RiskStorming Online Workshop
+      image: https://secure.meetupstatic.com/photos/event/4/d/2/f/600_493279759.jpeg
+      url: https://www.meetup.com/Tesena-testing-club/events/274252397/
+      ical:
+        summary: RiskStorming Online Workshop
+        description: 'Tesena Testing Club
+
+          Thursday, November 19 at 2:00 PM
+
+
+          To register for the workshop visit our website https://www.tesena.com/en/riskstormingonline-workshop RiskStormingOnline Workshop About the workshop: T...
+
+
+          https://www.meetup.com/Tesena-testing-club/events/274252397/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_274252397@meetup.com
+        url: https://www.meetup.com/Tesena-testing-club/events/274252397/
+        dtstart: 2020-11-19 14:00:00+01:00
+        dtend: 2020-11-19 16:00:00+01:00
