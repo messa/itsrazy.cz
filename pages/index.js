@@ -1,13 +1,14 @@
 import fs from 'fs'
 import { resolve } from 'path'
 import yaml from 'js-yaml'
+import Layout from '../components/Layout'
 
 function IndexPage({ foo }) {
   return (
-    <div>
-      <h1>itsrazy.cz</h1>
+    <Layout>
+      <h1>ITsrazy.cz</h1>
       <pre>{JSON.stringify(foo, null, 2)}</pre>
-    </div>
+    </Layout>
   )
 }
 
