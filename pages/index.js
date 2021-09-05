@@ -2,12 +2,20 @@ import fs from 'fs'
 import { resolve } from 'path'
 import yaml from 'js-yaml'
 import Layout from '../components/Layout'
+import DateCard from '../components/DateCard'
+import EventPreview from '../components/EventPreview'
 
 function IndexPage({ currentEvents }) {
   return (
     <Layout>
       <h1>ITsrazy.cz</h1>
-      <pre>{JSON.stringify({ currentEvents }, null, 2)}</pre>
+      {currentEvents.map((event, index) => (
+        <div key={index} style={{ display: 'flex' }}>
+          <DateCard date={event.startDate} />
+          <EventPreview event={event} />
+        </div>
+      ))}
+      {false && <pre>{JSON.stringify({ currentEvents }, null, 2)}</pre>}
     </Layout>
   )
 }
