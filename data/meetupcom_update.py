@@ -126,7 +126,7 @@ def process_event(event_url, events):
     event['meetupcom']['ical'] = {
         'summary': cal['VEVENT']['SUMMARY'],
         'description': cal['VEVENT']['DESCRIPTION'],
-        'location': cal['VEVENT']['LOCATION'],
+        'location': cal['VEVENT'].get('LOCATION'),
         'geo': parse_ical_geo(cal['VEVENT']['GEO']),
         'status': cal['VEVENT']['STATUS'],
         'uid': cal['VEVENT']['UID'],
@@ -153,7 +153,6 @@ def parse_ical_datetime(event, key):
             dt = pytz.timezone(tzname).localize(dt)
             return dt
     raise Exception(f'Could not find {key}')
-
 
 
 def preprocess_raw_ical(raw):

@@ -58,6 +58,26 @@ series:
       - UID:event_280506503@meetup.com
       - END:VEVENT
       - END:VCALENDAR
+      ical:
+        summary: 2021 PragueJS After-Summer Party
+        description: 'PragueJS
+
+          Tuesday, September 14 at 6:00 PM
+
+
+          Before jumping into our common meetup format, we decided to organize an after-summer party to meet you in person again, drink a couple of beers, discu...
+
+
+          https://www.meetup.com/praguejs/events/280506503/'
+        location: Kasárna Karlín (Prvního pluku 20/2, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280506503@meetup.com
+        url: https://www.meetup.com/praguejs/events/280506503/
+        dtstart: 2021-09-14 18:00:00+02:00
+        dtend: 2021-09-14 23:00:00+02:00
   - meetupcom:
       meta_description: 'Tue, Oct 5, 2021, 6:30 PM: Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are'
       og_title: '2021 #1 Static Site Generators'
@@ -111,6 +131,26 @@ series:
       - UID:event_267847625@meetup.com
       - END:VEVENT
       - END:VCALENDAR
+      ical:
+        summary: '2021 #1 Static Site Generators'
+        description: 'PragueJS
+
+          Tuesday, October 5 at 6:30 PM
+
+
+          Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse r...
+
+
+          https://www.meetup.com/praguejs/events/267847625/'
+        location: Kavárna co hledá jméno (Stroupežnického 493/10, Smíchov, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_267847625@meetup.com
+        url: https://www.meetup.com/praguejs/events/267847625/
+        dtstart: 2021-10-05 18:30:00+02:00
+        dtend: 2021-10-05 20:30:00+02:00
   - meetupcom:
       meta_description: 'Tue, Nov 2, 2021, 6:30 PM: Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are'
       og_title: '2021 #2 Optimization Techniques'
@@ -162,6 +202,26 @@ series:
       - UID:event_267847681@meetup.com
       - END:VEVENT
       - END:VCALENDAR
+      ical:
+        summary: '2021 #2 Optimization Techniques'
+        description: 'PragueJS
+
+          Tuesday, November 2 at 6:30 PM
+
+
+          Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse r...
+
+
+          https://www.meetup.com/praguejs/events/267847681/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_267847681@meetup.com
+        url: https://www.meetup.com/praguejs/events/267847681/
+        dtstart: 2021-11-02 18:30:00+01:00
+        dtend: 2021-11-02 20:30:00+01:00
   - meetupcom:
       meta_description: 'Tue, Dec 7, 2021, 6:30 PM: Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are'
       og_title: '2021 #3 Gaming Development'
@@ -213,6 +273,26 @@ series:
       - UID:event_267847634@meetup.com
       - END:VEVENT
       - END:VCALENDAR
+      ical:
+        summary: '2021 #3 Gaming Development'
+        description: 'PragueJS
+
+          Tuesday, December 7 at 6:30 PM
+
+
+          Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse r...
+
+
+          https://www.meetup.com/praguejs/events/267847634/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_267847634@meetup.com
+        url: https://www.meetup.com/praguejs/events/267847634/
+        dtstart: 2021-12-07 18:30:00+01:00
+        dtend: 2021-12-07 20:30:00+01:00
   - meetupcom:
       meta_description: 'Tue, Jan 25, 2022, 6:30 PM: Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that ar'
       og_title: '2022 #1 Server Side JavaScript'
@@ -264,6 +344,26 @@ series:
       - UID:event_269001730@meetup.com
       - END:VEVENT
       - END:VCALENDAR
+      ical:
+        summary: '2022 #1 Server Side JavaScript'
+        description: 'PragueJS
+
+          Tuesday, January 25 at 6:30 PM
+
+
+          Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse r...
+
+
+          https://www.meetup.com/praguejs/events/269001730/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_269001730@meetup.com
+        url: https://www.meetup.com/praguejs/events/269001730/
+        dtstart: 2022-01-25 18:30:00+01:00
+        dtend: 2022-01-25 20:30:00+01:00
   - meetupcom:
       meta_description: 'Tue, Feb 22, 2022, 6:30 PM: Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that ar'
       og_title: '2022 #2 Client-side Databases'
@@ -315,3 +415,23 @@ series:
       - UID:event_267847695@meetup.com
       - END:VEVENT
       - END:VCALENDAR
+      ical:
+        summary: '2022 #2 Client-side Databases'
+        description: 'PragueJS
+
+          Tuesday, February 22 at 6:30 PM
+
+
+          Get out and get social in 2020 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse r...
+
+
+          https://www.meetup.com/praguejs/events/267847695/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_267847695@meetup.com
+        url: https://www.meetup.com/praguejs/events/267847695/
+        dtstart: 2022-02-22 18:30:00+01:00
+        dtend: 2022-02-22 20:30:00+01:00
