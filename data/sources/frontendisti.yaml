@@ -6,36 +6,6 @@ series:
     image: https://secure.meetupstatic.com/photos/event/1/2/1/6/600_498544630.jpeg
   events:
   - meetupcom:
-      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
-      og_title: '{Front Konference} - Historicky první česká frontendová konference'
-      image: https://secure.meetupstatic.com/photos/event/b/e/3/3/600_496128691.jpeg
-      url: https://secure.meetup.com/login/
-      ical:
-        summary: '{Front Konference} - Historicky první česká frontendová konference'
-        description: 'Frontendisti.cz
-
-          Saturday, May 29 at 10:00 AM
-
-
-          Vstupenky na webu https://frontendisti.cz/konference ---Těšit se můžete na tyto přednášky: JAN BIENTailwind CSS – framework, který zvládne každý grafi...\n
-
-          https://www.meetup.com/frontendisti/events/278006831/'
-        location: Online event
-        geo:
-          lat: 50.08
-          lon: 14.43
-        status: CONFIRMED
-        uid: event_278006831@meetup.com
-        url: https://www.meetup.com/frontendisti/events/278006831/
-        dtstart:
-          timezone: Europe/Prague
-          datetime: 20210529T100000
-          datetime_utc: 20210529T080000Z
-        dtend:
-          timezone: Europe/Prague
-          datetime: 20210529T170000
-          datetime_utc: 20210529T150000Z
-  - meetupcom:
       meta_description: 'Wed, Oct 13, 2021, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
       og_title: Meetup Frontedisti.cz, Wed, Oct 13, 2021, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
@@ -160,8 +130,10 @@ series:
           datetime: 20220112T210000
           datetime_utc: 20220112T200000Z
   - meetupcom:
-      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
-      url: https://secure.meetup.com/login/
+      meta_description: 'Sat, May 29, 2021, 10:00 AM: Vstupenky na webu https://frontendisti.cz/konference---Těšit se můžete na tyto přednášky:JAN BIENTailwind CSS – framework, který zvládne každý grafický návrh?BOREK BERNARD'
+      og_title: '{Front Konference} - Historicky první česká frontendová konference'
+      image: https://secure.meetupstatic.com/photos/event/b/e/3/3/600_496128691.jpeg
+      url: https://www.meetup.com/frontendisti/events/278006831/
       ical:
         summary: '{Front Konference} - Historicky první česká frontendová konference'
         description: 'Frontendisti.cz

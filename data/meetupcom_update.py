@@ -66,6 +66,7 @@ def process_source_file(source_file):
     # process <link> elements
     for link in root.xpath('/html/head/link'):
         if link.attrib.get('rel') == 'canonical':
+            assert link.attrib['href'] != 'https://secure.meetup.com/login/'
             source['series']['meetupcom']['url'] = link.attrib['href']
         elif link.attrib.get('rel') == 'image_src':
             source['series']['meetupcom']['image'] = link.attrib['href']
@@ -113,6 +114,7 @@ def process_event(event_url, events):
     # process <link> elements
     for link in root.xpath('/html/head/link'):
         if link.attrib.get('rel') == 'canonical':
+            assert link.attrib['href'] != 'https://secure.meetup.com/login/'
             event['meetupcom']['url'] = link.attrib['href']
         elif link.attrib.get('rel') == 'image_src':
             event['meetupcom']['image'] = link.attrib['href']
