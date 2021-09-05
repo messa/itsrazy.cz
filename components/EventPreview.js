@@ -7,6 +7,9 @@ function EventPreview({ event }) {
       {event.location && <div className='location'>{event.location}</div>}
       {/*<pre>{JSON.stringify(event)}</pre>*/}
       <style jsx>{`
+        .EventPreview {
+          margin-bottom: 1em;
+        }
         .EventPreview .title {
           margin: 0 0 3px 0;
           font-size: 14px;
