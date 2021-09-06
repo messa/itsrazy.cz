@@ -1,0 +1,107 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/IBM-Developer-Prague/
+    meta_description: Join us if you are interested in cloud computing, cognitive technology, Kubernetes and containers, IoT, Blockchain or open source software development.
+    og_title: IBM Developer Czechia (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/e/1/9/2/600_490377746.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Tue, Sep 7, 2021, 4:00 PM: ⏳💻🌐In the current Data’s era and with the increase of using Microservices architecture and need to stream the data in the right time, data streaming tools like Kafka becam'
+      og_title: Stream your data using IBM Event Streams and Kafka Connect hosted in Kubernetes
+      image: https://secure.meetupstatic.com/photos/event/5/e/2/2/600_498264098.jpeg
+      url: https://www.meetup.com/IBM-Developer-Prague/events/280210075/
+      ical:
+        summary: Stream your data using IBM Event Streams and Kafka Connect hosted in Kubernetes
+        description: 'IBM Developer Czechia
+
+          Tuesday, September 7 at 4:00 PM
+
+
+          ⏳??🌐In the current Data’s era and with the increase of using Microservices architecture and need to stream the data in the right time, data streaming t...
+
+
+          https://www.meetup.com/IBM-Developer-Prague/events/280210075/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280210075@meetup.com
+        url: https://www.meetup.com/IBM-Developer-Prague/events/280210075/
+        dtstart: 2021-09-07 16:00:00+02:00
+        dtend: 2021-09-07 17:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Sep 16, 2021, 4:00 PM: A central focus of Quarkus is developer joy and productivity. As part of this focus, Quarkus provides a powerful development mode which, amongother things, allows true hot '
+      og_title: 'IBM and ConSol present: Remote development of Quarkus applications'
+      image: https://secure.meetupstatic.com/photos/event/d/1/1/d/600_498413533.jpeg
+      url: https://www.meetup.com/IBM-Developer-Prague/events/280353117/
+      ical:
+        summary: 'IBM and ConSol present: Remote development of Quarkus applications'
+        description: 'IBM Developer Czechia
+
+          Thursday, September 16 at 4:00 PM
+
+
+          A central focus of Quarkus is developer joy and productivity. As part of this focus, Quarkus provides a powerful development mode which, amongother th...
+
+
+          https://www.meetup.com/IBM-Developer-Prague/events/280353117/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280353117@meetup.com
+        url: https://www.meetup.com/IBM-Developer-Prague/events/280353117/
+        dtstart: 2021-09-16 16:00:00+02:00
+        dtend: 2021-09-16 18:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Sep 30, 2021, 4:00 PM: Utilizing messaging systems grants us the capability to decouple services from each other: downtime of a service consuming messages does not impact the functionality of the'
+      og_title: Messaging with Quarkus
+      image: https://secure.meetupstatic.com/photos/event/d/1/3/3/600_498413555.jpeg
+      url: https://www.meetup.com/IBM-Developer-Prague/events/280353088/
+      ical:
+        summary: Messaging with Quarkus
+        description: 'IBM Developer Czechia
+
+          Thursday, September 30 at 4:00 PM
+
+
+          Utilizing messaging systems grants us the capability to decouple services from each other: downtime of a service consuming messages does not impact th...
+
+
+          https://www.meetup.com/IBM-Developer-Prague/events/280353088/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280353088@meetup.com
+        url: https://www.meetup.com/IBM-Developer-Prague/events/280353088/
+        dtstart: 2021-09-30 16:00:00+02:00
+        dtend: 2021-09-30 18:00:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Aug 16, 2021, 4:00 PM: Join Mohamed and Aparna in their demonstration on how to successfully tackle challenging tasks of migrating legacy systems to a modern, cloud-based environment ☁️📦🏢☁️🖧 M'
+      og_title: Microservices’ recipe using Kubernetes and Istio
+      image: https://secure.meetupstatic.com/photos/event/c/9/7/1/600_497991569.jpeg
+      url: https://www.meetup.com/IBM-Developer-Prague/events/279925026/
+      ical:
+        summary: Microservices’ recipe using Kubernetes and Istio
+        description: 'IBM Developer Czechia
+
+          Monday, August 16 at 4:00 PM
+
+
+          Join Mohamed and Aparna in their demonstration on how to successfully tackle challenging tasks of migrating legacy systems to a modern, cloud-based en...
+
+
+          https://www.meetup.com/IBM-Developer-Prague/events/279925026/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279925026@meetup.com
+        url: https://www.meetup.com/IBM-Developer-Prague/events/279925026/
+        dtstart: 2021-08-16 16:00:00+02:00
+        dtend: 2021-08-16 17:00:00+02:00
