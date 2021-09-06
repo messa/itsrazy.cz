@@ -54,3 +54,53 @@ series:
         url: https://www.meetup.com/protest_cz/events/279598290/
         dtstart: 2021-07-27 18:00:00+02:00
         dtend: 2021-07-27 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Jul 13, 2021, 6:00 PM: Je to neuvěřitelné, ale je to tu! 100. setkání komunity. 100 přednášek, workshopů, panelovek, diskusí. A co je hlavní, 100x jsme se sešli. Ani covid nám nezabránil dál rozv'
+      og_title: 100. [pro:]TEST! REUNION
+      image: https://secure.meetupstatic.com/photos/event/c/e/9/f/600_497392895.jpeg
+      url: https://www.meetup.com/protest_cz/events/279340696/
+      ical:
+        summary: 100. [pro:]TEST! REUNION
+        description: '[pro:]TEST!
+
+          Tuesday, July 13 at 6:00 PM
+
+
+          Je to neuvěřitelné, ale je to tu! 100. setkání komunity. 100 přednášek, workshopů, panelovek, diskusí. A co je hlavní, 100x jsme se sešli. Ani covid n...
+
+
+          https://www.meetup.com/protest_cz/events/279340696/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279340696@meetup.com
+        url: https://www.meetup.com/protest_cz/events/279340696/
+        dtstart: 2021-07-13 18:00:00+02:00
+        dtend: 2021-07-13 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Jun 8, 2021, 6:00 PM: Peter Svoboda je dlouholetý propagátor kvalitního softwaru a pořadatel mezinárodní konference Testing United. Letošní ročník bude unikátní v propojení reálného světa a virtu'
+      og_title: 99. [pro:]TEST! VirtualReality pro konferenci Testing United s Petrem Svobodou
+      image: https://secure.meetupstatic.com/photos/event/9/c/1/d/600_496659965.jpeg
+      url: https://www.meetup.com/protest_cz/events/278568786/
+      ical:
+        summary: 99. [pro:]TEST! VirtualReality pro konferenci Testing United s Petrem Svobodou
+        description: '[pro:]TEST!
+
+          Tuesday, June 8 at 6:00 PM
+
+
+          Peter Svoboda je dlouholetý propagátor kvalitního softwaru a pořadatel mezinárodní konference Testing United. Letošní ročník bude unikátní v propojení...
+
+
+          https://www.meetup.com/protest_cz/events/278568786/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278568786@meetup.com
+        url: https://www.meetup.com/protest_cz/events/278568786/
+        dtstart: 2021-06-08 18:00:00+02:00
+        dtend: 2021-06-08 19:00:00+02:00

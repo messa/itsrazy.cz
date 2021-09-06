@@ -4,4 +4,114 @@ series:
     meta_description: This is a group for anyone interested in the programing language Ruby. All skills levels are welcome. This group was started to bring together Ruby enthusiasts and to learn from each other. Looking fo
     og_title: Prague.rb / CSRUG (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
-  events: []
+  events:
+  - meetupcom:
+      meta_description: 'Wed, Oct 6, 2021, 7:00 PM: '
+      og_title: First Wednesday Of The Month - Ruby, Wed, Oct 6, 2021, 7:00 PM
+      image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
+      url: https://www.meetup.com/Praguerb/events/dkmktfyccnbjb/
+      ical:
+        summary: First Wednesday Of The Month - Ruby
+        description: 'Prague.rb / CSRUG
+
+          Wednesday, October 6 at 7:00 PM
+
+
+          https://www.meetup.com/Praguerb/events/dkmktfyccnbjb/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_dkmktfyccnbjb@meetup.com
+        url: https://www.meetup.com/Praguerb/events/dkmktfyccnbjb/
+        dtstart: 2021-10-06 19:00:00+02:00
+        dtend: 2021-10-06 22:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Nov 3, 2021, 7:00 PM: '
+      og_title: First Wednesday Of The Month - Ruby, Wed, Nov 3, 2021, 7:00 PM
+      image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
+      url: https://www.meetup.com/Praguerb/events/dkmktfyccpbfb/
+      ical:
+        summary: First Wednesday Of The Month - Ruby
+        description: 'Prague.rb / CSRUG
+
+          Wednesday, November 3 at 7:00 PM
+
+
+          https://www.meetup.com/Praguerb/events/dkmktfyccpbfb/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_dkmktfyccpbfb@meetup.com
+        url: https://www.meetup.com/Praguerb/events/dkmktfyccpbfb/
+        dtstart: 2021-11-03 19:00:00+01:00
+        dtend: 2021-11-03 22:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Dec 1, 2021, 7:00 PM: '
+      og_title: First Wednesday Of The Month - Ruby, Wed, Dec 1, 2021, 7:00 PM
+      image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
+      url: https://www.meetup.com/Praguerb/events/dkmktfyccqbcb/
+      ical:
+        summary: First Wednesday Of The Month - Ruby
+        description: 'Prague.rb / CSRUG
+
+          Wednesday, December 1 at 7:00 PM
+
+
+          https://www.meetup.com/Praguerb/events/dkmktfyccqbcb/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_dkmktfyccqbcb@meetup.com
+        url: https://www.meetup.com/Praguerb/events/dkmktfyccqbcb/
+        dtstart: 2021-12-01 19:00:00+01:00
+        dtend: 2021-12-01 22:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Jan 5, 2022, 7:00 PM: '
+      og_title: First Wednesday Of The Month - Ruby, Wed, Jan 5, 2022, 7:00 PM
+      image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
+      url: https://www.meetup.com/Praguerb/events/dkmktfydccbhb/
+      ical:
+        summary: First Wednesday Of The Month - Ruby
+        description: 'Prague.rb / CSRUG
+
+          Wednesday, January 5 at 7:00 PM
+
+
+          https://www.meetup.com/Praguerb/events/dkmktfydccbhb/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_dkmktfydccbhb@meetup.com
+        url: https://www.meetup.com/Praguerb/events/dkmktfydccbhb/
+        dtstart: 2022-01-05 19:00:00+01:00
+        dtend: 2022-01-05 22:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Sep 1, 2021, 7:00 PM: '
+      og_title: First Wednesday Of The Month - Ruby, Wed, Sep 1, 2021, 7:00 PM
+      image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
+      url: https://www.meetup.com/Praguerb/events/dkmktfyccmbcb/
+      ical:
+        summary: First Wednesday Of The Month - Ruby
+        description: 'Prague.rb / CSRUG
+
+          Wednesday, September 1 at 7:00 PM
+
+
+          https://www.meetup.com/Praguerb/events/280364785/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_dkmktfyccmbcb@meetup.com
+        url: https://www.meetup.com/Praguerb/events/280364785/
+        dtstart: 2021-09-01 19:00:00+02:00
+        dtend: 2021-09-01 22:00:00+02:00

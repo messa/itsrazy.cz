@@ -56,3 +56,28 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/279765728/
         dtstart: 2021-08-12 23:15:00+02:00
         dtend: 2021-08-12 23:35:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Sep 21, 2021, 6:00 PM: Please register to join us here: https://www.h2o.ai/fireside-chat-h2o-ai-mastercard/?utm_medium=Organic-Social&utm_source=meetup&utm_campaign=Financial Services firms have '
+      og_title: Fireside chat with MasterCard & H2O.ai
+      image: https://secure.meetupstatic.com/photos/event/a/3/f/1/600_498641969.jpeg
+      url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280585381/
+      ical:
+        summary: Fireside chat with MasterCard & H2O.ai
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Tuesday, September 21 at 6:00 PM
+
+
+          Please register to join us here: https://www.h2o.ai/fireside-chat-h2o-ai-mastercard/?utm_medium=Organic-Social&utm_source=meetup&utm_campaign= Financi...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280585381/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280585381@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280585381/
+        dtstart: 2021-09-21 18:00:00+02:00
+        dtend: 2021-09-21 19:00:00+02:00
