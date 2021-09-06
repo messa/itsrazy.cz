@@ -1,0 +1,7 @@
+series:
+  events:
+  - url: https://www.testingunited.com/
+    title: Testing United
+    date: 2021-11-11
+    venue:
+      name: O2 Universum Prague

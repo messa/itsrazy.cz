@@ -1,0 +1,15 @@
+series:
+  id: spolupracujeme
+  events:
+  - url: https://www.eventbrite.com/e/spolupracujeme-6-10-impact-hub-k10-tickets-168747266617
+    date: 2021-10-06
+    title: SpoluPRACUJEME - Impact Hub K10
+  - url: https://www.eventbrite.com/e/spolupracujeme-15-9-r14-coworking-tickets-168741308797
+    date: 2021-09-15
+    title: SpoluPRACUJEME - R14 Coworking
+  - url: https://www.eventbrite.com/e/spolupracujeme-7-9-meandr-revnice-tickets-168717002095
+    date: 2021-09-07
+    title: SpoluPRACUJEME - Meandr Řevnice
+  - url: https://www.eventbrite.com/e/spolupracujeme-22-9-paralelni-polis-tickets-165173080129
+    date: 2021-09-22
+    title: SpoluPRACUJEME 22. 9. - Paralelní Polis

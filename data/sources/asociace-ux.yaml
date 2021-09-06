@@ -7,7 +7,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/8/6/2/b/600_462814347.jpeg
   events:
   - meetupcom:
-      meta_description: 'Mon, Sep 6, 2021, 6:30 PM: Září znamená návrat školních lavic a nejinak tomu bude i v případě UX Monday. Opět se totiž vedle online streamu potkáme také v offline režimu (detaily níže) a hlavně se pod'
+      meta_description: 'Mon, Sep 6, 2021, 6:30 PM: Setkání můžete sledovat na odkaze: https://www.youtube.com/watch?v=aWYeLhfClBcSlido na otázky řečníkům - https://app.sli.do/event/rwt06fcf---Září znamená návrat školních lav'
       og_title: 'UX Monday: Podpora začínajících designérů v týmu'
       image: https://secure.meetupstatic.com/photos/event/6/1/a/c/600_498505004.jpeg
       url: https://www.meetup.com/asociace-ux/events/280440185/
@@ -18,7 +18,7 @@ series:
           Monday, September 6 at 6:30 PM
 
 
-          Září znamená návrat školních lavic a nejinak tomu bude i v případě UX Monday. Opět se totiž vedle online streamu potkáme také v offline režimu (detail...
+          Setkání můžete sledovat na odkaze: https://www.youtube.com/watch?v=aWYeLhfClBc Slido na otázky řečníkům - https://app.sli.do/event/rwt06fcf --- Září z...
 
 
           https://www.meetup.com/asociace-ux/events/280440185/'
@@ -56,3 +56,53 @@ series:
         url: https://www.meetup.com/asociace-ux/events/279577242/
         dtstart: 2021-08-05 18:00:00+02:00
         dtend: 2021-08-05 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Jul 12, 2021, 5:30 PM: Pojďme se po roce opět potkat na čerstvém vzduchu, ugrilovat si pár klobásek, zeleniny, hub a dalších pochutin dle individuální libosti a pozdravit se pod širým nebem s pam'
+      og_title: 'UX Monday: Letní BBQ setkání pod sluncem'
+      image: https://secure.meetupstatic.com/photos/event/9/4/1/9/600_490657913.jpeg
+      url: https://www.meetup.com/asociace-ux/events/278916793/
+      ical:
+        summary: 'UX Monday: Letní BBQ setkání pod sluncem'
+        description: 'Asociace UX
+
+          Monday, July 12 at 5:30 PM
+
+
+          Pojďme se po roce opět potkat na čerstvém vzduchu, ugrilovat si pár klobásek, zeleniny\, hub a dalších pochutin dle individuální libosti a pozdravit se...
+
+
+          https://www.meetup.com/asociace-ux/events/278916793/'
+        location: Grillpoint (Koňská stezka, Stromovka, Prague, AL, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278916793@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/278916793/
+        dtstart: 2021-07-12 17:30:00+02:00
+        dtend: 2021-07-12 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jul 1, 2021, 6:00 PM: Interested in UX writing? Want to hear from UX writers and designers about how they work together?Join Prague UX Writers for our 20th meetup, then stick around for some fun '
+      og_title: PRAGUE UX WRITERS MEETUP (+ online games) Vol. 20 - July
+      image: https://secure.meetupstatic.com/photos/event/b/8/d/5/600_497207317.jpeg
+      url: https://www.meetup.com/asociace-ux/events/279131193/
+      ical:
+        summary: PRAGUE UX WRITERS MEETUP (+ online games) Vol. 20 - July
+        description: 'Asociace UX
+
+          Thursday, July 1 at 6:00 PM
+
+
+          Interested in UX writing? Want to hear from UX writers and designers about how they work together? Join Prague UX Writers for our 20th meetup, then st...
+
+
+          https://www.meetup.com/asociace-ux/events/279131193/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279131193@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/279131193/
+        dtstart: 2021-07-01 18:00:00+02:00
+        dtend: 2021-07-01 19:30:00+02:00

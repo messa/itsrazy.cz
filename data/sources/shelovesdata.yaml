@@ -8,4 +8,10 @@ series:
     venue:
       name: Czechoslovak Commercial Bank, Inc.
       address: Radlická 333/150, 150 57 Praha 5
-      
+  - id: 202109-panel-discussion-networking-networking-prg
+    url: https://www.eventbrite.com/e/panel-discussion-networking-networking-prg-registration-167717057233
+    date: 2021-09-10
+    title: Panel discussion & networking_Networking_PRG
+    venue:
+      name: ČSOB
+      address: Budova SHQ, Výmolova ulice, Praha 5
