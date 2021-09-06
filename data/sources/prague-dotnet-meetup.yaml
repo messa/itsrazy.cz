@@ -1,0 +1,57 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/Prague-NET-Meetup/
+    meta_description: A monthly meeting of Prague based professional and enthusiast .NET software developers, providing a platform to share knowledge with local community and leading technology experts. We meet for a talk,
+    og_title: Dotnet Days Meetup (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/4/d/9/600_498541241.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Thu, Sep 9, 2021, 5:30 PM: GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the power to ask for exactly wh'
+      og_title: GraphQL in .NET
+      image: https://secure.meetupstatic.com/photos/event/4/c/0/600_498541216.jpeg
+      url: https://www.meetup.com/Prague-NET-Meetup/events/280482935/
+      ical:
+        summary: GraphQL in .NET
+        description: 'Dotnet Days Meetup
+
+          Thursday, September 9 at 5:30 PM
+
+
+          GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the powe...
+
+
+          https://www.meetup.com/Prague-NET-Meetup/events/280482935/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280482935@meetup.com
+        url: https://www.meetup.com/Prague-NET-Meetup/events/280482935/
+        dtstart: 2021-09-09 17:30:00+02:00
+        dtend: 2021-09-09 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Apr 22, 2021, 5:30 PM: OAuth has been around for more than 10 years now, and has become the standard protocol for token-based security. Like every popular technology that has been growing with it'
+      og_title: 'Dominick Baier: OAuth - The good Parts'
+      image: https://secure.meetupstatic.com/photos/event/9/c/9/4/600_495580084.jpeg
+      url: https://www.meetup.com/Prague-NET-Meetup/events/277417529/
+      ical:
+        summary: 'Dominick Baier: OAuth - The good Parts'
+        description: 'Dotnet Days Meetup
+
+          Thursday, April 22 at 5:30 PM
+
+
+          OAuth has been around for more than 10 years now, and has become the standard protocol for token-based security. Like every popular technology that ha...
+
+
+          https://www.meetup.com/Prague-NET-Meetup/events/277417529/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_277417529@meetup.com
+        url: https://www.meetup.com/Prague-NET-Meetup/events/277417529/
+        dtstart: 2021-04-22 17:30:00+02:00
+        dtend: 2021-04-22 19:00:00+02:00
