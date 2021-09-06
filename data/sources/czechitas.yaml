@@ -1,0 +1,15 @@
+series:
+  id: czechitas
+  events:
+  - url: https://www.czechitas.cz/kurzy/tech-meetup-women-leaders-in-aws
+    title: "Tech Meetup: Women leaders in AWS"
+    date: 2021-09-09
+  - url: https://www.czechitas.cz/kurzy/tech-meetup-uvod-do-programovani-v-sap-1
+    title: "Tech Meetup: Úvod do programování v SAP 1"
+    date: 2021-10-05
+  - url: https://www.czechitas.cz/kurzy/tech-meetup-digitalni-kancelar-s-microsoft-365
+    title: "Tech Meetup: Digitální kancelář s Microsoft 365"
+    date: 2021-10-13
+  - url: https://www.czechitas.cz/kurzy/javascript-o-webova-pristupnost-o-devtools
+    title: "JavaScript • Webová přístupnost • Devtools"
+    date: 2021-11-02

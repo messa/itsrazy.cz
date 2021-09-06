@@ -65,7 +65,7 @@ function loadSeries(data) {
 
 function loadEvent(data) {
   return {
-    id: data.id || data.meetupcom.ical?.uid || null,
+    id: data.id || data.meetupcom?.ical?.uid || data.url,
     title: data.title || data.meetupcom.og_title || null,
     url: data.url || data.meetupcom.url || null,
     location: data.venue?.name || data.meetupcom?.ical?.location || null,
