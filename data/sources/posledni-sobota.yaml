@@ -1,0 +1,7 @@
+series:
+  events:
+    - url: https://www.posobota.cz/
+      date: 2021-09-25
+      title: Poslední sobota
+      venue:
+        name: online
