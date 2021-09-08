@@ -22,3 +22,7 @@ jobs:
     - run: npm ci
     - run: npm run build
     #- run: npm test
+    - run: |
+        npm run start &
+        sleep 1
+        curl -sS -v http://127.0.0.1:3000/ | cut -c -100
