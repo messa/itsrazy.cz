@@ -31,13 +31,11 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/280288916/
         dtstart: 2021-09-15 18:00:00+02:00
         dtend: 2021-09-15 22:00:00+02:00
-
   - title: Productboard & WebExpo Party
     url: https://www.eventbrite.com/e/productboard-webexpo-party-tickets-169377920921
     date: 2021-09-21
     venue:
       name: Retro Cocktail & Music Bar
-
   - meetupcom:
       meta_description: 'Wed, Sep 29, 2021, 6:00 PM: Productboard Backend Meetups are back! And they will be better than ever! During the pandemic, we moved into new offices, which have already been named Best Startup Office '
       og_title: Backend Meetup PRG

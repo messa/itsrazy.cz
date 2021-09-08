@@ -55,3 +55,53 @@ series:
         url: https://www.meetup.com/Pure-Storage-Talks/events/278418628/
         dtstart: 2021-06-10 18:00:00+02:00
         dtend: 2021-06-10 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Feb 18, 2021, 6:00 PM: ABOUT:Most large-scale C++ codebases have organization-specific libraries and patterns that are not covered by out-of-the-box static analysis tools like clang-tidy. This pr'
+      og_title: 'PURE STORAGE: Scale code-reviews by custom clang-tidy checks in C++'
+      image: https://secure.meetupstatic.com/photos/event/8/d/c/e/600_492396302.jpeg
+      url: https://www.meetup.com/Pure-Storage-Talks/events/275886444/
+      ical:
+        summary: 'PURE STORAGE: Scale code-reviews by custom clang-tidy checks in C++'
+        description: 'Pure Storage Talks
+
+          Thursday, February 18 at 6:00 PM
+
+
+          ABOUT:Most large-scale C++ codebases have organization-specific libraries and patterns that are not covered by out-of-the-box static analysis tools li...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/275886444/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_275886444@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/275886444/
+        dtstart: 2021-02-18 18:00:00+01:00
+        dtend: 2021-02-18 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Dec 17, 2020, 6:00 PM: ABOUT:This has been a tough year so far, and as things start to look up into the next year, it is also a good time to reflect on the current one.The majority of companies d'
+      og_title: Strong companies lead in tough times. The Story of Pure in Prague
+      image: https://secure.meetupstatic.com/photos/event/e/2/4/8/600_493677928.jpeg
+      url: https://www.meetup.com/Pure-Storage-Talks/events/274786867/
+      ical:
+        summary: Strong companies lead in tough times. The Story of Pure in Prague
+        description: 'Pure Storage Talks
+
+          Thursday, December 17 at 6:00 PM
+
+
+          ABOUT:This has been a tough year so far, and as things start to look up into the next year, it is also a good time to reflect on the current one. The ...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/274786867/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_274786867@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/274786867/
+        dtstart: 2020-12-17 18:00:00+01:00
+        dtend: 2020-12-17 19:30:00+01:00

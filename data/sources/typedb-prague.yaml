@@ -128,3 +128,28 @@ series:
         url: https://www.meetup.com/typedb-prague/events/280313709/
         dtstart: 2021-09-01 18:30:00+02:00
         dtend: 2021-09-01 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Sep 16, 2021, 6:30 PM: Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform kno'
+      og_title: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise
+      image: https://secure.meetupstatic.com/photos/event/b/3/a/d/600_496365997.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280293822/
+      ical:
+        summary: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise
+        description: 'TypeDB Prague Engineers
+
+          Thursday, September 16 at 6:30 PM
+
+
+          Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query l...
+
+
+          https://www.meetup.com/typedb-prague/events/280293822/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280293822@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280293822/
+        dtstart: 2021-09-16 18:30:00+02:00
+        dtend: 2021-09-16 19:30:00+02:00

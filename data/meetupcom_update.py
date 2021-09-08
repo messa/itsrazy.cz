@@ -95,8 +95,9 @@ def process_source_file(source_file):
 
 
 def process_event(event_url, events):
+    assert event_url
     for event in events:
-        if event['meetupcom']['url'] == event_url:
+        if event.get('meetupcom', {}).get('url') == event_url:
             break
     else:
         event = {'meetupcom': {}}
