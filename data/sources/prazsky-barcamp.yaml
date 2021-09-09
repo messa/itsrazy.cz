@@ -1,0 +1,8 @@
+series:
+  events:
+  - url: https://www.prazskybarcamp.cz/
+    title: Pražský Barcamp
+    date: 2021-09-25
+    venue:
+      name: Siesta Casa
+      address: Konopišťská 739/16, Praha 10 Vršovice
