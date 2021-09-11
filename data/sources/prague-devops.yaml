@@ -55,3 +55,53 @@ series:
         url: https://www.meetup.com/Prague-DevOps-Meetup/events/277429169/
         dtstart: 2021-08-04 19:00:00+02:00
         dtend: 2021-08-04 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Jun 2, 2021, 7:00 PM: Hello doers,After a long break we are back with DevOps related presentations anddiscussions!We were trying to avoid running online events until now and not adding more to ev'
+      og_title: The First Online Prague DevOps meetup
+      image: https://secure.meetupstatic.com/photos/event/6/e/7/4/600_474748276.jpeg
+      url: https://www.meetup.com/Prague-DevOps-Meetup/events/277429158/
+      ical:
+        summary: The First Online Prague DevOps meetup
+        description: 'Prague DevOps Meetup
+
+          Wednesday, June 2 at 7:00 PM
+
+
+          Hello doers, After a long break we are back with DevOps related presentations anddiscussions!We were trying to avoid running online events until now a...
+
+
+          https://www.meetup.com/Prague-DevOps-Meetup/events/277429158/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_277429158@meetup.com
+        url: https://www.meetup.com/Prague-DevOps-Meetup/events/277429158/
+        dtstart: 2021-06-02 19:00:00+02:00
+        dtend: 2021-06-02 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Feb 24, 2020, 6:00 PM: Christopher Maneu - Scaling DevOpsDevOps is commonly known as the union of people, process, and products and a way to enable continuous delivery of value to customers. Many'
+      og_title: February DevOps Meetup
+      image: https://secure.meetupstatic.com/photos/event/6/e/7/4/600_474748276.jpeg
+      url: https://www.meetup.com/Prague-DevOps-Meetup/events/268575846/
+      ical:
+        summary: February DevOps Meetup
+        description: 'Prague DevOps Meetup
+
+          Monday, February 24 at 6:00 PM
+
+
+          Christopher Maneu - Scaling DevOpsDevOps is commonly known as the union of people, process, and products and a way to enable continuous delivery of va...
+
+
+          https://www.meetup.com/Prague-DevOps-Meetup/events/268575846/'
+        location: Microsoft (Vyskočilova 1561/4a, Praha 4, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_268575846@meetup.com
+        url: https://www.meetup.com/Prague-DevOps-Meetup/events/268575846/
+        dtstart: 2020-02-24 18:00:00+01:00
+        dtend: 2020-02-24 21:00:00+01:00

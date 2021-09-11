@@ -55,3 +55,53 @@ series:
         url: https://www.meetup.com/frontendisti-brno/events/278005773/
         dtstart: 2021-05-29 10:00:00+02:00
         dtend: 2021-05-29 17:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 14, 2021, 6:00 PM: Další online sraz Frontendistů - tentokrát o vzdělávání!Program:18:00 - Novinky - Frontendisti18:10 - Diskuze: Jak zlepšovat skill juniorům - Martin Kolář a hosté18:30 - Vz'
+      og_title: Vzdělávání - Frontendisti LIVE
+      image: https://secure.meetupstatic.com/photos/event/6/2/a/a/600_495565258.jpeg
+      url: https://www.meetup.com/frontendisti-brno/events/277398524/
+      ical:
+        summary: Vzdělávání - Frontendisti LIVE
+        description: 'Frontendisti.cz Brno
+
+          Wednesday, April 14 at 6:00 PM
+
+
+          Další online sraz Frontendistů - tentokrát o vzdělávání! Program:18:00 - Novinky - Frontendisti18:10  - Diskuze: Jak zlepšovat skill juniorům - Martin...
+
+
+          https://www.meetup.com/frontendisti-brno/events/277398524/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_277398524@meetup.com
+        url: https://www.meetup.com/frontendisti-brno/events/277398524/
+        dtstart: 2021-04-14 18:00:00+02:00
+        dtend: 2021-04-14 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Mar 10, 2021, 6:00 PM: Na druhém letošním srazu Frontendistů, který proběhne opět online, si budeme povídat o následujících technologiích.Program:18:00 - Novinky - Frontendisti18:15 - Renovate yo'
+      og_title: Frontendisti LIVE
+      image: https://secure.meetupstatic.com/photos/event/3/c/8/c/600_495015500.jpeg
+      url: https://www.meetup.com/frontendisti-brno/events/276730560/
+      ical:
+        summary: Frontendisti LIVE
+        description: 'Frontendisti.cz Brno
+
+          Wednesday, March 10 at 6:00 PM
+
+
+          Na druhém letošním srazu Frontendistů, který proběhne opět online, si budeme povídat o následujících technologiích. Program:18:00 - Novinky - Frontend...
+
+
+          https://www.meetup.com/frontendisti-brno/events/276730560/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_276730560@meetup.com
+        url: https://www.meetup.com/frontendisti-brno/events/276730560/
+        dtstart: 2021-03-10 18:00:00+01:00
+        dtend: 2021-03-10 20:00:00+01:00

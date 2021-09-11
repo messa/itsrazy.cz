@@ -55,3 +55,53 @@ series:
         url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/279587756/
         dtstart: 2021-07-28 18:00:00+02:00
         dtend: 2021-07-28 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Jul 20, 2021, 6:00 PM: Již čtvrtá Ladies’ Coding Night s Green Fox Academy - jeden večer, při kterém se uskuteční debata s inspirativními ženami z IT oboru a workshop základů programování v JavaS'
+      og_title: Ladies' Coding Night / online
+      image: https://secure.meetupstatic.com/photos/event/c/3/2/c/600_497269964.jpeg
+      url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/279218294/
+      ical:
+        summary: Ladies' Coding Night / online
+        description: 'Become a software developer from 0
+
+          Tuesday, July 20 at 6:00 PM
+
+
+          Již čtvrtá Ladies’ Coding Night s Green Fox Academy - jeden večer, při kterém se uskuteční debata s inspirativními ženami z IT oboru a workshop základ...
+
+
+          https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/279218294/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279218294@meetup.com
+        url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/279218294/
+        dtstart: 2021-07-20 18:00:00+02:00
+        dtend: 2021-07-20 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Jun 29, 2021, 6:00 PM: Pokud přemýšlíš o změně kariéry a zajímá tě programování, připoj se k naší informační schůzce, kde se dozvíš všechno potřebné o rekvalifikaci do tohoto oboru.Poznáš členy n'
+      og_title: 'Online informační schůzka: Jak se rekvalifikovat na programátora?'
+      image: https://secure.meetupstatic.com/photos/event/d/4/0/6/600_496974278.jpeg
+      url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/278901798/
+      ical:
+        summary: 'Online informační schůzka: Jak se rekvalifikovat na programátora?'
+        description: 'Become a software developer from 0
+
+          Tuesday, June 29 at 6:00 PM
+
+
+          Pokud přemýšlíš o změně kariéry a zajímá tě programování, připoj se k naší informační schůzce, kde se dozvíš všechno potřebné o rekvalifikaci do tohot...
+
+
+          https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/278901798/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278901798@meetup.com
+        url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/278901798/
+        dtstart: 2021-06-29 18:00:00+02:00
+        dtend: 2021-06-29 19:30:00+02:00

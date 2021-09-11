@@ -55,3 +55,53 @@ series:
         url: https://www.meetup.com/Prague-NET-Meetup/events/277417529/
         dtstart: 2021-04-22 17:30:00+02:00
         dtend: 2021-04-22 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Feb 24, 2020, 6:00 PM: Data Science and Artificial Intelligence are fascinating areas of computing. Microsoft is betting a lot on these new technologies, but we are also aware that data scientist'
+      og_title: Taking Advantage of AI Easily with Azure Cognitive Services - Laurent Bugnion
+      image: https://secure.meetupstatic.com/photos/event/2/e/0/f/600_488711791.jpeg
+      url: https://www.meetup.com/Prague-NET-Meetup/events/268424627/
+      ical:
+        summary: Taking Advantage of AI Easily with Azure Cognitive Services - Laurent Bugnion
+        description: 'Dotnet Days Meetup
+
+          Monday, February 24 at 6:00 PM
+
+
+          Data Science and Artificial Intelligence are fascinating areas of computing. Microsoft is betting a lot on these new technologies, but we are also awa...
+
+
+          https://www.meetup.com/Prague-NET-Meetup/events/268424627/'
+        location: WorkLounge Karlín (Pernerova 51, Praha 8-Karlín, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_268424627@meetup.com
+        url: https://www.meetup.com/Prague-NET-Meetup/events/268424627/
+        dtstart: 2020-02-24 18:00:00+01:00
+        dtend: 2020-02-24 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Feb 5, 2020, 6:00 PM: Presentation will be in EnglishKarel Zikmund - Async demystifiedAbstract: https://sessionize.com/s/karel-zikmund/async_demystified/24175Length: 60 minBio: https://sessionize'
+      og_title: .Net evening
+      image: https://secure.meetupstatic.com/photos/event/4/d/9/600_498541241.jpeg
+      url: https://www.meetup.com/Prague-NET-Meetup/events/268323465/
+      ical:
+        summary: .Net evening
+        description: 'Dotnet Days Meetup
+
+          Wednesday, February 5 at 6:00 PM
+
+
+          Presentation will be in English Karel Zikmund - Async demystifiedAbstract: https://sessionize.com/s/karel-zikmund/async_demystified/24175Length: 60 mi...
+
+
+          https://www.meetup.com/Prague-NET-Meetup/events/268323465/'
+        location: Microsoft (Vyskočilova 1561/4a, Praha 4, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_268323465@meetup.com
+        url: https://www.meetup.com/Prague-NET-Meetup/events/268323465/
+        dtstart: 2020-02-05 18:00:00+01:00
+        dtend: 2020-02-05 20:00:00+01:00
