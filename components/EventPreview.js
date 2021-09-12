@@ -1,9 +1,9 @@
 function EventPreview({ event }) {
   return (
     <div className='EventPreview'>
-      <h3 className='title'>
+      <h4 className='title'>
         <ALink href={event.url}>{event.title}</ALink>
-      </h3>
+      </h4>
       {event.location && <div className='location'>{event.location}</div>}
       {/*<pre>{JSON.stringify(event)}</pre>*/}
       <style jsx>{`
@@ -20,6 +20,7 @@ function EventPreview({ event }) {
         .EventPreview .location {
           margin: 3px 0;
           font-size: 12px;
+          font-weight: 300;
           color: #404040;
         }
       `}</style>

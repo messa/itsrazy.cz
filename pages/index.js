@@ -5,16 +5,49 @@ import Layout from '../components/Layout'
 import DateCard from '../components/DateCard'
 import EventPreview from '../components/EventPreview'
 
+function aggregateEventsByMonth(events) {
+  const byMonth = []
+  let lastMonth = null
+  let lastEventDate = null
+  for (const event of events) {
+    const eventDate = new Date(event.startDate)
+    if (lastEventDate
+      && lastEventDate.getFullYear() == eventDate.getFullYear()
+      && lastEventDate.getMonth() == eventDate.getMonth())
+    {
+      lastMonth.push(event)
+    } else {
+      lastMonth = [event]
+      byMonth.push(lastMonth)
+    }
+    lastEventDate = eventDate
+  }
+  return byMonth
+}
+
+const monthNames = ['leden', 'únor', 'březen', 'duben', 'květen', 'červen', 'červenec', 'srpen', 'září', 'říjen', 'listopad', 'prosinec']
+
+const firstUpperCase = s => s[0].toUpperCase() + s.substr(1)
+
 function IndexPage({ currentEvents }) {
+  const currentEventsByMonth = aggregateEventsByMonth(currentEvents)
   return (
     <Layout>
       <h1>ITsrazy.cz</h1>
-      {currentEvents.map((event, index) => (
-        <div key={index} style={{ display: 'flex' }}>
-          <DateCard date={event.startDate} />
-          <EventPreview event={event} />
-        </div>
-      ))}
+      {currentEventsByMonth.map(monthEvents => {
+        const monthDate = new Date(monthEvents[0].startDate)
+        return (
+          <div>
+            <h3>{firstUpperCase(monthNames[monthDate.getMonth()])} {monthDate.getFullYear()}</h3>
+            {monthEvents.map(event => (
+              <div key={event.startDate} style={{ display: 'flex' }}>
+                <DateCard date={event.startDate} />
+                <EventPreview event={event} />
+              </div>
+            ))}
+          </div>
+        )
+      })}
       {false && <pre>{JSON.stringify({ currentEvents }, null, 2)}</pre>}
     </Layout>
   )

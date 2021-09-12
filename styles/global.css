@@ -30,3 +30,13 @@ pre {
   font-size: 11px;
   line-height: 1.3;
 }
+
+h3 {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+h4 {
+  font-weight: 400;
+}

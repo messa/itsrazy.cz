@@ -1,5 +1,5 @@
-const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
-const months0 = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+//const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
+const days = ['Ne', 'Po', 'Út', 'St', 'Čt', 'Pá', 'So']
 
 const now = new Date()
 
@@ -9,30 +9,31 @@ function DateCard({ date }) {
   }
   return (
     <div className='DateCard'>
-      <div className='dayOfWeek'>{days[date.getDay()]}</div>
-      <div className='dayOfMonth'>{date.getDate()}</div>
-      {months0[date.getMonth()]}
-      {now.getFullYear() != date.getFullYear() && <div className='year'>{date.getFullYear()}</div>}
+      <div className='inner'>
+        <div className='dayOfMonth'>{date.getDate()}</div>
+        <div className='dayOfWeek'>{days[date.getDay()]}</div>
+      </div>
       <style jsx>{`
         .DateCard {
-          text-align: center;
           display: inline-block;
-          min-width: 50px;
           font-size: 11px;
           font-weight: bold;
           color: #666;
           margin-bottom: 10px;
+          min-width: 30px;
+        }
+        .DateCard > .inner {
+          display: inline-block;
+          text-align: center;
         }
         .DateCard .dayOfWeek {
-          font-weight: 500;
+          font-weight: 400;
           text-transform: uppercase;
+          font-size: 11px;
         }
         .DateCard .dayOfMonth {
           color: #c00;
           font-size: 15px;
-        }
-        .DateCard .year {
-          color: #000;
         }
       `}</style>
     </div>
