@@ -43,10 +43,10 @@ function IndexPage({ currentEvents }) {
       {aggregateEventsByMonth(currentEvents).map(monthEvents => {
         const monthDate = new Date(monthEvents[0].startDate)
         return (
-          <div>
+          <div key={monthDate.toISOString()}>
             <h3>{firstUpperCase(monthNames[monthDate.getMonth()])} {monthDate.getFullYear()}</h3>
             {aggregateEventsByDay(monthEvents).map(dayEvents => (
-              <div style={{ display: 'flex', marginBottom: '0.75rem' }}>
+              <div key={dayEvents[0].startDate} style={{ display: 'flex', marginBottom: '0.75rem' }}>
                 <DateCard date={dayEvents[0].startDate} />
                 <div>
                   {dayEvents.map(event => (
@@ -111,7 +111,7 @@ function loadSeries(data) {
 function loadEvent(data) {
   return {
     id: data.id || data.meetupcom?.ical?.uid || data.url,
-    title: data.title || data.meetupcom.og_title || null,
+    title: data.title || data.meetupcom?.ical?.summary || data.meetupcom?.og_title || data.id || data.url || null,
     url: data.url || data.meetupcom.url || null,
     location: data.venue?.name || data.meetupcom?.ical?.location || null,
     startDate: data.date?.toISOString() || data.meetupcom?.ical?.dtstart.toISOString() || null,
