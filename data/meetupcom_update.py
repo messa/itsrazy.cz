@@ -54,7 +54,7 @@ def process_source_file(source_file):
     m = re.match(r'^https://www\.meetup\.com/([^/?]+)/?', source['series']['meetupcom']['url'])
     urlname, = m.groups()
 
-    r = rs.get(source['series']['meetupcom']['url'])
+    r = rs.get(source['series']['meetupcom']['url'], timeout=30)
     r.raise_for_status()
     root = lxml.html.fromstring(r.content)
     # process <meta> elements
@@ -103,7 +103,7 @@ def process_event(event_url, events):
         event = {'meetupcom': {}}
         events.append(event)
 
-    r = rs.get(event_url)
+    r = rs.get(event_url, timeout=30)
     r.raise_for_status()
     root = lxml.html.fromstring(r.content)
     # process <meta> elements
@@ -121,7 +121,7 @@ def process_event(event_url, events):
             event['meetupcom']['image'] = link.attrib['href']
 
     assert event_url.endswith('/')
-    r = rs.get(event_url + 'ical/x.ics')
+    r = rs.get(event_url + 'ical/x.ics', timeout=30)
     r.raise_for_status()
     cal = parse_ical(r.text)
     event['meetupcom']['ical'] = {
@@ -235,8 +235,8 @@ def test_parse_ical():
         DTEND;TZID=Europe/Prague:20210906T203000
         STATUS:CONFIRMED
         SUMMARY:UX Monday: Podpora začínajících designérů v týmu
-        DESCRIPTION:Asociace UX\nMonday\, September 6 at 6:30 PM\n\nZáří znamená 
-         návrat školních lavic a nejinak tomu bude i v případě UX Monday. Opět se
+        DESCRIPTION:Asociace UX\nMonday\, September 6 at 6:30 PM\n\nZáří znamená
+          návrat školních lavic a nejinak tomu bude i v případě UX Monday. Opět se
           totiž vedle online streamu potkáme také v offline režimu (detail...\n\n
          https://www.meetup.com/asociace-ux/events/280440185/
         CLASS:PUBLIC
