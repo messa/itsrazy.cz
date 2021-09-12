@@ -39,7 +39,7 @@ const firstUpperCase = s => s[0].toUpperCase() + s.substr(1)
 function IndexPage({ currentEvents }) {
   return (
     <Layout>
-      <h1>ITsrazy.cz</h1>
+      <h1>IT<span>srazy.cz</span></h1>
       {aggregateEventsByMonth(currentEvents).map(monthEvents => {
         const monthDate = new Date(monthEvents[0].startDate)
         return (
