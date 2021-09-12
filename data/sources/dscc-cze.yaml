@@ -1,0 +1,107 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/dscc_cze/
+    meta_description: Welcome to Design Systems Community Chapter (DSCC) CzechiaDesign Systems Community helps bring people together to share ways of working, successes, and other learnings to encourage best practices in b
+    og_title: Design Systems Community Chapter Czechia (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/2/6/2/6/600_490269766.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Wed, Aug 26, 2020, 9:00 AM: Let''s chat about our design systems news, challenges, and questions with like-minded professionals.We can loosely discuss topics like how to approach organizational buy-in,'
+      og_title: Design Systems Breakfast Prague – August 2020
+      image: https://secure.meetupstatic.com/photos/event/2/3/b/0/600_490749136.jpeg
+      url: https://www.meetup.com/dscc_cze/events/272672785/
+      ical:
+        summary: Design Systems Breakfast Prague – August 2020
+        description: 'Design Systems Community Chapter Czechia
+
+          Wednesday, August 26 at 9:00 AM
+
+
+          Let''s chat about our design systems news, challenges, and questions with like-minded professionals. We can loosely discuss topics like how to approach...
+
+
+          https://www.meetup.com/dscc_cze/events/272672785/'
+        location: Gate Restaurant (Sokolovská 539, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_272672785@meetup.com
+        url: https://www.meetup.com/dscc_cze/events/272672785/
+        dtstart: 2020-08-26 09:00:00+02:00
+        dtend: 2020-08-26 10:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Jul 1, 2020, 7:00 PM: We are excited to announce our first online meetup ever!YouTube stream: https://youtu.be/pKUr3CbRa3o (starting July 1st, 19:00 CEST)Agenda (CEST):19:00 - 19:10 - Design Syst'
+      og_title: Selling & scaling design systems
+      image: https://secure.meetupstatic.com/photos/event/1/5/e/6/600_490985606.jpeg
+      url: https://www.meetup.com/dscc_cze/events/271472434/
+      ical:
+        summary: Selling & scaling design systems
+        description: 'Design Systems Community Chapter Czechia
+
+          Wednesday, July 1 at 7:00 PM
+
+
+          We are excited to announce our first online meetup ever! YouTube stream: https://youtu.be/pKUr3CbRa3o (starting July 1st, 19:00 CEST) Agenda (CEST):19...
+
+
+          https://www.meetup.com/dscc_cze/events/271472434/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_271472434@meetup.com
+        url: https://www.meetup.com/dscc_cze/events/271472434/
+        dtstart: 2020-07-01 19:00:00+02:00
+        dtend: 2020-07-01 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Fri, Jun 12, 2020, 8:30 AM: Let''s start this new format of informal monthly breakfasts where we chat about our design systems challenges and questions with like-minded professionals. Places are limite'
+      og_title: Design Systems Breakfast – June 2020
+      image: https://secure.meetupstatic.com/photos/event/2/3/b/0/600_490749136.jpeg
+      url: https://www.meetup.com/dscc_cze/events/271158302/
+      ical:
+        summary: Design Systems Breakfast – June 2020
+        description: 'Design Systems Community Chapter Czechia
+
+          Friday, June 12 at 8:30 AM
+
+
+          Let''s start this new format of informal monthly breakfasts where we chat about our design systems challenges and questions with like-minded profession...
+
+
+          https://www.meetup.com/dscc_cze/events/271158302/'
+        location: Gate Restaurant (Sokolovská 539, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_271158302@meetup.com
+        url: https://www.meetup.com/dscc_cze/events/271158302/
+        dtstart: 2020-06-12 08:30:00+02:00
+        dtend: 2020-06-12 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Mar 18, 2020, 8:30 AM: !!!Event was postponed to April/May, let''s see how a situation looks evolves. Follow us on Twitter (http://twitter.com/czechdsc) for more info.Let''s start this new format o'
+      og_title: (POSTPONED) Design systems breakfast
+      image: https://secure.meetupstatic.com/photos/event/3/d/7/e/600_489675742.jpeg
+      url: https://www.meetup.com/dscc_cze/events/269310163/
+      ical:
+        summary: (POSTPONED) Design systems breakfast
+        description: 'Design Systems Community Chapter Czechia
+
+          Wednesday, March 18 at 8:30 AM
+
+
+          !!!Event was postponed to April/May, let''s see how a situation looks evolves. Follow us on Twitter (http://twitter.com/czechdsc) for more info.  Let''s...
+
+
+          https://www.meetup.com/dscc_cze/events/269310163/'
+        location: Gate Restaurant (Sokolovská 539, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_269310163@meetup.com
+        url: https://www.meetup.com/dscc_cze/events/269310163/
+        dtstart: 2020-03-18 08:30:00+01:00
+        dtend: 2020-03-18 09:30:00+01:00
