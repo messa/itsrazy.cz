@@ -5,44 +5,56 @@ import Layout from '../components/Layout'
 import DateCard from '../components/DateCard'
 import EventPreview from '../components/EventPreview'
 
-function aggregateEventsByMonth(events) {
-  const byMonth = []
-  let lastMonth = null
-  let lastEventDate = null
-  for (const event of events) {
-    const eventDate = new Date(event.startDate)
-    if (lastEventDate
-      && lastEventDate.getFullYear() == eventDate.getFullYear()
-      && lastEventDate.getMonth() == eventDate.getMonth())
-    {
-      lastMonth.push(event)
+function aggregateItems(items, getKey) {
+  const chunks = []
+  let currentChunk = null
+  let currentKey = null
+  for (const item of items) {
+    const itemKey = getKey(item)
+    if (currentChunk && itemKey === currentKey) {
+      currentChunk.push(item)
     } else {
-      lastMonth = [event]
-      byMonth.push(lastMonth)
+      currentChunk = [item]
+      currentKey = itemKey
+      chunks.push(currentChunk)
     }
-    lastEventDate = eventDate
   }
-  return byMonth
+  return chunks
 }
+
+const aggregateEventsByMonth = events => aggregateItems(events, event => {
+  const dt = new Date(event.startDate)
+  return `${dt.getFullYear()}-${dt.getMonth()}`
+})
+
+const aggregateEventsByDay = events => aggregateItems(events, event => {
+  const dt = new Date(event.startDate)
+  return `${dt.getFullYear()}-${dt.getMonth()}-${dt.getDate()}`
+})
 
 const monthNames = ['leden', 'únor', 'březen', 'duben', 'květen', 'červen', 'červenec', 'srpen', 'září', 'říjen', 'listopad', 'prosinec']
 
 const firstUpperCase = s => s[0].toUpperCase() + s.substr(1)
 
 function IndexPage({ currentEvents }) {
-  const currentEventsByMonth = aggregateEventsByMonth(currentEvents)
   return (
     <Layout>
       <h1>ITsrazy.cz</h1>
-      {currentEventsByMonth.map(monthEvents => {
+      {aggregateEventsByMonth(currentEvents).map(monthEvents => {
         const monthDate = new Date(monthEvents[0].startDate)
         return (
           <div>
             <h3>{firstUpperCase(monthNames[monthDate.getMonth()])} {monthDate.getFullYear()}</h3>
-            {monthEvents.map(event => (
-              <div key={event.startDate} style={{ display: 'flex' }}>
-                <DateCard date={event.startDate} />
-                <EventPreview event={event} />
+            {aggregateEventsByDay(monthEvents).map(dayEvents => (
+              <div style={{ display: 'flex', marginBottom: '0.75rem' }}>
+                <DateCard date={dayEvents[0].startDate} />
+                <div>
+                  {dayEvents.map(event => (
+                    <div key={event.startDate}>
+                      <EventPreview event={event} />
+                    </div>
+                  ))}
+                </div>
               </div>
             ))}
           </div>
