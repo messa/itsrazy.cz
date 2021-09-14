@@ -130,3 +130,28 @@ series:
         url: https://www.meetup.com/GDGPrague/events/280320700/
         dtstart: 2021-08-30 18:30:00+02:00
         dtend: 2021-08-30 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Nov 8, 2021, 6:30 PM: • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/G'
+      og_title: GDG Garage Prague One, Mon, Nov 8, 2021, 6:30 PM
+      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      url: https://www.meetup.com/GDGPrague/events/drxpmsyccpblb/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Monday, November 8 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/drxpmsyccpblb/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_drxpmsyccpblb@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/drxpmsyccpblb/
+        dtstart: 2021-11-08 18:30:00+01:00
+        dtend: 2021-11-08 20:30:00+01:00
