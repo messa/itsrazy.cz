@@ -106,3 +106,28 @@ series:
         url: https://www.meetup.com/asociace-ux/events/279131193/
         dtstart: 2021-07-01 18:00:00+02:00
         dtend: 2021-07-01 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Sep 15, 2021, 5:00 PM: Hey designers! Let''s catch the last bits of summer sunlight and meet somewhere outdoors this time :)UX dinner is a meeting of the UX community in Brno. You can expect an in'
+      og_title: UX Picnic Brno in September
+      image: https://secure.meetupstatic.com/photos/event/a/6/5/4/600_498822580.jpeg
+      url: https://www.meetup.com/asociace-ux/events/280768687/
+      ical:
+        summary: UX Picnic Brno in September
+        description: 'Asociace UX
+
+          Wednesday, September 15 at 5:00 PM
+
+
+          Hey designers! Let''s catch the last bits of summer sunlight and meet somewhere outdoors this time :) UX dinner is a meeting of the UX community in Brn...
+
+
+          https://www.meetup.com/asociace-ux/events/280768687/'
+        location: Obilní trh (Obilní trh, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280768687@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/280768687/
+        dtstart: 2021-09-15 17:00:00+02:00
+        dtend: 2021-09-15 20:00:00+02:00

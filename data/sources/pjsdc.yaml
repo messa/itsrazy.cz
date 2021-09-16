@@ -105,3 +105,28 @@ series:
         url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/278901798/
         dtstart: 2021-06-29 18:00:00+02:00
         dtend: 2021-06-29 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Sep 29, 2021, 6:00 PM: Jak změnit kariéru a rekvalifikovat se do IT oboru? Jak probíhá kurz Junior programátor v Green Fox Academy a v čem spočívá výběrové řízení?Připojte se k naší online schůzc'
+      og_title: Online informační schůzka - Jak se rekvalifikovat do IT?
+      image: https://secure.meetupstatic.com/photos/event/3/a/6/600_498840934.jpeg
+      url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/280792094/
+      ical:
+        summary: Online informační schůzka - Jak se rekvalifikovat do IT?
+        description: 'Become a software developer from 0
+
+          Wednesday, September 29 at 6:00 PM
+
+
+          Jak změnit kariéru a rekvalifikovat se do IT oboru? Jak probíhá kurz Junior programátor v Green Fox Academy a v čem spočívá výběrové řízení? Připojte ...
+
+
+          https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/280792094/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280792094@meetup.com
+        url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/280792094/
+        dtstart: 2021-09-29 18:00:00+02:00
+        dtend: 2021-09-29 19:30:00+02:00

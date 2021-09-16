@@ -79,3 +79,28 @@ series:
         url: https://www.meetup.com/pipedrive-talks-prague/events/278117749/
         dtstart: 2021-05-20 17:00:00+02:00
         dtend: 2021-05-20 18:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Feb 25, 2020, 7:30 AM: Have you ever wished you had more self-motivation to turn your great ideas into projects? Or do you already have a project ongoing but often get stuck and would benefit fro'
+      og_title: 'Breakfast & Code #6'
+      image: https://secure.meetupstatic.com/photos/event/e/8/a/f/600_486599567.jpeg
+      url: https://www.meetup.com/pipedrive-talks-prague/events/268705022/
+      ical:
+        summary: 'Breakfast & Code #6'
+        description: 'Pipedrive Talks Prague
+
+          Tuesday, February 25 at 7:30 AM
+
+
+          Have you ever wished you had more self-motivation to turn your great ideas into projects? Or do you already have a project ongoing but often get stuck...
+
+
+          https://www.meetup.com/pipedrive-talks-prague/events/268705022/'
+        location: HubHub  (Panská 2, Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_268705022@meetup.com
+        url: https://www.meetup.com/pipedrive-talks-prague/events/268705022/
+        dtstart: 2020-02-25 07:30:00+01:00
+        dtend: 2020-02-25 09:30:00+01:00
