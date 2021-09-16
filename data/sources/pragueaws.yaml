@@ -1,0 +1,57 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/Prague-AWS-Meetup/
+    meta_description: == Prague AWS User Group ==The goal of Prague AWS User Group is to bring together expert AWS users, developers, operations engineers, etc to promote sharing of knowledge and learning. We want to discu
+    og_title: Prague AWS User Group (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/6/7/a/0/600_485066528.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Wed, Oct 20, 2021, 6:00 PM: We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT.There will be two speakers with the following presentations:• GitOps for your infrastr'
+      og_title: Regular Prague AWS User Group Meetup
+      image: https://secure.meetupstatic.com/photos/event/6/e/2/f/600_498808207.jpeg
+      url: https://www.meetup.com/Prague-AWS-Meetup/events/280751506/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Wednesday, October 20 at 6:00 PM
+
+
+          We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT. There will be two speakers with the following presentations: • ...
+
+
+          https://www.meetup.com/Prague-AWS-Meetup/events/280751506/'
+        location: MSD IT Global Innovation Center - Five (FIVE, Na Valentince 3336/4, 150 00, Prague, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280751506@meetup.com
+        url: https://www.meetup.com/Prague-AWS-Meetup/events/280751506/
+        dtstart: 2021-10-20 18:00:00+02:00
+        dtend: 2021-10-20 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Jan 13, 2021, 6:00 PM: We would like to invite you for the first online AWS CZSK User Group Meetup organized together with Amazon and AWS User Group Slovakia.Due to the fact that we can not meet '
+      og_title: AWS CZSK User Group Virtual Meetup
+      image: https://secure.meetupstatic.com/photos/event/8/3/2/f/600_488313583.jpeg
+      url: https://www.meetup.com/Prague-AWS-Meetup/events/275297097/
+      ical:
+        summary: AWS CZSK User Group Virtual Meetup
+        description: 'Prague AWS User Group
+
+          Wednesday, January 13 at 6:00 PM
+
+
+          We would like to invite you for the first online AWS CZSK User Group Meetup organized together with Amazon and AWS User Group Slovakia. Due to the fac...
+
+
+          https://www.meetup.com/Prague-AWS-Meetup/events/275297097/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_275297097@meetup.com
+        url: https://www.meetup.com/Prague-AWS-Meetup/events/275297097/
+        dtstart: 2021-01-13 18:00:00+01:00
+        dtend: 2021-01-13 19:00:00+01:00
