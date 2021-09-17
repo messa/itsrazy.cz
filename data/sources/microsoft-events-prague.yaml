@@ -1,0 +1,57 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/Microsoft-Events-in-Prague/
+    meta_description: Welcome to the Microsoft Events in Prague group!This group is a central place to see all major Microsoft related conferences, training events, user groups, dev camps, tech talks etc. happening in Czec
+    og_title: Microsoft Events in Prague (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/s/img/286374644891845767035/logo/meetup-logo-script-1200x630.png
+  events:
+  - meetupcom:
+      meta_description: 'Wed, Sep 22, 2021, 5:00 PM: Returning to work after Maternity or Paternity leave can be a challenge, and you shouldn''t have to make a choice between getting the most out of your home life, and making '
+      og_title: TechBaby Prague (Virtual Event)
+      image: https://secure.meetupstatic.com/photos/event/a/1/4/4/600_498821284.jpeg
+      url: https://www.meetup.com/Microsoft-Events-in-Prague/events/280766905/
+      ical:
+        summary: TechBaby Prague (Virtual Event)
+        description: 'Microsoft Events in Prague
+
+          Wednesday, September 22 at 5:00 PM
+
+
+          Returning to work after Maternity or Paternity leave can be a challenge, and you shouldn''t have to make a choice between getting the most out of your ...
+
+
+          https://www.meetup.com/Microsoft-Events-in-Prague/events/280766905/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280766905@meetup.com
+        url: https://www.meetup.com/Microsoft-Events-in-Prague/events/280766905/
+        dtstart: 2021-09-22 17:00:00+02:00
+        dtend: 2021-09-22 18:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Dec 3, 2019, 6:30 PM: RSVPing on Meetup.com does not secure you a place. You need to use following link for registration >>> https://aka.ms/O365ChampionConnection (Registration is free.)Hello all'
+      og_title: Office 365 Champions & User Group Connection in Prague
+      image: https://secure.meetupstatic.com/photos/event/8/c/1/2/600_487115858.jpeg
+      url: https://www.meetup.com/Microsoft-Events-in-Prague/events/266913890/
+      ical:
+        summary: Office 365 Champions & User Group Connection in Prague
+        description: 'Microsoft Events in Prague
+
+          Tuesday, December 3 at 6:30 PM
+
+
+          RSVPing on Meetup.com does not secure you a place. You need to use following link for registration >>> https://aka.ms/O365ChampionConnection (Registra...
+
+
+          https://www.meetup.com/Microsoft-Events-in-Prague/events/266913890/'
+        location: Prague Congress Centre (5. května 1640/65, Praha 4-Nusle, Czech Republic 140 21)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_266913890@meetup.com
+        url: https://www.meetup.com/Microsoft-Events-in-Prague/events/266913890/
+        dtstart: 2019-12-03 18:30:00+01:00
+        dtend: 2019-12-03 20:00:00+01:00
