@@ -81,10 +81,12 @@ export async function getStaticProps(context) {
     }
   })
   const currentEvents = []
+  const today = new Date()
+  today.setHours(0, 0, 0, 0)
   allSeries.forEach(series => {
     series.events.forEach(event => {
-      const dt = new Date(event.startDate);
-      if (dt >= new Date()) {
+      const eventDate = new Date(event.startDate);
+      if (eventDate >= today) {
         currentEvents.push(event)
       }
     })
