@@ -1,0 +1,56 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/Spark-AI-Prague-Meetup/
+    meta_description: Out of the battle of big data frameworks Apache Spark is coming out as the main unified open-source platform for scalable data processing/ETL and machine learning both in batch and real-time and is he
+    og_title: Spark+AI Prague Meetup (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/b/3/7/a/600_478005946.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Thu, Sep 23, 2021, 6:00 PM: Je tady první post-covidový Spark+AI Prague Meetup! Už 23.9. se sejdeme v prvním patře kanceláří DataSentics na adrese Washingtonova 17 a pobavíme se na téma AI-Driven pers'
+      og_title: Spark+AI Prague Meetup 2021 | After-Covid Reunion
+      image: https://secure.meetupstatic.com/photos/event/a/6/1/d/600_498822525.jpeg
+      url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/280768705/
+      ical:
+        summary: Spark+AI Prague Meetup 2021 | After-Covid Reunion
+        description: 'Spark+AI Prague Meetup
+
+          Thursday, September 23 at 6:00 PM
+
+          \nJe tady první post-covidový Spark+AI Prague Meetup! Už 23.9. se sejdeme v prvním patře kanceláří DataSentics na adrese Washingtonova 17 a pobavíme se ...
+
+
+          https://www.meetup.com/Spark-AI-Prague-Meetup/events/280768705/'
+        location: DataSentics, a.s. (Washingtonova 1599, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280768705@meetup.com
+        url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/280768705/
+        dtstart: 2021-09-23 18:00:00+02:00
+        dtend: 2021-09-23 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Dec 9, 2019, 5:30 PM: Xmas is coming, so what about some Apache Spark, AI and data winter party? If you join our 6th Spark+AI meetup, you can have it all! This time we prepared 3 interesting talk'
+      og_title: 6th Spark+AI Prague Group Meetup + WINTER DATA PARTY!
+      image: https://secure.meetupstatic.com/photos/event/d/d/5/a/600_487016666.jpeg
+      url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/266632322/
+      ical:
+        summary: 6th Spark+AI Prague Group Meetup + WINTER DATA PARTY!
+        description: 'Spark+AI Prague Meetup
+
+          Monday, December 9 at 5:30 PM
+
+
+          Xmas is coming, so what about some Apache Spark, AI and data winter party? If you join our 6th Spark+AI meetup, you can have it all! This time we prep...
+
+
+          https://www.meetup.com/Spark-AI-Prague-Meetup/events/266632322/'
+        location: Emplifi (Pernerova 53, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_266632322@meetup.com
+        url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/266632322/
+        dtstart: 2019-12-09 17:30:00+01:00
+        dtend: 2019-12-09 22:00:00+01:00
