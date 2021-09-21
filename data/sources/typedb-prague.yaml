@@ -153,3 +153,52 @@ series:
         url: https://www.meetup.com/typedb-prague/events/280293822/
         dtstart: 2021-09-16 18:30:00+02:00
         dtend: 2021-09-16 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Oct 13, 2021, 6:30 PM: Heterogenous data holds significant inherent context. We would like our machine learning models to understand this context, and utilise this ancillary but critical informat'
+      og_title: Strongly Typed Data for Machine Learning
+      image: https://secure.meetupstatic.com/photos/event/c/e/6/3/600_497812835.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280919678/
+      ical:
+        summary: Strongly Typed Data for Machine Learning
+        description: 'TypeDB Prague Engineers
+
+          Wednesday, October 13 at 6:30 PM
+
+          \nHeterogenous data holds significant inherent context. We would like our machine learning models to understand this context, and utilise this ancillary...
+
+
+          https://www.meetup.com/typedb-prague/events/280919678/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280919678@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280919678/
+        dtstart: 2021-10-13 18:30:00+02:00
+        dtend: 2021-10-13 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Oct 19, 2021, 6:30 PM: NodeLab: An Advanced TypeDB GUIThere have been murmurs in the community about how cool it would be to have a full-featured graphical interface to TypeDB. This project aims '
+      og_title: TypeDB Community Webinar - NodeLab, a TypeDB Visualiser
+      image: https://secure.meetupstatic.com/photos/event/3/4/3/a/600_498973370.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280920408/
+      ical:
+        summary: TypeDB Community Webinar - NodeLab, a TypeDB Visualiser
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, October 19 at 6:30 PM
+
+
+          NodeLab: An Advanced TypeDB GUIThere have been murmurs in the community about how cool it would be to have a full-featured graphical interface to Type...
+
+
+          https://www.meetup.com/typedb-prague/events/280920408/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280920408@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280920408/
+        dtstart: 2021-10-19 18:30:00+02:00
+        dtend: 2021-10-19 19:30:00+02:00
