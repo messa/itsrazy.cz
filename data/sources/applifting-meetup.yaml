@@ -1,0 +1,107 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/Applifting-meetup-1/
+    meta_description: 'Vyrábíme webové a mobilní aplikace pro iOS i Android. Na backendu vyvíjíme převážně v Node.js a Ruby on Rails, na frontendu v Reactu a Angularu.Chceme s komunitou sdílet naše zkušenosti a dozvědět se '
+    og_title: Applifting meetup (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/1/7/d/3/600_493506099.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Thu, Dec 10, 2020, 1:00 PM: Handling personal data is a hot topic! They are a treasure and a curse at the same time. How do you, as a company, take care of data privacy? Are you, as a user, happy with'
+      og_title: Stop struggling with Data Privacy
+      image: https://secure.meetupstatic.com/photos/event/7/1/a/3/600_493769091.jpeg
+      url: https://www.meetup.com/Applifting-meetup-1/events/274921291/
+      ical:
+        summary: Stop struggling with Data Privacy
+        description: 'Applifting meetup
+
+          Thursday, December 10 at 1:00 PM
+
+
+          Handling personal data is a hot topic! They are a treasure and a curse at the same time. How do you, as a company, take care of data privacy? Are you,...
+
+
+          https://www.meetup.com/Applifting-meetup-1/events/274921291/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_274921291@meetup.com
+        url: https://www.meetup.com/Applifting-meetup-1/events/274921291/
+        dtstart: 2020-12-10 13:00:00+01:00
+        dtend: 2020-12-10 14:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Nov 24, 2020, 1:00 PM: Register here: https://experience.applifting.io/microservices-how-to-scale-your-businessDo you want to succeed on the digital products and services market? Are you curious '
+      og_title: Microservices - How to scale your business
+      image: https://secure.meetupstatic.com/photos/event/1/2/9/9/600_493504761.jpeg
+      url: https://www.meetup.com/Applifting-meetup-1/events/274551663/
+      ical:
+        summary: Microservices - How to scale your business
+        description: 'Applifting meetup
+
+          Tuesday, November 24 at 1:00 PM
+
+
+          Register here: https://experience.applifting.io/microservices-how-to-scale-your-business Do you want to succeed on the digital products and services m...
+
+
+          https://www.meetup.com/Applifting-meetup-1/events/274551663/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_274551663@meetup.com
+        url: https://www.meetup.com/Applifting-meetup-1/events/274551663/
+        dtstart: 2020-11-24 13:00:00+01:00
+        dtend: 2020-11-24 14:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, May 23, 2019, 5:30 PM: How to build an organization if you want your employees to be productive and the work to make sense to them? What is it like to work in a company, which doesn''t exist just '
+      og_title: Reinventing Organisations - TÝDEN INOVACÍ 2019
+      image: https://secure.meetupstatic.com/photos/event/a/b/5/0/600_481123856.jpeg
+      url: https://www.meetup.com/Applifting-meetup-1/events/261263353/
+      ical:
+        summary: Reinventing Organisations - TÝDEN INOVACÍ 2019
+        description: 'Applifting meetup
+
+          Thursday, May 23 at 5:30 PM
+
+
+          How to build an organization if you want your employees to be productive and the work to make sense to them? What is it like to work in a company, whi...
+
+
+          https://www.meetup.com/Applifting-meetup-1/events/261263353/'
+        location: Applifting HQ (Saldova 9, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_261263353@meetup.com
+        url: https://www.meetup.com/Applifting-meetup-1/events/261263353/
+        dtstart: 2019-05-23 17:30:00+02:00
+        dtend: 2019-05-23 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 21, 2019, 5:30 PM: Jak budovat firmu tak, aby zaměstnancům dávala práce smysl a byli efektivní?Jaké to je pracovat ve firmě, která neexistuje pouze za účelem generování zisku, ale s cílem zkv'
+      og_title: Budoucnost organizací - TÝDEN INOVACÍ 2019
+      image: https://secure.meetupstatic.com/photos/event/a/9/d/9/600_481123481.jpeg
+      url: https://www.meetup.com/Applifting-meetup-1/events/261263234/
+      ical:
+        summary: Budoucnost organizací - TÝDEN INOVACÍ 2019
+        description: 'Applifting meetup
+
+          Tuesday, May 21 at 5:30 PM
+
+
+          Jak budovat firmu tak, aby zaměstnancům dávala práce smysl a byli efektivní? Jaké to je pracovat ve firmě, která neexistuje pouze za účelem generování...
+
+
+          https://www.meetup.com/Applifting-meetup-1/events/261263234/'
+        location: Applifting HQ (Saldova 9, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_261263234@meetup.com
+        url: https://www.meetup.com/Applifting-meetup-1/events/261263234/
+        dtstart: 2019-05-21 17:30:00+02:00
+        dtend: 2019-05-21 19:30:00+02:00

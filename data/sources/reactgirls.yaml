@@ -1,0 +1,8 @@
+series:
+  events:
+    - url: https://www.eventbrite.com/e/reactgirls-x-applifting-meetup-tickets-171790789877
+      title: ReactGirls x Applifting meetup
+      date: 2021-09-22
+      venue:
+        name: Applifting
+        address: Rohanské nábř. 19
