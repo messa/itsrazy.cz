@@ -81,3 +81,28 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280585381/
         dtstart: 2021-09-21 18:00:00+02:00
         dtend: 2021-09-21 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Aug 11, 2021, 6:00 PM: Hi Maker,Register here for this hands-on workshop: https://www.h2o.ai/hands-on-lab-accelerating-machine-learning-with-snowflake-and-h2o-ai/?utm_medium=Organic-Social&utm_so'
+      og_title: 'Hands-On Lab: Accelerating Machine Learning with H2O.ai and Snowflake'
+      image: https://secure.meetupstatic.com/photos/event/d/1/8/2/600_497813634.jpeg
+      url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/279738361/
+      ical:
+        summary: 'Hands-On Lab: Accelerating Machine Learning with H2O.ai and Snowflake'
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Wednesday, August 11 at 6:00 PM
+
+
+          Hi Maker, Register here for this hands-on workshop:...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/279738361/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279738361@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/279738361/
+        dtstart: 2021-08-11 18:00:00+02:00
+        dtend: 2021-08-11 19:30:00+02:00

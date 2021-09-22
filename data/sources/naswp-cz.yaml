@@ -55,3 +55,78 @@ series:
         url: https://www.meetup.com/naswp-cz/events/278242359/
         dtstart: 2021-06-30 18:30:00+02:00
         dtend: 2021-06-30 21:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, May 26, 2021, 6:30 PM: Protože to na fyzické WP pivo ještě nějakou dobu nevypadá, pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity.📢 Program (an'
+      og_title: 'WordPress pivo online #4'
+      image: https://secure.meetupstatic.com/photos/event/c/2/3/6/600_495829718.jpeg
+      url: https://www.meetup.com/naswp-cz/events/277691645/
+      ical:
+        summary: 'WordPress pivo online #4'
+        description: 'NášWP WordPress komunita
+
+          Wednesday, May 26 at 6:30 PM
+
+
+          Protože to na fyzické WP pivo ještě nějakou dobu nevypadá, pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové k...
+
+
+          https://www.meetup.com/naswp-cz/events/277691645/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_277691645@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/277691645/
+        dtstart: 2021-05-26 18:30:00+02:00
+        dtend: 2021-05-26 21:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 28, 2021, 6:30 PM: Protože to na fyzické WP pivo ještě nějakou dobu nevypadá, pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity.📢 Program (an'
+      og_title: 'WordPress pivo online #3'
+      image: https://secure.meetupstatic.com/photos/event/c/2/5/4/600_495829748.jpeg
+      url: https://www.meetup.com/naswp-cz/events/277691669/
+      ical:
+        summary: 'WordPress pivo online #3'
+        description: 'NášWP WordPress komunita
+
+          Wednesday, April 28 at 6:30 PM
+
+
+          Protože to na fyzické WP pivo ještě nějakou dobu nevypadá, pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové k...
+
+
+          https://www.meetup.com/naswp-cz/events/277691669/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_277691669@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/277691669/
+        dtstart: 2021-04-28 18:30:00+02:00
+        dtend: 2021-04-28 21:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Mar 31, 2021, 6:30 PM: The second online meetup of the Czech WP community in English edition features speakers who couldn’t join us at WordCamp Prague since we didn’t accept English talks this ti'
+      og_title: 'WordPress pivo online #2 - English edition'
+      image: https://secure.meetupstatic.com/photos/event/8/3/9/6/600_495033686.jpeg
+      url: https://www.meetup.com/naswp-cz/events/276045239/
+      ical:
+        summary: 'WordPress pivo online #2 - English edition'
+        description: 'NášWP WordPress komunita
+
+          Wednesday, March 31 at 6:30 PM
+
+
+          The second online meetup of the Czech WP community in English edition features speakers who couldn’t join us at WordCamp Prague since we didn’t accept...
+
+
+          https://www.meetup.com/naswp-cz/events/276045239/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_276045239@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/276045239/
+        dtstart: 2021-03-31 18:30:00+02:00
+        dtend: 2021-03-31 21:30:00+02:00

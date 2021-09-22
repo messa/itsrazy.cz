@@ -202,3 +202,53 @@ series:
         url: https://www.meetup.com/typedb-prague/events/280920408/
         dtstart: 2021-10-19 18:30:00+02:00
         dtend: 2021-10-19 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Oct 12, 2021, 6:30 PM: The TypeDB Units community project is an open-source library for describing quantities with units of measure for applications in physics, engineering, simulation, and much '
+      og_title: TypeDB Community Webinar - TypeDB Units Open-Source Project
+      image: https://secure.meetupstatic.com/photos/event/6/8/f/9/600_498986873.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280936050/
+      ical:
+        summary: TypeDB Community Webinar - TypeDB Units Open-Source Project
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, October 12 at 6:30 PM
+
+
+          The TypeDB Units community project is an open-source library for describing quantities with units of measure for applications in physics, engineering,...
+
+
+          https://www.meetup.com/typedb-prague/events/280936050/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280936050@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280936050/
+        dtstart: 2021-10-12 18:30:00+02:00
+        dtend: 2021-10-12 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Oct 21, 2021, 6:30 PM: Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform kno'
+      og_title: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise
+      image: https://secure.meetupstatic.com/photos/event/3/5/b/b/600_498973755.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280920870/
+      ical:
+        summary: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise
+        description: 'TypeDB Prague Engineers
+
+          Thursday, October 21 at 6:30 PM
+
+
+          Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query l...
+
+
+          https://www.meetup.com/typedb-prague/events/280920870/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280920870@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280920870/
+        dtstart: 2021-10-21 18:30:00+02:00
+        dtend: 2021-10-21 19:30:00+02:00
