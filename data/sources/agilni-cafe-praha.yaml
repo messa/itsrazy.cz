@@ -1,0 +1,81 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/Agilni-Open-Cafe-Praha/
+    meta_description: Agilní Asociace pořádá pravidelná setkání příznivců Agilních metod v Praze a Brně. Přijďte se podělit o doporučení na praktiky, nástroje, tipy.- Přijďte se dozvědět jak to dělají ostatní.- Přijďte por
+    og_title: Agilni Open Cafe Praha (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/2/a/9/3/600_465070899.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Tue, Oct 5, 2021, 6:00 PM: Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve úterý 5. října 2021. Opencafé je pro ty, kteří chtějí něčím zajímavým p'
+      og_title: Agilní Open Café Praha – 5.10.2021
+      image: https://secure.meetupstatic.com/photos/event/6/6/e/6/600_498506342.jpeg
+      url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280683798/
+      ical:
+        summary: Agilní Open Café Praha – 5.10.2021
+        description: 'Agilni Open Cafe Praha
+
+          Tuesday, October 5 at 6:00 PM
+
+
+          Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve úterý 5. října 2021. Opencafé je pro ty, kteří c...
+
+
+          https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280683798/'
+        location: Dejvická Theater Cafe (Zelená 1084/15, Praha 6-Dejvice, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280683798@meetup.com
+        url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280683798/
+        dtstart: 2021-10-05 18:00:00+02:00
+        dtend: 2021-10-05 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Fri, Oct 8, 2021, 3:00 PM: We bring the best speakers to your homes. Join the October Virtual Bonus Agile Prague Conference.Reserve the date for Friday October 8, 2021 for our AgilePrague Virtual Conf'
+      og_title: Agile Prague Conference 2021 Virtual Edition
+      image: https://secure.meetupstatic.com/photos/event/5/7/2/d/600_498922317.jpeg
+      url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280726386/
+      ical:
+        summary: Agile Prague Conference 2021 Virtual Edition
+        description: 'Agilni Open Cafe Praha
+
+          Friday, October 8 at 3:00 PM
+
+
+          We bring the best speakers to your homes. Join the October Virtual Bonus Agile Prague Conference. Reserve the date for Friday October 8, 2021 for our ...
+
+
+          https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280726386/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280726386@meetup.com
+        url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280726386/
+        dtstart: 2021-10-08 15:00:00+02:00
+        dtend: 2021-10-08 18:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Sep 8, 2021, 6:00 PM: Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve středu 8. září 2021. Opencafé je pro ty, kteří chtějí něčím zajímavým p'
+      og_title: Agilní Open Café Praha – 8.9.2021
+      image: https://secure.meetupstatic.com/photos/event/6/6/e/6/600_498506342.jpeg
+      url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280441638/
+      ical:
+        summary: Agilní Open Café Praha – 8.9.2021
+        description: 'Agilni Open Cafe Praha
+
+          Wednesday, September 8 at 6:00 PM
+
+          \nPříští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve středu 8. září 2021. Opencafé je pro ty, kteří c...
+
+
+          https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280441638/'
+        location: Dejvická Theater Cafe (Zelená 1084/15, Praha 6-Dejvice, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280441638@meetup.com
+        url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280441638/
+        dtstart: 2021-09-08 18:00:00+02:00
+        dtend: 2021-09-08 20:00:00+02:00
