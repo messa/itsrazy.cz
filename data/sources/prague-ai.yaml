@@ -106,3 +106,28 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/279738361/
         dtstart: 2021-08-11 18:00:00+02:00
         dtend: 2021-08-11 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Oct 5, 2021, 12:00 PM: *Please note this session is part of the Snowflake Build Summit.Machine learning can help product teams deliver differentiated experiences to their customers. This session '
+      og_title: Supercharge your applications with Machine Learning using H2O.ai and Snowflake
+      image: https://secure.meetupstatic.com/photos/event/7/f/d/5/600_498992725.jpeg
+      url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280942385/
+      ical:
+        summary: Supercharge your applications with Machine Learning using H2O.ai and Snowflake
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Tuesday, October 5 at 12:00 PM
+
+
+          *Please note this session is part of the Snowflake Build Summit. Machine learning can help product teams deliver differentiated experiences to their c...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280942385/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280942385@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280942385/
+        dtstart: 2021-10-05 12:00:00+02:00
+        dtend: 2021-10-05 13:00:00+02:00
