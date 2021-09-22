@@ -1,0 +1,7 @@
+series:
+  events:
+    - url: https://www.kpmgdatafestival.cz/
+      date: 2021-10-08
+      title: KPMG Data Festival 2021
+      venue:
+        name: VŠE
