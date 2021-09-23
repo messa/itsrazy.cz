@@ -56,3 +56,50 @@ series:
         url: https://www.meetup.com/WebExpo/events/263721184/
         dtstart: 2019-09-20 09:45:00+02:00
         dtend: 2019-09-22 18:00:00+02:00
+  - meetupcom:
+      meta_description: 'Fri, Sep 23, 2016, 9:00 PM: 2 days all about the web: 70 speakers, 2000 people from the industry and meetings IRL'
+      og_title: Get professional help before your obsessions take over!
+      image: https://secure.meetupstatic.com/photos/event/d/7/b/9/600_483715225.jpeg
+      url: https://www.meetup.com/WebExpo/events/232703682/
+      ical:
+        summary: Get professional help before your obsessions take over!
+        description: 'WebExpo
+
+          Friday, September 23 at 9:00 PM
+
+
+          2 days all about the web: 70 speakers, 2000 people from the industry and meetings IRL
+
+
+          https://www.meetup.com/WebExpo/events/232703682/'
+        location: Lucerna (Vodičkova 36, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_232703682@meetup.com
+        url: https://www.meetup.com/WebExpo/events/232703682/
+        dtstart: 2016-09-23 21:00:00+02:00
+        dtend: 2016-09-24 23:00:00+02:00
+  - meetupcom:
+      meta_description: 'Fri, Sep 23, 2016, 8:00 AM: '
+      og_title: WebExpo 2016
+      image: https://secure.meetupstatic.com/photos/event/d/7/b/9/600_483715225.jpeg
+      url: https://www.meetup.com/WebExpo/events/232103291/
+      ical:
+        summary: WebExpo 2016
+        description: 'WebExpo
+
+          Friday, September 23 at 8:00 AM
+
+
+          https://www.meetup.com/WebExpo/events/232103291/'
+        location: Lucerna (Vodičkova 36, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_232103291@meetup.com
+        url: https://www.meetup.com/WebExpo/events/232103291/
+        dtstart: 2016-09-23 08:00:00+02:00
+        dtend: 2016-09-24 23:00:00+02:00
