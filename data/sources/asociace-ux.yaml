@@ -156,3 +156,28 @@ series:
         url: https://www.meetup.com/asociace-ux/events/280942000/
         dtstart: 2021-10-05 18:00:00+02:00
         dtend: 2021-10-05 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Oct 4, 2021, 6:30 PM: O tom, že není testování jako testování se přesvědčíme na říjnovém UX Monday. S Michalem Vojákem a jeho kolegyní Luciou Marcinkovou z Designdev se totiž podíváme zblízka na '
+      og_title: 'UX Monday: Uživatelské testování a čeho se vyvarovat'
+      image: https://secure.meetupstatic.com/photos/event/7/3/e/d/600_499109677.jpeg
+      url: https://www.meetup.com/asociace-ux/events/281045132/
+      ical:
+        summary: 'UX Monday: Uživatelské testování a čeho se vyvarovat'
+        description: 'Asociace UX
+
+          Monday, October 4 at 6:30 PM
+
+
+          O tom, že není testování jako testování se přesvědčíme na říjnovém UX Monday. S Michalem Vojákem a jeho kolegyní Luciou Marcinkovou z Designdev se tot...
+
+
+          https://www.meetup.com/asociace-ux/events/281045132/'
+        location: Na Valentince (Na Valentince, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281045132@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/281045132/
+        dtstart: 2021-10-04 18:30:00+02:00
+        dtend: 2021-10-04 20:30:00+02:00
