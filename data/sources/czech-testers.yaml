@@ -105,3 +105,28 @@ series:
         url: https://www.meetup.com/ProfessionalTesting/events/277416092/
         dtstart: 2021-04-27 18:00:00+02:00
         dtend: 2021-04-27 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Sep 29, 2021, 6:00 PM: Po delší prázdninové pauze opět proběhne setkání nejen brněnských testerů.Akce bude online, takže se může připojit do diskuze kdokoliv.Pro spojení a diskuzi použijeme opět '
+      og_title: 'online: QA Brno - Volná témata'
+      image: https://secure.meetupstatic.com/photos/event/c/9/0/2/600_499131458.jpeg
+      url: https://www.meetup.com/ProfessionalTesting/events/281067619/
+      ical:
+        summary: 'online: QA Brno - Volná témata'
+        description: 'CZECH TESTERS GROUP
+
+          Wednesday, September 29 at 6:00 PM
+
+
+          Po delší prázdninové pauze opět proběhne setkání nejen brněnských testerů. Akce bude online, takže se může připojit do diskuze kdokoliv.Pro spojení a ...
+
+
+          https://www.meetup.com/ProfessionalTesting/events/281067619/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281067619@meetup.com
+        url: https://www.meetup.com/ProfessionalTesting/events/281067619/
+        dtstart: 2021-09-29 18:00:00+02:00
+        dtend: 2021-09-29 20:00:00+02:00

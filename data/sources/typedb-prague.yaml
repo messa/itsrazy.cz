@@ -252,3 +252,28 @@ series:
         url: https://www.meetup.com/typedb-prague/events/280920870/
         dtstart: 2021-10-21 18:30:00+02:00
         dtend: 2021-10-21 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Oct 14, 2021, 8:00 PM: It has been almost 2 years since we were able to have the TypeDB community gather in person and while many around the world are still dealing with the pandemic and unable t'
+      og_title: IBM Devs on Transparent Supply Chains and Vaticle Devs on Native Inference
+      image: https://secure.meetupstatic.com/photos/event/c/6/1/7/600_499130711.jpeg
+      url: https://www.meetup.com/typedb-prague/events/281066485/
+      ical:
+        summary: IBM Devs on Transparent Supply Chains and Vaticle Devs on Native Inference
+        description: 'TypeDB Prague Engineers
+
+          Thursday, October 14 at 8:00 PM
+
+
+          It has been almost 2 years since we were able to have the TypeDB community gather in person and while many around the world are still dealing with the...
+
+
+          https://www.meetup.com/typedb-prague/events/281066485/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281066485@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/281066485/
+        dtstart: 2021-10-14 20:00:00+02:00
+        dtend: 2021-10-14 21:00:00+02:00
