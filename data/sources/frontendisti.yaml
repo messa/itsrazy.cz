@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/1/2/1/6/600_498544630.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Oct 13, 2021, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
+      meta_description: 'Wed, Oct 13, 2021, 7:00 PM: První online i offline akce!Online budeme vysílat na youtube (link dodáme), offline se sejdeme u SUPERKODERS. Prosím při přihlášení zodpovězte, jak se zúčastníte (díky!)OFF'
       og_title: Meetup Frontedisti.cz, Wed, Oct 13, 2021, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsyccnbrb/
@@ -17,11 +17,11 @@ series:
           Wednesday, October 13 at 7:00 PM
 
 
-          Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat ...
+          První online i offline akce! Online budeme vysílat na youtube (link dodáme), offline se sejdeme u SUPERKODERS. Prosím při přihlášení zodpovězte, jak s...
 
 
           https://www.meetup.com/frontendisti/events/280531700/'
-        location: Online event
+        location: SUPERKODERS (Hněvkovského 30/65, Brno-jih-Komárov, Czech Republic 617 00)
         geo:
           lat: 50.08
           lon: 14.43
