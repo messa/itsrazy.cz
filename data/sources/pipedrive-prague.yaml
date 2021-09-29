@@ -104,3 +104,28 @@ series:
         url: https://www.meetup.com/pipedrive-talks-prague/events/268705022/
         dtstart: 2020-02-25 07:30:00+01:00
         dtend: 2020-02-25 09:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Oct 19, 2021, 6:00 PM: If you want to succeed as a product-led company, you must ensure your teams are `empowered` enough to do the best work they can. As Marty Cagan famously wrote: "Great teams'
+      og_title: 'Product Meetup: Empowered Product Teams'
+      image: https://secure.meetupstatic.com/photos/event/6/5/7/0/600_499105968.jpeg
+      url: https://www.meetup.com/pipedrive-talks-prague/events/280939384/
+      ical:
+        summary: 'Product Meetup: Empowered Product Teams'
+        description: 'Pipedrive Talks Prague
+
+          Tuesday, October 19 at 6:00 PM
+
+
+          If you want to succeed as a product-led company, you must ensure your teams are `empowered` enough to do the best work they can. As Marty Cagan famous...
+
+
+          https://www.meetup.com/pipedrive-talks-prague/events/280939384/'
+        location: Pipedrive (Pernerova 697/35, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280939384@meetup.com
+        url: https://www.meetup.com/pipedrive-talks-prague/events/280939384/
+        dtstart: 2021-10-19 18:00:00+02:00
+        dtend: 2021-10-19 21:00:00+02:00

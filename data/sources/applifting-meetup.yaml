@@ -105,3 +105,28 @@ series:
         url: https://www.meetup.com/Applifting-meetup-1/events/261263234/
         dtstart: 2019-05-21 17:30:00+02:00
         dtend: 2019-05-21 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Oct 12, 2021, 6:30 PM: Nosíte v hlavě myšlenku na super byznys, ale nevíte, jak ji zrealizovat? Už máte existující produkt a chcete ho posunout dál? Nebo se chcete jen poradit? Pak by vám neměl u'
+      og_title: 'Jak na úspěšný produkt: Od nápadu k realizaci'
+      image: https://secure.meetupstatic.com/photos/event/1/b/0/b/600_499026923.jpeg
+      url: https://www.meetup.com/Applifting-meetup-1/events/280984779/
+      ical:
+        summary: 'Jak na úspěšný produkt: Od nápadu k realizaci'
+        description: 'Applifting meetup
+
+          Tuesday, October 12 at 6:30 PM
+
+
+          Nosíte v hlavě myšlenku na super byznys, ale nevíte, jak ji zrealizovat? Už máte existující produkt a chcete ho posunout dál? Nebo se chcete jen porad...
+
+
+          https://www.meetup.com/Applifting-meetup-1/events/280984779/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280984779@meetup.com
+        url: https://www.meetup.com/Applifting-meetup-1/events/280984779/
+        dtstart: 2021-10-12 18:30:00+02:00
+        dtend: 2021-10-12 20:30:00+02:00
