@@ -178,3 +178,28 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/280508488/
         dtstart: 2021-10-20 09:00:00+02:00
         dtend: 2021-10-20 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Oct 26, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/neni-business-analytik-jako-business-analytik/Na co se můžete těšit:Kdo je business analytik a co je to business ana'
+      og_title: Není business analytik jako business analytik
+      image: https://secure.meetupstatic.com/photos/event/5/2/2/3/600_498561027.jpeg
+      url: https://www.meetup.com/Morning-Talks/events/280508565/
+      ical:
+        summary: Není business analytik jako business analytik
+        description: 'Morning Talks
+
+          Tuesday, October 26 at 9:00 AM
+
+
+          REGISTRACE ZDE: https://www.datascript.cz/morning-talks/neni-business-analytik-jako-business-analytik/ Na co se můžete těšit:Kdo je business analytik ...
+
+
+          https://www.meetup.com/Morning-Talks/events/280508565/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280508565@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/280508565/
+        dtstart: 2021-10-26 09:00:00+02:00
+        dtend: 2021-10-26 10:00:00+02:00
