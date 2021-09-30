@@ -181,3 +181,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/281045132/
         dtstart: 2021-10-04 18:30:00+02:00
         dtend: 2021-10-04 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Oct 7, 2021, 6:00 PM: Are you a UX writer, UX designer, UX researcher, or are just UX curious? Come on out for the next Prague UX Writers meetup!If you have something you want to talk about or sh'
+      og_title: PRAGUE UX WRITERS MEETUP Vol. 22 - October
+      image: https://secure.meetupstatic.com/photos/event/4/e/4/a/600_499160042.jpeg
+      url: https://www.meetup.com/asociace-ux/events/281102718/
+      ical:
+        summary: PRAGUE UX WRITERS MEETUP Vol. 22 - October
+        description: 'Asociace UX
+
+          Thursday, October 7 at 6:00 PM
+
+
+          Are you a UX writer, UX designer, UX researcher, or are just UX curious? Come on out for the next Prague UX Writers meetup! If you have something you ...\n
+
+          https://www.meetup.com/asociace-ux/events/281102718/'
+        location: Sad Man's Tongue Bar & Bistro (Konviktská 7, Staré Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281102718@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/281102718/
+        dtstart: 2021-10-07 18:00:00+02:00
+        dtend: 2021-10-07 20:00:00+02:00
