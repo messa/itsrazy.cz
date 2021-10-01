@@ -104,3 +104,28 @@ series:
         url: https://www.meetup.com/TopMonks-Caffe/events/277826737/
         dtstart: 2021-05-04 19:00:00+02:00
         dtend: 2021-05-04 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Oct 5, 2021, 7:00 PM: Tentokrát se podíváme na adrenalinové sporty. Hledáte nějaký netechnický koníček? Přijďte načerpat inspiraci!Sledovat nás můžete jako vždy i živě na: https://zive.tv/topmonk'
+      og_title: Adrenalinové sporty
+      image: https://secure.meetupstatic.com/photos/event/b/6/0/7/600_499186599.jpeg
+      url: https://www.meetup.com/TopMonks-Caffe/events/281139148/
+      ical:
+        summary: Adrenalinové sporty
+        description: 'TopMonks Caffè
+
+          Tuesday, October 5 at 7:00 PM
+
+
+          Tentokrát se podíváme na adrenalinové sporty. Hledáte nějaký netechnický koníček? Přijďte načerpat inspiraci!  Sledovat nás můžete jako vždy i živě na...
+
+
+          https://www.meetup.com/TopMonks-Caffe/events/281139148/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281139148@meetup.com
+        url: https://www.meetup.com/TopMonks-Caffe/events/281139148/
+        dtstart: 2021-10-05 19:00:00+02:00
+        dtend: 2021-10-05 21:00:00+02:00
