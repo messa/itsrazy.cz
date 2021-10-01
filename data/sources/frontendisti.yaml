@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/1/2/1/6/600_498544630.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Oct 13, 2021, 7:00 PM: První online i offline akce!Online budeme vysílat na youtube (link dodáme), offline se sejdeme u SUPERKODERS. Prosím při přihlášení zodpovězte, jak se zúčastníte (díky!)OFF'
+      meta_description: 'Wed, Oct 13, 2021, 7:00 PM: (CZ): První online i offline akce zároveň!Tentokrát na téma: "Jaké frameworky ti nesmí letos uniknout."Online budeme vysílat na youtube (link dodáme), offline se sejdeme u '
       og_title: Meetup Frontedisti.cz, Wed, Oct 13, 2021, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsyccnbrb/
@@ -17,7 +17,7 @@ series:
           Wednesday, October 13 at 7:00 PM
 
 
-          První online i offline akce! Online budeme vysílat na youtube (link dodáme), offline se sejdeme u SUPERKODERS. Prosím při přihlášení zodpovězte, jak s...
+          (CZ): První online i offline akce zároveň! Tentokrát na téma: "Jaké frameworky ti nesmí letos uniknout." Online budeme vysílat na youtube (link dodáme...
 
 
           https://www.meetup.com/frontendisti/events/280531700/'
@@ -29,7 +29,7 @@ series:
         uid: event_mbjhpsyccnbrb@meetup.com
         url: https://www.meetup.com/frontendisti/events/280531700/
         dtstart: 2021-10-13 19:00:00+02:00
-        dtend: 2021-10-13 21:00:00+02:00
+        dtend: 2021-10-13 22:00:00+02:00
   - meetupcom:
       meta_description: 'Wed, Nov 10, 2021, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
       og_title: Meetup Frontedisti.cz, Wed, Nov 10, 2021, 7:00 PM

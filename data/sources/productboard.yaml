@@ -61,3 +61,28 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/280510069/
         dtstart: 2021-09-29 18:00:00+02:00
         dtend: 2021-09-29 22:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Oct 7, 2021, 6:00 PM: It’s happening! Productboard is officially in Brno!Register please via Eventbrite: https://www.eventbrite.com/e/productboard-office-opening-party-in-brno-tickets-17717528504'
+      og_title: Productboard Office Opening Party in Brno
+      image: https://secure.meetupstatic.com/photos/event/b/b/3/c/600_499187932.jpeg
+      url: https://www.meetup.com/productboard-meetups/events/281141059/
+      ical:
+        summary: Productboard Office Opening Party in Brno
+        description: 'Productboard Meetups
+
+          Thursday, October 7 at 6:00 PM
+
+
+          It’s happening! Productboard is officially in Brno! Register please via Eventbrite:...
+
+
+          https://www.meetup.com/productboard-meetups/events/281141059/'
+        location: Impact Hub Brno (Cyrilská 7, Brno-střed-Trnitá, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281141059@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/281141059/
+        dtstart: 2021-10-07 18:00:00+02:00
+        dtend: 2021-10-07 21:00:00+02:00
