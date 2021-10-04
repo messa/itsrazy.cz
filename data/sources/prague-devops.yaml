@@ -105,3 +105,28 @@ series:
         url: https://www.meetup.com/Prague-DevOps-Meetup/events/268575846/
         dtstart: 2020-02-24 18:00:00+01:00
         dtend: 2020-02-24 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Nov 3, 2021, 6:00 PM: Hello doers,The forth online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.The structure of the session will be one main'
+      og_title: Prague DevOps meetup online (November)
+      image: https://secure.meetupstatic.com/photos/event/6/e/7/4/600_474748276.jpeg
+      url: https://www.meetup.com/Prague-DevOps-Meetup/events/281198432/
+      ical:
+        summary: Prague DevOps meetup online (November)
+        description: 'Prague DevOps Meetup
+
+          Wednesday, November 3 at 6:00 PM
+
+
+          Hello doers, The forth online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.The structure of the ...
+
+
+          https://www.meetup.com/Prague-DevOps-Meetup/events/281198432/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281198432@meetup.com
+        url: https://www.meetup.com/Prague-DevOps-Meetup/events/281198432/
+        dtstart: 2021-11-03 18:00:00+01:00
+        dtend: 2021-11-03 20:00:00+01:00

@@ -30,3 +30,28 @@ series:
         url: https://www.meetup.com/the-social-programers/events/280899375/
         dtstart: 2021-09-30 18:30:00+02:00
         dtend: 2021-09-30 21:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Oct 7, 2021, 6:30 PM: Let''s code together and build something interesting. Work on your own project or join in on the group project.Bring a laptop and a sense of adventure, all levels welcome.Ple'
+      og_title: 'Coding Session '
+      image: https://secure.meetupstatic.com/photos/event/a/b/0/600_499262736.jpeg
+      url: https://www.meetup.com/the-social-programers/events/281199410/
+      ical:
+        summary: 'Coding Session '
+        description: 'The Social Programers
+
+          Thursday, October 7 at 6:30 PM
+
+
+          Let''s code together and build something interesting. Work on your own project or join in on the group project. Bring a laptop and a sense of adventure...
+
+
+          https://www.meetup.com/the-social-programers/events/281199410/'
+        location: Café Jedna (Dukelských Hrdinů 530/47, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281199410@meetup.com
+        url: https://www.meetup.com/the-social-programers/events/281199410/
+        dtstart: 2021-10-07 18:30:00+02:00
+        dtend: 2021-10-07 21:30:00+02:00
