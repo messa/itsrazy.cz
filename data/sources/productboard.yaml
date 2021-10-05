@@ -86,3 +86,28 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/281141059/
         dtstart: 2021-10-07 18:00:00+02:00
         dtend: 2021-10-07 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Oct 7, 2021, 5:00 PM: Attention Design system fans! We''ll be livestreaming Figma''s #Schema2021 conference at our office.Design leaders from across the world are coming together to share ideas, in'
+      og_title: 'Schema: Design Systems conference by Figma — livestream at Productboard’s office'
+      image: https://secure.meetupstatic.com/photos/event/5/7/8/d/600_499282413.jpeg
+      url: https://www.meetup.com/productboard-meetups/events/281222064/
+      ical:
+        summary: 'Schema: Design Systems conference by Figma — livestream at Productboard’s office'
+        description: 'Productboard Meetups
+
+          Thursday, October 7 at 5:00 PM
+
+
+          Attention Design system fans! We''ll be livestreaming Figma''s #Schema2021 conference at our office. Design leaders from across the world are coming tog...
+
+
+          https://www.meetup.com/productboard-meetups/events/281222064/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281222064@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/281222064/
+        dtstart: 2021-10-07 17:00:00+02:00
+        dtend: 2021-10-07 20:00:00+02:00
