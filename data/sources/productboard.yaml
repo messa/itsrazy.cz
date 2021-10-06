@@ -111,3 +111,28 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/281222064/
         dtstart: 2021-10-07 17:00:00+02:00
         dtend: 2021-10-07 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Oct 19, 2021, 6:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We’re excited to show you our new event space (in person) as '
+      og_title: Design Meetup - Offline + Livestreaming
+      image: https://secure.meetupstatic.com/photos/event/b/7/f/f/600_499307103.jpeg
+      url: https://www.meetup.com/productboard-meetups/events/281251376/
+      ical:
+        summary: Design Meetup - Offline + Livestreaming
+        description: 'Productboard Meetups
+
+          Tuesday, October 19 at 6:00 PM
+
+
+          During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We’re excited to show you our new event...
+
+
+          https://www.meetup.com/productboard-meetups/events/281251376/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281251376@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/281251376/
+        dtstart: 2021-10-19 18:00:00+02:00
+        dtend: 2021-10-19 21:00:00+02:00

@@ -105,3 +105,28 @@ series:
         url: https://www.meetup.com/Pure-Storage-Talks/events/274786867/
         dtstart: 2020-12-17 18:00:00+01:00
         dtend: 2020-12-17 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Mon, Oct 11, 2021, 8:00 AM: Innovation. A buzzword for some, daily bread for us.It started with an innovative idea of two brilliant minds, and since then the innovative mindset has become deeply roote'
+      og_title: Pure Storage @ Innovation Week
+      image: https://secure.meetupstatic.com/photos/event/a/a/1/4/600_499303540.jpeg
+      url: https://www.meetup.com/Pure-Storage-Talks/events/281246298/
+      ical:
+        summary: Pure Storage @ Innovation Week
+        description: 'Pure Storage Talks
+
+          Monday, October 11 at 8:00 AM
+
+
+          Innovation. A buzzword for some, daily bread for us. It started with an innovative idea of two brilliant minds, and since then the innovative mindset ...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/281246298/'
+        location: Cubex Centrum Praha spol. s r. o. (Na Strži 2097/63, Praha 4-Nusle, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281246298@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/281246298/
+        dtstart: 2021-10-11 08:00:00+02:00
+        dtend: 2021-10-11 18:00:00+02:00
