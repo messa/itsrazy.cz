@@ -130,3 +130,28 @@ series:
         url: https://www.meetup.com/Applifting-meetup-1/events/280984779/
         dtstart: 2021-10-12 18:30:00+02:00
         dtend: 2021-10-12 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Oct 20, 2021, 4:00 PM: O čem budeme mluvit?Vyplatí se vašemu produktu či službě BankID? Jaké možnosti bankovní identita nabízí a proč byste ji neměli ignorovat? Na tyto a další otázky bude prostř'
+      og_title: 'Seminář BankID pro firmy: Vše, co potřebujete vědět před integrací BankID'
+      image: https://secure.meetupstatic.com/photos/event/3/8/a/d/600_499334509.jpeg
+      url: https://www.meetup.com/Applifting-meetup-1/events/281290839/
+      ical:
+        summary: 'Seminář BankID pro firmy: Vše, co potřebujete vědět před integrací BankID'
+        description: 'Applifting meetup
+
+          Wednesday, October 20 at 4:00 PM
+
+
+          O čem budeme mluvit?Vyplatí se vašemu produktu či službě BankID? Jaké možnosti bankovní identita nabízí a proč byste ji neměli ignorovat? Na tyto a da...
+
+
+          https://www.meetup.com/Applifting-meetup-1/events/281290839/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281290839@meetup.com
+        url: https://www.meetup.com/Applifting-meetup-1/events/281290839/
+        dtstart: 2021-10-20 16:00:00+02:00
+        dtend: 2021-10-20 17:00:00+02:00
