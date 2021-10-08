@@ -104,3 +104,28 @@ series:
         url: https://www.meetup.com/Prague-Machine-Learning/events/277464280/
         dtstart: 2021-04-21 18:00:00+02:00
         dtend: 2021-04-21 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Oct 14, 2021, 6:00 PM: Přednáška bude online na YouTube a v češtině!Výběr vhodného nástroje pro provoz ML modelů je jedním z kritických rozhodnutí při návrhu produkční infrastruktury. Srovnali js'
+      og_title: 'MLMU Online#16: Kvantitativní porovnání platforem pro produkční provoz ML modelů'
+      image: https://secure.meetupstatic.com/photos/event/4/1/2/6/600_499336678.jpeg
+      url: https://www.meetup.com/Prague-Machine-Learning/events/281293818/
+      ical:
+        summary: 'MLMU Online#16: Kvantitativní porovnání platforem pro produkční provoz ML modelů'
+        description: 'Machine Learning Meetup Prague
+
+          Thursday, October 14 at 6:00 PM
+
+
+          Přednáška bude online na YouTube a v češtině! Výběr vhodného nástroje pro provoz ML modelů je jedním z kritických rozhodnutí při návrhu produkční infr...
+
+
+          https://www.meetup.com/Prague-Machine-Learning/events/281293818/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281293818@meetup.com
+        url: https://www.meetup.com/Prague-Machine-Learning/events/281293818/
+        dtstart: 2021-10-14 18:00:00+02:00
+        dtend: 2021-10-14 20:00:00+02:00

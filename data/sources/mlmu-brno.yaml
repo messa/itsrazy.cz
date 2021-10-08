@@ -104,3 +104,28 @@ series:
         url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278273823/
         dtstart: 2021-05-26 18:00:00+02:00
         dtend: 2021-05-26 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Oct 14, 2021, 6:00 PM: Přednáška bude online na YouTube a v češtině!Výběr vhodného nástroje pro provoz ML modelů je jedním z kritických rozhodnutí při návrhu produkční infrastruktury. Srovnali js'
+      og_title: 'MLMU Online#16: Kvantitativní porovnání platforem pro produkční provoz ML modelů'
+      image: https://secure.meetupstatic.com/photos/event/4/1/4/0/600_499336704.jpeg
+      url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/281293821/
+      ical:
+        summary: 'MLMU Online#16: Kvantitativní porovnání platforem pro produkční provoz ML modelů'
+        description: 'Machine Learning Meetup Brno
+
+          Thursday, October 14 at 6:00 PM
+
+
+          Přednáška bude online na YouTube a v češtině! Výběr vhodného nástroje pro provoz ML modelů je jedním z kritických rozhodnutí při návrhu produkční infr...
+
+
+          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/281293821/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_281293821@meetup.com
+        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/281293821/
+        dtstart: 2021-10-14 18:00:00+02:00
+        dtend: 2021-10-14 20:00:00+02:00
