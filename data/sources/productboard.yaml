@@ -113,11 +113,11 @@ series:
         dtend: 2021-10-07 20:00:00+02:00
   - meetupcom:
       meta_description: 'Tue, Oct 19, 2021, 6:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We’re excited to show you our new event space (in person) as '
-      og_title: Design Meetup - Offline + Livestreaming
-      image: https://secure.meetupstatic.com/photos/event/b/7/f/f/600_499307103.jpeg
+      og_title: 'Design Meetup: Cutting edge of prototyping (Offline + Livestreaming)'
+      image: https://secure.meetupstatic.com/photos/event/a/5/b/a/600_499422426.jpeg
       url: https://www.meetup.com/productboard-meetups/events/281251376/
       ical:
-        summary: Design Meetup - Offline + Livestreaming
+        summary: 'Design Meetup: Cutting edge of prototyping (Offline + Livestreaming)'
         description: 'Productboard Meetups
 
           Tuesday, October 19 at 6:00 PM
@@ -136,3 +136,28 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/281251376/
         dtstart: 2021-10-19 18:00:00+02:00
         dtend: 2021-10-19 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Oct 20, 2021, 6:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as'
+      og_title: 'Frontend Meetup PRG #2 - Offline + Livestreaming'
+      image: https://secure.meetupstatic.com/photos/event/9/b/d/1/600_499419889.jpeg
+      url: https://www.meetup.com/productboard-meetups/events/281355157/
+      ical:
+        summary: 'Frontend Meetup PRG #2 - Offline + Livestreaming'
+        description: 'Productboard Meetups
+
+          Wednesday, October 20 at 6:00 PM
+
+
+          During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new even...
+
+
+          https://www.meetup.com/productboard-meetups/events/281355157/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281355157@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/281355157/
+        dtstart: 2021-10-20 18:00:00+02:00
+        dtend: 2021-10-20 21:00:00+02:00

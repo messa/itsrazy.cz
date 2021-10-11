@@ -155,3 +155,28 @@ series:
         url: https://www.meetup.com/Applifting-meetup-1/events/281290839/
         dtstart: 2021-10-20 16:00:00+02:00
         dtend: 2021-10-20 17:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Oct 26, 2021, 6:00 PM: Žijete backendem nebo o něm uvažujete? Pak vás moc rádi uvidíme na tematickém meetupu, tentokrát konečně naživo (ale samozřejmě i online). Na co se můžete těšit? Popovídáme'
+      og_title: 'Backend meetup: Architektura, mýty o OOP a těžký život backenďáka'
+      image: https://secure.meetupstatic.com/photos/event/9/a/6/d/600_499419533.jpeg
+      url: https://www.meetup.com/Applifting-meetup-1/events/281354506/
+      ical:
+        summary: 'Backend meetup: Architektura, mýty o OOP a těžký život backenďáka'
+        description: 'Applifting meetup
+
+          Tuesday, October 26 at 6:00 PM
+
+
+          Žijete backendem nebo o něm uvažujete? Pak vás moc rádi uvidíme na tematickém meetupu, tentokrát konečně naživo (ale samozřejmě i online). Na co se mů...
+
+
+          https://www.meetup.com/Applifting-meetup-1/events/281354506/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281354506@meetup.com
+        url: https://www.meetup.com/Applifting-meetup-1/events/281354506/
+        dtstart: 2021-10-26 18:00:00+02:00
+        dtend: 2021-10-26 21:00:00+02:00

@@ -180,3 +180,103 @@ series:
         url: https://www.meetup.com/GDGPrague/events/drxpmsyccpbdc/
         dtstart: 2021-11-22 18:30:00+01:00
         dtend: 2021-11-22 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Mon, Oct 25, 2021, 6:30 PM: • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/GDG Gar'
+      og_title: GDG Garage Prague One, Mon, Oct 25, 2021, 6:30 PM
+      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      url: https://www.meetup.com/GDGPrague/events/rsffqsyccnbhc/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Monday, October 25 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/rsffqsyccnbhc/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_rsffqsyccnbhc@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/rsffqsyccnbhc/
+        dtstart: 2021-10-25 18:30:00+02:00
+        dtend: 2021-10-25 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Nov 8, 2021, 6:30 PM: • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/GDG Gara'
+      og_title: GDG Garage Prague One, Mon, Nov 8, 2021, 6:30 PM
+      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      url: https://www.meetup.com/GDGPrague/events/rsffqsyccpblb/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Monday, November 8 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/rsffqsyccpblb/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_rsffqsyccpblb@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/rsffqsyccpblb/
+        dtstart: 2021-11-08 18:30:00+01:00
+        dtend: 2021-11-08 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Mon, Nov 22, 2021, 6:30 PM: • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/GDG Gar'
+      og_title: GDG Garage Prague One, Mon, Nov 22, 2021, 6:30 PM
+      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      url: https://www.meetup.com/GDGPrague/events/rsffqsyccpbdc/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Monday, November 22 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/rsffqsyccpbdc/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_rsffqsyccpbdc@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/rsffqsyccpbdc/
+        dtstart: 2021-11-22 18:30:00+01:00
+        dtend: 2021-11-22 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Mon, Dec 6, 2021, 6:30 PM: • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/GDG Gara'
+      og_title: GDG Garage Prague One, Mon, Dec 6, 2021, 6:30 PM
+      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      url: https://www.meetup.com/GDGPrague/events/rsffqsyccqbjb/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Monday, December 6 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/rsffqsyccqbjb/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_rsffqsyccqbjb@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/rsffqsyccqbjb/
+        dtstart: 2021-12-06 18:30:00+01:00
+        dtend: 2021-12-06 20:30:00+01:00
