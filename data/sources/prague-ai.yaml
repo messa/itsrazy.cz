@@ -131,3 +131,28 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280942385/
         dtstart: 2021-10-05 12:00:00+02:00
         dtend: 2021-10-05 13:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Oct 20, 2021, 11:00 AM: Hi Makers!If you''re interested in AI, Data Science, Machine Learning and more... then you''ve probably heard about Automated Machine Learning. But you might wonder - what i'
+      og_title: The Benefits of Automated Machine Learning
+      image: https://secure.meetupstatic.com/photos/event/1/1/8/f/600_499444495.jpeg
+      url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281378423/
+      ical:
+        summary: The Benefits of Automated Machine Learning
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Wednesday, October 20 at 11:00 AM
+
+
+          Hi Makers! If you''re interested in AI, Data Science, Machine Learning and more... then you''ve probably heard about Automated Machine Learning. But you...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281378423/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281378423@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281378423/
+        dtstart: 2021-10-20 11:00:00+02:00
+        dtend: 2021-10-20 12:00:00+02:00
