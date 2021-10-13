@@ -129,3 +129,28 @@ series:
         url: https://www.meetup.com/frontendisti/events/278006831/
         dtstart: 2021-05-29 10:00:00+02:00
         dtend: 2021-05-29 17:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Feb 9, 2022, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každo'
+      og_title: Meetup Frontedisti.cz, Wed, Feb 9, 2022, 7:00 PM
+      image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
+      url: https://www.meetup.com/frontendisti/events/mbjhpsydcdbmb/
+      ical:
+        summary: Meetup Frontedisti.cz
+        description: 'Frontendisti.cz
+
+          Wednesday, February 9 at 7:00 PM
+
+
+          Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat ...
+
+
+          https://www.meetup.com/frontendisti/events/mbjhpsydcdbmb/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_mbjhpsydcdbmb@meetup.com
+        url: https://www.meetup.com/frontendisti/events/mbjhpsydcdbmb/
+        dtstart: 2022-02-09 19:00:00+01:00
+        dtend: 2022-02-09 21:00:00+01:00

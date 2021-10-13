@@ -277,3 +277,28 @@ series:
         url: https://www.meetup.com/typedb-prague/events/281066485/
         dtstart: 2021-10-14 20:00:00+02:00
         dtend: 2021-10-14 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Oct 26, 2021, 6:30 PM: This talk will present automatic TypeDB schema generation, natural language queries over TypeDB and schema visualisation as an Object-Role Model, Entity Relationship Diagra'
+      og_title: TypeDB Schema and Query Generation using Object-Role Modelling
+      image: https://secure.meetupstatic.com/photos/event/6/9/b/2/600_498987058.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280936217/
+      ical:
+        summary: TypeDB Schema and Query Generation using Object-Role Modelling
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, October 26 at 6:30 PM
+
+
+          This talk will present automatic TypeDB schema generation, natural language queries over TypeDB and schema visualisation as an Object-Role Model, Enti...
+
+
+          https://www.meetup.com/typedb-prague/events/280936217/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280936217@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280936217/
+        dtstart: 2021-10-26 18:30:00+02:00
+        dtend: 2021-10-26 19:30:00+02:00

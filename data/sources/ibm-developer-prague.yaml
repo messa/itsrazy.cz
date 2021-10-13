@@ -108,7 +108,7 @@ series:
   - meetupcom:
       meta_description: 'Thu, Oct 14, 2021, 5:00 PM: IBM & TCS Present: Communicating between ApplicationsIntro to Enterprise Messaging & Event StreamingEnterprise messaging technologies, such as IBM MQ, have provided asynchr'
       og_title: 'IBM & TCS Present: Communicating between Applications'
-      image: https://secure.meetupstatic.com/photos/event/3/7/8/8/600_498974216.jpeg
+      image: https://secure.meetupstatic.com/photos/event/4/c/e/6/600_499459686.jpeg
       url: https://www.meetup.com/IBM-Developer-Prague/events/280921328/
       ical:
         summary: 'IBM & TCS Present: Communicating between Applications'
@@ -121,7 +121,7 @@ series:
 
 
           https://www.meetup.com/IBM-Developer-Prague/events/280921328/'
-        location: null
+        location: Online event
         geo:
           lat: 50.08
           lon: 14.43

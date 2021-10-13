@@ -130,3 +130,28 @@ series:
         url: https://www.meetup.com/Pure-Storage-Talks/events/281246298/
         dtstart: 2021-10-11 08:00:00+02:00
         dtend: 2021-10-11 18:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Nov 11, 2021, 6:00 PM: 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐭𝐚𝐥𝐤: although there is an endless number of technical questions you can be asked during an interview, there are some common patterns that come up ver'
+      og_title: How to Nail Your Next Technical Interview
+      image: https://secure.meetupstatic.com/photos/event/6/7/b/d/600_499466557.jpeg
+      url: https://www.meetup.com/Pure-Storage-Talks/events/281401178/
+      ical:
+        summary: How to Nail Your Next Technical Interview
+        description: 'Pure Storage Talks
+
+          Thursday, November 11 at 6:00 PM
+
+
+          𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐭𝐚𝐥𝐤: although there is an endless number of technical questions you can be asked during an interview, there are some common patterns that c...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/281401178/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281401178@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/281401178/
+        dtstart: 2021-11-11 18:00:00+01:00
+        dtend: 2021-11-11 19:30:00+01:00
