@@ -129,3 +129,28 @@ series:
         url: https://www.meetup.com/pipedrive-talks-prague/events/280939384/
         dtstart: 2021-10-19 18:00:00+02:00
         dtend: 2021-10-19 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Nov 16, 2021, 6:00 PM: Microservices are a popular and well-known architectural choice. Over time, best practices regarding implementing this architectural style have evolved. In this meetup, we’'
+      og_title: 'Backend Meetup: Advanced Microservices'
+      image: https://secure.meetupstatic.com/photos/event/5/d/2/8/600_499463848.jpeg
+      url: https://www.meetup.com/pipedrive-talks-prague/events/281095226/
+      ical:
+        summary: 'Backend Meetup: Advanced Microservices'
+        description: 'Pipedrive Talks Prague
+
+          Tuesday, November 16 at 6:00 PM
+
+
+          Microservices are a popular and well-known architectural choice. Over time, best practices regarding implementing this architectural style have evolve...
+
+
+          https://www.meetup.com/pipedrive-talks-prague/events/281095226/'
+        location: Pipedrive (Pernerova 697/35, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281095226@meetup.com
+        url: https://www.meetup.com/pipedrive-talks-prague/events/281095226/
+        dtstart: 2021-11-16 18:00:00+01:00
+        dtend: 2021-11-16 21:00:00+01:00

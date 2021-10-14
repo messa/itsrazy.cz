@@ -31,7 +31,7 @@ series:
         dtstart: 2021-09-09 17:30:00+02:00
         dtend: 2021-09-09 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Apr 22, 2021, 5:30 PM: OAuth has been around for more than 10 years now, and has become the standard protocol for token-based security. Like every popular technology that has been growing with it'
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: 'Dominick Baier: OAuth - The good Parts'
       image: https://secure.meetupstatic.com/photos/event/9/c/9/4/600_495580084.jpeg
       url: https://www.meetup.com/Prague-NET-Meetup/events/277417529/
