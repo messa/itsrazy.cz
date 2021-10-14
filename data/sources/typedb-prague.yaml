@@ -302,3 +302,28 @@ series:
         url: https://www.meetup.com/typedb-prague/events/280936217/
         dtstart: 2021-10-26 18:30:00+02:00
         dtend: 2021-10-26 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Nov 2, 2021, 5:30 PM: Good for:- Beginners to TypeDB and TypeQL.- Those who have been using TypeDB and want a refresher on schema and TypeQL.- Experienced data analysts and software engineers.- T'
+      og_title: TypeDB Academy - Getting Started with Schema Design
+      image: https://secure.meetupstatic.com/photos/event/6/8/f/e/600_499286878.jpeg
+      url: https://www.meetup.com/typedb-prague/events/281226735/
+      ical:
+        summary: TypeDB Academy - Getting Started with Schema Design
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, November 2 at 5:30 PM
+
+
+          Good for:- Beginners to TypeDB and TypeQL.- Those who have been using TypeDB and want a refresher on schema and TypeQL.- Experienced data analysts and...
+
+
+          https://www.meetup.com/typedb-prague/events/281226735/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281226735@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/281226735/
+        dtstart: 2021-11-02 17:30:00+01:00
+        dtend: 2021-11-02 18:30:00+01:00
