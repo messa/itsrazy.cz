@@ -130,3 +130,28 @@ series:
         url: https://www.meetup.com/IBM-Developer-Prague/events/280921328/
         dtstart: 2021-10-14 17:00:00+02:00
         dtend: 2021-10-14 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Oct 18, 2021, 12:00 PM: Let''s continue the conversation; build smart and build secure with the right tools and services by working with the world’s largest technical support provider for open sou'
+      og_title: Developer Festival
+      image: https://secure.meetupstatic.com/photos/event/b/2/d/1/600_499485777.jpeg
+      url: https://www.meetup.com/IBM-Developer-Prague/events/281430037/
+      ical:
+        summary: Developer Festival
+        description: 'IBM Developer Czechia
+
+          Monday, October 18 at 12:00 PM
+
+
+          Let''s continue the conversation\; build smart and build secure with the right tools and services by working with the world’s largest technical support ...
+
+
+          https://www.meetup.com/IBM-Developer-Prague/events/281430037/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281430037@meetup.com
+        url: https://www.meetup.com/IBM-Developer-Prague/events/281430037/
+        dtstart: 2021-10-18 12:00:00+02:00
+        dtend: 2021-10-20 17:00:00+02:00
