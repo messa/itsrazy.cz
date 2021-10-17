@@ -55,3 +55,53 @@ series:
         url: https://www.meetup.com/HackPrague/events/272694585/
         dtstart: 2020-10-31 07:00:00+01:00
         dtend: 2020-11-01 19:00:00+01:00
+  - meetupcom:
+      meta_description: 'Sat, Oct 10, 2020, 3:00 PM: Free event in 🇨🇿 Czech language.Jak umělá inteligence detekuje nádory na mozku? Lze číst myšlenky pomocí elektroencefalogramu? Podívejte se s námi na propojení nejnovější'
+      og_title: Umělá inteligence v medicíně — ukázky a možnosti studia
+      image: https://secure.meetupstatic.com/photos/event/8/a/3/8/600_492455384.jpeg
+      url: https://www.meetup.com/HackPrague/events/268734656/
+      ical:
+        summary: Umělá inteligence v medicíně — ukázky a možnosti studia
+        description: 'HackPrague Hackers
+
+          Saturday, October 10 at 3:00 PM
+
+
+          Free event in 🇨🇿 Czech language. Jak umělá inteligence detekuje nádory na mozku? Lze číst myšlenky pomocí elektroencefalogramu? Podívejte se s námi na...
+
+
+          https://www.meetup.com/HackPrague/events/268734656/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_268734656@meetup.com
+        url: https://www.meetup.com/HackPrague/events/268734656/
+        dtstart: 2020-10-10 15:00:00+02:00
+        dtend: 2020-10-10 16:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Feb 20, 2020, 6:00 PM: This event will be in Czech language and free registration on Eventbrite is required.LÍSTKYwww.bit.ly/DSNIIIPOPISOd technologie (T) až po business case (B). Přijďte si posl'
+      og_title: 'Data Science Nights III: Data analysis from T to B'
+      image: https://secure.meetupstatic.com/photos/event/7/8/5/2/600_486990802.jpeg
+      url: https://www.meetup.com/HackPrague/events/268320840/
+      ical:
+        summary: 'Data Science Nights III: Data analysis from T to B'
+        description: 'HackPrague Hackers
+
+          Thursday, February 20 at 6:00 PM
+
+
+          This event will be in Czech language and free registration on Eventbrite is required. LÍSTKYwww.bit.ly/DSNIII POPISOd technologie (T) až po business c...
+
+
+          https://www.meetup.com/HackPrague/events/268320840/'
+        location: Czech Photo Center (Seydlerova 2835, Praha 13, Czech Republic 158 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_268320840@meetup.com
+        url: https://www.meetup.com/HackPrague/events/268320840/
+        dtstart: 2020-02-20 18:00:00+01:00
+        dtend: 2020-02-20 21:00:00+01:00
