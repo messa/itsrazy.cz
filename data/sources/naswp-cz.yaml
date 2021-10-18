@@ -130,3 +130,52 @@ series:
         url: https://www.meetup.com/naswp-cz/events/276045239/
         dtstart: 2021-03-31 18:30:00+02:00
         dtend: 2021-03-31 21:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Oct 27, 2021, 6:30 PM: Pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity.📢 Program (anotace níže):– 18:30 Úvodní slovo a novinky ze světa WordPre'
+      og_title: 'WordPress pivo #6'
+      image: https://secure.meetupstatic.com/photos/event/6/4/e/c/600_499585836.jpeg
+      url: https://www.meetup.com/naswp-cz/events/281506962/
+      ical:
+        summary: 'WordPress pivo #6'
+        description: 'NášWP WordPress komunita
+
+          Wednesday, October 27 at 6:30 PM
+
+
+          Pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity. 📢 Program (anotace níže): – 18:30 Úvodní slovo a n...
+
+
+          https://www.meetup.com/naswp-cz/events/281506962/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281506962@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/281506962/
+        dtstart: 2021-10-27 18:30:00+02:00
+        dtend: 2021-10-27 21:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Nov 24, 2021, 6:30 PM: Pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity.📢 Program bude upřesněn.🖐Chcete přednášet na příštím WP pivu? Rádi vás '
+      og_title: 'WordPress Pivo #7'
+      image: https://secure.meetupstatic.com/photos/event/6/5/4/f/600_499585935.jpeg
+      url: https://www.meetup.com/naswp-cz/events/281507008/
+      ical:
+        summary: 'WordPress Pivo #7'
+        description: 'NášWP WordPress komunita
+
+          Wednesday, November 24 at 6:30 PM\n
+
+          Pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity. 📢 Program bude upřesněn. 🖐Chcete přednášet na příš...
+
+
+          https://www.meetup.com/naswp-cz/events/281507008/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281507008@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/281507008/
+        dtstart: 2021-11-24 18:30:00+01:00
+        dtend: 2021-11-24 21:30:00+01:00

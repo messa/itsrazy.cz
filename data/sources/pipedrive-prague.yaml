@@ -130,7 +130,7 @@ series:
         dtstart: 2021-10-19 18:00:00+02:00
         dtend: 2021-10-19 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 16, 2021, 6:00 PM: Microservices are a popular and well-known architectural choice. Over time, best practices regarding implementing this architectural style have evolved. In this meetup, we’'
+      meta_description: 'Tue, Nov 16, 2021, 6:00 PM: Microservices are a popular and well-known architectural choice. Over time, best practices regarding implementing and maintaining this architectural style have evolved. In '
       og_title: 'Backend Meetup: Advanced Microservices'
       image: https://secure.meetupstatic.com/photos/event/5/d/2/8/600_499463848.jpeg
       url: https://www.meetup.com/pipedrive-talks-prague/events/281095226/
@@ -141,7 +141,7 @@ series:
           Tuesday, November 16 at 6:00 PM
 
 
-          Microservices are a popular and well-known architectural choice. Over time, best practices regarding implementing this architectural style have evolve...
+          Microservices are a popular and well-known architectural choice. Over time, best practices regarding implementing and maintaining this architectural s...
 
 
           https://www.meetup.com/pipedrive-talks-prague/events/281095226/'
