@@ -1,0 +1,8 @@
+series:
+  events:
+  - title: "Optimalizujeme backend: od data scrapingu po GraphQL API"
+    url: https://www.eventbrite.com/e/livesport-talk-x-tickets-175392091467
+    date: 2021-10-21
+    venue:
+      name: Aspira Business Centre
+      address: Bucharova 2928/14a, 15800 Praha
