@@ -32,6 +32,17 @@ const aggregateEventsByDay = events => aggregateItems(events, event => {
   return `${dt.getFullYear()}-${dt.getMonth()}-${dt.getDate()}`
 })
 
+function deduplicateEvents(events) {
+  let lastEvent = null
+  return events.filter(event => {
+    try {
+      return event.startDate !== lastEvent?.startDate || event.title !== lastEvent?.title
+    } finally {
+      lastEvent = event
+    }
+  })
+}
+
 const monthNames = ['leden', 'únor', 'březen', 'duben', 'květen', 'červen', 'červenec', 'srpen', 'září', 'říjen', 'listopad', 'prosinec']
 
 const firstUpperCase = s => s[0].toUpperCase() + s.substr(1)
@@ -80,7 +91,7 @@ export async function getStaticProps(context) {
       }
     }
   })
-  const currentEvents = []
+  let currentEvents = []
   const today = new Date()
   today.setHours(0, 0, 0, 0)
   allSeries.forEach(series => {
@@ -96,6 +107,7 @@ export async function getStaticProps(context) {
     if (a.startDate > b.startDate) return 1;
     return 0;
   })
+  currentEvents = deduplicateEvents(currentEvents)
   return {
     props: { // will be passed to the page component as props
       currentEvents,
