@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/4/d/9/600_498541241.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Sep 9, 2021, 5:30 PM: GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the power to ask for exactly wh'
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: GraphQL in .NET
       image: https://secure.meetupstatic.com/photos/event/4/c/0/600_498541216.jpeg
       url: https://www.meetup.com/Prague-NET-Meetup/events/280482935/
