@@ -228,7 +228,7 @@ series:
         dtstart: 2021-10-12 18:30:00+02:00
         dtend: 2021-10-12 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Oct 21, 2021, 6:30 PM: Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform kno'
+      meta_description: 'Thu, Oct 28, 2021, 6:30 PM: Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform kno'
       og_title: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise
       image: https://secure.meetupstatic.com/photos/event/3/5/b/b/600_498973755.jpeg
       url: https://www.meetup.com/typedb-prague/events/280920870/
@@ -236,7 +236,7 @@ series:
         summary: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise
         description: 'TypeDB Prague Engineers
 
-          Thursday, October 21 at 6:30 PM
+          Thursday, October 28 at 6:30 PM
 
 
           Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query l...
@@ -250,8 +250,8 @@ series:
         status: CONFIRMED
         uid: event_280920870@meetup.com
         url: https://www.meetup.com/typedb-prague/events/280920870/
-        dtstart: 2021-10-21 18:30:00+02:00
-        dtend: 2021-10-21 19:30:00+02:00
+        dtstart: 2021-10-28 18:30:00+02:00
+        dtend: 2021-10-28 19:30:00+02:00
   - meetupcom:
       meta_description: 'Thu, Oct 14, 2021, 8:00 PM: It has been almost 2 years since we were able to have the TypeDB community gather in person and while many around the world are still dealing with the pandemic and unable t'
       og_title: IBM Devs on Transparent Supply Chains and Vaticle Devs on Native Inference
