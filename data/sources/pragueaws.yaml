@@ -55,3 +55,53 @@ series:
         url: https://www.meetup.com/Prague-AWS-Meetup/events/275297097/
         dtstart: 2021-01-13 18:00:00+01:00
         dtend: 2021-01-13 19:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Dec 11, 2019, 6:00 PM: We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT.There will be two speakers with the following presentations:• Experience with migratio'
+      og_title: Regular Prague AWS User Group Meetup
+      image: https://secure.meetupstatic.com/photos/event/d/8/4/e/600_487135374.jpeg
+      url: https://www.meetup.com/Prague-AWS-Meetup/events/266233892/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Wednesday, December 11 at 6:00 PM
+
+
+          We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT. There will be two speakers with the following presentations: • ...
+
+
+          https://www.meetup.com/Prague-AWS-Meetup/events/266233892/'
+        location: MSD IT Global Innovation Center - Five (FIVE, Na Valentince 3336/4, 150 00, Prague, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_266233892@meetup.com
+        url: https://www.meetup.com/Prague-AWS-Meetup/events/266233892/
+        dtstart: 2019-12-11 18:00:00+01:00
+        dtend: 2019-12-11 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Sep 17, 2019, 6:00 PM: We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT.There will be two speakers with the following presentations:• How to migrate a large d'
+      og_title: Regular Prague AWS User Group Meetup
+      image: https://secure.meetupstatic.com/photos/event/8/9/f/c/600_476495324.jpeg
+      url: https://www.meetup.com/Prague-AWS-Meetup/events/264129445/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Tuesday, September 17 at 6:00 PM
+
+
+          We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT. There will be two speakers with the following presentations: • ...
+
+
+          https://www.meetup.com/Prague-AWS-Meetup/events/264129445/'
+        location: MSD IT Global Innovation Center - Five (FIVE, Na Valentince 3336/4, 150 00, Prague, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_264129445@meetup.com
+        url: https://www.meetup.com/Prague-AWS-Meetup/events/264129445/
+        dtstart: 2019-09-17 18:00:00+02:00
+        dtend: 2019-09-17 20:00:00+02:00

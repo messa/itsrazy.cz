@@ -31,22 +31,22 @@ series:
         dtstart: 2021-10-13 18:00:00+02:00
         dtend: 2021-10-13 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Nov 10, 2021, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
-      og_title: Meetup Frontedisti.cz, Wed, Nov 10, 2021, 7:00 PM
+      meta_description: 'Wed, Nov 10, 2021, 7:00 PM: 🇨🇿Těšíme se na vás v Pipedrive v Praze!Přihlašte svou přednášku: https://forms.gle/TAyjxZH9YHn8YmKV7(Preferujeme angličtinu, ale není to podmínka.)Po online streamech a k'
+      og_title: Pražský listopadový meetup, Wed, Nov 10, 2021, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsyccpbnb/
       ical:
-        summary: Meetup Frontedisti.cz
+        summary: Pražský listopadový meetup
         description: 'Frontendisti.cz
 
           Wednesday, November 10 at 7:00 PM
 
 
-          Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat ...
+          🇨🇿 Těšíme se na vás v Pipedrive v Praze! Přihlašte svou přednášku: https://forms.gle/TAyjxZH9YHn8YmKV7(Preferujeme angličtinu, ale není to podmínka.) ...
 
 
           https://www.meetup.com/frontendisti/events/280531794/'
-        location: Online event
+        location: Pipedrive (Pernerova 697/35, Karlín, Praha-Praha 8, Czech Republic 186 00)
         geo:
           lat: 50.08
           lon: 14.43
