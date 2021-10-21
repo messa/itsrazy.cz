@@ -1,0 +1,57 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/GDG-Ostrava/
+    meta_description: Vyvíjíme s Google...Jsme součástí GUG.cz (http://www.gug.cz/cs) se zájmem o témata vývojářská a technická vzhledem ke Google technologiím, ale i dalším webovým a mobilním technologiím.
+    og_title: GDG Ostrava (Ostrava, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Fri, Nov 26, 2021, 9:00 AM: PLEASE RSVP USING THE LINK BELOWhttps://gdg.community.dev/events/details/google-gdg-ostrava-presents-devfestcz-2021-powered-by-techmeetup/DevFest.cz je každoročně pořádaný '
+      og_title: DevFest.cz 2021 powered by TechMeetup
+      image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
+      url: https://www.meetup.com/GDG-Ostrava/events/281546792/
+      ical:
+        summary: DevFest.cz 2021 powered by TechMeetup
+        description: 'GDG Ostrava
+
+          Friday, November 26 at 9:00 AM
+
+
+          PLEASE RSVP USING THE LINK BELOW <br/>https://gdg.community.dev/events/details/google-gdg-ostrava-presents-devfestcz-2021-powered-by-techmeetup/     &...
+
+
+          https://www.meetup.com/GDG-Ostrava/events/281546792/'
+        location: null
+        geo:
+          lat: 49.83
+          lon: 18.27
+        status: CONFIRMED
+        uid: event_281546792@meetup.com
+        url: https://www.meetup.com/GDG-Ostrava/events/281546792/
+        dtstart: 2021-11-26 09:00:00+01:00
+        dtend: 2021-11-26 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Jun 2, 2021, 6:00 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOWhttps://gdg.community.dev/events/details/google-gdg-ostrava-presents-cybersecurity-with-zdenek-klus-ii-czech/'
+      og_title: Cybersecurity with Zdenek Klus II [Czech]
+      image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
+      url: https://www.meetup.com/GDG-Ostrava/events/278023608/
+      ical:
+        summary: Cybersecurity with Zdenek Klus II [Czech]
+        description: 'GDG Ostrava
+
+          Wednesday, June 2 at 6:00 PM
+
+
+          THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW <br/>https://gdg.community.dev/events/details/google-gdg-ostrava-presents-cybersecuri...
+
+
+          https://www.meetup.com/GDG-Ostrava/events/278023608/'
+        location: null
+        geo:
+          lat: 49.83
+          lon: 18.27
+        status: CONFIRMED
+        uid: event_278023608@meetup.com
+        url: https://www.meetup.com/GDG-Ostrava/events/278023608/
+        dtstart: 2021-06-02 18:00:00+02:00
+        dtend: 2021-06-02 21:00:00+02:00
