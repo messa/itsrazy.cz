@@ -104,3 +104,27 @@ series:
         url: https://www.meetup.com/protest_cz/events/278568786/
         dtstart: 2021-06-08 18:00:00+02:00
         dtend: 2021-06-08 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Oct 26, 2021, 6:00 PM: Anotace Přednášky“Předpoklad místo důkazu, aneb pohled DevOpsáka na testování skrze celý software delivery chain.”Pár slov o speakeroviV současnosti působí jako E-commerce '
+      og_title: 103. [pro:]TEST! Martin Hrášek✨ expect(true).toBeTruthy()
+      image: https://secure.meetupstatic.com/photos/event/4/8/2/a/600_499638474.jpeg
+      url: https://www.meetup.com/protest_cz/events/281566536/
+      ical:
+        summary: 103. [pro:]TEST! Martin Hrášek✨ expect(true).toBeTruthy()
+        description: '[pro:]TEST!
+
+          Tuesday, October 26 at 6:00 PM
+
+
+          Anotace Přednášky “Předpoklad místo důkazu, aneb pohled DevOpsáka na testování skrze celý software delivery chain.” Pár slov o speakeroviV současnosti...
+
+          \nhttps://www.meetup.com/protest_cz/events/281566536/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281566536@meetup.com
+        url: https://www.meetup.com/protest_cz/events/281566536/
+        dtstart: 2021-10-26 18:00:00+02:00
+        dtend: 2021-10-26 19:00:00+02:00
