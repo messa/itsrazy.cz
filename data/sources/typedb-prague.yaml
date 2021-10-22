@@ -352,3 +352,28 @@ series:
         url: https://www.meetup.com/typedb-prague/events/280961771/
         dtstart: 2021-11-09 18:30:00+01:00
         dtend: 2021-11-09 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Nov 9, 2021, 6:30 PM: Applications running on production have much higher requirements. Not only do they need to be correct, they also need to be "always-on", handle a much bigger user load, and '
+      og_title: Scaling TypeDB for the Enterprise | TypeDB Cluster
+      image: https://secure.meetupstatic.com/photos/event/1/e/9/3/600_497827827.jpeg
+      url: https://www.meetup.com/typedb-prague/events/281589722/
+      ical:
+        summary: Scaling TypeDB for the Enterprise | TypeDB Cluster
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, November 9 at 6:30 PM
+
+
+          Applications running on production have much higher requirements. Not only do they need to be correct, they also need to be "always-on", handle a much...
+
+
+          https://www.meetup.com/typedb-prague/events/281589722/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281589722@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/281589722/
+        dtstart: 2021-11-09 18:30:00+01:00
+        dtend: 2021-11-09 19:30:00+01:00
