@@ -6,8 +6,42 @@ series:
     image: https://secure.meetupstatic.com/photos/event/6/e/7/4/600_474748276.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Sep 8, 2021, 7:00 PM: Hello doers,The third online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.The structure of the session will be one main'
-      og_title: Prague DevOps meetup online (September)
+      meta_description: 'Hello doers,
+
+
+        The third online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.
+
+        The structure of the session will be one main talk. And of course space for any interaction from your side.
+
+
+        1st topic is brought by Maria Kotlyarevskaya from Citrix (Wrike, Prague)
+
+
+        *DevOps cookbook: how to build a smooth process with your Devs?*
+
+
+        How can DevOps engineer effectively collaborate with Development teams? We will talk about the process, steps that you must include in it and how to build it from scratch. I''ll tell you about pitfalls on this journey and how to actually bring
+        cool DevOps into developers’ lives.
+
+
+        2nd topic is by Jan Stastny from Deepnote
+
+
+        *Pull Request Review Apps in Kubernetes*
+
+
+        Given Deepnote is built quite heavily on Kubernetes, end-to-end testing of pull requests has always been a challenge. Over the time we have gone through different phases including running minikube locally or booking time on a shared staging k8s
+        cluster. All of these were difficult to maintain or not reliable or scalable. This led us to developing a mechanism that spins up separate instances of Deepnote for every Pull Request. All of this is managed by Continuous Integration (CircleCI)
+        and as a result, deployment is automatically available couple minutes after Pull Request is opened.
+
+
+        In this talk, I will list the components that need to be deployed and show the details of how this review app mechanism works.
+
+
+        *How to connect*:
+
+        Preferred option is the link in the details section (jit.si). You can use https://youtu.be/2zugsSmCuss as well if there are any issues with the connection.'
+      og_title: Prague DevOps meetup online (September), Wed, Sep 8, 5:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/e/7/4/600_474748276.jpeg
       url: https://www.meetup.com/Prague-DevOps-Meetup/events/280234441/
       ical:
@@ -106,8 +140,47 @@ series:
         dtstart: 2020-02-24 18:00:00+01:00
         dtend: 2020-02-24 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Nov 3, 2021, 6:00 PM: Hello doers,The fourth online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.The structure of the session will be one mai'
-      og_title: Prague DevOps meetup online (November)
+      meta_description: 'Hello doers,
+
+
+        The fourth online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.
+
+        The structure of the session will be one main talk. And of course space for any interaction from your side.
+
+
+        1st topic is brought by Tomáš Plešek https://www.linkedin.com/in/tomasplesek/, Engineering Manager at Ataccama
+
+
+        Breaking the build monolith - a story of our migration from Jenkins to GitLab and what we learned along the way
+
+
+        As our company grew rapidly, so did the number of components and products we needed to build, test, and integrate with each other. For quite some time, the build pipeline was considered as just another thing that has to exist and needs to be maintained.
+        We did not invest enough in evaluating whether what we have is what we actually need. Over time, this became a completely unsustainable setup with extremely slow builds, complex maintenance issues, and a very small number of experts that could
+        build a particular artifact - we knew something has to change.
+
+
+        We will be talking about
+
+        * changing how your build can in part influence the way the software is architected
+
+        * what we have learnt from the experience of migrating from one build system to the other
+
+        * What challenges we faced,
+
+        * where did we win,
+
+        * and primarily, the realization that this is as much of a cultural change as a technical one.
+
+
+        Finally, the talk will conclude how the experience is being applied in other areas of engineering in Ataccama.
+
+
+        2nd topic will be brought by Martin Hanzík,
+
+        DevOps Engineer & Senior Python Developer at Applifting - https://www.linkedin.com/in/martin-hanzik/:
+
+        How we struggled to actually do DevOps'
+      og_title: Prague DevOps meetup online (November), Wed, Nov 3, 5:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/e/7/4/600_474748276.jpeg
       url: https://www.meetup.com/Prague-DevOps-Meetup/events/281198432/
       ical:

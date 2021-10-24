@@ -1,7 +1,30 @@
 series:
   meetupcom:
     url: https://www.meetup.com/PyData-Prague/events/279339785/
-    meta_description: 'Tue, Jul 13, 2021, 6:30 PM: Hello PyData lovers,it''s been a while since our last (on-line, not to mention in-person) PyData meet-up. We are sorry for not having arranged anything in the lockdown perio'
-    og_title: 'PyData Prague #9 - Reinforcement Yearning'
+    meta_description: 'Hello PyData lovers,
+
+
+      it''s been a while since our last (on-line, not to mention in-person) PyData meet-up. We are sorry for not having arranged anything in the lockdown period but we prefer to meet you in person. Next Tuesday, there will be a chance to break the long-lasting
+      silence and connect the disconnected.
+
+
+      As usual, we will support our main goal of building the community around Python and data and making it welcoming to people of various skills and experience levels. This time, there will be no official talks (just a short intro) but you can always
+      give a lightning talk (no slides!) or participate in the job market (up to one minute about you hiring or looking for a position; again - no slides!).
+
+
+      The venue will open at 6.30pm but the intro won''t take place sooner than at 7pm. There will be enough to drink and eat (partly paid by the sponsors). Please, really comply with the Covid-19 rules currently in effect with regards to visiting restaurants*
+      - be responsible and nice not only to the government (meh!) but also to each other.
+
+
+      Please, RSVP here.
+
+
+      See you soon,
+
+      PyData Prague team
+
+
+      *>14 days after the last vaccination dose, <72 hours since an antigen test, <7 days since a PCR test, or <180 days since being tested positive and suffering from the disease (see https://covid.gov.cz/en/situations/infection-and-general-measures/o-n-t-system-vaccination-past-disease-test)'
+    og_title: 'PyData Prague #9 - Reinforcement Yearning, Tue, Jul 13, 4:30 PM | Meetup'
     image: https://secure.meetupstatic.com/photos/event/5/c/1/b/600_497483579.jpeg
   events: []

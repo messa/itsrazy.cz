@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/2/2/8/5/600_473768837.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Aug 3, 2021, 7:00 PM: Podíváme se na zoubek nástrojům, které časem ztratily svůj význam a dnes už jsou přežité.'
-      og_title: Jednoduše a rychle
+      meta_description: Podíváme se na zoubek nástrojům, které časem ztratily svůj význam a dnes už jsou přežité.
+      og_title: Jednoduše a rychle, Tue, Aug 3, 5:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/3/7/600_497884663.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/279829674/
       ical:
@@ -31,8 +31,9 @@ series:
         dtstart: 2021-08-03 19:00:00+02:00
         dtend: 2021-08-03 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jul 13, 2021, 7:00 PM: Jirka Jansa a Jirka Pénzeš prozradí své osobní zkušenosti z údržby a vývoje legacy systému. Zároveň se podíváme i na best practices a různé cesty, které se dají při vývoji '
-      og_title: Legacy | refactoring 2021
+      meta_description: Jirka Jansa a Jirka Pénzeš prozradí své osobní zkušenosti z údržby a vývoje legacy systému. Zároveň se podíváme i na best practices a různé cesty, které se dají při vývoji legaci systému použít. Mimo jiné si povíme, jak by například
+        takový refactoring v dnešní době mohl vypadat, aby to dávalo smysl a zůstalo to udržitelné.
+      og_title: Legacy | refactoring 2021, Tue, Jul 13, 5:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/a/b/d/600_497402749.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/279359705/
       ical:
@@ -55,8 +56,17 @@ series:
         dtstart: 2021-07-13 19:00:00+02:00
         dtend: 2021-07-13 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jun 1, 2021, 7:00 PM: Zkoušeli jste někdy párové programování nebo mob programming? Nejsou to nové techniky, ale v praxi stále málo použivané.Marian Schubert a Jirka Jansa nám prozradí své zkušen'
-      og_title: Mob programming a párování
+      meta_description: 'Zkoušeli jste někdy párové programování nebo mob programming? Nejsou to nové techniky, ale v praxi stále málo použivané.
+
+        Marian Schubert a Jirka Jansa nám prozradí své zkušenosti s mob programming a párovým programováním. Párové programování či mob programming mohou být velmi užitečné například při učení nových technologií a postupů či pro šíření znalostí o projektu.
+        Na tomto TopMonks Caffé se na tyto techniky podíváme a prozradíme si jejich výhody/nevýhody, nástroje nebo jak je vlastně zavést, aby to dávalo smysl.
+
+
+        Sledujte nás jako vždy na: https://zive.tv/topmonks-caffe/
+
+
+        Po skončení přednášek i tentokrát otevřeme Zoom na osobní dotazy a after party.'
+      og_title: Mob programming a párování, Tue, Jun 1, 5:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/f/7/d/600_496520349.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/278418529/
       ical:
@@ -105,8 +115,11 @@ series:
         dtstart: 2021-05-04 19:00:00+02:00
         dtend: 2021-05-04 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 5, 2021, 7:00 PM: Tentokrát se podíváme na adrenalinové sporty. Hledáte nějaký netechnický koníček? Přijďte načerpat inspiraci!Sledovat nás můžete jako vždy i živě na: https://zive.tv/topmonk'
-      og_title: Adrenalinové sporty
+      meta_description: 'Tentokrát se podíváme na adrenalinové sporty. Hledáte nějaký netechnický koníček? Přijďte načerpat inspiraci!
+
+
+        Sledovat nás můžete jako vždy i živě na: https://zive.tv/topmonks-caffe/'
+      og_title: Adrenalinové sporty, Tue, Oct 5, 5:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/3/b/0/600_499265040.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/281139148/
       ical:

@@ -6,8 +6,59 @@ series:
     image: https://secure.meetupstatic.com/photos/event/6/7/a/0/600_485066528.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Oct 20, 2021, 6:00 PM: We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT.There will be two speakers with the following presentations:• Building event-driven ap'
-      og_title: Regular Prague AWS User Group Meetup
+      meta_description: 'We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT.
+
+
+        There will be two speakers with the following presentations:
+
+
+        • Building event-driven applications by Iaroslav Ustinov (Enterprise Solutions Architect CEE at Amazon Web Services - https://www.linkedin.com/in/iar-ustinov/)
+
+        Although event-driven architecture pattern exists for a long time, recently it gained massive popularity. More and more companies design their modern applications using this approach and there are reasons for that.
+
+        We will go through the event-driven architecture main components, typical scenarios and look what services and tools AWS has for helping you building applications using this approach. In the end of the session we will build a simple event-driven
+        application.
+
+
+        • AWS Control Tower - easy management of multi-account environment in AWS by Lukáš Pour (CTO at Trustsoft - https://www.linkedin.com/in/lukaspour/)
+
+        Opening an AWS account is as easy as it gets - you just need a credit card, mobile phone and a computer with internet access. In the moment you start use AWS for production workloads, you realize that one account is not enough. Opening new AWS
+        accounts and configure them manually does not scale well.
+
+        AWS Control Tower comes to help, providing easy way to centrally manage multi-account AWS environments. It creates standardized, secure Landing Zone, making sure that new accounts are compliant with pre-defined standards that are in-line with AWS
+        Best Practices. Lukáš will speak about his experience with deploying AWS Control Tower for customers in Czechia and other CEE countries.
+
+
+        Note:
+
+        * We can host only 40 guests - please "unsubscribe" if you will not attend!
+
+        * In case of "bad covid situation", event will be online.
+
+        * Masks are required
+
+
+        Logistics:
+
+        - Doors open for check-in at 18:00
+
+        - Short networking
+
+        - First speaker starts at 18:30 - 19:30
+
+        - Short 10 minutes break 19:30 - 19:40
+
+        - Second speaker starts at 19:45 - 20:45
+
+        - Networking happy hour to follow the talk, pub, etc...
+
+
+        • What to bring
+
+        Good mood...
+
+        No-Covid :-)'
+      og_title: Regular Prague AWS User Group Meetup, Wed, Oct 20, 4:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/e/2/f/600_498808207.jpeg
       url: https://www.meetup.com/Prague-AWS-Meetup/events/280751506/
       ical:
@@ -31,8 +82,52 @@ series:
         dtstart: 2021-10-20 18:00:00+02:00
         dtend: 2021-10-20 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jan 13, 2021, 6:00 PM: We would like to invite you for the first online AWS CZSK User Group Meetup organized together with Amazon and AWS User Group Slovakia.Due to the fact that we can not meet '
-      og_title: AWS CZSK User Group Virtual Meetup
+      meta_description: 'We would like to invite you for the first online AWS CZSK User Group Meetup organized together with Amazon and AWS User Group Slovakia.
+
+
+        Due to the fact that we can not meet in person we decided to switch to "online mode" and start doing the Meetups virtually in Czech / Slovak language.
+
+
+        We apologize to the English speaking colleagues, but due to the fact that next few Meetups will be online - we will switch to Czech/Slovak. There are many "online" materials / presentations / meetups / other sources about AWS in English.
+
+
+        When the situation will be better and we can meet in one place - the presentations will be in English again.
+
+
+        Thank you for understanding...
+
+
+        ----------------------------------------------------------------------------------------------------
+
+
+        Vítáme vás na prvním online AWS CZSK User Group Meetupu, který je pořádán společně s kolegy z AWS User Group Slovakia.
+
+
+        V rámci online Meetupu bychom rádi uvedli přednášku:
+
+
+        • AWS re:Invent 2020 od Vladimíra Šimka (Senior Solutions Architekt z AWS - https://www.linkedin.com/in/vsimek/) a Zdeňka Bulana (Solutions Architect z AWS - https://www.linkedin.com/in/zdenekbulan/)
+
+
+        Každý rok prináša konferencia AWS re:Invent množstvo noviniek v cloudových technológiách. Tá tohtoročná trvala 3 týždne a prinesla viac ako 200 relácií venovaných novým službám, osvedčeným postupom (best practices) a cloudovým workshopom.
+
+
+        Ak si chcete vypočuť súhrn toho najzaujímavejšieho z re:Inventu, pridajte sa k nám v stredu 13. januára o 18:00 v prvom živom a virtuálnom AWS Česko-Slovenskom Meetupe.
+
+
+        Program:
+
+        • 17:45-18:00 - Doba připojení se na Meetup
+
+        • 18:00-18:05 - Úvod
+
+        • 18:05-18:50 - re:Invent re:Cap + demo
+
+        • 18:50 - Q&A
+
+
+        Tešiť sa na vás bude team z AWS User Group Praha, AWS User Group Slovakia a prednášajúci Vladimír Šimek a Zdeněk Bulan.'
+      og_title: AWS CZSK User Group Virtual Meetup, Wed, Jan 13, 5:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/8/3/2/f/600_488313583.jpeg
       url: https://www.meetup.com/Prague-AWS-Meetup/events/275297097/
       ical:
@@ -56,8 +151,54 @@ series:
         dtstart: 2021-01-13 18:00:00+01:00
         dtend: 2021-01-13 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Dec 11, 2019, 6:00 PM: We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT.There will be two speakers with the following presentations:• Experience with migratio'
-      og_title: Regular Prague AWS User Group Meetup
+      meta_description: 'We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT.
+
+
+        There will be two speakers with the following presentations:
+
+
+        • Experience with migration from on-premise to AWS by Petr Bohac (IT Infrastructure Manager at innogy Česká Republika - https://www.linkedin.com/in/pbohac/)
+
+        Story of innogy Czech Republic, enterprise size company in the traditionalist energy sector.
+
+        How we embraced wind of change delivered by Public Cloud.
+
+        Hear how we did switch over the past three years from classic Data Center model to „cloud-first“ model with majority services provided by AWS.
+
+        Where we expected savings and what are results. Where we see benefits after the years and how our cloud perception changed with time.
+
+        What was impact on company culture?
+
+        Examples of services we did use over the time are Snowball, Direct Connect, EC2 4TB RAM SAP on HANA, ECS, ELK.
+
+
+        • What’s New from re:Invent 2019 by Vladimir Simek (Senior Solutions Architect at Amazon Web Services - https://www.linkedin.com/in/vsimek/)
+
+        Every year Las Vegas hosts an AWS''s learning conference called re:Invent. This year more than 50.000 customers will attend the event featuring keynote announcements, training and certification opportunities, access to more than 2,500 technical
+        sessions, a partner expo, after-hours events, and so much more.
+
+        If you are interested what are the news from this year''s re:Invent, join us for a session presented by Vladimir Simek, Sr. Solutions Architect at Amazon Web Services.
+
+
+        Logistics:
+
+        - Doors open for check-in at 18:00
+
+        - Short networking
+
+        - First speaker starts at 18:30 - 19:30
+
+        - Short 10 minutes break 19:30 - 19:40
+
+        - Second speaker starts at 19:45 - 20:45
+
+        - Networking happy hour to follow the talk, pub, etc...
+
+
+        • What to bring
+
+        Good mood...'
+      og_title: Regular Prague AWS User Group Meetup, Wed, Dec 11, 5:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/d/8/4/e/600_487135374.jpeg
       url: https://www.meetup.com/Prague-AWS-Meetup/events/266233892/
       ical:
@@ -81,8 +222,48 @@ series:
         dtstart: 2019-12-11 18:00:00+01:00
         dtend: 2019-12-11 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Sep 17, 2019, 6:00 PM: We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT.There will be two speakers with the following presentations:• How to migrate a large d'
-      og_title: Regular Prague AWS User Group Meetup
+      meta_description: 'We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT.
+
+
+        There will be two speakers with the following presentations:
+
+
+        • How to migrate a large distributed system to AWS without a mental breakdown by Michal Artazov (Full-stack Developer at signageOS - https://www.linkedin.com/in/artazov/)
+
+        The story of how we decided to migrate our entire system to AWS. Over the course of two months we planned it step by step only to see our plans fall apart in the real world. We cried a lot, spent nights in the office, wasted a ton of money but
+        eventually we emerged victorious. Find out how we''re now using EKS and auto-scaling groups of EC2 instances to save money. How we replaced some microservices with Lambda. What other tricks we use to spend less money.Find out what lessons we learned
+        while migrating our entire system to AWS. Learn how to avoid wasting time and money. AWS is awesome if you know what you''re doing.
+
+
+        • Serverless on AWS: Architectural Patterns and Best Practices by Vladimir Simek (Senior Solutions Architect at Amazon Web Services - https://www.linkedin.com/in/vsimek/)
+
+        When speaking about serverless on AWS, most people think about AWS Lambda. But there''s more than than. AWS provides a set of fully managed services that you can use to build and run serverless applications. Serverless applications don’t require
+        provisioning, maintaining, and administering servers for backend components such as compute, databases, storage, stream processing, message queuing, and more. You also no longer need to worry about ensuring application fault tolerance and availability.
+        Instead, AWS handles all of these capabilities for you. This allows you to focus on product innovation while enjoying faster time-to-market.
+
+        Vladimir will guide you through AWS serverless services, show operational and security best practices, discuss potential pitfalls and nuances. This session will help you recognize candidates for serverless architectures in your own organizations
+        and understand areas of potential savings and increased agility.
+
+
+        Logistics:
+
+        - Doors open for check-in at 18:00
+
+        - Short networking
+
+        - First speaker starts at 18:30 - 19:30
+
+        - Short 10 minutes break 19:30 - 19:40
+
+        - Second speaker starts at 19:45 - 20:45
+
+        - Networking happy hour to follow the talk, pub, etc...
+
+
+        • What to bring
+
+        Good mood...'
+      og_title: Regular Prague AWS User Group Meetup, Tue, Sep 17, 4:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/8/9/f/c/600_476495324.jpeg
       url: https://www.meetup.com/Prague-AWS-Meetup/events/264129445/
       ical:

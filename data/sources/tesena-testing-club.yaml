@@ -131,8 +131,35 @@ series:
         dtstart: 2020-11-19 14:00:00+01:00
         dtend: 2020-11-19 16:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Oct 21, 2021, 5:00 PM: To continuously deliver IT systems at speed with a focus on business value, cross-functional DevOps IT delivery teams integrate quality engineering in their way of working.'
-      og_title: Quality Engineering & Testing in DevOps IT Delivery
+      meta_description: 'To continuously deliver IT systems at speed with a focus on business value, cross-functional DevOps IT delivery teams integrate quality engineering in their way of working. Quality engineering is the new concept in achieving the
+        right quality of IT systems. Testing an application only after the digital product has been fully developed has long been a thing of the past. But more is needed to guarantee the quality of applications that are delivered faster and more frequently
+        in today’s high-performance IT delivery models. The road to quality engineering means changes in terms of starting points, skills, organization, automation, and quality measures.
+
+
+        In this webinar, the audience will learn why a broad view on quality engineering is important and how quality engineering can be implemented to achieve the right quality of IT products, the IT delivery process, and the people involved. Also, we
+        will introduce the new TMAP training courses for quality engineering and testing. This webinar and the training courses are based on the TMAP book "Quality for DevOps teams" (ISBN 978-90-75414-89-9) which supports high-performance cross-functional
+        teams in implementing quality in their DevOps culture, with practical examples, useful knowledge, and some theoretical background. The TMAP body of knowledge is found on www.TMAP.net.
+
+
+        Key takeaways
+
+        - Quality engineering is the new concept aiming to deliver quality at speed
+
+        - By measuring the right indicators the team supports confidence in achieving pursued value
+
+        - By applying the proper quality measures and tools the team focuses on relevant activities
+
+        - The TMAP certification scheme (with exams provided by iSQI) has 3 practical courses for DevOps people
+
+        - In case IT delivery is done with multiple teams TMAP aligns with the Scaled Agile Framework to achieve quality at scale
+
+
+        Speaker:
+
+        Rik Marselis is a principal quality consultant at Sogeti in the Netherlands. He is a well-appreciated presenter, trainer, author, consultant, and coach who supported many organizations and people in improving their quality engineering practice
+        by providing useful tools, practical support, and having in-depth discussions. Rik is a fellow of Sogeti’s R&D network SogetiLabs. The R&D activities result in presentations, books, white papers, articles, podcasts, and blogs about IT in general
+        and quality engineering in particular. In 2020 he co-authored the TMAP book “Quality for DevOps teams”, and contributed to the TMAP body of knowledge on www.TMAP.net.'
+      og_title: Quality Engineering & Testing in DevOps IT Delivery, Thu, Oct 21, 3:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564708/
       ical:
@@ -156,8 +183,40 @@ series:
         dtstart: 2021-10-21 17:00:00+02:00
         dtend: 2021-10-21 18:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Nov 4, 2021, 10:00 AM: Na trhu existuje množství nástrojů na automatizované testovaní. Mnoho z nich vyžaduje znalosti programovaní, nebo jsou příliš specifické s vlastní implementací kódu. My jsm'
-      og_title: Testování mobilních aplikací pomocí nástroje TestProject.io
+      meta_description: 'Na trhu existuje množství nástrojů na automatizované testovaní. Mnoho z nich vyžaduje znalosti programovaní, nebo jsou příliš specifické s vlastní implementací kódu. My jsme si pro vás vybrali a otestovali nástroj, pomocí kterého
+        je možné vyhnout se programování a zároveň umožňuje naplno využít sílu programování pro komplexnější scénáře.
+
+
+        V tomto webináři se dozvíte jak začít s automatizováním testů mobilních aplikací pomocí nástroje TestProject.io. Na mobilní aplikaci si ukážeme několik vzorových testů – jak je implementovat a spustit. Kromě testování na fyzických zařízeních si
+        ukážeme i testování na simulátorech. Zkusíme si psaní základních testů v jazyku Python použitím SDK. Projekt, kteří jsme pro vás připravili vám rádi poskytneme, abyste si sami zkusili, jak to funguje.
+
+
+        Co si z webináře odnesete?
+
+        - Zjistěte jak jednoduché / komplikované je začít s automatizací mobilních aplikací
+
+        - Ukážeme si, jak funguje TestProject.io – co se nám na něm libí a co ne
+
+        - Obdržíte vzorové příklady testů na reálné mobilní aplikaci (od Komerční banky)
+
+        - Vyzkoušíte si komplexnější setup využitím simulátorů v Cloudu
+
+
+        Speakeři:
+
+
+        Marcel Veselka
+
+        Marcel oddal celou svojí karieru testovaní softwaru a aktuálně pracuje jako senior test konzultant v Teseně.
+
+        Je bývalým viceprezidentem organizace CaSTB (regionální zastoupení ISTQB), je spoluzakladatelem testerské komunity [pro]Test! a spoluzakladatelem společnosti Tesena. Mezi jeho zájmy patří moderní přístupy k testování jako je automatizace testů,
+        DevOps / Agile, autonomní testování, AI a machine learning
+
+
+        Jan Bárta
+
+        Honza se profesně věnuje testingu necelý půlrok. Zajímá se zejména o testování webových a mobilních aplikací pomocí automatizačních nástrojů. Ve svém volném čase se také podílí na vývoji mobilní aplikace, která zpřehledňuje volební výsledky.'
+      og_title: Testování mobilních aplikací pomocí nástroje TestProject.io, Thu, Nov 4, 9:00 AM | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564729/
       ical:
@@ -181,8 +240,41 @@ series:
         dtstart: 2021-11-04 10:00:00+01:00
         dtend: 2021-11-04 11:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 11, 2021, 10:30 AM: Svět testingu nás čas od času postaví před opravdovou výzvu. Jedna taková přišla v loňském roce - zautomatizovat alespoň základní průchody desktopovou aplikací, která byla'
-      og_title: Automatizace UI pomocí vizuálního rozpoznání (RF + Sikuli)
+      meta_description: 'Svět testingu nás čas od času postaví před opravdovou výzvu. Jedna taková přišla v loňském roce - zautomatizovat alespoň základní průchody desktopovou aplikací, která byla vyvinuta v devadesátých letech a klient ji dodnes hojně
+        využívá. Dlouhé hodiny bádání jak k tomu přistoupit v jednu chvíli vystřídalo nadšení - objevili jsme nástroj Sikuli.
+
+
+        Nakonec jsme opravdu řešení dodali a klient si dokonce nástroj Sikuli převzal k vlastnímu používání. Letos jsme podrobili Sikuli většímu zkoumání v rámci našich Tesena Labs. Je tedy opravdu tak skvělým pomocníkem na UI automatizaci? Jaké jsou jeho
+        hlavní přednosti a nedostatky? To vše se dozvíte 11.11 na našem webináři.
+
+
+        Co si z webináře odnesete?
+
+        - Jak rozjet Sikuli od nuly.
+
+        - Jaký je princip jeho fungování.
+
+        - Kdy je opravdu dobrým pomocníkem.
+
+        - V jakých případech se práci se Sikuli raději vyhnout.
+
+        - Ukázky na reálných příkladech.
+
+
+        Speakeři:
+
+
+        Michal Jirka
+
+        Michal se práci v testingu věnuje pátým rokem. Baví ho především komunikace s lidmi a tak se v poslední době stále častěji věnuje přípravě různých workshopů, webinářů a školení. Zároveň je to pro něj příjemné odreagování od každodenních projektových
+        starostí.
+
+
+        Leila Miri
+
+        Leila sa práci v testingu venuje viac ako dva roky. Za tú dobu prešla z manuálneho na automatizované testovanie, ktoré ju nesmierne baví a naplňuje. Medzi jej záujmy patrí objavovať nové knižnice programovacích jazykov, frameworky a zbierať technické
+        skúsenosti.'
+      og_title: Automatizace UI pomocí vizuálního rozpoznání (RF + Sikuli), Thu, Nov 11, 9:30 AM | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564755/
       ical:
@@ -206,8 +298,39 @@ series:
         dtstart: 2021-11-11 10:30:00+01:00
         dtend: 2021-11-11 11:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 18, 2021, 5:30 PM: Někdy je velice obtížné napsat test tak, aby fungoval za každých okolností, a to i v podmínkách dynamického vývoje v průběhu sprintu. Navíc nám to vývojáři někdy neusnadňuj'
-      og_title: Healenium a Robot Framework aneb samouzdravující se testy
+      meta_description: 'Někdy je velice obtížné napsat test tak, aby fungoval za každých okolností, a to i v podmínkách dynamického vývoje v průběhu sprintu. Navíc nám to vývojáři někdy neusnadňují a napsat spolehlivý selektor elementu je doslova hrdinský
+        výkon. Když už ani sebelepší XPath magic nepomůže, je potřeba si pomoci jiným kouzlem.
+
+
+        A od toho je tu Healenium, nástroj založený na Seleniu, který dokáže v reálném čase najít nový selektor elementu, i když jej původním selektorem nelze najít. Výsledkem je tedy menší míra nestabilních testů a zelenější CI pipeline :)
+
+
+        Na tomto webináři vám povíme naši trnitou cestu za selfhealing testy v Robot Frameworku s pomocí nástroje Healenium.
+
+
+        Co si z webináře odnesete?
+
+        - Co je Healenium a kdy se hodí ho používat
+
+        - Jak jsme se snažili Healenium rozběhat v Robot Frameworku, co jsme řešili a jak jsme se s tím poprali
+
+        - Jak používat Java knihovny v Pythonu a kdy to není dobrý nápad
+
+
+        Speakeři:
+
+
+        Tomáš Hák
+
+        Tomáš se pohybuje v testingu už více než 13 let. Stál u počátků automatizovaného testování firem Jobs.cz (LMC), Kolonial (dnes Košík), Mall.cz, u testování bankovnictví George a některých bankovních API České spořitelny a naposledy se podílel na
+        automatizaci testování systémů Škoda auto. Používal celou řadu nástrojů, programovacích/skriptovacích jazyků a v posledních čtyřech letech, kdy kope za Tesenu, využívá primárně Python a nad ním postavený Robot Framework.
+
+
+        Lucie Lavičková (Třísková)
+
+        Lucka se věnuje testování přes 10 let a za tu dobu nasbírala zkušenosti na mezinárodních projektech v Čechách i v Německu. S nástrojem Selenium WebDriver pracovala v Javě, .NETu a Robot Frameworku, a ráda jej kombinuje s dalšími nástroji, zde např.
+        s Healeniem. V současnosti působí ve společnosti tesena jako Senior Test Automation Engineer a také je pyšnou maminkou malé dcerky.'
+      og_title: Healenium a Robot Framework aneb samouzdravující se testy, Thu, Nov 18, 4:30 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564776/
       ical:
@@ -231,8 +354,28 @@ series:
         dtstart: 2021-11-18 17:30:00+01:00
         dtend: 2021-11-18 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 25, 2021, 5:30 PM: Nástrojů v testingu máme mnoho, ale stejně jak u funkcionálních testů, tak i u performance testů nám někdy nemusí vyhovovat forma reportování výsledků daného nástroje. Možn'
-      og_title: Pokročilý reporting performance testů - jtl-reporter
+      meta_description: 'Nástrojů v testingu máme mnoho, ale stejně jak u funkcionálních testů, tak i u performance testů nám někdy nemusí vyhovovat forma reportování výsledků daného nástroje. Možností lepšího reportování je spousta, aktuálně náš framework
+        umí reportovat i do Elasticsearch. Pro jednodušší projekty je ale možné využít i zajímavý nástroj jtl-reporter z české dílny, který nabídne mimo jiné zajímavé možnosti porovnání jednotlivých běhů testů. To, a nejen to se dozvíte na našem dalším
+        webináři.
+
+
+        Co si z webináře odnesete?
+
+        - Nemusíte se spokojit jen s defaultně nabízenými reporty
+
+        - jtl reporter umožňuje zpracovávat výsledky z více zdrojů
+
+        - Představíme si jeho zapojení do našeho stávajícího framework
+
+
+        Speaker:
+
+
+        Tomáš Hák
+
+        V testingu se pohybuji již 13 let a prakticky celou tu dobu jsem se věnoval automatizaci testů ve všech podobách a pomocí mnoha nástrojů a nejrůznějších programovacích jazyků. Prošel jsem testingem české dvojky na poli e-shopů, největšího pracovního
+        portálu, testoval jsem i v České spořitelně platební API a aktuálně v automobilce Škoda auto pomáhám s centrálním datovým zdrojem pro nejrůznější další systémy.'
+      og_title: Pokročilý reporting performance testů - jtl-reporter, Thu, Nov 25, 4:30 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564791/
       ical:

@@ -6,8 +6,40 @@ series:
     image: https://secure.meetupstatic.com/photos/event/8/0/3/9/600_494792825.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, May 18, 2021, 6:00 PM: Cloud-Native Prague #16 is here! Come join us online, share experiences and discuss successes and fuck-ups. It was a great last time, so prepare some drink and connect with'
-      og_title: 'Cloud Native Prague Meetup #16'
+      meta_description: 'Cloud-Native Prague #16 is here! Come join us online, share experiences and discuss successes and fuck-ups. It was a great last time, so prepare some drink and connect with amazing people from the cloud-native community.
+
+
+        Agenda
+
+
+        18:00 start
+
+
+        18:05 - 18:30
+
+        Portworx: infrastructure-agnostic Kubernetes Storage Platform
+
+        (Ondřej Šerý, Sr. Software Engineer @ Portworx)
+
+
+        Have you ever been scared to run containerized stateful applications such as SQL Databases, Elastic or Kafka. How to scale out storage, ensure data availability, redundancy and security, snapshots or backup and disaster recovery? How to provide
+        a consistent storage experience across different clouds? 😎 Portworx enables all of these use cases with performance and costs in mind, they say. 🧐 Let''s them prove it in demo 🔥
+
+
+        Ondra is working at Portworx/PureStorage in Prague, mostly using Kubernetes, Golang and Terraform. He is an ex-Google SRE and is very passionate about clean code and general software engineering craftsmanship.
+
+
+        18:30 - 18:50
+
+        Gaming: the backend cloud architecture and matchmaking service (Erik Ferenz, Game Backend Cloud Developer @ Revolgy)
+
+
+        If you think good architecture is expensive, try bad architecture. Erik will show you how to operate the backend of the games in the cloud and how to solve problem connected to matchmaking service and cloud infrastructure.
+
+
+        Erik Ferencz is Game Backend Cloud Developer, now working with Revolgy on several gaming projects with clients around Europe. He has huge backend experience in the gaming industry (ex-Madfinger Games). One of his best and worst "features" is competitiveness,
+        ask him about his bike adventures 🚴🏻‍♂️.'
+      og_title: 'Cloud Native Prague Meetup #16, Tue, May 18, 4:00 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/3/8/0/e/600_496154350.jpeg
       url: https://www.meetup.com/Cloud-Native-Prague/events/278042296/
       ical:
@@ -31,8 +63,35 @@ series:
         dtstart: 2021-05-18 18:00:00+02:00
         dtend: 2021-05-18 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Mar 2, 2021, 6:00 PM: Hey Cloud-natives,we are happy to announce another meetup with amazing talks. We will meet online, so there is no reason to change because of the stain on your old and belov'
-      og_title: 'Cloud Native Prague Meetup #15'
+      meta_description: 'Hey Cloud-natives,
+
+        we are happy to announce another meetup with amazing talks. We will meet online, so there is no reason to change because of the stain on your old and beloved t-shirt :)
+
+
+        Who will be speaking?
+
+
+        LADISLAV PRSKAVEC - Senior Manager at Oracle Cloud Infrastructure (Apiary). The main focus of his work is SRE. He works with the team to make all parts working as they need using SLO, SLI, error budgets and all tools for modern distributed systems.
+
+
+        ONDŘEJ HLAVÁČEK - SRE Engineer at Keboola. Ondřej likes automation and managed services. At Keboola he helps to keep the "no operations team" dream alive.
+
+
+        AGENDA:
+
+
+        18:00 - 18:30 How we are developing services in Oracle Cloud Infrastructure (Ladislav Prskavec)
+
+        In the talk I would like to show what the work of our team working on Apiary, Oracle Functions and OCI API Gateway in Oracle Cloud Infrastructure here in Prague looks like, we are one of many teams working on the next-generation Oracle Cloud. I
+        will focus on the development process and how the services are deployed in 29 regions. We use technologies you know like Docker, Terraform and Pagerduty. We program software in Java, Go, Python and Node.js. We will go through the entire Software
+        Development Life Cycle (SDLC) from start to finish.
+
+
+        18:30 - 19:00 From self-hosted to cloud-hosted release pipelines (Ondřej Hlaváček)
+
+        A few years back Keboola has moved from self-hosted Jenkins to hosted Travis CI. Increasing reliability issues lead them to another switch, this time to Azure DevOps. What is their experience with Azure DevOps, where it helps and where they struggle?
+        He''ll also share a fair bit of Keboola''s best practices for Azure DevOps release pipelines.'
+      og_title: 'Cloud Native Prague Meetup #15, Tue, Mar 2, 5:00 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/a/5/e/c/600_494802476.jpeg
       url: https://www.meetup.com/Cloud-Native-Prague/events/276422404/
       ical:
@@ -56,8 +115,37 @@ series:
         dtstart: 2021-03-02 18:00:00+01:00
         dtend: 2021-03-02 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Jan 28, 2021, 6:00 PM: Hi Cloud-natives,we hope you are safe and sound because winter is coming. We managed to prepare some exciting agenda for another online meetup - believe us or not - number '
-      og_title: 'Cloud Native Prague Meetup #14'
+      meta_description: 'Hi Cloud-natives,
+
+        we hope you are safe and sound because winter is coming. We managed to prepare some exciting agenda for another online meetup - believe us or not - number 14! WOW! Let''s start in 2021 with some cloud-native love❤️ and interesting talks.
+
+
+        Who will be speaking?
+
+
+        IVANA HUČKOVÁ - Frontend developer on the Observability squad in Grafana Labs. She spends most of her time working on the Explore feature that focuses on infrastructure monitoring and incident response. In her free time and during Grafana hack
+        days, she loves to build monitoring solutions for various things, such as her sourdough starter or avocado plants.
+
+
+        ŠTEFAN ŠAFÁR - Senior CDN Engineer at Showmax. Štefan likes security, networks, monitoring and cloud-native software. At Showmax, he helps the CDN team do in-depth monitoring so they can spot bottlenecks and deliver more content faster.
+
+
+        AGENDA:
+
+
+        18:00 - 18:40 Avocado monitoring - building observability for your plants
+
+        (Ivana Hučková)
+
+        If you can''t measure it, you can''t improve it. And I have decided to start with the things that are dying the fastest - my plants. During my talk, I will walk you through the process of creating an avocado monitoring system with Arduino, the
+        process of collecting metrics and logs with InfluxDB and Loki and visualising everything in the beautiful dashboards in Grafana.
+
+
+        18:45 - 19:10 Processing Akamai logs with AWS (Štefan Šafár)
+
+        Akamai is a content delivery network. We use it at Showmax to handle parts of the traffic to our users. In this talk we''ll go through the options it gives you to deliver logs and we will show how we stitched a log pipeline together in AWS to make
+        it all work.'
+      og_title: 'Cloud Native Prague Meetup #14, Thu, Jan 28, 5:00 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/5/a/2/0/600_494483072.jpeg
       url: https://www.meetup.com/Cloud-Native-Prague/events/275827515/
       ical:
@@ -81,8 +169,53 @@ series:
         dtstart: 2021-01-28 18:00:00+01:00
         dtend: 2021-01-28 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Nov 24, 2020, 6:00 PM: Hey Cloud-natives,it seems like online meetups are our "new normal". Don''t be sad and come join us from your home, we will share experiences and discuss successes and f**k-'
-      og_title: 'Cloud Native Prague Meetup #13'
+      meta_description: 'Hey Cloud-natives,
+
+        it seems like online meetups are our "new normal". Don''t be sad and come join us from your home, we will share experiences and discuss successes and f**k-ups.
+
+
+        RSVP here: https://forms.gle/BqHTtYkHQTS2fvGD7
+
+
+        Who will be speaking?
+
+
+        ONDŘEJ ŠERÝ - Sr. Software Engineer @ Pure Storage. Ondřej is working at PureStorage in Prague, mostly using Kubernetes, Golang and Terraform. He is an ex-Google SRE and is very passionate about clean code and general software engineering craftsmanship.
+
+
+        ANTON VOROBIEV - Site Reliability Engineer @ Cisco. Anton is a huge enthusiast of Cloud technologies and has wide expertise in building and operating Kubernetes-based platforms.
+
+
+        ALEX JONES - Engineering Director @ American Express. He focuses time on translating technology into tangible benefits for end-users and lower the bar to participation whilst increasing the adoption of best practices. Container orchestration, cloud
+        infrastructure design, micro-service programming and SRE practices are activities that have drawn much of his focus in recent years (he has experience from companies such as American Express, Microsoft, BSkyB, Beamery, etc.)
+
+
+        AGENDA:
+
+
+        17:50
+
+        Open "online doors"
+
+
+        18:00 - 18:40 Kubebuilder Tutorial (Ondřej Šerý)
+
+        Kubebuilder (kubebuilder.io) is a tool for extending Kubernetes APIs and building operators in Go based on custom resource definitions. This talk will go through the basics of using Kubebuilder from the initial setup to deploying a demo operator
+        in a Kubernetes cluster. Basic knowledge of Golang and Kubernetes will be helpful in following the talk, try tour.golang.org.
+
+
+        18:45 - 19:00 NixOS: immutable systems for immutable infrastructure (Anton Vorobiev)
+
+        NixOS describes itself as: "A Linux distribution with a unique approach to package and configuration management." Its main difference from others is a complete declarative definition of OS components and configuration in purely functional build
+        language. Anton will talk about how and why Cisco Orbital team has chosen to run NixOS as a base OS for all of their VMs in AWS.
+
+
+        19:05 - 19:45 Open Policy Agent: Your passport for enterprise interoperability (Alex Jones)
+
+        Enterprise organisations are complex. Releasing software becomes more challenging with each team involved. Whether it’s enterprise security, the developer community, business intelligence analysts or cluster operators; everyone has a set of constraints
+        you must conform to before they’ll allow you past their gatekeepers. In this talk, we discuss how Open Policy Agent can be utilised to create a common vocabulary between teams and start to help them work towards a common reusable architecture that
+        enables delivery and creates trust.'
+      og_title: 'Cloud Native Prague Meetup #13, Tue, Nov 24, 5:00 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/d/9/1/6/600_493495574.jpeg
       url: https://www.meetup.com/Cloud-Native-Prague/events/274535019/
       ical:

@@ -7,8 +7,15 @@ series:
     image: https://secure.meetupstatic.com/photos/event/1/7/3/600_489120371.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Jan 30, 2020, 6:00 PM: You might have heard news about the declining popularity of Hadoop and the Cloudera-Hortonworks merger. Taglines such as "Hadoop is dead" are growing in popularity. In this'
-      og_title: The End of Hadoop? Big Data & Its Future
+      meta_description: 'You might have heard news about the declining popularity of Hadoop and the Cloudera-Hortonworks merger. Taglines such as "Hadoop is dead" are growing in popularity. In this talk, we''ll cover a brief history of Hadoop, its legacy,
+        and exactly where Hadoop is failing modern data-driven enterprises. We''ll also look at why more and more companies are choosing Cloud native solutions and Kubernetes over Hadoop, and where Ataccama is headed next.
+
+
+        The substance of the session will come from our direct experience working on data management projects for various enterprise organizations.
+
+
+        The talk will be given by Vladimir Emelianov, Ataccama Big Data Practice Lead.'
+      og_title: The End of Hadoop? Big Data & Its Future, Thu, Jan 30, 5:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/7/3/600_489120371.jpeg
       url: https://www.meetup.com/CS-HUG/events/268060656/
       ical:
@@ -32,8 +39,10 @@ series:
         dtstart: 2020-01-30 18:00:00+01:00
         dtend: 2020-01-30 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 14, 2019, 6:00 PM: Apache Spark and Delta Lake (delta.io) are both open-source projects that help with big-data production workloads. While Apache Spark is de-facto the industry standard for '
-      og_title: Making Apache Spark™ Better with Delta Lake
+      meta_description: Apache Spark and Delta Lake (delta.io) are both open-source projects that help with big-data production workloads. While Apache Spark is de-facto the industry standard for big data processing, Delta is a newer complementary project
+        that has recently moved under Linux Foundation to become a standard for building data lakes (and more) in cloud. The last news was just freshly announced at Spark + AI Summit in Amsterdam this October and will get introduced to our community by
+        Jirka Harazím, a Solutions Architect from Databricks.
+      og_title: Making Apache Spark™ Better with Delta Lake, Thu, Nov 14, 5:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/7/3/600_489120371.jpeg
       url: https://www.meetup.com/CS-HUG/events/266200104/
       ical:
@@ -57,8 +66,9 @@ series:
         dtstart: 2019-11-14 18:00:00+01:00
         dtend: 2019-11-14 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Oct 31, 2019, 6:00 PM: Jumpshot is an online analytics company that delivers insights on user behaviors everywhere online. Jumpshot uses machine learning and big data processing in Spark to creat'
-      og_title: Crunching Petabytes with Jumpshot
+      meta_description: Jumpshot is an online analytics company that delivers insights on user behaviors everywhere online. Jumpshot uses machine learning and big data processing in Spark to create pipelines that need to be both fast and resilient. This
+        talk will present their business cases, technology stack and some of technological challenges that come with vast and varied data and with using your own compute clusters.
+      og_title: Crunching Petabytes with Jumpshot, Thu, Oct 31, 5:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/7/3/600_489120371.jpeg
       url: https://www.meetup.com/CS-HUG/events/265835330/
       ical:
@@ -82,8 +92,17 @@ series:
         dtstart: 2019-10-31 18:00:00+01:00
         dtend: 2019-10-31 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Sep 26, 2019, 6:00 PM: Spark pipelines represent a powerful concept to support productionizing machine learning workflows. Their API allows to combine data processing with machine learning algori'
-      og_title: 'Fresh Season - Fresh Water: Productionizing H2O Models Using Apache Spark'
+      meta_description: 'Spark pipelines represent a powerful concept to support productionizing machine learning workflows. Their API allows to combine data processing with machine learning algorithms and opens opportunities for integration with various
+        machine learning libraries. However, to benefit from the power of pipelines, their users need to have a freedom to choose and experiment with any machine learning algorithm or library.
+
+
+        Therefore, H2O.ai, open source machine learning and artificial intelligence platform, developed Sparkling Water that embeds H2O machine learning library of advanced algorithms into the Spark ecosystem and exposes them via pipeline API. Furthermore,
+        the algorithms benefit from H2O MOJOs – Model Object Optimized – a powerful concept shared across entire H2O platform to store and exchange models. The MOJOs are designed for effective model deployment with focus on scoring speed, traceability,
+        exchangeability, and backward compatibility. This talk will explain the architecture of Sparkling Water with focus on integration into the Spark pipelines and MOJOs.
+
+
+        Jakub Háva will demonstrate creation of pipelines integrating H2O machine learning models and their deployments using Scala or Python. Furthermore, Jakub will show how to utilize pre-trained model MOJOs with Spark pipelines.'
+      og_title: 'Fresh Season - Fresh Water: Productionizing H2O Models Using Apache Spark, Thu, Sep 26, 4:00 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/1/7/3/600_489120371.jpeg
       url: https://www.meetup.com/CS-HUG/events/264787795/
       ical:

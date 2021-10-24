@@ -6,8 +6,119 @@ series:
     image: https://secure.meetupstatic.com/photos/event/1/2/1/6/600_498544630.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Oct 13, 2021, 6:00 PM: (CZ): První online i offline akce zároveň!Tentokrát na téma: "Jaké frameworky ti nesmí letos uniknout."Online budeme vysílat na youtube https://youtu.be/Ng0LkAeO1I0 , offli'
-      og_title: ONLINE/OFFLINE říjnový Frontedisti.cz, Wed, Oct 13, 2021, 6:00 PM
+      meta_description: '(CZ): První online i offline akce zároveň!
+
+
+        Tentokrát na téma: "Jaké frameworky ti nesmí letos uniknout."
+
+
+        Online budeme vysílat na youtube https://youtu.be/Ng0LkAeO1I0 , offline se sejdeme u SUPERKODERS. Prosím, při přihlášení zodpovězte, jak se zúčastníte => online/offline, díky!.
+
+
+        18:00 - SUPERKODERS, Brno
+
+        18:30 - LIVE STREAM - https://youtu.be/Ng0LkAeO1I0
+
+
+        18:35 Material UI 5 - moderný react UI kit - Srigi [CZ]
+
+        19:00 Intro to Strapi and how it outstands other classical CMS - Saad Mujeeb - Strapi [EN] [remote talk]
+
+        19:30 Serverless framework - v oblacích
+
+        bez serverů… - Martin Brychta - SUPERKODERS [CZ]
+
+        20:00 Qwik the resumable framework in the sea of replayable frameworks - Misko Hevery - Builder-io [EN] [remote talk]
+
+
+        Podporujeme Hacktoberfest ''21. Máte zájem se odzvědět něco o open-source projektech jako Qwik, Strapi, Material UI 5 nebo Serverless framework? Tak se k nám připojte!
+
+
+        ~~~
+
+
+        (EN): The first online and offline events at the same time!
+
+
+        Meetup topic: "What frameworks you must not miss this year."
+
+
+        We will broadcast online on youtube https://youtu.be/Ng0LkAeO1I0 , we will meet offline at SUPERKODERS. Please reply at login how you will participate => online / offline, thanks !.
+
+
+        18:00 - SUPERKODERS, Brno
+
+        18:30 - LIVE STREAM - https://youtu.be/Ng0LkAeO1I0
+
+
+        18:35 Material UI 5 - modern reactive set UI - Srigi [CZ]
+
+        19:00 Introduction to Strapi and how it breaks away from other classic CMS [EN] [remote talk]
+
+        19:30 Serverless framework - in the clouds
+
+        without servers… - Martin Brychta - SUPERKODERS [CZ]
+
+        20:00 Qwik Renewable Frame in a Sea of Playable Frames - Misko Hevery - Builder-io [EN] [remote talk]
+
+
+        We are supporting Hacktoberfest ''21. Do you want to learn anything from open-source projects like Qwik, Strapi, Material UI 5, or Serverless framework? Join us!
+
+
+        |
+
+        |
+
+        |
+
+        |
+
+        |
+
+        |
+
+        |
+
+
+        ~~~ COVID informace:
+
+
+        Pro OFFLINE účast je potřeba splnění jedné z následujících podmínek:
+
+
+        - 2 týdny po ukončeném očkování
+
+        - potvrzení o prodělaném COVIDu do 180 dní
+
+        - negativní PCR test ne starší, než 7 dní
+
+        - negativní antigenní test ne starší, než 72 hodin
+
+        - případně se podrobit testu u vstupu (testy budou)
+
+
+        Podmínky pro vstup bude kontrolovat před budovou, díky za pochopení.
+
+
+        ~~~ IMPORTANT: Covid precautions
+
+
+        For OFFLINE attendance you need to have at least one of the following to be able to come to the meetup:
+
+
+        - 2 weeks from full vaccination
+
+        - confirmation of being diagnosed with Covid not older than 180 days
+
+        - negative antigen test not older than 72 hours
+
+        - negative PCR test not older than 7 days
+
+        - alternatively, just show up at the door and we will provide you with a free quick test
+
+
+        We will be checking this at the entrance to our office.'
+      og_title: ONLINE/OFFLINE říjnový Frontedisti.cz, Wed, Oct 13, 4:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/a/d/9/9/600_499424441.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsyccnbrb/
       ical:
@@ -31,8 +142,37 @@ series:
         dtstart: 2021-10-13 18:00:00+02:00
         dtend: 2021-10-13 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Nov 10, 2021, 6:30 PM: We look forward to seeing you at Pipedrive in Prague! This time mainly in English.TALKS:— Michael Possumato (Netflix) [Remote talk] — Approach to Micro FE at Netflix— Tomas'
-      og_title: 'Meetup in Prague: MicroFrontends in Netflix, Bitcoin hardware wallets…, Wed, Nov 10, 2021, 6:30 PM'
+      meta_description: 'We look forward to seeing you at Pipedrive in Prague! This time mainly in English.
+
+
+        TALKS:
+
+
+        — Michael Possumato (Netflix) [Remote talk] — Approach to Micro FE at Netflix
+
+        — Tomas Susanka (Trezor by SatoshiLabs) — Quick intro into the world of Bitcoin hardware wallets
+
+
+        Register your talk: https://forms.gle/TAyjxZH9YHn8YmKV7
+
+        (English is preferred but not a requirement.)
+
+
+        Door open: 18:00
+
+        Start: 18:30
+
+
+        ⚠️ Limited capacity according to current covid measures.
+
+
+        Register yourself only if you want to enjoy the meetup in-person in Pipedrive.
+
+
+        An online stream will be available for everyone else:
+
+        https://www.meetup.com/frontendisti/events/281587897/'
+      og_title: 'Meetup in Prague: MicroFrontends in Netflix, Bitcoin hardware wallets…, Wed, Nov 10, 5:30 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsyccpbnb/
       ical:
@@ -56,8 +196,8 @@ series:
         dtstart: 2021-11-10 18:30:00+01:00
         dtend: 2021-11-10 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Dec 8, 2021, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každo'
-      og_title: Meetup Frontedisti.cz, Wed, Dec 8, 2021, 7:00 PM
+      meta_description: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každou druhou středu v měsíci.
+      og_title: Meetup Frontedisti.cz, Wed, Dec 8, 6:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsyccqblb/
       ical:
@@ -81,8 +221,8 @@ series:
         dtstart: 2021-12-08 19:00:00+01:00
         dtend: 2021-12-08 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Jan 12, 2022, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
-      og_title: Meetup Frontedisti.cz, Wed, Jan 12, 2022, 7:00 PM
+      meta_description: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každou druhou středu v měsíci.
+      og_title: Meetup Frontedisti.cz, Wed, Jan 12, 6:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsydccbqb/
       ical:
@@ -155,8 +295,28 @@ series:
         dtstart: 2022-02-09 19:00:00+01:00
         dtend: 2022-02-09 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Nov 10, 2021, 6:30 PM: Online stream for meetup from Pipedrive in Prague. This time mainly in English:— Michael Possumato (Netflix) [Remote talk] — Approach to Micro FE at Netflix— Tomas Susanka '
-      og_title: 'Online stream: MicroFrontends in Netflix, Bitcoin hardware wallets…'
+      meta_description: 'Online stream for meetup from Pipedrive in Prague. This time mainly in English:
+
+
+        — Michael Possumato (Netflix) [Remote talk] — Approach to Micro FE at Netflix
+
+        — Tomas Susanka (Trezor by SatoshiLabs) — Quick intro into the world of Bitcoin hardware wallets
+
+
+        Register your talk: https://forms.gle/TAyjxZH9YHn8YmKV7
+
+        (English is preferred but not a requirement.)
+
+
+        Start: 18:30
+
+
+        Register yourself for an in-person meetup if you want to be with us:
+
+        https://www.meetup.com/frontendisti/events/mbjhpsyccpbnb/
+
+        (Limited capacity according to current covid measures.)'
+      og_title: 'Online stream: MicroFrontends in Netflix, Bitcoin hardware wallets…, Wed, Nov 10, 5:30 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/281587897/
       ical:

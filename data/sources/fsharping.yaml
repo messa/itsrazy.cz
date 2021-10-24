@@ -6,8 +6,38 @@ series:
     image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Aug 4, 2021, 6:00 PM: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects, and other great things (not only) from the IT world an'
-      og_title: FSharping |> Beer
+      meta_description: 'Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects, and other great things (not only) from the IT world and functional programming.
+
+
+        Please RSVP only if you are 100% SURE that you''ll come. We will book the proper place later and let you know.
+
+
+        *UPDATE*: We will meet in Bernard Pub, Jeseniova 93, Praha 3 - Žižkov
+
+
+        Looking forward!
+
+
+        Oh, and one more thing: This time, beers are paid by our beloved sponsor CN Group company! So 🍻 = FREE!
+
+
+        ----------------------
+
+
+        Stejně jako minulý rok o prázdninách se i letos sejdeme nad pivkem někde v centru rozpálené Prahy, abychom si pokecali o F#, komunitě, konferencích, projektech, ale i dalších věcech (nejen) ze světa IT a funkcionálního programování.
+
+
+        Prosím, hlaste se co nejdříve, ať zamluvíme vhodný prostor.
+
+
+        *UPDATE*: Setkáme se v Bernard Pub, Jeseniova 93, Praha 3 - Žižkov
+
+
+        Těšíme se!
+
+
+        Jo a ještě jedna věc: Tentokrát piva platí náš milovaný sponzor společnost CN Group! Čili 🍻 = FREE!'
+      og_title: FSharping |> Beer, Wed, Aug 4, 4:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/279609755/
       ical:
@@ -30,8 +60,26 @@ series:
         dtstart: 2021-08-04 18:00:00+02:00
         dtend: 2021-08-04 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Aug 19, 2020, 6:00 PM: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects and other great things (not only) from IT world and fu'
-      og_title: FSharping |> Beer
+      meta_description: 'Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects and other great things (not only) from IT world and functional programming.
+
+
+        Please RSVP only if you are 100% SURE that you''ll come. We will book proper place later and let you know.
+
+
+        Looking forward!
+
+
+        ----------------------
+
+
+        Stejně jako minulý rok o prázdninách se i letos sejdeme nad pivkem někde v centru rozpálené Prahy, abychom si pokecali o F#, komunitě, konferencích, projektech, ale i dalších věcech (nejen) ze světa IT a funkcionálního programování.
+
+
+        Prosím, hlaste se co nejdříve, ať zamluvíme vhodný prostor.
+
+
+        Těšíme se!'
+      og_title: FSharping |> Beer, Wed, Aug 19, 4:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/271789552/
       ical:
@@ -54,8 +102,29 @@ series:
         dtstart: 2020-08-19 18:00:00+02:00
         dtend: 2020-08-19 23:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Jun 5, 2020, 11:00 AM: 5. června nás čeká již třetí ročník virtuální konference fsharpConf, organizované lidmi z @fsharponline. Můžete se těšit na F# experty z celého světa. Uvidíte praktické vyu'
-      og_title: fsharpConf 2020
+      meta_description: '5. června nás čeká již třetí ročník virtuální konference fsharpConf, organizované lidmi z @fsharponline. Můžete se těšit na F# experty z celého světa. Uvidíte praktické využití vlastností F# na různých typech aplikací.
+
+
+        Pro více informací sledujte web: http://fsharpconf.com
+
+        Registrace: https://www.meetup.com/FSharpOnline/events/270751433/
+
+        Sledujte na: https://www.youtube.com/watch?v=ybkYHYKYeNw
+
+
+        ----------------------------------
+
+
+        Join us online on June 5th 2020 for the live streaming of the third year of fsharpConf, a free virtual event organized by @fsharponline featuring world-class F# experts across the globe. You will see F# in action on a wide range of practical applications.
+        Timeline and speakers coming soon!
+
+
+        For more information: http://fsharpconf.com
+
+        Register at: https://www.meetup.com/FSharpOnline/events/270751433/
+
+        Watch at: https://www.youtube.com/watch?v=ybkYHYKYeNw'
+      og_title: fsharpConf 2020, Fri, Jun 5, 9:00 AM | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/270899664/
       ical:
@@ -79,8 +148,84 @@ series:
         dtstart: 2020-06-05 11:00:00+02:00
         dtend: 2020-06-05 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Feb 25, 2020, 6:00 PM: We would like to invite you to our very first FShaping Functional Programming workshop.==== Basic information ====Workshop is planned for 3 hours.We will start at 18:00! (W'
-      og_title: 'Josef Starýchfojtů: Advanced FP in F# (Workshop)'
+      meta_description: 'We would like to invite you to our very first FShaping Functional Programming workshop.
+
+
+        ==== Basic information ====
+
+
+        Workshop is planned for 3 hours.
+
+        We will start at 18:00! (Watch out! NOT 19:00 as usually.)
+
+        There is attendee RSVP limit 15 people (+2 organizers).
+
+        We will contact you upfront to discuss setup of your noteboks (this is BYOD workshop).
+
+        Workshop will be in English.
+
+        As always, there is no entry fee.
+
+        This time we will be at the biggest room in Pracovna (straight on from entrance) to have proper comfort for writing F#.
+
+
+        ==== Agenda ====
+
+
+        Stage 1: Domain modeling
+
+        - strong typing
+
+        - ADT
+
+        - aliasy
+
+        - no cyclic dependencies
+
+
+        Stage 2: Domain functions (pure functions on domain, no technology involved)
+
+        - pure domain, no IO
+
+        - lenses
+
+
+        Stage 3: Use cases
+
+        - error handling
+
+        - explicitely passing interfaced environment
+
+        - this stage will be ugly on purpose
+
+
+        Stage 4: Reader
+
+        - introduction to Reader monad
+
+        - will still be pretty ugly
+
+
+        Stage 5: ZIO
+
+        - this stage will cleanup the previous ones with ZIO like monad
+
+
+        Stage 6: Real world
+
+        - validation with applicatives
+
+        - implementing API
+
+        - implementing data access
+
+
+        Stage 7: Testing (optional)
+
+        - showcase of how easy is to test this
+
+        - property based testing'
+      og_title: 'Josef Starýchfojtů: Advanced FP in F# (Workshop), Tue, Feb 25, 5:00 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/268054108/
       ical:

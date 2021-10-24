@@ -6,10 +6,16 @@ series:
     image: https://secure.meetupstatic.com/photos/event/1/9/f/7/600_478206647.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Jun 10, 2021, 7:00 PM: Ve čtvrtek 10.6. chystáme další živou Medvědárnu na Instagramu, tentokrát zaměřenou na JAVA lovers! :-)Těm, kteří se chtějí v Javě naučit sami více, předáme maximum toho, c'
-      og_title: Medvědárna
+      meta_description: 'Ve čtvrtek 10.6. chystáme další živou Medvědárnu na Instagramu, tentokrát zaměřenou na JAVA lovers! :-)
+
+
+        Těm, kteří se chtějí v Javě naučit sami více, předáme maximum toho, co na profesní Java cestě pomohlo Miroslav Fuksa, Lucie Tvrdíková a Pavel Bucek. Co by vás zajímalo a jaké rady byste ocenili?
+
+
+        Budeme se těšit ve čtvrtek od 19 hodin na Instagramu @coding.bear!'
+      og_title: Medvědárna, Thu, Jun 10, 5:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/c/5/6/600_496807254.jpeg
-      url: https://www.meetup.com/Medvědi/events/278701028/
+      url: https://www.meetup.com/Medv%C4%9Bdi/events/278701028/
       ical:
         summary: Medvědárna
         description: 'Medvědi
@@ -31,10 +37,20 @@ series:
         dtstart: 2021-06-10 19:00:00+02:00
         dtend: 2021-06-10 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Mar 4, 2021, 5:00 PM: Hola hola, Medvědárna volá!Pojďme si dát medvědí dýchánek on-line, chceme si s vámi zase povídat. Tentokrát o tom, jak se změnila podoba náboru IT kapacit a co na tom vývojá'
-      og_title: Medvědárna ONLINE
+      meta_description: 'Hola hola, Medvědárna volá!
+
+
+        Pojďme si dát medvědí dýchánek on-line, chceme si s vámi zase povídat. Tentokrát o tom, jak se změnila podoba náboru IT kapacit a co na tom vývojáře štve. Máme milé hosty zkušené v IT světě, Míra Fuksa si bude povídat s vývojářem a leaderem týmu
+        Jurijem Staryncem a projektovým manažerem Davidem Šimůnkem.
+
+
+        Těšíme se na Clubhouse ve čtvrtek 4.3. od 17 hodin!
+
+
+        https://lnkd.in/eN5W4qt'
+      og_title: Medvědárna ONLINE, Thu, Mar 4, 4:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/d/7/c/600_495003452.jpeg
-      url: https://www.meetup.com/Medvědi/events/276710007/
+      url: https://www.meetup.com/Medv%C4%9Bdi/events/276710007/
       ical:
         summary: Medvědárna ONLINE
         description: 'Medvědi
@@ -56,10 +72,34 @@ series:
         dtstart: 2021-03-04 17:00:00+01:00
         dtend: 2021-03-04 18:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, May 6, 2020, 5:00 PM: Rozhodli jsme se, že zkusíme udělat první ONLINE MedvědárnuPřenos zde: https://zoom.us/j/96688476433 (bude propojeno na FB i youtube)Big Brother v IT - měřit nebo neměřit, t'
-      og_title: Online Medvědárna
+      meta_description: 'Rozhodli jsme se, že zkusíme udělat první ONLINE Medvědárnu
+
+        Přenos zde: https://zoom.us/j/96688476433 (bude propojeno na FB i youtube)
+
+
+        Big Brother v IT - měřit nebo neměřit, toť otázka
+
+
+        Existuje mnoho přístupů a témat o řízení IT týmu a jedním z nejvíce diskutovaných v těchto dnech, kdy je většina lidí z IT na home office, je to, zda můžete (nebo měli byste) měřit práci vývojového týmu. Je to vůbec možné změřit a získat nějaké
+        spolehlivé výsledky? Je to fér? Pojďme se o tom pobavit a říct si, jaké jsou běžné případy, kde měření může skutečně pomoci identifikovat základní problémy.
+
+
+        Hlavním přednášejícím bude náš hlavní medvěd Míra Fuksa - zakladatel Coding Bear a představujeme naše dva hosty online Medvědárny a jsou jimi David Šimůnek a Štěpán Kopřiva.
+
+
+        David Šimůnek - Technology Project Manager IBM, autor vlastního webu, přinášejícího osvědčené postupy z oblasti projektového řízení, agilních metod, leadershipu a osobního rozvoje. Dříve působil jako IT Project Manager pro Mall.cz a jako PM Consultant
+        v KPMG.
+
+
+        Štěpán Kopřiva - CTO ve společnosti Blindspot Solutions, specializuje se na oblast umělé inteligence a strojového učení a má za sebou desítky úspěšně dodaných inovativních produktů. Dříve působil jako Java vývojář v Oraclu a také jako výzkumný
+        pracovník na ČVUT.
+
+
+        Určitě se připojte, protože to bude velmi zajímavá diskuze na trochu kontroverzní téma . Také bude možné po celou dobu vysílání pokládat dotazy, na které průběžně odpovíme. Vysílat budeme live tady na fb a bude záznam i na youtube. Věříme, že se
+        nám i vám tento formát zalíbí a že v něm v budoucnu můžeme také pokračovat.'
+      og_title: Online Medvědárna, Wed, May 6, 3:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/d/e/4/2/600_490256898.jpeg
-      url: https://www.meetup.com/Medvědi/events/270291504/
+      url: https://www.meetup.com/Medv%C4%9Bdi/events/270291504/
       ical:
         summary: Online Medvědárna
         description: 'Medvědi
@@ -81,10 +121,18 @@ series:
         dtstart: 2020-05-06 17:00:00+02:00
         dtend: 2020-05-06 18:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Mar 4, 2020, 7:00 PM: OpenAPI - dobrý přítel nejen backend vývojářeNa další medvědárnu jsme pro přednášení ukecali Vlastíka Hájka :)) Vlastík je náš dlouholetý medvědí kamarád a na medvědárny cho'
-      og_title: Medvědárna
+      meta_description: 'OpenAPI - dobrý přítel nejen backend vývojáře
+
+
+        Na další medvědárnu jsme pro přednášení ukecali Vlastíka Hájka :)) Vlastík je náš dlouholetý medvědí kamarád a na medvědárny chodí často, takže jste ho zde určitě už potkali. Dokonce měl na loňské únorové medvědárně vtipnou část Výlet :)) Je to
+        velmi šikovný java vývojář a zkušený teamleader, tak si přijďte poslechnout jeho přednášku. Povíte si něco o dokumentování api v OpenAPI formátu a o tom, kolik práce může ušetřit jeden “texťák”. Určitě si odnesete spoustu užitečných informací nebo
+        v rámci diskuze můžete toto téma rozebrat podrobněji a předat si tak zkušenosti i s ostatními účastníky.
+
+
+        Hlaste se prosím standardně zde: https://bit.ly/35e2fpa'
+      og_title: Medvědárna, Wed, Mar 4, 6:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/9/7/6/9/600_489338761.jpeg
-      url: https://www.meetup.com/Medvědi/events/269001570/
+      url: https://www.meetup.com/Medv%C4%9Bdi/events/269001570/
       ical:
         summary: Medvědárna
         description: 'Medvědi
