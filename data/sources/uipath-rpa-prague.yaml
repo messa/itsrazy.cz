@@ -6,8 +6,20 @@ series:
     image: https://secure.meetupstatic.com/photos/event/1/9/4/4/600_496506468.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Jun 15, 2021, 12:00 PM: The future of automation is coming to you. Live, online, and free.The global UiPath Community is coming together on June 15-16, 2021 to learn, build, and connect at UiPath'
-      og_title: UiPath DevCon 2021
+      meta_description: 'The future of automation is coming to you. Live, online, and free.
+
+
+        The global UiPath Community is coming together on June 15-16, 2021 to learn, build, and connect at UiPath DevCon.
+
+        Join us http://bit.ly/UiPath_DevCon2021 for this two-day event hosted in two time zones, where you’ll:
+
+
+        • Dive into best practices, use cases, and lessons learned from your peers
+
+        • Expand your knowledge of the newest UiPath capabilities
+
+        • Get plugged into the RPA developer community and its resources'
+      og_title: UiPath DevCon 2021, Tue, Jun 15, 10:00 AM | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/9/3/7/600_496506455.jpeg
       url: https://www.meetup.com/UiPath-RPA-Prague/events/278400401/
       ical:
@@ -31,8 +43,26 @@ series:
         dtstart: 2021-06-15 12:00:00+02:00
         dtend: 2021-06-15 16:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 25, 2020, 3:00 PM: Hello UiPath Community!New monthly global meetup coming up!Incorporating API automation into your overall strategy allows both RPA and Test Teams to improve execution effic'
-      og_title: Leveraging API Automation in UiPath Studio
+      meta_description: 'Hello UiPath Community!
+
+
+        New monthly global meetup coming up!
+
+
+        Incorporating API automation into your overall strategy allows both RPA and Test Teams to improve execution efficiency and minimize the impact of changing interfaces, making automations faster and more resilient. UiPath Studio now supports API
+        Automation through its integration with Postman, a software development tool for performing calls to APIs. Using this integration allows Studio users to reuse advanced non-UI automations and tests that developers have built in Postman.
+
+
+        This virtual meetup will explore the new API automation capabilities and how to leverage them in your RPA workflows or automated tests.
+
+
+        How to sign up? Join our newest UiPath global community events platform: https://communityevents.uipath.com/events/details/uipath-global-virtual-events-presents-leveraging-api-automation-in-uipath-studio/
+
+
+        Stay safe,
+
+        Luiza & the UiPath Community team'
+      og_title: Leveraging API Automation in UiPath Studio, Thu, Jun 25, 1:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/8/4/c/600_490791276.jpeg
       url: https://www.meetup.com/UiPath-RPA-Prague/events/271224883/
       ical:
@@ -56,8 +86,36 @@ series:
         dtstart: 2020-06-25 15:00:00+02:00
         dtend: 2020-06-25 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, May 28, 2020, 3:00 PM: Hello UiPath Community!Brand new virtual meetup coming up on how you can accelerate your implementation time with API integration!UiPath integrates deeply with the best tec'
-      og_title: Accelerate your implementation time with API integration
+      meta_description: 'Hello UiPath Community!
+
+
+        Brand new virtual meetup coming up on how you can accelerate your implementation time with API integration!
+
+
+        UiPath integrates deeply with the best technologies that you use today, so you can easily automate processes that involve multiple applications and/or lines of business. Connect your businesses faster by activating pre-built integration flows and
+        run ready application connectors.
+
+        Let integration eliminate the time-consuming aspects of integration while you focus on innovating your business.
+
+
+        Join this session to:
+
+        - Understand APIs
+
+        - Demo: Rapid implementation on Salesforce & ServiceNow
+
+        - Learn how to start the Robots from different software
+
+        - Q&A
+
+
+        Register here: https://uipath.zoom.us/meeting/register/tJUqdu6qrjkpHtZYU-6F_XLY4ibwl7eKtdkL
+
+
+        Stay safe,
+
+        Luiza & the Community team'
+      og_title: Accelerate your implementation time with API integration, Thu, May 28, 1:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/b/6/f/600_490519311.jpeg
       url: https://www.meetup.com/UiPath-RPA-Prague/events/270786749/
       ical:
@@ -80,8 +138,33 @@ series:
         dtstart: 2020-05-28 15:00:00+02:00
         dtend: 2020-05-28 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Fri, May 1, 2020, 4:30 PM: Hello UiPath Community,Second most wanted virtual meetup is here: UiPath Test suite: Mobile Automation!Register for the session here: https://bit.ly/UiPathTestSuite.As soon '
-      og_title: 'UiPath Test Suite: Mobile Automation: Virtual Meetup '
+      meta_description: 'Hello UiPath Community,
+
+
+        Second most wanted virtual meetup is here: UiPath Test suite: Mobile Automation!
+
+
+        Register for the session here: https://bit.ly/UiPathTestSuite.
+
+
+        As soon as the sun shines and we struggle to wake up, the first thing we all need is our smartphone - even before we brush our teeth. People are consumed with their smartphones 24/7 and very rarely use a desktop computer for online activities.
+        Businesses are making the best use of this opportunity by adopting a Mobile First strategy to rapidly expand their business. As such, applications are designed and launched for mobile devices before they are scaled up for larger display devices.
+
+
+        This approach also requires a different testing strategy. Different network speeds, various input types, call interruptions, responsive design, and many other factors need to be considered in assessing the quality of mobile apps through test automation.
+
+
+        Christian Mayer (Director, Product Management) https://www.linkedin.com/in/christian-mayer-2a26b112a/ will share how the UiPath Test Suite helps you to create resilient automated tests for your mobile apps and how to integrate your mobile testing
+        strategy into your broader testing strategy.
+
+
+        Please join the virtual meetup here: https://uipath.zoom.us/j/96825515813
+
+
+        Let’s virtually meet (again)!
+
+        Luiza & the UiPath Community team'
+      og_title: 'UiPath Test Suite: Mobile Automation: Virtual Meetup , Fri, May 1, 2:30 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/e/3/8/7/600_490198247.jpeg
       url: https://www.meetup.com/UiPath-RPA-Prague/events/270178392/
       ical:

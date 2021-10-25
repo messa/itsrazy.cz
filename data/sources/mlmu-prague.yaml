@@ -6,8 +6,30 @@ series:
     image: https://secure.meetupstatic.com/photos/event/c/2/f/a/600_455269914.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Jun 24, 2021, 7:00 PM: The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that tradition'
-      og_title: 'D<AI>DALOS – Post-Human Creativity: The Use of AI in Art'
+      meta_description: 'The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that traditionally defined the roles played by makers and their tools.
+        To what degree can we call AI-generated works as the product of genuine creativity? By inviting contemporary artists experimenting with AI and experts in the field, we will address these and other questions that are redefining the current understanding
+        of what art is and the purpose of human ingenuity.
+
+        __
+
+
+        Filippo Lorenzin is an art writer, teacher and media theorist based in Italy. Currently a curator of MoCDA - Museum of Contemporary Digital Art, he has been working in the fields of contemporary art and digital culture for over a decade, collaborating
+        with international venues, including Goethe Institute, Paris College of Art and Furtherfield. His articles on contemporary digital culture and art history are regularly featured in international art magazines, including Flash Art, Hyperallergic
+        and Motherboard. His research focuses on digital culture and art in the broader context of art history. He worked on exhibitions, workshops and webinars aimed at developing a critical approach towards new media and online platforms that go beyond
+        the “new media art” niche.
+
+
+        Garrett Lynch is an artist, lecturer, curator and theorist. His work explores networks within an artistic context; the spaces between artist, artworks and audience as a means, site and context for artistic initiation, creation and discourse. He
+        is currently Professor of Contemporary Art Practices / Experimental Media Arts at Srishti Institute of Art, Design & Technology, Bangalore in India.
+
+
+        Paul Mouginot is an artist, engineer and founder of the artistic collective aurèce vettier, whose aim is to understand how relevant and meaningful interactions with machines and algorithms can be achieved, in order to push the boundaries of creative
+        processes.
+
+
+        Iskra Velitchkova is a Bulgarian artist currently based in Madrid. Her work explores the present and potential interactions between humans and machines and how instead of making technology more human, this relationship can push us to understand
+        our limits better. After a proven record in the tech and artificial intelligence industry as a visual thinker, Iskra decided to apply her knowledge and experience at the service of her own research.'
+      og_title: 'D<AI>DALOS – Post-Human Creativity: The Use of AI in Art, Thu, Jun 24, 5:00 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/c/e/2/6/600_496912774.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/278824052/
       ical:
@@ -31,8 +53,20 @@ series:
         dtstart: 2021-06-24 19:00:00+02:00
         dtend: 2021-06-24 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Jun 7, 2021, 7:30 PM: We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the opening lecture of a discus'
-      og_title: 'D<AI>DALOS – From Automation to Intelligence: The Long History of AI'
+      meta_description: 'We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the opening lecture of a discussion series called DDALOS co-organized by the AI Center
+        FEE CTU and our friends at Machine learning Meetups (MLMU). Through six lectures planned for the 2021, we wish to bring together scientists, students and experts from various fields to tackle the questions of AI research and social responsibility.
+        Specifically, the cycle will cover the following topics related to AI: creativity, journalism, fairness, sustainability, transhumanism and this opening lecture on the history of AI.
+
+
+        Event description
+
+        Although the history of artificial intelligence is full of claims that the field is just on the brink of a revolutionary transformation, the ideas and technologies at the center of the discipline have a surprisingly long history. By situating the
+        history of the field within the larger context of the history of work, automation, computation, and philosophy, we can provide both insights into recent developments in artificial intelligence and a new perspective on some of the ethical, political,
+        and economic issues posed by these developments.
+
+
+        More info: https://www.aic.fel.cvut.cz/events/from-automation-to-intelligence-the-long-history-of-ai'
+      og_title: 'D<AI>DALOS – From Automation to Intelligence: The Long History of AI, Mon, Jun 7, 5:30 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/d/4/a/2/600_496614434.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/278523643/
       ical:
@@ -55,8 +89,57 @@ series:
         dtstart: 2021-06-07 19:30:00+02:00
         dtend: 2021-06-07 21:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, May 26, 2021, 6:00 PM: The talks will be live on YouTube.Multiple speakers will shows us how they different technologies to successfully implement MLOps with variety of organizations and they wil'
-      og_title: 'MLMU Online #15: Key factors of successful MLOps'
+      meta_description: 'The talks will be live on YouTube.
+
+
+        Multiple speakers will shows us how they different technologies to successfully implement MLOps with variety of organizations and they will also share the most important and tricky parts of this process.
+
+
+        1. talk: DataOps: an indispensable component of MLOps (Wioletta Stobieniecka, SAS)
+
+        Abstract: ModelOps as one of the leading trends attracting huge interest in entire data science community, software vendors and companies embedding analytics into their everyday processes.
+
+        My presentation is aimed at presenting SAS approach to ModelOps based on best practice of model development and deployment resulting from years of experience. However, I would like to go further extending this idea on the indispensable component
+        of the process – data and thus, the second part will be dedicated to DataOps concept and the idea of Feature Store.
+
+        Bio: Data Scientist with over 6 years of experience, an open-mindedness and a deep passion for solving real-world problems using advanced statistical and machine learning tools. Expert in statistical learning methods, both in theory and practice.
+        Analyst with extensive experience especially in antifraud analytical solutions with major focus on building predictive models in industries like banking, insurance or telco. For almost two years engaged in computer vision related projects applying
+        both classical and deep learning techniques. Broad exposure to both open source and commercial software (Python, SAS, R, and others). Advocate for ModelOps & DataOps. She has recently deep dived into analytics for healthcare.
+
+        https://www.linkedin.com/in/wioletta-stobieniecka-705b0365/
+
+
+        2. talk: Experiment tracking in MLOps with MLFlow (Michal Marusan, Microsoft)
+
+        Abstract: In this short talk we show the importance and means of experiment tracking using MLFlow - crucial part of MLOps model development lifecycle - in the modern cloud ML environment. How to develop your models with governance and traceability
+        in your hands to boost productivity and increase reusability.
+
+        Bio: I am Cloud Solution Architect for Data & AI at Microsoft. My passion is enabling customer to do more with their data through AI & Machine Learning using Cloud technologies. Before that I worked as a Data Scientist at various projects in Telco,
+        Finance and Manufacturing verticals. I have been focusing on Big Data & ML & AI for last 10+ years.
+
+        https://www.linkedin.com/in/mma123/
+
+
+        3. talk: MLOps on AI Platform (Dorian Hodorogea, Google)
+
+        Abstract: The discussion will cover the Unified AI approach in Google Cloud as well as best practices on how AI/ML initiatives should be covered within organizations so that data scientist engage the right teams and drive the ML process organization
+        wide. At the end of the presentation there will he a real life example of a customer journey: options, mistakes, changes and evolution of their platform.
+
+        BIO: Dorian Hodorogea is an "analytics" mind with a curious soul, working as a Customer Engineer for Smart Analytics at Google. He is based in Bucharest and covers customers around CEE helping them find innovative solutions with the help of technology.
+        In the past 12 years, he has covered different industries as well as technologies in the Analytics/AI/ML world while working for Google, SAS Institute and IBM.
+
+        https://www.linkedin.com/in/dorianhodorogea/
+
+
+        Language: English
+
+
+        Machine Learning Meetups (MLMU) is an independent platform for people interested in Machine Learning, Information Retrieval, Natural Language Processing, Computer Vision, Pattern Recognition, Data Journalism, Artificial Intelligence, Agent Systems
+        and all the related topics. MLMU is a regular community meeting usually consisting of a talk, a discussion and subsequent networking. Except for Prague, MLMU also spread to Brno, Bratislava and Košice.
+
+
+        http://www.mlmu.cz/'
+      og_title: 'MLMU Online #15: Key factors of successful MLOps, Wed, May 26, 4:00 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/7/8/c/600_496381932.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/278273820/
       ical:
@@ -105,8 +188,27 @@ series:
         dtstart: 2021-04-21 18:00:00+02:00
         dtend: 2021-04-21 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Oct 14, 2021, 6:00 PM: Přednáška bude online na YouTube a v češtině!Výběr vhodného nástroje pro provoz ML modelů je jedním z kritických rozhodnutí při návrhu produkční infrastruktury. Srovnali js'
-      og_title: 'MLMU Online#16: Kvantitativní porovnání platforem pro produkční provoz ML modelů'
+      meta_description: 'Přednáška bude online na YouTube a v češtině!
+
+
+        Výběr vhodného nástroje pro provoz ML modelů je jedním z kritických rozhodnutí při návrhu produkční infrastruktury. Srovnali jsme tři nejpopulárnější platformy z pohledu výkonu, stability a použitelnosti. V prezentaci si povíme, na co jsme se při
+        testování zaměřili, za jakých podmínek jsme testovali a k čemu jsme došli.
+
+
+        Řečník: Jan Hajek, AI Researcher v biano.com
+
+        Spoluautoři: Hynek Davídek, AI Researcher v biano.com, a Václav Dohnal, AI Team leader a MLOps engineer v biano.com
+
+
+        Language: Czech
+
+
+        Machine Learning Meetups (MLMU) is an independent platform for people interested in Machine Learning, Information Retrieval, Natural Language Processing, Computer Vision, Pattern Recognition, Data Journalism, Artificial Intelligence, Agent Systems
+        and all the related topics. MLMU is a regular community meeting usually consisting of a talk, a discussion and subsequent networking. Except for Prague, MLMU also spread to Brno, Bratislava and Košice.
+
+
+        http://www.mlmu.cz/'
+      og_title: 'MLMU Online#16: Kvantitativní porovnání platforem pro produkční provoz ML modelů, Thu, Oct 14, 4:00 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/4/1/2/6/600_499336678.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/281293818/
       ical:

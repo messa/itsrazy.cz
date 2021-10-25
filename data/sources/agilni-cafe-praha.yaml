@@ -6,8 +6,33 @@ series:
     image: https://secure.meetupstatic.com/photos/event/2/a/9/3/600_465070899.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Oct 5, 2021, 6:00 PM: Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve úterý 5. října 2021. Opencafé je pro ty, kteří chtějí něčím zajímavým p'
-      og_title: Agilní Open Café Praha – 5.10.2021
+      meta_description: 'Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve úterý 5. října 2021. Opencafé je pro ty, kteří chtějí něčím zajímavým přispět do konverzace.
+
+
+        Nečekejte školení, ani vysvětlení toho, co je to Agile, Scrum, Kanban. Agilní Open café je setkání těch co už základy znají a věnuje se tématům pokročilejší implementace agilního světa. Co ale čekejte, je sdílení zkušeností, rad, nápadů a názorů
+        na témata spojená s Agilitou.
+
+
+        Kdy: Úterý 5.10. 2021, 18:00-20:00
+
+
+        Kde: Kavárna Dejvické divadlo, Zelená 15a, Praha 6, https://kavarnadd.cz (Kousek od metra Dejvická)
+
+
+        Jazyk: Česky
+
+
+        Téma: Je na vás :)
+
+
+        Formát: volně facilitovaná diskuse. Na téma nemusíte být experti, ale měli byste na něj mít nějaký názor a mělo by vás zajímat. :)
+
+
+        Open Café není o prezentacích, ale o konverzaci mezi účastníky, sdílení zkušeností a nápadů.
+
+
+        Meetup podporuje Scrum Alliance. Děkujeme :)'
+      og_title: Agilní Open Café Praha – 5.10.2021, Tue, Oct 5, 4:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/6/e/6/600_498506342.jpeg
       url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280683798/
       ical:
@@ -31,8 +56,23 @@ series:
         dtstart: 2021-10-05 18:00:00+02:00
         dtend: 2021-10-05 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Oct 8, 2021, 3:00 PM: We bring the best speakers to your homes. Join the October Virtual Bonus Agile Prague Conference.Reserve the date for Friday October 8, 2021 for our AgilePrague Virtual Conf'
-      og_title: Agile Prague Conference 2021 Virtual Edition
+      meta_description: 'We bring the best speakers to your homes. Join the October Virtual Bonus Agile Prague Conference.
+
+
+        Reserve the date for Friday October 8, 2021 for our AgilePrague Virtual Conference and get inspired by great speakers:
+
+
+        Jardena London - Transformation Catalyst, Author, Speaker, Agility Consultant, Certified Dare to Lead Facilitator
+
+        Pia-Maria Thorén - Inspiration Director and Agile People Coach, co-author of #agilepeoplemanifesto
+
+        Palo Blaho - Transformation Agile Coach for Societe Generale Group
+
+        Tomas Kejzlar - Pragmatic Cynic, Skeptic, Destroyer of False Hopes, Agile Fellow (Coach, Mentor, Consultant) for MSD
+
+
+        Register at agileprague.com'
+      og_title: Agile Prague Conference 2021 Virtual Edition, Fri, Oct 8, 1:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/5/7/2/d/600_498922317.jpeg
       url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280726386/
       ical:
@@ -56,8 +96,33 @@ series:
         dtstart: 2021-10-08 15:00:00+02:00
         dtend: 2021-10-08 18:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Sep 8, 2021, 6:00 PM: Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve středu 8. září 2021. Opencafé je pro ty, kteří chtějí něčím zajímavým p'
-      og_title: Agilní Open Café Praha – 8.9.2021
+      meta_description: 'Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve středu 8. září 2021. Opencafé je pro ty, kteří chtějí něčím zajímavým přispět do konverzace.
+
+
+        Nečekejte školení, ani vysvětlení toho, co je to Agile, Scrum, Kanban. Agilní Open café je setkání těch co už základy znají a věnuje se tématům pokročilejší implementace agilního světa. Co ale čekejte, je sdílení zkušeností, rad, nápadů a názorů
+        na témata spojená s Agilitou.
+
+
+        Kdy: Středa 8.9. 2021, 18:00-20:00
+
+
+        Kde: Kavárna Dejvické divadlo, Zelená 15a, Praha 6, https://kavarnadd.cz (Kousek od metra Dejvická)
+
+
+        Jazyk: Česky
+
+
+        Téma: Je na vás :)
+
+
+        Formát: volně facilitovaná diskuse. Na téma nemusíte být experti, ale měli byste na něj mít nějaký názor a mělo by vás zajímat. :)
+
+
+        Open Café není o prezentacích, ale o konverzaci mezi účastníky, sdílení zkušeností a nápadů.
+
+
+        Meetup podporuje Scrum Alliance. Děkujeme :)'
+      og_title: Agilní Open Café Praha – 8.9.2021, Wed, Sep 8, 4:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/6/e/6/600_498506342.jpeg
       url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280441638/
       ical:
@@ -80,8 +145,40 @@ series:
         dtstart: 2021-09-08 18:00:00+02:00
         dtend: 2021-09-08 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, May 19, 2021, 6:00 PM: Příští Agilní Open Café alias setkání Agilních nadšenců bude ve virtuálním prostoru ve středu 19. května 2021 a bude na pozvání pro ty, kteří chtějí něčím zajímavým přispět'
-      og_title: Agilní Open Café Virtuálně – 19.5.2021
+      meta_description: 'Příští Agilní Open Café alias setkání Agilních nadšenců bude ve virtuálním prostoru ve středu 19. května 2021 a bude na pozvání pro ty, kteří chtějí něčím zajímavým přispět do konverzace.
+
+
+        Kdy: Středa 19.5. 2021, 18:00-19:30
+
+
+        Jazyk: Česky
+
+
+        Téma: Je na vás 🙂
+
+
+        Nečekejte školení, ani vysvětlení toho, co je to Agile, Scrum, Kanban. Agilní Open café je setkání těch co už základy znají a věnuje se tématům pokročilejší implementace agilního světa. Co ale čekejte, je sdílení zkušeností, rad, nápadů a názorů
+        na témata spojená s Agilitou.
+
+
+        Formát:
+
+        Volně facilitovaná timeboxovaná diskuse která začne krátkým úvodem na dané táma (max. 5min, klidně kratší), ideálně bez slidů.
+
+        Na téma nemusíte být experti, ale měli byste na něj mít nějaký názor a mělo by vás zajímat. 🙂
+
+        Open Café není o prezentacích, ale o konverzaci mezi účastníky, sdílení zkušeností a nápadů.
+
+        Začneme dot-votingem, abychom se podívali která témata jsou pro účastníky nejzajímavější, a uvidíme, kam se dostaneme.
+
+
+        Jak se přihlásit:
+
+        1. Napište svoje téma a kontakt sem: https://app.mural.co/t/agile1712/m/agile1712/1620196401008/cfcc082e5d8fd6afee15de740717a05fd9462ac
+
+
+        2. Na základě těchto informací dostanete den předem link na Zoom. (Meetup je jen na pozvání pro ty, kteří se chtějí o své zkušenosti podělit)'
+      og_title: Agilní Open Café Virtuálně – 19.5.2021, Wed, May 19, 4:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/2/a/9/3/600_465070899.jpeg
       url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/277995118/
       ical:

@@ -137,8 +137,60 @@ series:
         dtstart: 2021-10-19 18:00:00+02:00
         dtend: 2021-10-19 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Oct 20, 2021, 6:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as'
-      og_title: 'Frontend Meetup PRG #2 - Offline + Livestreaming'
+      meta_description: 'During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as we host another Frontend meetup! 🚀
+
+
+        🔹Please register via Eventbrite: https://www.eventbrite.com/e/frontend-meetup-prg-2-tickets-172787611397?aff=MeetupEvent
+
+
+        ---
+
+        The talks will be live-streamed, and the recordings will be available online afterward — so if you can’t attend in person, you can tune in or catch up later.
+
+        ---
+
+
+        We’ll be talking Frontend and have put together an awesome program for you:
+
+
+        🔹 Talk 1) Spinners versus skeletons in the battle of hasting
+
+        Speaker: Martin Nuc, Frontend Engineering at Productboard
+
+        Description: As apps grow, data fetching gets more and more complex. Our frontend developer Martin Nuc takes a closer look at spinners and skeletons in his talk, where he examines how to identify intermediate states while loading using React Suspense.
+        Learn which method is best when you’re faced with slow load.
+
+
+        🔹 Talk 2) Yarn 2, Yarn 3, PNP, and our migration journey
+
+        Speaker: Jakub Zitny, Software Engineer at Deepnote
+
+        Description: We decreased Yarn install time in our monorepo from 3 minutes to 20 seconds by upgrading v1 to v2. This was shortly after the v2 release, and the ecosystem was definitely not ready. It took us 2 weeks instead of 2 days, but it was
+        very well worth it. Now Yarn v3 is out, and the migration is much simpler. Or is it? What problems did we encounter on the way, and how did we solve them? How does Yarn PNP work, and why is it so fast? Let’s discuss our journey.
+
+
+        🔹 Schedule
+
+        6pm — Doors open
+
+        6:30pm — Talk 1: Spinners versus skeletons in the battle of hasting - Martin Nuc
+
+        7pm — Talk 2: Yarn 2, Yarn 3, PNP, and our migration journey - Jakub Zitny
+
+        7:30pm — Frontend quiz
+
+        7:40-10pm — Networking
+
+        ---
+
+        Doors open at 6pm, and we''ll be kicking the meetup off promptly at 6:30pm, so don''t be — too late!
+
+        ---
+
+        In addition to great talks and people, you can also look forward to tasty food, lemonade, prosecco and beer on tap from Dva Kohouti. You can also win some cool Productboard swag in our Frontend quiz!
+
+        We are really looking forward to seeing you! 🙌'
+      og_title: 'Frontend Meetup PRG #2 - Offline + Livestreaming, Wed, Oct 20, 4:00 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/9/b/d/1/600_499419889.jpeg
       url: https://www.meetup.com/productboard-meetups/events/281355157/
       ical:
@@ -162,8 +214,55 @@ series:
         dtstart: 2021-10-20 18:00:00+02:00
         dtend: 2021-10-20 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 30, 2021, 6:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as'
-      og_title: 'Frontend Meetup #3'
+      meta_description: 'During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as we host another Frontend meetup! 🚀
+
+
+        🔹Please register via Eventbrite: https://www.eventbrite.com/e/frontend-meetup-prg-3-tickets-195084160977?aff=MeetupEvent
+
+
+        ---
+
+        The talks will be live-streamed, and the recordings will be available online afterward — so if you can’t attend in person, you can tune in or catch up later.
+
+        ---
+
+
+        We’ll be talking Frontend and have put together an awesome program for you:
+
+
+        🔹 Talk 1) Every millisecond matters
+
+        Speaker: Lukáš Huvar, Frontend Engineering at Productboard
+
+
+        Description: A story about how we improved time to the first byte and reduced loading speed for our customers. Let’s walk down memory lane, from one location monolith server to edge computing closer to our customers powered by Cloudflare Workers.
+
+
+        🔹 Talk 2) TBA
+
+
+        🔹 Schedule
+
+        6pm — Doors open
+
+        6:30pm — Talk 1: Every millisecond matters - Lukáš Huvar
+
+        7pm — Talk 2: TBA
+
+        7:30pm — Frontend quiz
+
+        7:40-10pm — Networking
+
+        ---
+
+        Doors open at 6pm, and we''ll be kicking the meetup off promptly at 6:30pm, so don''t be — too late!
+
+        ---
+
+        In addition to great talks and people, you can also look forward to tasty food, lemonade, prosecco and beer on tap from Dva Kohouti. You can also win some cool Productboard swag in our Frontend quiz!
+
+        We are really looking forward to seeing you! 🙌'
+      og_title: 'Frontend Meetup #3, Tue, Nov 30, 5:00 PM | Meetup'
       url: https://www.meetup.com/productboard-meetups/events/281628250/
       ical:
         summary: 'Frontend Meetup #3'

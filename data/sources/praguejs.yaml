@@ -1,7 +1,7 @@
 series:
   meetupcom:
     url: https://www.meetup.com/praguejs/events/
-    meta_description: Upcoming events for PragueJS in Prague, Czech Republic. A Meetup group with over 1845 Members.
+    meta_description: Upcoming events for PragueJS in Prague, Czech Republic. A Meetup group with over 1846 Members.
     og_title: Upcoming events | PragueJS (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
   events:
@@ -152,8 +152,69 @@ series:
         dtstart: 2021-10-05 18:30:00+02:00
         dtend: 2021-10-05 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 2, 2021, 6:30 PM: Get out and get social in 2021 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are'
-      og_title: '2021 #2 Optimization Techniques'
+      meta_description: 'Get out and get social in 2021 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are related in any way to JavaScript and the community around it.
+
+        Also, be sure to sign up for our newsletter here on meetup.com to be notified when new events are announced.
+
+        Talks from previous meetups can be found on our YT channel: https://www.youtube.com/playlist?list=PLhkTsdQVsKvN_TNQ_LZz_-LZzRLSlzKWh
+
+
+        Venue schedule:
+
+
+        18.30 - door open
+
+        18.45 - talks kick off
+
+        20.45 - talks done
+
+        21.00 - beer time
+
+
+        AGENDA:
+
+
+        What else can be done for performance. How we fixed issues in one of the most complex views in the product. (EN)
+
+        Pavel Gerasimov | Wrike
+
+
+        Abstract:
+
+        When your product faces new big customers and their new requirements, its performance may be not satisfactory enough anymore. Here is our story of how we started to suffer from performance problems in Wrike Workload - one of our most heavy and
+        complex views in our product, how we iteratively improved its overall performance in a few months, what tools and technologies we used and what else can be done when you''re out of fixes.
+
+
+        —
+
+
+        Optimizing algorithms for computer graphics
+
+        Ivan Kuckir | Photopea
+
+
+        Abstract:
+
+        Examples of specific problems during the development of www.Photopea.com
+
+
+        —
+
+
+        Our sponsors:
+
+
+        Pricefx is fast, flexible and friendly SaaS price management and price optimization solution, based on the latest in native cloud technologies. Perfect for enterprises of any size, we serve over 90 global clients like Bosch, MediaMarkt, across
+        a variety of industries.
+
+
+        SessionM is a customer data and engagement platform empowering the world’s most innovative brands that forges stronger and successful customer relationships. We put data at the heart of engagement.
+
+
+        Avocode will help you build web, iOS, and Android apps exactly like they were designed. Avocode is a cloud based app, which runs on Mac, Windows or Linux.'
+      og_title: '2021 #2 Optimization Techniques, Tue, Nov 2, 5:30 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
       url: https://www.meetup.com/praguejs/events/267847681/
       ical_raw:
@@ -223,8 +284,50 @@ series:
         dtstart: 2021-11-02 18:30:00+01:00
         dtend: 2021-11-02 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 2021, 6:30 PM: Get out and get social in 2021 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are'
-      og_title: '2021 #3 Gaming Development'
+      meta_description: 'Get out and get social in 2021 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are related in any way to JavaScript and the community around it.
+
+        Also, be sure to sign up for our newsletter here on meetup.com to be notified when new events are announced.
+
+        Talks from previous meetups can be found on our YT channel: https://www.youtube.com/playlist?list=PLhkTsdQVsKvN_TNQ_LZz_-LZzRLSlzKWh
+
+
+        Venue schedule:
+
+
+        18.30 - door open
+
+        18.45 - talks kick off
+
+        20.45 - talks done
+
+        21.00 - beer time
+
+
+        AGENDA:
+
+
+        TBD
+
+        Rudolf Cicko
+
+
+        Abstract:
+
+
+        Our sponsors:
+
+
+        Pricefx is fast, flexible and friendly SaaS price management and price optimization solution, based on the latest in native cloud technologies. Perfect for enterprises of any size, we serve over 90 global clients like Bosch, MediaMarkt, across
+        a variety of industries.
+
+
+        SessionM is a customer data and engagement platform empowering the world’s most innovative brands that forges stronger and successful customer relationships. We put data at the heart of engagement.
+
+
+        Avocode will help you build web, iOS, and Android apps exactly like they were designed. Avocode is a cloud based app, which runs on Mac, Windows or Linux.'
+      og_title: '2021 #3 Gaming Development, Tue, Dec 7, 5:30 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
       url: https://www.meetup.com/praguejs/events/267847634/
       ical_raw:
@@ -294,8 +397,73 @@ series:
         dtstart: 2021-12-07 18:30:00+01:00
         dtend: 2021-12-07 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Jan 25, 2022, 6:30 PM: Get out and get social in 2022 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that ar'
-      og_title: '2022 #1 Server Side JavaScript'
+      meta_description: 'Get out and get social in 2022 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are related in any way to JavaScript and the community around it.
+
+        Also, be sure to sign up for our newsletter here on meetup.com to be notified when new events are announced.
+
+        Talks from previous meetups can be found on our YT channel: https://www.youtube.com/playlist?list=PLhkTsdQVsKvN_TNQ_LZz_-LZzRLSlzKWh
+
+
+        Venue schedule:
+
+
+        18.30 - door open
+
+
+        18.45 - talks kick off
+
+        20.45 - talks done
+
+        21.00 - beer time
+
+
+        AGENDA:
+
+
+        Hold my context!
+
+        Miroslav Bajtoš | IBM
+
+
+        Abstract:
+
+
+        Preserving contextual data across asynchronous calls has been always tricky in Node.js land. For example, how to pass information about the current user or a correlation (transaction) id from the code processing incoming HTTP requests to the code
+        calling a backend web service? Traditional runtimes like C and Java can utilize thread-local storage, which does not work for Node''s single-threaded event loop.
+
+
+        The talk will describe different solutions people have been using (and abandoning) over the past 6+ years, dive into history of domains and async hooks, explain what''s so difficult about context keeping, and finally offer the bright future that''s
+        coming with the recently introduced AsyncLocalStorage API.
+
+
+        —
+
+
+        TBD
+
+        Jan Vlnas | Superface
+
+
+        Abstract:
+
+
+        —
+
+
+        Our sponsors:
+
+
+        Pricefx is fast, flexible and friendly SaaS price management and price optimization solution, based on the latest in native cloud technologies. Perfect for enterprises of any size, we serve over 90 global clients like Bosch, MediaMarkt, across
+        a variety of industries.
+
+
+        SessionM is a customer data and engagement platform empowering the world’s most innovative brands that forges stronger and successful customer relationships. We put data at the heart of engagement.
+
+
+        Avocode will help you build web, iOS, and Android apps exactly like they were designed. Avocode is a cloud based app, which runs on Mac, Windows or Linux.'
+      og_title: '2022 #1 Server Side JavaScript, Tue, Jan 25, 5:30 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
       url: https://www.meetup.com/praguejs/events/269001730/
       ical_raw:
@@ -365,8 +533,39 @@ series:
         dtstart: 2022-01-25 18:30:00+01:00
         dtend: 2022-01-25 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Feb 22, 2022, 6:30 PM: Get out and get social in 2022 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that ar'
-      og_title: '2022 #2 Client-side Databases'
+      meta_description: 'Get out and get social in 2022 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are related in any way to JavaScript and the community around it.
+
+        Also, be sure to sign up for our newsletter here on meetup.com to be notified when new events are announced.
+
+        Talks from previous meetups can be found on our YT channel: https://www.youtube.com/playlist?list=PLhkTsdQVsKvN_TNQ_LZz_-LZzRLSlzKWh
+
+
+        Venue schedule:
+
+
+        18.30 - door open
+
+        18.45 - talks kick off
+
+        20.45 - talks done
+
+        21.00 - beer time
+
+
+        Our sponsors:
+
+
+        Pricefx is fast, flexible and friendly SaaS price management and price optimization solution, based on the latest in native cloud technologies. Perfect for enterprises of any size, we serve over 90 global clients like Bosch, MediaMarkt, across
+        a variety of industries.
+
+
+        SessionM is a customer data and engagement platform empowering the world’s most innovative brands that forges stronger and successful customer relationships. We put data at the heart of engagement.
+
+
+        Avocode will help you build web, iOS, and Android apps exactly like they were designed. Avocode is a cloud based app, which runs on Mac, Windows or Linux.'
+      og_title: '2022 #2 Client-side Databases, Tue, Feb 22, 5:30 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
       url: https://www.meetup.com/praguejs/events/267847695/
       ical_raw:

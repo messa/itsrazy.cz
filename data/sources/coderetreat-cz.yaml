@@ -6,8 +6,72 @@ series:
     image: https://secure.meetupstatic.com/photos/event/3/d/7/f/600_466095743.jpeg
   events:
   - meetupcom:
-      meta_description: 'Sat, Nov 7, 2020, 9:00 AM: Rok 2020 moc nepřeje osobním setkáním a když už se nemůže setkat osobně, zkusíme to aspoň online.Global Day of Codertreat, https://www.coderetreat.org je takovým malým svátk'
-      og_title: Global Day of Coderetreat 2020 - ČR, Online
+      meta_description: 'Rok 2020 moc nepřeje osobním setkáním a když už se nemůže setkat osobně, zkusíme to aspoň online.
+
+
+        Global Day of Codertreat, https://www.coderetreat.org je takovým malým svátkem psaní softwarového kódu konajícího se po celém světě. Organizátoři pražské a olomoucké části Codertreatu se rozhodli spojit své síly a uskutečnit letošní Global Day
+        of Codertreat online.
+
+
+        Na výběru vhodných nástrojů pracujeme. Budeme vás o nich informovat. Co už teď určitě víme je, že vás chceme vidět. Chceme podpořit networking a aktivně vás zapojit, tedy počítejte s tím, že budete potřebovat kameru, mikrofon a tiché místo, kde
+        můžete nahlas mluvit a nikdo vás nebude rušit.
+
+
+        Smyslem celého dne je cvičení psaní čistého kódu, psaní testů a spolupráci v párech. Cílem není něco dodat, ale zdokonalit své programátorské schopnosti. Pokud to dovolí online nástroje, nebude záležet na jazyce ani na frameworku. Každý účastník
+        může přijít s libovolným programovacím jazykem. Podmínkou je, alespoň základní znalost jak psát a pouštět testy. Účastníci zde mají příležitost rozšířit si své znalosti a získat nový pohled na vývoj software. Celým dnem vás provedou Tomáš Látal,
+        Jaroslav Holaň a Jakub Kočí
+
+
+        Pro koho:
+
+        ----------------
+
+        Kdokoliv kdo píše softwarový kód. Programátoři na různých úrovních (od juniorů po seniory). Testeři píšící automatizované testy.
+
+
+        Programovací jazyk: skoro jakýkoliv. Omezení budeme jen zvolenými online nástroji. Celý den se programuje ve dvojicích, kde se po hodinách střídají a každá dvojice si sama volí v jakém jazyce budou programovat.
+
+
+        Co budete potřebovat:
+
+        ---------------------------------------
+
+        - notebook,
+
+        - stabilní připojení k internetu,
+
+        - kameru, mikrofon a ideálně i tiché místo
+
+
+        Předběžný časový plán:
+
+        -----------------------------------
+
+
+        9:00 Úvod
+
+        9:15 Vysvětlení průběhu dne, technická zkouška
+
+        10:00 První session, 45 min (na konci retrospektiva, přestávka)
+
+        11:00 Druhá session, 45 min (na konci retrospektiva, přestávka)
+
+        12:00 Přestávka na oběd
+
+        13:00 Třetí session, 45 min (na konci retrospektiva, přestávka)
+
+        14:00 Čtvrtá session, 45 min (na konci retrospektiva, přestávka)
+
+        15:00 Velká retrospektiva
+
+        16:00 Konec akce
+
+
+        Více o Coderetreat na https://www.zdrojak.cz/clanky/co-je-coderetreat/
+
+
+        Těšíme se na vás.'
+      og_title: Global Day of Coderetreat 2020 - ČR, Online, Sat, Nov 7, 8:00 AM | Meetup
       image: https://secure.meetupstatic.com/photos/event/9/5/0/3/600_492998147.jpeg
       url: https://www.meetup.com/CodeRetreat-CZ/events/273897052/
       ical:
@@ -106,8 +170,49 @@ series:
         dtstart: 2018-11-17 09:00:00+01:00
         dtend: 2018-11-17 18:00:00+01:00
   - meetupcom:
-      meta_description: 'Sat, Nov 13, 2021, 9:00 AM: Změna: Původně jsme to plánovali dát offline. Bohužel epidemická situace se opět zhoršuje, přecházíme proto jako loni na online verzi Coderetreatu.Zveme vás na jednodenní i'
-      og_title: Global Day of Coderetreat 2021 - Online
+      meta_description: 'Změna: Původně jsme to plánovali dát offline. Bohužel epidemická situace se opět zhoršuje, přecházíme proto jako loni na online verzi Coderetreatu.
+
+
+        Zveme vás na jednodenní intenzivní cvičení zaměřené na podstaty vývoje softwaru zvané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu, psaní testů a spolupráci v párech. Cílem není něco dodat, ale zdokonalit své programátorské schopnosti.
+        Nezáleží na jazyce ani na frameworku. Každý účastník může přijít s libovolným programovacím jazykem. Podmínkou je jen mít k dispozici počítatč s vývojovým prostředím a schopnosti pouštět testy. Účastníci, tak mají příležitost rozšířit si své znalosti
+        a získat nový pohled na vývoj softwaru. Celým dnem vás provede Jakub Kočí a Jaroslav Holaň.
+
+
+        Tato událost se připojí k celosvětovému dni Global Day of Codertreat, https://www.coderetreat.org
+
+        Více o Coderetreat na https://www.zdrojak.cz/clanky/co-je-coderetreat
+
+
+        Datum: sobota 13.11. 2020, 9:00 - 17:00
+
+        Místo: Online (nástroje upřesníme), budete potřebovat kameru, mikrofon, tiché místo
+
+
+        Pro koho:
+
+        Kdokoliv kdo píše softwarový kód. Programátoři na různých úrovních (od juniorů po seniory). Testeři píšící automatizované testy.
+
+
+        Příprava:
+
+        Počítač s vývojovým prostředím v libovolném programovacím jazyce se schopnosti pouštět testy. Mikrofon, web kameru a tiché místo, kde můžete mluvit.
+
+
+        Průběh cvičení:
+
+        Den je rozdělen do pěti až šesti programovacích session. Každá trvá 45 minut. V každé z nich se řeší stále stejná, jednoduchá úloha: Game of Life. Důraz je kladen na čistotu kódu, TDD a pravidla jednoduchého návrhu. Programuje se v párech. Pro
+        každou session máte jiného partnera. Po každé session smažete vytvořený kód. Pro pestrost je každá session omezena několika podmínkami.
+
+
+        Partneři akce:
+
+
+        SoftCraft, Pomáháme programátorům zdokonalovat jejich dovednosti v oblasti vývoje softwaru. https://softcraft.dev
+
+
+        Absa Technology Prague, specializovany IT hub se sídlem v České republice, je dceřinou společností Absa Bank Limited, jedné z největších afrických skupin poskytujících diverzifikované finanční služby, a nabízí integrovaný soubor produktů a služeb
+        v oblasti osobního a podnikového bankovnictví, firemního a investičního bankovnictví, správy majetku a investic a pojištění. https://www.absa.africa/absaafrica/'
+      og_title: Global Day of Coderetreat 2021 - Online, Sat, Nov 13, 8:00 AM | Meetup
       image: https://secure.meetupstatic.com/photos/event/3/d/7/f/600_466095743.jpeg
       url: https://www.meetup.com/CodeRetreat-CZ/events/281417882/
       ical:

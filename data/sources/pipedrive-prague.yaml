@@ -105,8 +105,81 @@ series:
         dtstart: 2020-02-25 07:30:00+01:00
         dtend: 2020-02-25 09:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Oct 19, 2021, 6:00 PM: If you want to succeed as a product-led company, you must ensure your teams are `empowered` enough to do the best work they can. As Marty Cagan famously wrote: "Great teams'
-      og_title: 'Product Meetup: Empowered Product Teams'
+      meta_description: 'If you want to succeed as a product-led company, you must ensure your teams are `empowered` enough to do the best work they can. As Marty Cagan famously wrote: "Great teams are comprised of ordinary people that are empowered and
+        inspired. They are empowered to solve hard problems in ways their customers love, yet work for their business."
+
+
+        In our next Pipedrive Talks Prague meetup, we''ll have a chance to listen to 3 great speakers from Mews, Productboard, and Pipedrive and get an insight look at how empowered product teams can work and what are the challenges connected with that.
+
+
+        YouTube stream link: https://www.youtube.com/watch?v=eSrftFRpkOQ&list=PLE7FQRiAWLnvYlOZEAxYfMYHP-QWWJNWY&index=7
+
+
+        ---
+
+
+        Agenda:
+
+
+        18:00 – Doors open, food and drinks ready
+
+
+        18:30 – The power of context by Jiří Helmich, CPO at Mews (remote talk)
+
+
+        Even if teams are empowered, they will fail if they don''t have the right context. Therefore, context is the most powerful tool of product leaders. Are you giving enough context? Are you getting enough context? Disclaimer: This talk might not have
+        a tangible outcome.
+
+
+        19:00 – Asking your empowered team to make product commitments by Martin Matuš, Group PM at Productboard
+
+
+        Much to the dismay of the contemporary Agile teams, the deadlines are here to stay. Let''s have a look at how empowered product teams should think about making commitments when they''re appropriate, and how to combine them with aspirational objectives
+        and uncertain outputs.
+
+
+        19:30 - break
+
+
+        20:00 - World-class product teams don''t happen overnight
+
+        by Jaana Metsamaa, Director of Product at Pipedrive
+
+
+        Change will not happen overnight. You probably can''t implement everything that you read from Empowered or another great product book the next day. You will need to take the first step, then other small steps, and adjust as you go. This talk will
+        be the story of our journey so far.
+
+
+        20:30 – More food and drinks and networking
+
+
+        ---
+
+
+        The meetup will happen in the Pipedrive office in Karlín, Prague and will be streamed online. The link to the stream will be provided on the day of the event.
+
+
+        ---
+
+
+        IMPORTANT: Covid precautions
+
+
+        You need to have at least one of the following to be able to come to the meetup:
+
+        - 2 weeks from full vaccination
+
+        - confirmation of being diagnosed with Covid not older than 180 days
+
+        - negative antigen test not older than 72 hours
+
+        - negative PCR test not older than 7 days
+
+        - alternatively, just show up at the door and we will provide you with a free quick test
+
+
+        We will be checking this at the entrance to our office. We''re not happy about it - we just want everyone to feel safe.'
+      og_title: 'Product Meetup: Empowered Product Teams, Tue, Oct 19, 4:00 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/6/5/7/0/600_499105968.jpeg
       url: https://www.meetup.com/pipedrive-talks-prague/events/280939384/
       ical:
@@ -130,8 +203,48 @@ series:
         dtstart: 2021-10-19 18:00:00+02:00
         dtend: 2021-10-19 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 16, 2021, 6:00 PM: Microservices are a popular and well-known architectural choice. Over time, best practices regarding implementing and maintaining this architectural style have evolved. In '
-      og_title: 'Backend Meetup: Advanced Microservices'
+      meta_description: 'Microservices are a popular and well-known architectural choice. Over time, best practices regarding implementing and maintaining this architectural style have evolved. In this meetup, we’ll look at the learnings of companies regarding
+        the successful implementation and operation of microservices.
+
+
+        The meetup will happen in the Pipedrive office in Karlín, Prague and will be streamed on our Pipedrive Talks YouTube channel. The link to the stream will be provided on the day of the event. Recording will be available as well.
+
+
+        ---
+
+
+        Speakers:
+
+
+        🔈 Speaker 1: Nikolay Barbariyskiy, Architect at Applifting - Two Generals'' Problem
+
+
+        "Let me tell you a story, to chill the bones", about two generals leading two armies who are preparing to attack a castle. For an attack to be successful, both armies need to attack at the same time. The armies are separated by the defenders of
+        the castle, so any message sent, from one general to the other, can be potentially captured. Curious how our two generals have agreed on the time of attack? Or actually what the heck it has to do with Microservices? Well then just substitute generals
+        with microservices, the castle defenders with the network, and join this awesome Pipedrive meetup :).
+
+
+        🔈 Speaker 2: Vahid Negahdari, Platform Engineering Manager at Pipedrive
+
+        🔈 Speaker 3: TBA
+
+
+        ---
+
+
+        Agenda:
+
+
+        18:00 – Doors open, food and drinks ready
+
+        18:30 – Talk 1: Nikolay Barbariyskiy
+
+        19:00 – Talk 2: Vahid Negahdari
+
+        19:30 - Talk 3: TBA
+
+        20:00 – More food, drinks and networking'
+      og_title: 'Backend Meetup: Advanced Microservices, Tue, Nov 16, 5:00 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/5/d/2/8/600_499463848.jpeg
       url: https://www.meetup.com/pipedrive-talks-prague/events/281095226/
       ical:

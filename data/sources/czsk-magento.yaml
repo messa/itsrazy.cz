@@ -6,8 +6,43 @@ series:
     image: https://secure.meetupstatic.com/photos/event/2/6/f/e/600_483609982.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Nov 5, 2020, 5:30 PM: Live stream link --> https://youtu.be/gexDTcZLRKk...DEV session je setkání všech backend, frontend a fullstack vývojářů s chutí rozšiřovat si svoje obzory. Toto první setkán'
-      og_title: 'DEV session #1 - Magento, Vue3, projektové řízení'
+      meta_description: 'Live stream link --> https://youtu.be/gexDTcZLRKk
+
+        ...
+
+        DEV session je setkání všech backend, frontend a fullstack vývojářů s chutí rozšiřovat si svoje obzory. Toto první setkání je vzhledem k situaci online, ale věříme, že do budoucna se uvidíme i na offline meetupu.
+
+
+        Tentokrát vám naservírujeme tyto 3 online přednášky (každá má max. 30 min. vč. dotazů):
+
+        ...
+
+        Magento modularita: With great power comes great responsibility
+
+        Jiří Brada (MageXo)
+
+        Magento je jednou z nejpopulárnějších e-commerce platforem na světě. Jak Magento vlastně dnes vypadá a jaké možnosti dává do rukou početné skupině vývojářů k úpravám defaultní funkcionality?
+
+        ...
+
+        Vue3: na co se těšit
+
+        Ondřej Janošík (Notum Technologies)
+
+        Po téměř čtyřech letech vyjde nová verze oblíbeného frameworku Vue.js. Co k tomu autory vedlo a na jaké novinky se můžeme těšit?
+
+        ...
+
+        Agilní kontrakty a Hybridní metodiky projektového řízení
+
+        Vojtěch Košák (MageXo)
+
+        FixScope & FixTime, nebo Time & Material domluva s klientem? Nebo mix obojího? Vše má své výhody a nevýhody a na to se spolu podíváme v kombinaci s hybridní metodikou Scrumban.
+
+        ...
+
+        Meetup je veřejný a účast je samozřejmě zdarma.'
+      og_title: 'DEV session #1 - Magento, Vue3, projektové řízení, Thu, Nov 5, 4:30 PM | Meetup'
       image: https://secure.meetupstatic.com/photos/event/9/1/5/6/600_493237206.jpeg
       url: https://www.meetup.com/czech-slovak-magento-group/events/273955075/
       ical:
@@ -31,8 +66,88 @@ series:
         dtstart: 2020-11-05 17:30:00+01:00
         dtend: 2020-11-05 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Oct 7, 2021, 3:00 PM: Register for free at https://www.timetospeedup.com/Core Web Vitals will change how Google measures the page experience with a significant impact on your SERP position. Four '
-      og_title: Time to speed up! Web Vitals & PWA in e-commerce
+      meta_description: 'Register for free at https://www.timetospeedup.com/
+
+
+        Core Web Vitals will change how Google measures the page experience with a significant impact on your SERP position. Four talks will help you understand Web Vitals from different perspectives, focusing on e-commerce and Magento.
+
+
+        You will learn:
+
+        - What are Core Web Vitals, and what changes do they bring to your online shop and its performance.
+
+        - Handling the change: How PWA can help speed up your Magento online shop.
+
+        - How to do SEO with Core Web Vitals.
+
+
+        Program:
+
+
+        3:00-3:10 p.m.
+
+        Opening remark
+
+
+        ======================================================
+
+
+        3:10-4:00 p.m.
+
+        Core Web Vitals: What are they and why are they important?
+
+        Maria López Lattore (mSites Specialist Engineer in Google)
+
+
+        In this talk, we will explore what the Core Web Vitals are and how to measure them, their connection to user experience and business benefits, and some common challenges and strategies that site owners might face when optimizing them.
+
+
+        ======================================================
+
+
+        4:00-4:30 p.m.
+
+        How to keep your web apps healthy
+
+        David Vršek and Adam Jedlička (Frontend Developers in MageXo)
+
+
+        How do we stay compliant with Web Vitals while keeping performance along with developer experience at the top level? We will focus on mapping business needs on technical requirements, explain some of the choices that we needed to do to come up
+        with a sustainable product, and describe how we achieved our goals of meeting uncompromising Lighthouse scores.
+
+
+        ======================================================
+
+
+        4:30-5:00 p.m.
+
+        Web Vitals in practice and beyond
+
+        Martin Michálek (Web Performance Consultant in Pagespeed.cz)
+
+
+        Knowing Web Vitals, being able to measure and optimize them is important to ensure a fast website. This talk will show practical tips and common mistakes. What does a company need to do to have a fast website that will impact their business?
+
+
+        ======================================================
+
+
+        5:00-5:30 p.m.
+
+        Web Vitals and SEO
+
+        Vojtěch Fiala (Senior SEO Specialist in Taste)
+
+
+        In SEO, it’s important to understand your competition. We will focus on the current state of Core Web Vitals of websites in selected verticals and practically show you how you can assess the quality of Core Web Vitals on both your site, and sites
+        of your competitors, set a benchmark and create an actionable optimization roadmap.
+
+
+        ======================================================
+
+
+        For more information and registration visit https://www.timetospeedup.com/'
+      og_title: Time to speed up! Web Vitals & PWA in e-commerce, Thu, Oct 7, 1:00 PM | Meetup
       image: https://secure.meetupstatic.com/photos/event/e/5/e/7/600_498838855.jpeg
       url: https://www.meetup.com/czech-slovak-magento-group/events/280788968/
       ical:
