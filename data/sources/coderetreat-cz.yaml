@@ -106,22 +106,22 @@ series:
         dtstart: 2018-11-17 09:00:00+01:00
         dtend: 2018-11-17 18:00:00+01:00
   - meetupcom:
-      meta_description: 'Sat, Nov 13, 2021, 9:00 AM: Společnost Absa Technology Prague a SoftCraft vás zvou na jednodenní intenzivní cvičení zaměřené na podstaty vývoje softwaru zvané Coderetreat. Vývojáři si zde procvičí psa'
-      og_title: Global Day of Coderetreat 2021 (Praha)
+      meta_description: 'Sat, Nov 13, 2021, 9:00 AM: Změna: Původně jsme to plánovali dát offline. Bohužel epidemická situace se opět zhoršuje, přecházíme proto jako loni na online verzi Coderetreatu.Zveme vás na jednodenní i'
+      og_title: Global Day of Coderetreat 2021 - Online
       image: https://secure.meetupstatic.com/photos/event/3/d/7/f/600_466095743.jpeg
       url: https://www.meetup.com/CodeRetreat-CZ/events/281417882/
       ical:
-        summary: Global Day of Coderetreat 2021 (Praha)
+        summary: Global Day of Coderetreat 2021 - Online
         description: 'CodeRetreat CZ
 
           Saturday, November 13 at 9:00 AM
 
 
-          Společnost Absa Technology Prague a SoftCraft vás zvou na jednodenní intenzivní cvičení zaměřené na podstaty vývoje softwaru zvané Coderetreat. Vývojá...
+          Změna: Původně jsme to plánovali dát offline. Bohužel epidemická situace se opět zhoršuje, přecházíme proto jako loni na online verzi Coderetreatu. Zv...
 
 
           https://www.meetup.com/CodeRetreat-CZ/events/281417882/'
-        location: Absa (Milevská 5, Praha 4-Podolí, Czech Republic 140 00)
+        location: Online event
         geo:
           lat: 50.08
           lon: 14.43

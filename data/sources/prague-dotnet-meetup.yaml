@@ -6,31 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/4/d/9/600_498541241.jpeg
   events:
   - meetupcom:
-      meta_description: 'GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the power to ask for exactly what we want, but it also exposes data in a way that is
-        more aligned with the way we think about data. Over the last two years, GraphQL has become more and more mainstream. The ecosystem has grown phenomenally, and major players like Amazon, Twitter, Facebook, and more are all committed to GraphQL.
-        But what is GraphQL? What are the benefits of using GraphQL it instead of REST?
-
-
-        Together, we will look at the core problems that we are facing with the traditional REST service layers, which still power most of the Web.
-
-        After we have a better understanding of GraphQL, we will explore how we can build a GraphQL API with Hot Chocolate on ASP.Net Core. We will look at Prisma filters and how we can get your existing infrastructure under this new service layer. We
-        will merge data from different sources like you did not think was possible by using the power of the GraphQL resolver concept.
-
-
-        The session will be delivered by Michael Staib, author of Hot Chocolate, Co-Founder of ChilliCream and Speaker.
-
-
-        Presentation will be in English.
-
-
-        The event is organized by Prague''s IT and .NET communities, which have joined forces to organize events from the best professionals.
-
-
-        The event is available to everyone for free.
-
-
-        Register at https://www.dotnetdays.cz/dotnet-days-graphql-in-dot-net'
-      og_title: GraphQL in .NET, Thu, Sep 9, 3:30 PM | Meetup
+      meta_description: 'Thu, Sep 9, 2021, 5:30 PM: GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the power to ask for exactly wh'
+      og_title: GraphQL in .NET
       image: https://secure.meetupstatic.com/photos/event/4/c/0/600_498541216.jpeg
       url: https://www.meetup.com/Prague-NET-Meetup/events/280482935/
       ical:
@@ -54,25 +31,8 @@ series:
         dtstart: 2021-09-09 17:30:00+02:00
         dtend: 2021-09-09 19:00:00+02:00
   - meetupcom:
-      meta_description: 'OAuth has been around for more than 10 years now, and has become the standard protocol for token-based security. Like every popular technology that has been growing with its requirements, there are some things which work really
-        well, and some that did not quite stand the test of time. This talk looks at the essentials you should know about, if you would enter the OAuth ecosystem today. Which protocol flows and extensions should you study, which "dialects" like OpenID
-        Connect are important, and if you decide to dive deeper, what would that "recommended reading" list look like?
-
-
-        The session will be delivered by Dominick Baier, co-creator of IdentityServer, IdentityModel and PolicyServer.
-
-
-        Presentation will be in English.
-
-
-        The event is organized by Prague''s IT and .NET communities, which have joined forces to organize events from the best professionals.
-
-
-        The event is available to everyone for free.
-
-
-        Register at https://www.dotnetdays.cz/dotnet-days-oauth-the-good-parts'
-      og_title: 'Dominick Baier: OAuth - The good Parts, Thu, Apr 22, 3:30 PM | Meetup'
+      meta_description: 'Thu, Apr 22, 2021, 5:30 PM: OAuth has been around for more than 10 years now, and has become the standard protocol for token-based security. Like every popular technology that has been growing with it'
+      og_title: 'Dominick Baier: OAuth - The good Parts'
       image: https://secure.meetupstatic.com/photos/event/9/c/9/4/600_495580084.jpeg
       url: https://www.meetup.com/Prague-NET-Meetup/events/277417529/
       ical:
@@ -96,35 +56,8 @@ series:
         dtstart: 2021-04-22 17:30:00+02:00
         dtend: 2021-04-22 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Data Science and Artificial Intelligence are fascinating areas of computing. Microsoft is betting a lot on these new technologies, but we are also aware that data scientists are highly trained professionals, and that not every
-        software developer can create and maintain complex data models, perform linear algebra or purchase expensive GPU rigs to run these models. This is exactly why we created Cognitive services. This suite of services offers pre-trained models that
-        you can use out-of-the-box to perform operations in Vision, Speech, Knowledge, Search and Language. In this session, Laurent Bugnion, a Cloud Developer Advocate with Microsoft will show you how you can use cognitive services to enhance your applications
-        with advanced capabilities, how you can refined the trained models with your own data and how you can integrate Cognitive Services with other Azure services to automate tasks.
-
-
-        Presentation will be in English
-
-
-        You will learn:
-
-
-        Take a tour of the existing cognitive services and understand what their strengths and weaknesses
-
-
-        See how the cognitive services can be used in web, desktop and mobile applications
-
-
-        Talk about what you can do when cognitive services are not enough
-
-
-        About the speaker
-
-
-        Laurent Bugnion currently works as Senior Cloud Developer Advocate for Microsoft. He spent almost 10 years with IdentityMine and Valorem, two leading firms in using and deploying Microsoft technologies. He is one of the foremost experts for XAML
-        and C# based development. He codes in Windows, WPF, Xamarin (iOS and Android), Unity, ASP.NET. In his free time, he writes for technical publications such as MSDN Magazine and his blog at blog.galasoft.ch. He is a frequent speaker at conferences
-        such as Microsoft MIX, TechEd, VSLive, TechDays and many other international events. Prior to joining Microsoft, he was a Microsoft Most Valuable Professional for Windows development from 2007 to 2017, a Microsoft Regional Director from 2013, and
-        a Xamarin Most Valuable Professional from 2015. He is also the author of the well-known open source framework MVVM Light for Windows, WPF, Xamarin, and of the popular Pluralsight reference course about MVVM Light.'
-      og_title: Taking Advantage of AI Easily with Azure Cognitive Services - Laurent Bugnion, Mon, Feb 24, 5:00 PM | Meetup
+      meta_description: 'Mon, Feb 24, 2020, 6:00 PM: Data Science and Artificial Intelligence are fascinating areas of computing. Microsoft is betting a lot on these new technologies, but we are also aware that data scientist'
+      og_title: Taking Advantage of AI Easily with Azure Cognitive Services - Laurent Bugnion
       image: https://secure.meetupstatic.com/photos/event/2/e/0/f/600_488711791.jpeg
       url: https://www.meetup.com/Prague-NET-Meetup/events/268424627/
       ical:
@@ -148,42 +81,8 @@ series:
         dtstart: 2020-02-24 18:00:00+01:00
         dtend: 2020-02-24 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Presentation will be in English
-
-
-        Karel Zikmund - Async demystified
-
-        Abstract: https://sessionize.com/s/karel-zikmund/async_demystified/24175
-
-        Length: 60 min
-
-        Bio: https://sessionize.com/s/karel-zikmund/async_demystified/24175
-
-
-        Hugh Eland - Modern Web Accessibility
-
-        Abstract: Raising level of abstraction of web components to help make websites accessible for the visually impaired
-
-        Length: 10m
-
-        Bio: Hugh Eland, Principal Engineering Manager, Microsoft Teams. I have failed on just enough Accessibility based projects to get an idea of what I don''t know about Accessibility. As we learn from our experiences we''re keen to share what we''ve
-        found, so others can shorten their own journey.
-
-
-        Josef Sin - Automate everything you can
-
-        Abstract: Automation as one of the key principles for successful DevOps.
-
-        Length: 20-30m
-
-        Bio: Josef is a full-stack senior engineer with passion for scalable architectures, automation, data driven decisions and mentoring. As a software engineer at Skype, he''s working on wide scale of different projects and initiatives, currently mostly
-        connected to Commerce and Monetization.
-
-
-        Live stream here:
-
-        https://www.youtube.com/watch?v=yUoF18Np3fg&feature=youtu.be'
-      og_title: .Net evening, Wed, Feb 5, 5:00 PM | Meetup
+      meta_description: 'Wed, Feb 5, 2020, 6:00 PM: Presentation will be in EnglishKarel Zikmund - Async demystifiedAbstract: https://sessionize.com/s/karel-zikmund/async_demystified/24175Length: 60 minBio: https://sessionize'
+      og_title: .Net evening
       image: https://secure.meetupstatic.com/photos/event/4/d/9/600_498541241.jpeg
       url: https://www.meetup.com/Prague-NET-Meetup/events/268323465/
       ical:
