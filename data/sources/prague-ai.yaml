@@ -7,21 +7,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/1/6/c/e/600_485045838.jpeg
   events:
   - meetupcom:
-      meta_description: 'One of the top use-cases for AI is Fraud Detection and Prevention. The power of avoiding and detecting Fraud in advance is clear: a few hours can have a major impact on losses. But fraudsters are becoming more and more sophisticated
-        in their approaches and Fraud Detection is getting harder.
-
-
-        Good news: AI can help!
-
-
-        H2O.ai’s technology platform has helped to prevent Fraud for some of the biggest companies by as much as 80%.
-
-
-        Want to know more? Join us on September 14th at 11:00am CET to understand how companies are using Machine Learning to increase the speed and accuracy of fraudulent activities identification, lower business risk and reduce costs.
-
-
-        Register here: https://bit.ly/3jDPApQ'
-      og_title: Improving the Speed and Accuracy of Fraud Identification using AI , Tue, Sep 14, 9:00 AM | Meetup
+      meta_description: 'Tue, Sep 14, 2021, 11:00 AM: One of the top use-cases for AI is Fraud Detection and Prevention. The power of avoiding and detecting Fraud in advance is clear: a few hours can have a major impact on lo'
+      og_title: 'Improving the Speed and Accuracy of Fraud Identification using AI '
       image: https://secure.meetupstatic.com/photos/event/4/9/1/4/600_498558708.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280505740/
       ical:
@@ -70,18 +57,8 @@ series:
         dtstart: 2021-08-12 23:15:00+02:00
         dtend: 2021-08-12 23:35:00+02:00
   - meetupcom:
-      meta_description: 'Please register to join us here: https://www.h2o.ai/fireside-chat-h2o-ai-mastercard/?utm_medium=Organic-Social&utm_source=meetup&utm_campaign=
-
-
-        Financial Services firms have been rapidly adopting and deploying AI at scale aimed at taking advantage of decades of digital transformations. This has allowed machine learning to be incorporated into virtually every line of business and use cases
-        such as evaluating credit decisions, optimizing customer experiences, and reducing risk.
-
-
-        What is the next chapter for AI & Finance?
-
-
-        Join us for a fireside chat with Rohit Chauhan, Executive Vice President of AI and Security Solutions at Mastercard, and Sri Ambati, Founder and CEO at H2O.ai as they explore how AI and advanced analytics are impacting our world today.'
-      og_title: Fireside chat with MasterCard & H2O.ai, Tue, Sep 21, 4:00 PM | Meetup
+      meta_description: 'Tue, Sep 21, 2021, 6:00 PM: Please register to join us here: https://www.h2o.ai/fireside-chat-h2o-ai-mastercard/?utm_medium=Organic-Social&utm_source=meetup&utm_campaign=Financial Services firms have '
+      og_title: Fireside chat with MasterCard & H2O.ai
       image: https://secure.meetupstatic.com/photos/event/a/3/f/1/600_498641969.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280585381/
       ical:
@@ -130,16 +107,8 @@ series:
         dtstart: 2021-08-11 18:00:00+02:00
         dtend: 2021-08-11 19:30:00+02:00
   - meetupcom:
-      meta_description: '*Please note this session is part of the Snowflake Build Summit.
-
-
-        Machine learning can help product teams deliver differentiated experiences to their customers. This session will demonstrate how to integrate Machine Learning into your applications. We''ll walk through a well-known data science dataset to predict
-        loan risk, make loan repricing recommendations, and forecast the revenue impact of repricing. You''ll also learn how an H2O Driverless AI Machine Learning model can be deployed as a Java UDF and used with the Snowpark API and SQL—and bring model
-        predictions into external-facing applications. With H2O models deployed in Snowflake, developers get increased performance and can interact with models using Snowflake native tools.
-
-
-        Register to create your custom agenda and attend our session : https://www.snowflake.com/build/agenda/?fu=h2o'
-      og_title: Supercharge your applications with Machine Learning using H2O.ai and Snowflake, Tue, Oct 5, 10:00 AM | Meetup
+      meta_description: 'Tue, Oct 5, 2021, 12:00 PM: *Please note this session is part of the Snowflake Build Summit.Machine learning can help product teams deliver differentiated experiences to their customers. This session '
+      og_title: Supercharge your applications with Machine Learning using H2O.ai and Snowflake
       image: https://secure.meetupstatic.com/photos/event/7/f/d/5/600_498992725.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/280942385/
       ical:
@@ -163,28 +132,8 @@ series:
         dtstart: 2021-10-05 12:00:00+02:00
         dtend: 2021-10-05 13:00:00+02:00
   - meetupcom:
-      meta_description: 'Hi Makers!
-
-
-        If you''re interested in AI, Data Science, Machine Learning and more... then you''ve probably heard about Automated Machine Learning. But you might wonder - what is AutoML exactly, and how could it help you?
-
-
-        Developing Machine Learning models is a very complex process. Regardless of industry and domain, developing a production-ready model that can bring business value may take months.
-
-        At H2O.ai, we have made it our mission to help companies around the world and across industries on their journey with AI adoption. Automating Machine Learning will let you develop better models faster.
-
-
-        Join us on October 20th at 11:00 am CET to learn about Automated Machine Learning and understand how H2O.ai can help you automate Machine Learning without compromising on model quality and performance.
-
-
-        Make sure you register via the form on our website to get all the event details: https://bit.ly/30aEMYY
-
-
-        See you there!
-
-
-        H2O.ai Team'
-      og_title: The Benefits of Automated Machine Learning, Wed, Oct 20, 9:00 AM | Meetup
+      meta_description: 'Wed, Oct 20, 2021, 11:00 AM: Hi Makers!If you''re interested in AI, Data Science, Machine Learning and more... then you''ve probably heard about Automated Machine Learning. But you might wonder - what i'
+      og_title: The Benefits of Automated Machine Learning
       image: https://secure.meetupstatic.com/photos/event/1/1/8/f/600_499444495.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281378423/
       ical:

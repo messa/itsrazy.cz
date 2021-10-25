@@ -131,32 +131,8 @@ series:
         dtstart: 2021-10-12 18:30:00+02:00
         dtend: 2021-10-12 20:30:00+02:00
   - meetupcom:
-      meta_description: 'O čem budeme mluvit?
-
-        Vyplatí se vašemu produktu či službě BankID? Jaké možnosti bankovní identita nabízí a proč byste ji neměli ignorovat? Na tyto a další otázky bude prostřednictvím semináře odpovídat předseda představenstva Bankovní identita Jan Blažek a zakladatel
-        Appliftingu, jenž stojí za vývojem BankID, Vratislav Kalenda.
-
-
-        Společně proberou BankID ze všech stran, pobaví se o náročnosti implementace i výhodách, které může vašemu byznysu přinést. Poradí, jak si spočítat, zda a kdy se vám BankID vyplatí, a představí i funkce, které jsou v plánu do budoucna (a už se
-        na nich pracuje). Součástí bezplatného semináře bude i dostatek prostoru pro vaše dotazy.
-
-        Účast je zdarma, stačí se zaregistrovat. Jen nám prosím z kapacitních důvodů dejte vědět, zda přijdete osobně, nebo se zúčastníte online.
-
-
-        - - - -
-
-        DŮLEŽITÉ: CHCETE PŘIJÍT OSOBNĚ? - Registrujte se ZDE:
-
-        https://svetbankid.cz/bankid-pro-firmy-seminar
-
-
-        Pro online účast stačí registrace přes Meetup.
-
-        - - - -
-
-
-        Začínáme v 16:00, otevřeno pro vás ale budeme mít už od 15:30. Konec oficiální části je naplánovaný na 17:00 a pak bude následovat neformální povídání, catering a networking. Online stream končí v 17:00.'
-      og_title: 'Seminář BankID pro firmy: Vše, co potřebujete vědět před integrací BankID, Wed, Oct 20, 2:00 PM | Meetup'
+      meta_description: 'Wed, Oct 20, 2021, 4:00 PM: O čem budeme mluvit?Vyplatí se vašemu produktu či službě BankID? Jaké možnosti bankovní identita nabízí a proč byste ji neměli ignorovat? Na tyto a další otázky bude prostř'
+      og_title: 'Seminář BankID pro firmy: Vše, co potřebujete vědět před integrací BankID'
       image: https://secure.meetupstatic.com/photos/event/3/8/a/d/600_499334509.jpeg
       url: https://www.meetup.com/Applifting-meetup-1/events/281290839/
       ical:
@@ -180,44 +156,8 @@ series:
         dtstart: 2021-10-20 16:00:00+02:00
         dtend: 2021-10-20 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Žijete backendem nebo o něm uvažujete? Pak vás moc rádi uvidíme na našem online tematickém meetupu online ( který ale proběhne konečně i naživo). Na co se můžete těšit? Popovídáme si o novinkách ve světě IT a budete mít možnost
-        poslechnout si přednášky tří zkušených backendových vývojářů - Lukáše Rychteckého z Appliftingu, Prokopa Simka z DX Heroes a Dominika Moštěka z Ataccamy.
-
-
-        Lukáš se bude věnovat tématu hexagonální architektury. Zjistíte, co je a není architektura a proč je struktura kódu důležitější než databáze nebo framework.
-
-        Prokop nám dá nahlédnout do života backenďáka a podělí se o prověřené tipy, triky a nástroje, jakými si ho zjednodušit.
-
-        A Dominik se ujme vyvrácení mýtů o OOP.
-
-
-        Program online streamu (18:30 - 20:30 - Prezentace, Diskuze a Q&A)
-
-
-        1. Lukáš Rychtecký, Applifting - Jaká je tvoje architektura?
-
-        2. Prokop Simek, DX Heroes - Život backenďáka je těžký. Zjednodušte si ho!
-
-        3. Dominik Moštěk, Ataccama - Vyvrácení mýtů o OOP
-
-        4. Diskuze s řečníky a otázky
-
-        5. Networking - není součástí online streamu
-
-
-        Pro online účast stačí registrace přes Meetup.com
-
-
-        Preferujete osobní účast? Registrujte se prosím ZDE:
-
-        https://applifting.cz/seminar/backend-meetup-architektura-myty-o-oop-a-tezky-zivot
-
-
-        Příchozí se i tentokrát můžou těšit na tematický kvíz o cool Appliftí ceny.
-
-
-        Těšíme se na vás!'
-      og_title: 'Backend meetup: Architektura, mýty o OOP a těžký život backenďáka, Tue, Oct 26, 4:00 PM | Meetup'
+      meta_description: 'Tue, Oct 26, 2021, 6:00 PM: Žijete backendem nebo o něm uvažujete? Pak vás moc rádi uvidíme na našem online tematickém meetupu online ( který ale proběhne konečně i naživo). Na co se můžete těšit? Pop'
+      og_title: 'Backend meetup: Architektura, mýty o OOP a těžký život backenďáka'
       image: https://secure.meetupstatic.com/photos/event/9/a/6/d/600_499419533.jpeg
       url: https://www.meetup.com/Applifting-meetup-1/events/281354506/
       ical:

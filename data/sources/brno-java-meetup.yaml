@@ -6,20 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
   events:
   - meetupcom:
-      meta_description: 'Kubernetes se velice rychle stal nejrozšířenější platformou pro provozování stateless aplikací. Stále více uživatelů dnes na Kubernetes přesouvá dokonce i své stateful aplikace a infrastrukturu. Ale deployment and management stateful
-        aplikací není vždy jednoduchý.
-
-
-        Kubernetes operátory jsou jedním z nejoblíbenějších způsobu jak vše usnadnit a zautomatizovat. Jak ale operátory fungují? Jaké problémy a výzvy přinášejí? Jak snadné je napsat si vlastní operátor? Na příkladu operátoru Strimzi - CNCF open source
-        projektu, který vyvíjí operátor pro provoz Apache Kafky na Kubernetes - si ukážeme jak snadné to může být.
-
-
-        Přednáší Jakub Scholz (https://twitter.com/scholzj). Jakub pracuje pro Red Hat a je jedním z maintaineru CNCF projektu Strimzi. Strimzi se zabývá vývojem operátoru pro snadný provoz Apache Kafka na Kubernetes a OpenShiftu. Jakub je také contributor
-        Apache Kafky a committer a člen PMC projektu Apache Qpid. Před Red Hatem a Strimzi pracoval jako architekt v oblasti messaging middlewaru a cloud native aplikací.
-
-
-        Online meetup. Link zveřejníme v den konání událostí.'
-      og_title: Stateful aplikace na Kubernetes pomocí operátor patternu (online), Thu, Sep 24, 5:00 PM | Meetup
+      meta_description: 'Thu, Sep 24, 2020, 7:00 PM: Kubernetes se velice rychle stal nejrozšířenější platformou pro provozování stateless aplikací. Stále více uživatelů dnes na Kubernetes přesouvá dokonce i své stateful apli'
+      og_title: Stateful aplikace na Kubernetes pomocí operátor patternu (online)
       image: https://secure.meetupstatic.com/photos/event/c/6/4/f/600_492410767.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/273090874/
       ical:
@@ -43,21 +31,8 @@ series:
         dtstart: 2020-09-24 19:00:00+02:00
         dtend: 2020-09-24 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Hostem následujícího on-line meetupu bude Andrey Pechkurov (https://twitter.com/andreypechkurov). Se svým týmem postavil time-series databázi a bude mluvit o výzvách, které se zpracováním time-series dat souvisí.
-
-
-        Link na Zoom bude oznámen před začátkem meetupu.
-
-
-        Abstrakt:
-
-
-        Recently our team faced a challenge of finding the right way to store large volume of time series data. After considering all possible options, we had to build an embedded Java time series storage on top of existing well-known components. In this
-        (very) practical talk we are going to discuss technical challenges and design decisions made during the process.
-
-
-        The talk explains basic principles of time series data processing and how they affected the design of our TS storage.'
-      og_title: 'Embedded Time Series Storage: A Cookbook (online), Thu, May 21, 1:30 PM | Meetup'
+      meta_description: 'Thu, May 21, 2020, 3:30 PM: Hostem následujícího on-line meetupu bude Andrey Pechkurov (https://twitter.com/andreypechkurov). Se svým týmem postavil time-series databázi a bude mluvit o výzvách, které'
+      og_title: 'Embedded Time Series Storage: A Cookbook (online)'
       image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/270671333/
       ical:
@@ -81,28 +56,8 @@ series:
         dtstart: 2020-05-21 15:30:00+02:00
         dtend: 2020-05-21 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Huseyin Babal (Team Lead @ Hazelcast Cloud, ex. Sony and eBay Engineer, https://twitter.com/huseyinbabal) posdílí své zkušenosti s designem a implementací managované infrastrukturní služby.
-
-
-        Abstrakt:
-
-
-        In this session, I will mention how to create a multi-tenant environment on Kubernetes to build a managed service.
-
-
-        I will provide golden rules of building managed service on top of Kubernetes with real-life examples as I gained experience during Hazelcast Cloud development:
-
-
-        - Environment isolation
-
-        - Microservice Architecture
-
-        - Monitoring
-
-        - Logging
-
-        - Tracing'
-      og_title: Lesson Learned From Building a Managed Service (online), Thu, May 7, 1:30 PM | Meetup
+      meta_description: 'Thu, May 7, 2020, 3:30 PM: Huseyin Babal (Team Lead @ Hazelcast Cloud, ex. Sony and eBay Engineer, https://twitter.com/huseyinbabal) posdílí své zkušenosti s designem a implementací managované infrast'
+      og_title: Lesson Learned From Building a Managed Service (online)
       image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/270359625/
       ical:
@@ -125,18 +80,8 @@ series:
         dtstart: 2020-05-07 15:30:00+02:00
         dtend: 2020-05-07 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Hardcore téma pro milovníky low-level designu. Prezentovat bude Viliam Ďurina (https://github.com/viliam-durina).
-
-
-        Abstrakt:
-
-
-        Having fault-tolerance can be a factor to choose a distributed system even if the expected load can be handled by a single machine – a distributed system can tolerate failures of its parts while a system running on a single machine cannot. How
-        can a distributed system guarantee an exactly-once message processing when failures occur?
-
-
-        I’ll describe the Chandy-Lamport algorithm that can be used to consistently snapshot the global state of a distributed system. I’ll also describe its special simplified case that’s used in Jet.'
-      og_title: Fault Tolerance in Distributed Systems using Snapshots (online), Thu, Apr 23, 1:30 PM | Meetup
+      meta_description: 'Thu, Apr 23, 2020, 3:30 PM: Hardcore téma pro milovníky low-level designu. Prezentovat bude Viliam Ďurina (https://github.com/viliam-durina).Abstrakt:Having fault-tolerance can be a factor to choose a'
+      og_title: Fault Tolerance in Distributed Systems using Snapshots (online)
       image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/270104465/
       ical:

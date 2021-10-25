@@ -178,21 +178,8 @@ series:
         dtstart: 2021-10-13 18:30:00+02:00
         dtend: 2021-10-13 19:30:00+02:00
   - meetupcom:
-      meta_description: 'NodeLab: An Advanced TypeDB GUIThere have been murmurs in the community about how cool it would be to have a full-featured graphical interface to TypeDB. This project aims to put TypeDB''s intuitive knowledge representation and
-        high-powered queries at the disposal of life scientists, investigative journalists, and other researchers for good.
-
-
-        While many existing tools visualize and analyse networks, few are at once (1) affordable (2) interactive and intuitive (3) powerful and general-purpose. NodeLab aims to be intuitive and fun to use while being amply tooled for engineers and researchers
-        alike.
-
-
-        NodeLab is simply an interface to TypeDB, adding value alongside a growing number of open-source databases.
-
-
-        Speaker:
-
-        Jon Thompson'
-      og_title: TypeDB Community Webinar - NodeLab, a TypeDB Visualiser, Tue, Oct 19, 4:30 PM | Meetup
+      meta_description: 'Tue, Oct 19, 2021, 6:30 PM: NodeLab: An Advanced TypeDB GUIThere have been murmurs in the community about how cool it would be to have a full-featured graphical interface to TypeDB. This project aims '
+      og_title: TypeDB Community Webinar - NodeLab, a TypeDB Visualiser
       image: https://secure.meetupstatic.com/photos/event/3/4/3/a/600_498973370.jpeg
       url: https://www.meetup.com/typedb-prague/events/280920408/
       ical:
@@ -241,36 +228,8 @@ series:
         dtstart: 2021-10-12 18:30:00+02:00
         dtend: 2021-10-12 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform knowledge engineering over complex datasets.
-
-
-        Join Tomás and Daniel from the Vaticle team where we discuss the origins of TypeDB, the impetus for inventing a new query language, TypeQL and why we are so excited about the future of software and intelligent systems.
-
-
-        Each session will start with a community update and then our presentation. At the end, we open up the “floor” [read: zoom mic] and hear from you all, about:
-
-        - Questions
-
-        - Ideas
-
-        - Feedback
-
-        - Current projects
-
-        - Anything that you’d like to share with the community
-
-
-        Tomás Sabat:
-
-        Tomás is the Chief Operating Officer at Grakn Labs, dedicated to building a distributed Knowledge Graph for intelligent systems. He works directly with Grakn''s open source and enterprise users so they can fulfil their potential with Grakn and
-        change the world. He focuses mainly in finance, life sciences and robotics.
-
-
-        Daniel Crowe:
-
-        Daniel is the Global Community and Partnerships manager for Grakn Labs, working to build a world class community of engineers, innovators, breakers of things. He works directly with the Grakn Community to accelerate projects, solve ever more complex
-        problems and bring people together all over the world towards this common mission.'
-      og_title: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise, Thu, Oct 28, 4:30 PM | Meetup
+      meta_description: 'Thu, Oct 28, 2021, 6:30 PM: Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform kno'
+      og_title: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise
       image: https://secure.meetupstatic.com/photos/event/3/5/b/b/600_498973755.jpeg
       url: https://www.meetup.com/typedb-prague/events/280920870/
       ical:
@@ -319,29 +278,8 @@ series:
         dtstart: 2021-10-14 20:00:00+02:00
         dtend: 2021-10-14 21:00:00+02:00
   - meetupcom:
-      meta_description: 'This talk will present automatic TypeDB schema generation, natural language queries over TypeDB and schema visualisation as an Object-Role Model, Entity Relationship Diagram and Property Graph Schema.
-
-
-        The Boston/FactEngine database productivity products are demonstrated over the TypeDB database engine.
-
-
-        Topics include:
-
-        - Natural language queries over a rule/inference-based schema and semantic modelling for TypeDB.
-
-        - Knowledge graphs containing semantic information require the best tools to quickly find information and to visualise the schema in a graphical and textual form.
-
-        - Boston and FactEngine exploit the basis of hypergraph technology to offer a solution to visualising and understanding schema and data within a TypeDB database implementation.
-
-
-        Speaker:
-
-        Victor Morgante
-
-
-        Victor is an industry veteran with a reputation for solving large and intractable problems. Victor is passionate about product development, solution architecture and data science. With over 25 years of experience in Fact-Based Modelling/Object-Role
-        Modeling, Victor brings this experience to knowledge graphs and hypergraph solutions like TypeDB. Victor''s current area of research and development spans knowledge-based expert systems and natural language query processing.'
-      og_title: TypeDB Schema and Query Generation using Object-Role Modelling, Tue, Oct 26, 4:30 PM | Meetup
+      meta_description: 'Tue, Oct 26, 2021, 6:30 PM: This talk will present automatic TypeDB schema generation, natural language queries over TypeDB and schema visualisation as an Object-Role Model, Entity Relationship Diagra'
+      og_title: TypeDB Schema and Query Generation using Object-Role Modelling
       image: https://secure.meetupstatic.com/photos/event/6/9/b/2/600_498987058.jpeg
       url: https://www.meetup.com/typedb-prague/events/280936217/
       ical:
@@ -365,33 +303,8 @@ series:
         dtstart: 2021-10-26 18:30:00+02:00
         dtend: 2021-10-26 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Good for:
-
-        - Beginners to TypeDB and TypeQL.
-
-        - Those who have been using TypeDB and want a refresher on schema and TypeQL.
-
-        - Experienced data analysts and software engineers.
-
-        - Those who want to better represent their domain in a model that allows for logical reasoning at the database level.
-
-
-        Description:
-
-        In this TypeDB Academy, we will start by gaining an understanding of the fundamental components of the TypeDB software. We will see how we can download, install, run, perform all basic database operations, all the way to deploying the database
-        for development, demonstration and production.
-
-        Then we will explore what schema looks like within TypeDB, starting with clarifying the motivation for schema, the conceptual schema of TypeDB, and its relationship to the Enhanced Entity-Relationship model.
-
-
-        Takeaways:
-
-        - Understanding of fundamental components of TypeDB and how to download, install, run on your computer.
-
-        - Be able to articulate why schema is so beneficial when using TypeDB, why we use one and how it enables a more expressive model.
-
-        - Write a TypeDB schema in TypeQL.'
-      og_title: TypeDB Academy - Getting Started with Schema Design, Tue, Nov 2, 4:30 PM | Meetup
+      meta_description: 'Tue, Nov 2, 2021, 5:30 PM: Good for:- Beginners to TypeDB and TypeQL.- Those who have been using TypeDB and want a refresher on schema and TypeQL.- Experienced data analysts and software engineers.- T'
+      og_title: TypeDB Academy - Getting Started with Schema Design
       image: https://secure.meetupstatic.com/photos/event/6/8/f/e/600_499286878.jpeg
       url: https://www.meetup.com/typedb-prague/events/281226735/
       ical:
@@ -440,19 +353,8 @@ series:
         dtstart: 2021-11-09 18:30:00+01:00
         dtend: 2021-11-09 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Applications running on production have much higher requirements. Not only do they need to be correct, they also need to be "always-on", handle a much bigger user load, and also be secure.
-
-
-        Meet TypeDB Cluster, the TypeDB database for production-scale. Join us for a walk through the underlying architecture and what value it brings to developers running an application at scale.
-
-
-        Speaker:
-
-        Ganesh leads the development of TypeDB Cluster while also managing other aspects such as infrastructure and project management. His day-to-day work involves building concurrent and distributed algorithms such as Raft and the Actor Model.
-
-
-        He graduated with an MSc of Grid Computing from University of Amsterdam, and has built several large scale distributed and real-time systems throughout his career.'
-      og_title: Scaling TypeDB for the Enterprise | TypeDB Cluster, Tue, Nov 9, 5:30 PM | Meetup
+      meta_description: 'Tue, Nov 9, 2021, 6:30 PM: Applications running on production have much higher requirements. Not only do they need to be correct, they also need to be "always-on", handle a much bigger user load, and '
+      og_title: Scaling TypeDB for the Enterprise | TypeDB Cluster
       image: https://secure.meetupstatic.com/photos/event/1/e/9/3/600_497827827.jpeg
       url: https://www.meetup.com/typedb-prague/events/281589722/
       ical:

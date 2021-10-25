@@ -6,33 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/8/7/9/e/600_478894718.jpeg
   events:
   - meetupcom:
-      meta_description: 'Žijeme v době rychlého vývoje a ad-hoc řešení a v případě testování to platí dvojnásob. Je pak velký kumšt se v tom všem vyznat. Prozkoumejte s námi různé typy testů a jejich ideální užití. Samozřejmě budeme rádi, když si vyslechnete
-        naše faily a na oplátku se pochlubíte těmi vašimi.
-
-
-        Těšíme se v onlajnu.
-
-
-        Agenda:
-
-        17:30 - 17:40 Rychlý úvod
-
-        17:40 - 18:10 Prezentace
-
-        18:10 - 18:40 Diskuze
-
-
-        Odkaz na Technology Hour zveřejníme dva dny před akcí.
-
-
-        --- O přednášejícím (Lukáš Vitala, QA Architekt) ---
-
-        Moje cesta ve Y Softu začala před rokem a půl. Stručně řečeno, pomáhám týmům adoptovat QA techniky a vytvářet takové prostředí, aby bylo možné je použít v praxi, od komunikace se stakeholdery po konsenzuální rozhodnutí mezi engineery.
-
-        V poslední době je to opravdu jízda a se vším tím covidem okolo nás věnuji práci možná více času, než dříve. Veškeré volno ale trávím s rodinou na zahradě.
-
-        Když to zrovna jde, hraju volejbal - letní turnaje strávené v nějaké vísce patřily k nejlepším aktivním odpočinkům. Také lezu po skalách, kde trénuju hlavně plné soustředění a čistím si hlavu.'
-      og_title: Každý test jiná ves, Tue, Mar 30, 3:30 PM | Meetup
+      meta_description: 'Tue, Mar 30, 2021, 5:30 PM: Žijeme v době rychlého vývoje a ad-hoc řešení a v případě testování to platí dvojnásob. Je pak velký kumšt se v tom všem vyznat. Prozkoumejte s námi různé typy testů a jeji'
+      og_title: Každý test jiná ves
       image: https://secure.meetupstatic.com/photos/event/c/f/e/4/600_495113220.jpeg
       url: https://www.meetup.com/ysoft-th/events/276847788/
       ical:
@@ -56,67 +31,8 @@ series:
         dtstart: 2021-03-30 17:30:00+02:00
         dtend: 2021-03-30 19:00:00+02:00
   - meetupcom:
-      meta_description: 'In large scale product development with multiple teams, organizing and facilitating events is important to optimize transparency, provide opportunities for collaboration, and review product and performance. Remotely hosting a large
-        group event means we have to adapt how we facilitate this meetup.
-
-
-        In this event, we will dive into the differences between co-located and remote multi-team events and show examples of the organization and facilitation of multiple events. Examples include a self-designed team workshop (85+ people), Sprint Planning,
-        and Product Backlog Refinement. We will share some practical tips from our experiences in a multi-team large scale product development group (working in a Large Scale Scrum environment).
-
-
-        --- Agenda ---
-
-        5:20 pm Join the call and network
-
-        5:30 pm Welcome
-
-        5:35 pm Interactive presentations from Mark & Georgiy
-
-        6:35 pm Q&A
-
-        6:50 Breakout discussion
-
-        7:35 pm Close
-
-
-        --- About Mark Uijen de Kleijn ---
-
-        I have experience with (multi-team) Agile adoptions in big organizations. As a consultant and/or Scrum Master, I have led team transitions from cross-functional and cross-component teams on one platform to multi-team product frameworks.
-
-
-        I take a hands-on and pragmatic approach with each unique organization. As a LeSS Candidate Trainer at Y Soft, I am focused on adopting the LeSS framework.
-
-
-        I use continuous learning as the foundation to help organizations create great products with great teams while uncovering better ways to improve and move forward, based on the needs and situation of each organization.
-
-
-        --- About speaker Georgiy Zhytar ---
-
-        Over my career, I have enjoyed various roles as a software developer, team lead, president of a Toastmasters club, program manager, engineering leader, independent consultant, and coach. I believe that motivated people, healthy culture, and hard
-        work make great products and companies. I enjoy sharing my experience and helping businesses accelerate growth and productivity by adopting modern leadership and agile engineering practices.
-
-
-        Currently at Y Soft, I coach R&D teams and others across the organization to deliver our flagship product, YSoft SAFEQ. Designed as a software platform, YSoft SAFEQ is an enterprise workflow solution that offers cloud and on-premise print management,
-        document capture and 3D print management. Over 20,000 customers in 120 countries trust us to support their business (our solutions are used by 42% of the Fortune Global 500).
-
-
-        For a preview, see the article from Mark: https://co-learning.eu/2020/06/11/a-full-remote-highly-collaborative-teams-self-design-workshop-with-80-people-yes/
-
-
-        Please familiarize yourself with Mural prior to the event using this Playground board: https://app.mural.co/t/colearning7432/m/colearning7432/1596201207515/d63d3af675e27b33a4349e63d3a73f3e40821bd1
-
-
-        Mural board link to be used during the meetup: https://app.mural.co/t/colearning7432/m/colearning7432/1596790297190/7f82205fb3f8a219e89f3d20d24bca1f9e35f63e
-
-
-        ---------
-
-
-        The meetup will take place online. We will provide a link to the webinar to registered participants a few days before the event.
-
-
-        The number of participants is not limited.'
-      og_title: Remote facilitation of distributed multi-team events , Tue, Sep 8, 3:30 PM | Meetup
+      meta_description: 'Tue, Sep 8, 2020, 5:30 PM: In large scale product development with multiple teams, organizing and facilitating events is important to optimize transparency, provide opportunities for collaboration, an'
+      og_title: 'Remote facilitation of distributed multi-team events '
       image: https://secure.meetupstatic.com/photos/event/c/5/c/1/600_491810625.jpeg
       url: https://www.meetup.com/ysoft-th/events/272570292/
       ical:
@@ -140,22 +56,8 @@ series:
         dtstart: 2020-09-08 17:30:00+02:00
         dtend: 2020-09-08 19:30:00+02:00
   - meetupcom:
-      meta_description: 'After 1.5 years on the agile journey, we now have 13 self-managed teams and no managers or scrum masters. While we’re definitely not done with this, and there’re always things to improve, we’re ready to share our story on overcoming
-        organization complexity, scaling product development with LeSS, and driving the agile transformation of nearly 100 members of R&D.
-
-
-        Aleš Neveselý, Head of YSoft SafeQ will be sharing an executive perspective on the LeSS transformation in Y Soft. Georgyi Zhytar (Agile Coach, Y Soft) and Mark de Kleijn Uijen (External Agile Consultant, Co-Learning) will be talking about lessons
-        learned and sharing practical tips & tricks on facilitation of large events. Join us for online session, learn about our journey, get to know us better and discuss with others about your challenges with agile development.
-
-
-        ---------
-
-
-        Y Soft LeSS Meetup will only take place online. We will provide a link to the webinar to registered participants a few days before the date of the event.
-
-
-        The number of participants is not limited.'
-      og_title: Y Soft LeSS Meetup , Wed, Jul 8, 4:00 PM | Meetup
+      meta_description: 'Wed, Jul 8, 2020, 6:00 PM: After 1.5 years on the agile journey, we now have 13 self-managed teams and no managers or scrum masters. While we’re definitely not done with this, and there’re always thin'
+      og_title: 'Y Soft LeSS Meetup '
       image: https://secure.meetupstatic.com/photos/event/4/6/0/e/600_490997934.jpeg
       url: https://www.meetup.com/ysoft-th/events/271492610/
       ical:
@@ -179,28 +81,8 @@ series:
         dtstart: 2020-07-08 18:00:00+02:00
         dtend: 2020-07-08 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Azure Functions se neustále zdokonalují, a tak toho se serverless aplikacemi můžeme dosáhnout čím dál víc. Vývojářům například umožňují zdolat překážky v serverless světě za pomoci event-driven programovacího modelu.
-
-
-        Jak si ale takovou serverless aplikaci s pomocí Azure Functions vytvořit? Co všechno nám Azure Functions umožňují? Během webináře vám povím, co to vlastně serverless aplikace jsou, jak do toho zapadají Azure Functions, jaké různé Azure Functions
-        existují, jak jsou zpoplatněny a jak můžou být hostovány. Dále se podíváme na to, jak si Azure Functions vyzkoušet přímo v Azure portálu bez lokálně nainstalovaného vývojářského prostředí.
-
-
-        Během druhého dema si pak ukážeme, jak se pracuje s Azure Functions z vývojářského prostředí, a vytvoříme si trochu komplexnější Azure Functions než v prvním demu. Na webináři budu používat konkrétně Rider od JetBrains, totéž ale můžete aplikovat
-        na Visual Studio nebo Visual Studio Code.
-
-
-        V poslední části si řekneme pár informací o tom, jakým způsobem můžete Azure Functions monitorovat. Všechny příklady budou v programovacím jazyce C#.
-
-
-        ----------
-
-
-        Vzhledem k aktuální situaci proběhne Technology Hour pouze online. Odkaz na webinář poskytneme registrovaným účastníkům 7 dní před termínem akce.
-
-
-        Maximální počet účastníků je 100.'
-      og_title: Jak na tvorbu serverless aplikací s pomocí Azure Functions, Mon, May 11, 3:30 PM | Meetup
+      meta_description: 'Mon, May 11, 2020, 5:30 PM: Azure Functions se neustále zdokonalují, a tak toho se serverless aplikacemi můžeme dosáhnout čím dál víc. Vývojářům například umožňují zdolat překážky v serverless světě z'
+      og_title: Jak na tvorbu serverless aplikací s pomocí Azure Functions
       image: https://secure.meetupstatic.com/photos/event/d/d/5/7/600_490256663.jpeg
       url: https://www.meetup.com/ysoft-th/events/270218334/
       ical:

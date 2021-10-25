@@ -6,21 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/2/6/2/6/600_490269766.jpeg
   events:
   - meetupcom:
-      meta_description: 'Let''s chat about our design systems news, challenges, and questions with like-minded professionals.
-
-
-        We can loosely discuss topics like how to approach organizational buy-in, share tips on design tooling, or telling a story of how it works in your company and what you have planned next. We can also discuss what are some new things that happened
-        in the design systems community.
-
-
-        As this is an informal participant-driven meeting, there won''t be any talks prepared. Bring any design systems topic you''d like to talk about! No preparations needed.
-
-
-        This is English friendly morning meetup. Places are limited, so RSVP only when you really want to join.
-
-
-        Be mindful to other people and come only if you don''t have any respirational issues, or you know that you haven''t met anyone with COVID symptoms 🙏'
-      og_title: Design Systems Breakfast Prague – August 2020, Wed, Aug 26, 7:00 AM | Meetup
+      meta_description: 'Wed, Aug 26, 2020, 9:00 AM: Let''s chat about our design systems news, challenges, and questions with like-minded professionals.We can loosely discuss topics like how to approach organizational buy-in,'
+      og_title: Design Systems Breakfast Prague – August 2020
       image: https://secure.meetupstatic.com/photos/event/2/3/b/0/600_490749136.jpeg
       url: https://www.meetup.com/dscc_cze/events/272672785/
       ical:
@@ -44,95 +31,8 @@ series:
         dtstart: 2020-08-26 09:00:00+02:00
         dtend: 2020-08-26 10:30:00+02:00
   - meetupcom:
-      meta_description: 'We are excited to announce our first online meetup ever!
-
-
-        YouTube stream: https://youtu.be/pKUr3CbRa3o (starting July 1st, 19:00 CEST)
-
-
-        Agenda (CEST):
-
-        19:00 - 19:10 - Design Systems Community intro
-
-
-        19:10 - 19:40 - Talk #1 Building Consistency in the World of Autonomous Teams by Ondřej Havlíček, Head of UX & Graphics at Quadient
-
-
-        19:40 - 20:00 - Talk #2: "How we solve inconsistencies in patterns to improve Quadient Design System" by Richard Grof, UX designer at Quadient
-
-
-        20:00 - 20:15 - Q&A & closing remarks
-
-
-        ---
-
-
-        Talk #1: "Building consistency in the world of autonomous teams" by Ondřej Havlíček,
-
-        This talk is about how Quadient is dealing with the challenges on their „road to a design system“. A story about the experience with implementing a design system in a large software company whose culture has always been about the great autonomy
-        of the software development teams. It is about building a structure without a budget and without a dedicated team. Can there be some advantages to it?
-
-
-        About Ondřej:
-
-        Ondřej fell in love with UX design in 2008. Since 2012 I have been in charge of the UX & Graphics team at GMC Software Technology, later renamed to Quadient. Our software helps companies who need to communicate with their clients. He feels very
-        strongly about the idea of consistency as part of great user experience. They started with a style guide, then a UI pattern library, and finally, they''re working on a design system now.
-
-
-        ---
-
-
-        Talk #2: "How we solve inconsistencies in patterns to improve Quadient Design System" by Richard Grof, UX designer at Quadient
-
-        This talk will focus on two main areas:
-
-        - Case study: Removing inconsistencies from UI patterns across the application.
-
-        - Identifying opportunities for continuous improvements of the design system.
-
-
-        About Richard:
-
-        Richard work as a UX designer at Quadient. He has a passion for designing for user-friendly and accessible interfaces with meaningful interactions and reusability in mind.
-
-
-        ---
-
-
-        Who should attend?
-
-        Anyone and everyone who is interested in learning about design systems are welcome. This event does not require previous knowledge about design systems.
-
-
-        Sponsors:
-
-        Special thanks to productboard and Kiwi.com for sponsoring this meetup.
-
-
-        ---
-
-
-        About Design Systems Community
-
-        Design Systems Community helps bring people together to share ways of working, successes, and other learnings to encourage best practices in building, scaling, and maintaining design systems. No matter how you engage with design systems, we all
-        play a role in making information accessible for everyone, and without barriers.
-
-
-        How can I contribute?
-
-        Follow us on our social channels
-
-        https://designsystems.community/chapters/czechia
-
-        https://www.meetup.com/dscc_cze/
-
-        https://twitter.com/dscc_cze
-
-
-        --
-
-        By participating in DSC events, you agree to our code of conduct: https://designsystems.community/conduct/'
-      og_title: Selling & scaling design systems, Wed, Jul 1, 5:00 PM | Meetup
+      meta_description: 'Wed, Jul 1, 2020, 7:00 PM: We are excited to announce our first online meetup ever!YouTube stream: https://youtu.be/pKUr3CbRa3o (starting July 1st, 19:00 CEST)Agenda (CEST):19:00 - 19:10 - Design Syst'
+      og_title: Selling & scaling design systems
       image: https://secure.meetupstatic.com/photos/event/1/5/e/6/600_490985606.jpeg
       url: https://www.meetup.com/dscc_cze/events/271472434/
       ical:
@@ -156,20 +56,8 @@ series:
         dtstart: 2020-07-01 19:00:00+02:00
         dtend: 2020-07-01 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Let''s start this new format of informal monthly breakfasts where we chat about our design systems challenges and questions with like-minded professionals. Places are limited, so RSVP only when you really want to join.
-
-
-        There won''t be any talks prepared for this participant-driven meeting. Bring any topic you''d like to get feedback on! It can be anything related to design systems, no preparations needed.
-
-
-        We can loosely discuss topics like how to approach organizational buy-in, share tips on how to promote contributions, or tell a story of how it works in your company and what you have planned.
-
-
-        Join us in these small gatherings and enjoy the first meal of the day together discussing what we like.
-
-
-        This is English friendly morning meetup.'
-      og_title: Design Systems Breakfast – June 2020, Fri, Jun 12, 6:30 AM | Meetup
+      meta_description: 'Fri, Jun 12, 2020, 8:30 AM: Let''s start this new format of informal monthly breakfasts where we chat about our design systems challenges and questions with like-minded professionals. Places are limite'
+      og_title: Design Systems Breakfast – June 2020
       image: https://secure.meetupstatic.com/photos/event/2/3/b/0/600_490749136.jpeg
       url: https://www.meetup.com/dscc_cze/events/271158302/
       ical:
@@ -193,25 +81,8 @@ series:
         dtstart: 2020-06-12 08:30:00+02:00
         dtend: 2020-06-12 10:00:00+02:00
   - meetupcom:
-      meta_description: '!!!
-
-        Event was postponed to April/May, let''s see how a situation looks evolves. Follow us on Twitter (http://twitter.com/czechdsc) for more info.
-
-
-        Let''s start this new format of informal monthly breakfasts where we chat about our design systems challenges and questions with like-minded professionals. Places are limited, so RSVP only when you really want to join.
-
-
-        There won''t be any talks prepared for this participant-driven meeting. Bring any topic you''d like to get feedback on! It can be anything related to design systems, no preparations needed.
-
-
-        We can loosely discuss topics like how to approach organizational buy-in, share tips on how to promote contributions or tell a story of how it works in your company and what you have planned.
-
-
-        Join us in these small gatherings and enjoy a first meal of the day together discussing what we like.
-
-
-        This is English friendly morning meetup.'
-      og_title: (POSTPONED) Design systems breakfast, Wed, Mar 18, 7:30 AM | Meetup
+      meta_description: 'Wed, Mar 18, 2020, 8:30 AM: !!!Event was postponed to April/May, let''s see how a situation looks evolves. Follow us on Twitter (http://twitter.com/czechdsc) for more info.Let''s start this new format o'
+      og_title: (POSTPONED) Design systems breakfast
       image: https://secure.meetupstatic.com/photos/event/3/d/7/e/600_489675742.jpeg
       url: https://www.meetup.com/dscc_cze/events/269310163/
       ical:

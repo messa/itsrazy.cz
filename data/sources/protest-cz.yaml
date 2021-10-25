@@ -6,70 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/4/b/c/0/600_491719392.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tentokrát bude setkání osobně, těšíme se na Vás!
-
-        Nachystali jsme si pro Vás dvě přednášky od Petra Fifky a Marcela Veselky. Stanete se také součástí natáčení podcastu Kvalitní Kafe. Připravíme pro vás také kvalitní kávu a další občerstvení.
-
-
-        Harmonogram setkání:
-
-        15:00 - 15:30 - Petr Fifka - Proč jsou testeři (někdy) vnímání negativně
-
-        15:30 - 16:30 - Marcel Veselka - Autonomné testování
-
-        16:30 - 17:00 - Občerstvení
-
-        17:00 - 18:15 - Natáčení Podcastu
-
-
-        Akce je z omezena na 30 účastníků, proto účastníky několik dnů před akcí kontaktujeme s žádostí o potvrzení zájmu, abychom případně uvolnili místo náhradníkům.
-
-        Při vstupu na meetup bude vyžadováno potvrzení o bezinfekčnosti dle platných nařízení vlády.
-
-
-        Anotace Přednášek
-
-        Autonomné testování
-
-        Stále veľa manuálnych aktivít v automatizovanom testovaní.
-
-        Súčasné prístupy k testovaniu zdržujú vývoj a sú dlhodobo neudržateľné. Automatizácia testov bola dlho tým, čo to má vyriešiť. Nepodarilo sa.
-
-        Dnes už, skoro všade, testy automatizujeme. Tento prístup k testovaniu je ale stále pomalý a vyžaduje silné technické znalosti. Aj keď sa to podarí, často prichádza náročná údržba.
-
-        Má to riešenie? Autonómne testovanie?
-
-        Autonómne testovanie je ďalšou etapou vývoja prístupov k testovaniu. V mojom rozprávaní ukážem, kam sa začneme posúvať.
-
-        Ako sa tam dostaneme? Kedy to príde? Ako sa na to pripraviť? Už to u vás máte?
-
-        Príďte so mnou diskutovať na túto tému. . . . tentokrát, dúfajme, že už konečne aj osobne.
-
-
-        Proč jsou testeři (někdy) vnímaní negativně
-
-        Testeři mají nesmírně důležitý úkol, pomáhat dodržovat kvalitu na projektu. Dnes již bohužel nestačí věci ručně či automaticky otestovat. Standardem naší dodávky kvality se stává také komunikace v týmu. Ať už je to s vývojářem, produktovým manažerem
-        nebo analytikem.
-
-        Provedu vás běžnými nešvary v komunikaci a ukážu vám, jak se k nim postavit.
-
-        Zaměříme se na komunikaci v týmu, vzorce chování nebo také na to, proč občas zkrátka nejsme takoví hrdinové, jako si myslíme.
-
-
-        Pár slov o speakerech
-
-        Marcel Veselka
-
-        Marcel se zabývá testováním více než 15 let a je spoluzakladatel firmy Tesena. Věnuje se moderním testovacím přístupům (automatizace, DevOps, SCRUM, AI a machine learning).
-
-
-        Petr Fifka
-
-        Petr se testování věnuje 8 let, prošel si pozicemi od manuálního testera, test leada, test automation engineera až po test managera. Pracuje na projektu v DHL, je organizátorem skupiny [Pro:]TEST!, nahrává podcast Kvalitní Kafe a v neposlední řadě
-        je mentorem ve Femme Palette.
-
-        Zaměřuje se nejen na technologie, ale také na osobní rozvoj, sebepoznání a leadership. Ve volném čase se rád sebevzdělává, cestuje nebo hraje na piano.'
-      og_title: 102. [pro:]TEST! - Testovací odpoledne s Kvalitním Kafem, Sun, Sep 5, 1:00 PM | Meetup
+      meta_description: 'Sun, Sep 5, 2021, 3:00 PM: Tentokrát bude setkání osobně, těšíme se na Vás!Nachystali jsme si pro Vás dvě přednášky od Petra Fifky a Marcela Veselky. Stanete se také součástí natáčení podcastu Kvalitn'
+      og_title: 102. [pro:]TEST! - Testovací odpoledne s Kvalitním Kafem
       image: https://secure.meetupstatic.com/photos/event/d/7/b/e/600_498415230.jpeg
       url: https://www.meetup.com/protest_cz/events/280210840/
       ical:
@@ -167,20 +105,8 @@ series:
         dtstart: 2021-06-08 18:00:00+02:00
         dtend: 2021-06-08 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Anotace Přednášky
-
-
-        “Předpoklad místo důkazu, aneb pohled DevOpsáka na testování skrze celý software delivery chain.”
-
-
-        Pár slov o speakerovi
-
-        V současnosti působí jako E-commerce DevOps Lead ve společnosti Dr.Max Pharmacy Chain kde do je dikce patří jak veškerá infrastruktura, tak je zodpovědný za SRE team, který se stará o spolehlivost a dostupnost e-shop platformy. Na současnou pozici
-        se přesunul z konzultantské společnosti Deloitte, kde pracoval na projektech zaměřených na materiální plánování, fyzickou logistiku a sledovatelnost dílů pomocí distribuované účetní knihy pro klienty z oblasti automobilové výroby.
-
-
-        LinkedIn: https://www.linkedin.com/in/marley-ma/'
-      og_title: 103. [pro:]TEST! Martin Hrášek✨ expect(true).toBeTruthy(), Tue, Oct 26, 4:00 PM | Meetup
+      meta_description: 'Tue, Oct 26, 2021, 6:00 PM: Anotace Přednášky“Předpoklad místo důkazu, aneb pohled DevOpsáka na testování skrze celý software delivery chain.”Pár slov o speakeroviV současnosti působí jako E-commerce '
+      og_title: 103. [pro:]TEST! Martin Hrášek✨ expect(true).toBeTruthy()
       image: https://secure.meetupstatic.com/photos/event/4/8/2/a/600_499638474.jpeg
       url: https://www.meetup.com/protest_cz/events/281566536/
       ical:
