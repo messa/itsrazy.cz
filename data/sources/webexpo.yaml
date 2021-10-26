@@ -7,15 +7,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/d/7/b/9/600_483715225.jpeg
   events:
   - meetupcom:
-      meta_description: 'WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers, and marketers.
-
-
-        We''re a rich community of digital minds that meet every year in Prague to enjoy talks and hands-on workshops led by world-class experts. Join to learn about new, big ideas you can instantly put into action, understand problem-solving best practices
-        and discover the hot topics shaping our future.
-
-
-        Conference program and registration: https://webexpo.net'
-      og_title: WebExpo 2021, Tue, Sep 21, 8:00 AM | Meetup
+      meta_description: 'Tue, Sep 21, 2021, 10:00 AM: WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers, and marketers.We''re '
+      og_title: WebExpo 2021
       image: https://secure.meetupstatic.com/photos/event/b/3/d/d/600_497506045.jpeg
       url: https://www.meetup.com/WebExpo/events/267898993/
       ical:
@@ -39,12 +32,8 @@ series:
         dtstart: 2021-09-21 10:00:00+02:00
         dtend: 2021-09-23 18:00:00+02:00
   - meetupcom:
-      meta_description: 'We are the web event of the year! The best conference for devs, UX professionals, designers, and marketers to meet up and share their experiences. We''re a rich community of digital minds that have been meeting offline for 11 years
-        to enjoy talks and hands-on workshops led by world-class experts. Come get inspired and learn more about the hot topics shaping our future.
-
-
-        You can buy your tickets on www.webexpo.net'
-      og_title: WebExpo 2019, Fri, Sep 20, 7:45 AM | Meetup
+      meta_description: 'Fri, Sep 20, 2019, 9:45 AM: We are the web event of the year! The best conference for devs, UX professionals, designers, and marketers to meet up and share their experiences. We''re a rich community of'
+      og_title: WebExpo 2019
       image: https://secure.meetupstatic.com/photos/event/d/9/d/c/600_483715772.jpeg
       url: https://www.meetup.com/WebExpo/events/263721184/
       ical:
@@ -68,8 +57,8 @@ series:
         dtstart: 2019-09-20 09:45:00+02:00
         dtend: 2019-09-22 18:00:00+02:00
   - meetupcom:
-      meta_description: '2 days all about the web: 70 speakers, 2000 people from the industry and meetings IRL'
-      og_title: Get professional help before your obsessions take over!, Fri, Sep 23, 7:00 PM | Meetup
+      meta_description: 'Fri, Sep 23, 2016, 9:00 PM: 2 days all about the web: 70 speakers, 2000 people from the industry and meetings IRL'
+      og_title: Get professional help before your obsessions take over!
       image: https://secure.meetupstatic.com/photos/event/d/7/b/9/600_483715225.jpeg
       url: https://www.meetup.com/WebExpo/events/232703682/
       ical:
@@ -93,8 +82,8 @@ series:
         dtstart: 2016-09-23 21:00:00+02:00
         dtend: 2016-09-24 23:00:00+02:00
   - meetupcom:
-      meta_description: Find Meetup events so you can do more of what matters to you. Or create your own group and meet people near you who share your interests.
-      og_title: WebExpo 2016, Fri, Sep 23, 6:00 AM | Meetup
+      meta_description: 'Fri, Sep 23, 2016, 8:00 AM: '
+      og_title: WebExpo 2016
       image: https://secure.meetupstatic.com/photos/event/d/7/b/9/600_483715225.jpeg
       url: https://www.meetup.com/WebExpo/events/232103291/
       ical:

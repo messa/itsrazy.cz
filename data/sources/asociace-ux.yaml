@@ -182,14 +182,8 @@ series:
         dtstart: 2021-10-04 18:30:00+02:00
         dtend: 2021-10-04 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Are you a UX writer, UX designer, UX researcher, or are just UX curious? Come on out for the next Prague UX Writers meetup!
-
-
-        If you have something you want to talk about or show the group (something you''ve worked on, read about, or are excited about), please let me know!
-
-
-        Come by for beers 🍻, UX chats 💭, and more! 🔥🚀'
-      og_title: PRAGUE UX WRITERS MEETUP Vol. 22 - October, Thu, Oct 7, 4:00 PM | Meetup
+      meta_description: 'Thu, Oct 7, 2021, 6:00 PM: Are you a UX writer, UX designer, UX researcher, or are just UX curious? Come on out for the next Prague UX Writers meetup!If you have something you want to talk about or sh'
+      og_title: PRAGUE UX WRITERS MEETUP Vol. 22 - October
       image: https://secure.meetupstatic.com/photos/event/4/e/4/a/600_499160042.jpeg
       url: https://www.meetup.com/asociace-ux/events/281102718/
       ical:
@@ -212,39 +206,8 @@ series:
         dtstart: 2021-10-07 18:00:00+02:00
         dtend: 2021-10-07 20:00:00+02:00
   - meetupcom:
-      meta_description: 'V listopadu se v rámci UX Monday podíváme na design z trochu širší perspektivy. Když pracujete v týmu jako jediný designér, představu o tom, jak by měl produkt vypadat a fungovat máte v hlavě. Udržet jistou kvalitu a konzistenci
-        přesto není snadné. V osmičlenném týmu je to ještě 8× těžší. V Ataccamě se tomuto rozhodli čelit společnou vizí a principy. V přednášce šéfa produktového designu Alberta Zikmunda se společně podíváme na to, jak tyto artefakty vytvořili, k čemu
-        jim teď slouží a proč je nestačí jen napsat do Notionu.
-
-
-        HYBRIDNÍ MODEL: zprovozníme Youtube live-stream a pro prvních 45 registrovaných zajistíme také místo v prostorách našeho partnera MSD. Je to zatím maximum, co nám Covid dovolí, proto prosím osobně zvažte, jestli skutečně plánujete přijít, ať využijeme
-        offline kapacitu naplno.
-
-
-        18:00 – Prezence, občerstvení, networking.
-
-        18:30 – Začátek programu + livestream.
-
-        20:15 – Pivo za rohem.
-
-
-        ---
-
-
-        Albert Zikmund nově vede v Ataccamě tým designérů, který momentálně čítá 8 lidí. K této pozici se propracoval především díky své šprtské potřebě neustále zlepšovat procesy, nástroje a celkově fungování týmu. Alespoň tomu sám rád věří. Předtím Albert
-        působil jako solo designer ve startupu Veracity Protocol a ještě předtím strávil půl roku v mnichovském studiu agentury frog design. Vystudoval Digital Experience Design na škole Hyper Island v Anglii, jinak se ale všechno učil tak nějak sám a
-        od ostatních.
-
-
-        ---
-
-
-        Vstupné 100 Kč, členové Asociace UX zdarma.
-
-        Offline kapacita 45 osob - registrujte se jen pokud plánujete přijít.
-
-        Youtube livestream link pár minut před startem zde + na slacku Asociace UX.'
-      og_title: 'UX Monday: Designová vize, Mon, Nov 1, 5:00 PM | Meetup'
+      meta_description: 'Mon, Nov 1, 2021, 6:00 PM: V listopadu se v rámci UX Monday podíváme na design z trochu širší perspektivy. Když pracujete v týmu jako jediný designér, představu o tom, jak by měl produkt vypadat a fun'
+      og_title: 'UX Monday: Designová vize'
       url: https://www.meetup.com/asociace-ux/events/281649958/
       ical:
         summary: 'UX Monday: Designová vize'
@@ -265,15 +228,10 @@ series:
         url: https://www.meetup.com/asociace-ux/events/281649958/
         dtstart: 2021-11-01 18:00:00+01:00
         dtend: 2021-11-01 20:00:00+01:00
+      image: https://secure.meetupstatic.com/photos/event/1/6/c/d/600_499745837.jpeg
   - meetupcom:
-      meta_description: 'Are you a UX writer, UX designer, UX researcher, or are just UX curious? Come on out for the next Prague UX Writers meetup!
-
-
-        If you have something you want to talk about or show the group (something you''ve worked on, read about, or are excited about), please let me know!
-
-
-        Come by for beers 🍻, UX chats 💭, and more! 🔥🚀'
-      og_title: PRAGUE UX WRITERS MEETUP Vol. 23 - November, Thu, Nov 4, 6:00 PM | Meetup
+      meta_description: 'Thu, Nov 4, 2021, 7:00 PM: Are you a UX writer, UX designer, UX researcher, or are just UX curious? Come on out for the next Prague UX Writers meetup!If you have something you want to talk about or sh'
+      og_title: PRAGUE UX WRITERS MEETUP Vol. 23 - November
       url: https://www.meetup.com/asociace-ux/events/281657918/
       ical:
         summary: PRAGUE UX WRITERS MEETUP Vol. 23 - November
@@ -295,3 +253,4 @@ series:
         url: https://www.meetup.com/asociace-ux/events/281657918/
         dtstart: 2021-11-04 19:00:00+01:00
         dtend: 2021-11-04 20:30:00+01:00
+      image: https://secure.meetupstatic.com/photos/event/3/3/2/b/600_499753099.jpeg

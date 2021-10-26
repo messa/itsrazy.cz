@@ -131,17 +131,8 @@ series:
         dtstart: 2021-09-29 18:00:00+02:00
         dtend: 2021-09-29 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Chceš vyzkoušet programování a setkat se online s mentory Green Fox Academy?
-
-
-        Připoj se k našemu večernímu workshopu, který proběhne online ve středu 13. října od 18 hodin. Probereme základy JavaScriptu a projdeme praktická cvičení, při kterých si budeš moct vyzkoušet napsat první řádky vlastního kódu.
-
-
-        Registruj se zdarma na https://www.greenfoxacademy.cz/online-workshop a zajisti si své místo včas, kapacita je omezená.
-
-
-        Akce bude probíhat v angličtině, žádné vstupní znalosti programování nejsou potřeba.'
-      og_title: 'Online workshop: Základy programování, Wed, Oct 13, 4:00 PM | Meetup'
+      meta_description: 'Wed, Oct 13, 2021, 6:00 PM: Chceš vyzkoušet programování a setkat se online s mentory Green Fox Academy?Připoj se k našemu večernímu workshopu, který proběhne online ve středu 13. října od 18 hodin. P'
+      og_title: 'Online workshop: Základy programování'
       image: https://secure.meetupstatic.com/photos/event/a/3/2/f/600_499301775.jpeg
       url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/281244326/
       ical:
@@ -165,14 +156,8 @@ series:
         dtstart: 2021-10-13 18:00:00+02:00
         dtend: 2021-10-13 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Pokud přemýšlíš o změně kariéry a zajímá tě programování, připoj se k naší informační schůzce, kde se dozvíš všechno potřebné o rekvalifikaci do tohoto oboru.
-
-
-        Poznáš členy našeho týmu a budeš se moci zeptat na cokoliv ohledně výuky v Green Fox Academy a našich služeb.
-
-
-        Akce proběhne v češtině, registruj se bezplatně na https://www.greenfoxacademy.cz/webinar-jak-se-rekvalifikovat-na-junior-programatora'
-      og_title: 'Online informační schůzka: Jak se rekvalifikovat na programátora?, Tue, Oct 26, 4:00 PM | Meetup'
+      meta_description: 'Tue, Oct 26, 2021, 6:00 PM: Pokud přemýšlíš o změně kariéry a zajímá tě programování, připoj se k naší informační schůzce, kde se dozvíš všechno potřebné o rekvalifikaci do tohoto oboru.Poznáš členy n'
+      og_title: 'Online informační schůzka: Jak se rekvalifikovat na programátora?'
       url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/281629117/
       ical:
         summary: 'Online informační schůzka: Jak se rekvalifikovat na programátora?'

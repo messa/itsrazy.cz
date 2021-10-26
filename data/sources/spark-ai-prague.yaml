@@ -6,70 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/b/3/7/a/600_478005946.jpeg
   events:
   - meetupcom:
-      meta_description: 'Je tady první post-covidový Spark+AI Prague Meetup! Už 23.9. se sejdeme v prvním patře kanceláří DataSentics na adrese Washingtonova 17 a pobavíme se na téma AI-Driven personalizace pomocí ML ve Sparku, a taky o real-time online
-        pricingu.
-
-
-        Pozor!
-
-
-        Z důvodu kapacity vnitřních prostor jsme akci omezili pouze na 30 lidí – registrujte si své místo na Eventbrite prosím včas. Symbolické vstupné 50kč Vám pokryje občerstvení v průběhu akce a první pivo v hospodě, po přesunutí mimo kanceláře.
-
-
-        Registrace:
-
-        https://www.eventbrite.com/e/sparkai-prague-meetup-2021-after-covid-reunion-tickets-170455597280
-
-
-        Orientační program:
-
-
-        18:00 – Zahájení a malé občerstvení
-
-
-        18:15 – Přednáška: AI-Driven Personalizace pomocí ML a Spark
-
-
-        18:40 – Pauza a občerstvení
-
-
-        19:10 – Přednáška: Real-time online pricing
-
-
-        19:30 – Volná diskuse a následně přesun na pivo
-
-
-        O čem se bude mluvit:
-
-
-        Václav Kautský, DataSentics | AI-Driven Personalizace pomocí ML a Spark
-
-
-        Personalizace aneb víc než jen prodej půjčky
-
-        Co vše se skrývá pod pojmem klientský atribut
-
-        Feature Store a ML ve Spark
-
-        Persona 360 app
-
-
-        Samuel Mešša, DataSentics | Real-time pricing pomocí Sparku
-
-
-        Real-time pricing & uncertainty estimation
-
-        Leveraging spark for training real-time suitable models
-
-        Combining multiple models, custom preprocessing and outlier detection in a single pipeline
-
-        Retraining automation through statistical performance and drift monitoring
-
-        Přednášky budou v českém a slovenském jazyce.
-
-
-        Těšíme se na vás! DataSentics tým.'
-      og_title: Spark+AI Prague Meetup 2021 | After-Covid Reunion, Thu, Sep 23, 4:00 PM | Meetup
+      meta_description: 'Thu, Sep 23, 2021, 6:00 PM: Je tady první post-covidový Spark+AI Prague Meetup! Už 23.9. se sejdeme v prvním patře kanceláří DataSentics na adrese Washingtonova 17 a pobavíme se na téma AI-Driven pers'
+      og_title: Spark+AI Prague Meetup 2021 | After-Covid Reunion
       image: https://secure.meetupstatic.com/photos/event/a/6/1/d/600_498822525.jpeg
       url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/280768705/
       ical:
@@ -92,59 +30,8 @@ series:
         dtstart: 2021-09-23 18:00:00+02:00
         dtend: 2021-09-23 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Xmas is coming, so what about some Apache Spark, AI and data winter party? If you join our 6th Spark+AI meetup, you can have it all! This time we prepared 3 interesting talks. And here is the agenda (please see the talks abstract
-        below) of the meetup:
-
-
-        ==============================
-
-        17:30 - 18:00 - Welcome drinks
-
-
-        18:00 - 18:30 - "How to prepare data for fast analytical queries using Spark" - David Vrba (Socialbakers, Data Scientist)
-
-
-        18:30 - 18:50 - 1st break (snacks)
-
-
-        18:50 - 19:20 - "Spark job optimizations 101" - Peter Vasko (Socialbakers, Data Architect)
-
-
-        19:20 - 19:40 - 2nd break (snacks)
-
-
-        19:40 - 20:10 - "Stream the World with Spark" - Jiri Koutny (DataSentics, Data Solutions Architect)
-
-
-        20:10 - 22:00 - Networking (beers, drinks and food)
-
-        ==============================
-
-
-        The meetup is organized by Socialbakers and DataSentics and will be all in English.
-
-
-        Talk abstracts:
-
-        "How to prepare data for fast analytical queries using Spark" - David Vrba (Socialbakers, Data Scientist)
-
-        Apache Spark is often used for ad hoc data analysis which is possible due to its interactive console and integration with interactive notebook environments such as Jupyter, Apache Zeppelin or other notebook based solutions. Even though Spark provides
-        parallel data processing the queries might still become quite slow if the data is large and has some inconvenient data format. In this talk, we show one practical example of how to prepare the data in the distributed file system to make it accessible
-        by Spark as fast as possible and thus make the work of a data analyst more comfortable by reducing the query execution time. We will discuss techniques such as data partitioning, bucketing, sorting and others.
-
-
-        "Spark job optimizations 101" - Peter Vasko (Socialbakers, Data Architect)
-
-        We would like to show some basic and beginner-friendly optimizations for Spark jobs in general. Topics should target specific problems and describe a solution we would typically use in this scenario. Addressing a rather broad range of issues everyone
-        working with Spark might encounter along the way. From lack of parallelism and shuffle spill through ineffective usage of resources or "many small files" issue. This is aimed more towards the less experienced users without going necessarily deep
-        into the internals of spark, but touching as many areas as possible, so everybody should be able to find something new.
-
-
-        "Stream the World with Spark" - Jiri Koutny (DataSentics, Data Solutions Architect)
-
-        Welcome to the real-time world! Batch is dead, delete all the pipelines that run all the night, everything must be real-time now! Is it that simple? What are the meaningful use-cases for Spark Streaming? In the past months, we have built a streaming-based
-        DataLake for 2 big enterprises. Come and learn what the main lessons learned and traps were.'
-      og_title: 6th Spark+AI Prague Group Meetup + WINTER DATA PARTY!, Mon, Dec 9, 4:30 PM | Meetup
+      meta_description: 'Mon, Dec 9, 2019, 5:30 PM: Xmas is coming, so what about some Apache Spark, AI and data winter party? If you join our 6th Spark+AI meetup, you can have it all! This time we prepared 3 interesting talk'
+      og_title: 6th Spark+AI Prague Group Meetup + WINTER DATA PARTY!
       image: https://secure.meetupstatic.com/photos/event/d/d/5/a/600_487016666.jpeg
       url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/266632322/
       ical:
@@ -168,34 +55,8 @@ series:
         dtstart: 2019-12-09 17:30:00+01:00
         dtend: 2019-12-09 22:00:00+01:00
   - meetupcom:
-      meta_description: 'We are back after the summer with another Spark+AI Prague Meetup. Join us for the Spark + AI use case from Mall.cz and a technical talk introducing Spark streaming.
-
-
-        The preliminary agenda:
-
-        ==============================
-
-        18:00 - 18:30 - Welcome drinks
-
-
-        18:30 - 19:10 - Spark + AI use case: "Mall.cz - better product recommendation engine" - Jakub Hitz (Mall.cz, product owner web), Michael Andel (DataSentics, data scientist) - non-traditional recommendation engine based on product parameters, challenges
-        of using Spark to automatically train and tune hundreds of predictive models (for each product category) in parallel
-
-
-        19:10 - 19:40 - Break (snacks)
-
-
-        19:40 - 20:10 - Mall.cz use case continued - A/B testing framework enabling running tens of tests in parallel and getting faster feedback - Ondrej Havlicek (DataSentics, senior data scientist)
-
-
-        20:10 - 21:00 - Community building
-
-        ==============================
-
-
-        The meetup is organized by DataSentics and Socialbakers and this time is sponsored by Microsoft (thank you for the venue!). The talks will be delivered in Czech this time (we are alternating between Czech and English for each Meetup - next will
-        be in English).'
-      og_title: Spark+AI Prague Meetup back after the summer!, Tue, Oct 8, 4:00 PM | Meetup
+      meta_description: 'Tue, Oct 8, 2019, 6:00 PM: We are back after the summer with another Spark+AI Prague Meetup. Join us for the Spark + AI use case from Mall.cz and a technical talk introducing Spark streaming.The preli'
+      og_title: Spark+AI Prague Meetup back after the summer!
       image: https://secure.meetupstatic.com/photos/event/b/3/7/a/600_478005946.jpeg
       url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/265088292/
       ical:
@@ -219,45 +80,8 @@ series:
         dtstart: 2019-10-08 18:00:00+02:00
         dtend: 2019-10-08 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Summer is nearly here and it''s time for our next Spark+AI Prague meetup! What can you expect this time? David Vrba from Socialbakers will be having a talk about UDFs in Spark SQL and Michael Shtelma from Databricks will talk about
-        open-source project MLFlow. After the sessions, we will be having a BBQ on the terrace at Socialbakers HQ office!
-
-
-        ==============================
-
-        17:30 - 18:00 - Welcome
-
-        18:00 - 18:45 - David Vrba (Socialbakers): UDFs in Spark SQL
-
-        18:45 - 19:15 - Break
-
-        19:15 - 20:00 - Michael Shtelma (Databricks): MLFlow in action
-
-        20:00 - 22:00 - BBQ and community building
-
-        ==============================
-
-
-        The presentations will be delivered in English.
-
-
-        More about the talks:
-
-
-        David Vrba (Socialbakers): User Defined Functions in Spark SQL
-
-        In Spark SQL user defined functions (UDFs) are a technique how to execute a custom Scala, Java or Python code as a column transformation on a Spark DataFrame. It is widely understood that this flexibility is compensated by performance penalties.
-        In this talk we will go over the possibilities that Spark SQL offers in regard to UDFs with Scala and Python and see what benefits were introduced by integrating PySpark with Pandas and Apache Arrow. Also we will discuss how the demand for UDFs
-        was mitigated by releasing Higher Order Functions in Spark 2.4. This talk will be more theoretically oriented but we will also give some tips how to use these techniques in real-life queries and show some performance benchmarks to see how they
-        differ in execution time.
-
-
-        Michael Shtelma (Databricks): MLflow in Action
-
-        MLflow is an open source platform for managing the end-to-end machine learning lifecycle. It allows experiment tracking, machine learning models packaging in a reusable, reproducible form, and managing and deploying them from a variety of machine
-        learning libraries to a variety of model serving platforms. During this talk, you can learn, how to get started with MLflow, track the basic metrics of your models and model artifacts in MLflow, package your models as MLflow projects and how to
-        deploy your models using MLflow in the cloud.'
-      og_title: 4th Spark+AI Prague Group Meetup, Mon, Jun 17, 3:30 PM | Meetup
+      meta_description: 'Mon, Jun 17, 2019, 5:30 PM: Summer is nearly here and it''s time for our next Spark+AI Prague meetup! What can you expect this time? David Vrba from Socialbakers will be having a talk about UDFs in Spa'
+      og_title: 4th Spark+AI Prague Group Meetup
       image: https://secure.meetupstatic.com/photos/event/3/8/8/f/600_481694479.jpeg
       url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/261799133/
       ical:

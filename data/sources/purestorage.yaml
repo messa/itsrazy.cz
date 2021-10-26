@@ -106,27 +106,8 @@ series:
         dtstart: 2020-12-17 18:00:00+01:00
         dtend: 2020-12-17 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Innovation. A buzzword for some, daily bread for us.
-
-
-        It started with an innovative idea of two brilliant minds, and since then the innovative mindset has become deeply rooted in our culture. Everything is about people. Therefore we choose them carefully and value them the most.
-
-
-        Let us share with you what our talented teams have already achieved as well as what they are currently working on. Let us show you why Pure Storage is positioned as a leader in the Gartner Magic Quadrant and why Fortune 500 companies across all
-        industries opt for us.
-
-
-        You can look forward to a real time demo and lots of tech fun.
-
-
-        P.S. Don''t forget to stop by our stand.
-
-
-        Tickets here:
-
-
-        https://goout.net/cs/tyden-inovaci-2021/szeevhr/'
-      og_title: Pure Storage @ Innovation Week, Mon, Oct 11, 6:00 AM | Meetup
+      meta_description: 'Mon, Oct 11, 2021, 8:00 AM: Innovation. A buzzword for some, daily bread for us.It started with an innovative idea of two brilliant minds, and since then the innovative mindset has become deeply roote'
+      og_title: Pure Storage @ Innovation Week
       image: https://secure.meetupstatic.com/photos/event/a/a/1/4/600_499303540.jpeg
       url: https://www.meetup.com/Pure-Storage-Talks/events/281246298/
       ical:
@@ -150,13 +131,8 @@ series:
         dtstart: 2021-10-11 08:00:00+02:00
         dtend: 2021-10-11 18:00:00+02:00
   - meetupcom:
-      meta_description: '𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐭𝐚𝐥𝐤: although there is an endless number of technical questions you can be asked during an interview, there are some common patterns that come up very often. If you can master a handful of algorithms and data structures,
-        and recognise when to use them, you''ll be in a much better position to nail your interview. Join us as we explore these common situations and discuss how to solve them.
-
-
-        𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐬𝐩𝐞𝐚𝐤𝐞𝐫: Nick Bunzli is currently a member of the Portworx Data Services team at Pure Storage in Prague. He is a veteran software engineer who has previously worked in a few other industries including video games, finance, and automotive.
-        He has been involved in dozens of technical interviews, on both sides of the table.'
-      og_title: How to Nail Your Next Technical Interview, Thu, Nov 11, 5:00 PM | Meetup
+      meta_description: 'Thu, Nov 11, 2021, 6:00 PM: 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐭𝐚𝐥𝐤: although there is an endless number of technical questions you can be asked during an interview, there are some common patterns that come up ver'
+      og_title: How to Nail Your Next Technical Interview
       image: https://secure.meetupstatic.com/photos/event/6/7/b/d/600_499466557.jpeg
       url: https://www.meetup.com/Pure-Storage-Talks/events/281401178/
       ical:

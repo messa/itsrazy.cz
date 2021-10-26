@@ -6,23 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/b/1/e/7/600_469905543.jpeg
   events:
   - meetupcom:
-      meta_description: 'Jelikož už nás covidová nečinnost nebaví, rozhodli jsme se opět zorganizovat večer na naše oblíbené téma Vue.js.
-
-
-        V případě zájmu se zaregistrujte na eventbrite: https://www.eventbrite.com/e/vuejs-meetup-brno-5-tickets-153436365299
-
-
-        Program:
-
-        Zuzana Žaludová, "Nuxt.js vs Vue.js"
-
-        Představíme si v čem se Nuxt.js od Vue.js liší a předneseme důvody, proč a jestli zvážit framework Nuxt.js pro váš další projekt ve Vue.
-
-
-        Ondřej Janošík, "Vue 3 (Ekosystém a výhled do budoucna)"
-
-        Proberou se témata jako Vite, Script setup & Ref sugar, Style vars nebo Vuex 5.'
-      og_title: 'Vue.js Meetup Brno #5, Wed, Jun 23, 4:00 PM | Meetup'
+      meta_description: 'Wed, Jun 23, 2021, 6:00 PM: Jelikož už nás covidová nečinnost nebaví, rozhodli jsme se opět zorganizovat večer na naše oblíbené téma Vue.js.V případě zájmu se zaregistrujte na eventbrite: https://www.'
+      og_title: 'Vue.js Meetup Brno #5'
       image: https://secure.meetupstatic.com/photos/event/5/9/b/4/600_495982964.jpeg
       url: https://www.meetup.com/vuejs-cz-sk/events/277852111/
       ical:
@@ -45,24 +30,8 @@ series:
         dtstart: 2021-06-23 18:00:00+02:00
         dtend: 2021-06-23 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Po karanténě se potkáme znova naživo nad zajímavými tématy z Vue.js vesmíru.
-
-        Jako vždy, nebude chybět pivo, pizza a skvělá atmosféra našeho brněnského Vue.js kolektivu 😊
-
-
-        Program:
-
-        18:30 - 19:00 → Martin Čapek: "Testing Vue aplikací" (CZ)
-
-        19:00 - 19:30 → Martin Malinda: "Asynchronní logika a composition API" (CZ)
-
-        19:30 - 20:00 → Nikolai Bader: "Migrating to Vue - a story from Runecast" (ENG)
-
-        20:00 ~ posezení u piva
-
-
-        Protože nám meetup.com vyhazuje guestlist jako hnusnou tabulku, rozhodli jsme se udělat si registrační formulář kvůli kapacitě - prosíme o vyplnění, povinné je fakt jen jméno: https://vuebrno.typeform.com/to/YYQ35wqG'
-      og_title: 'Vue.js Meetup Brno #4, Wed, Jul 29, 4:30 PM | Meetup'
+      meta_description: 'Wed, Jul 29, 2020, 6:30 PM: Po karanténě se potkáme znova naživo nad zajímavými tématy z Vue.js vesmíru.Jako vždy, nebude chybět pivo, pizza a skvělá atmosféra našeho brněnského Vue.js kolektivu 😊Pro'
+      og_title: 'Vue.js Meetup Brno #4'
       image: https://secure.meetupstatic.com/photos/event/a/8/0/c/600_491323020.jpeg
       url: https://www.meetup.com/vuejs-cz-sk/events/271623946/
       ical:
@@ -86,25 +55,8 @@ series:
         dtstart: 2020-07-29 18:30:00+02:00
         dtend: 2020-07-29 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Na druhém meetupu jsme se koukli na Typescript ve Vue, Vue CLI a novinky ve Vue3.
-
-
-        Na třetím meetupu kromě jiného s Vue3 pokračujeme. A připájíme i téma, které jste si sami odhlasovali.
-
-
-        Program:
-
-        18:30 - 19:00 → Tomáš Soukeník - Nuxt + diskuze
-
-        19:00 - 19:30 → Ondřej Janošík - Change detection ve Vue a porovnání s Reactem + diskuze
-
-        19:30 - 20:00 → Martin Čapek - Vue 3 composition API + diskuze
-
-        20:00 ~ posezení u piva
-
-
-        Tentokrát si opět budete moct objednávat pivo na meetup na baru ArtBaru Druhý Pád. Dveře se otevřou 18:00 a program odstartuje první přednáška v 18:30. Náš pivní rozpočet se vždy rychle propije, takže přijďte načas :D'
-      og_title: 'Vue.js Meetup Brno #3, Mon, Mar 2, 5:30 PM | Meetup'
+      meta_description: 'Mon, Mar 2, 2020, 6:30 PM: Na druhém meetupu jsme se koukli na Typescript ve Vue, Vue CLI a novinky ve Vue3.Na třetím meetupu kromě jiného s Vue3 pokračujeme. A připájíme i téma, které jste si sami od'
+      og_title: 'Vue.js Meetup Brno #3'
       image: https://secure.meetupstatic.com/photos/event/3/a/1/1/600_488954865.jpeg
       url: https://www.meetup.com/vuejs-cz-sk/events/268655132/
       ical:
@@ -153,29 +105,8 @@ series:
         dtstart: 2020-01-22 18:30:00+01:00
         dtend: 2020-01-22 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Registrace na event tady: https://www.eventbrite.com/e/vuejs-meetup-brno-6-tickets-175523534617
-
-
-        Tentokrát se potkáme konečně naživo, opět nad zajímavými tématy z Vue.js vesmíru.
-
-        Jako vždy, nebude chybět pivo, něco na zub a skvělá atmosféra našeho brněnského Vue.js kolektivu 😊
-
-        Program:
-
-        Tomáš Soukeník: "Porovnání velkých UI frameworků"
-
-        Řekneme si něco o všech běžně používaných UI knihovnách, v čem jsou rozdíly a jaké je jejich použití.
-
-
-        Jiří Žižka: "Úvod do Inertia.js s Vue a Laravelem"
-
-        Předstsvení a ukázka Inertia.js v akci s Laravelem, kdy a proč využít a kdy ne.
-
-
-        Ondřej Janošík: "Server side rendering ve Vue - jak a proč"
-
-        Společně se podíváme na server side rendering ve Vue.js pomocí Nuxt. Ukážeme si výhody a nevýhody jednotlivých přístupů a krátké demo.'
-      og_title: 'Vue.js Meetup Brno #6, Wed, Oct 6, 4:30 PM | Meetup'
+      meta_description: 'Wed, Oct 6, 2021, 6:30 PM: Registrace na event tady: https://www.eventbrite.com/e/vuejs-meetup-brno-6-tickets-175523534617Tentokrát se potkáme konečně naživo, opět nad zajímavými tématy z Vue.js vesmí'
+      og_title: 'Vue.js Meetup Brno #6'
       image: https://secure.meetupstatic.com/photos/event/5/9/b/4/600_495982964.jpeg
       url: https://www.meetup.com/vuejs-cz-sk/events/280895996/
       ical:

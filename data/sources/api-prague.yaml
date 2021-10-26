@@ -6,54 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/9/7/2/d/600_498578701.jpeg
   events:
   - meetupcom:
-      meta_description: '⚠️ Register via Eventbrite to get the ticket: https://www.eventbrite.com/e/superface-demo-day-self-integrating-applications-in-nodejs-tickets-169443392749
-
-
-        Join us in celebration of our beta launch! 🎉
-
-        Check out what the future of API integrations looks like and how Superface connects apps with 3 lines of code.
-
-        Bring your laptop to play with our SDK on Thursday 16.9.2021 at 6pm at Paralelní Polis.
-
-
-        🤖 Speakers Zdenek Nemec, Jan Vlnas, Vratislav Kopp
-
-        🤖 Special guest Tomas Mikolov
-
-        🤖 Moderator Sara Polak
-
-
-        What to expect?
-
-        - Be among the first to experience the future of self-integrating apps
-
-        - Get a hands-on experience with our open-source tools
-
-        - Enjoy drinks & snacks
-
-        - Get some merch and freebies
-
-        - Join our challenges to win special prizes
-
-        - Beat us in VR games
-
-        - Meet the Superface team to talk about your integration needs
-
-
-        Line-up
-
-        17:30 - 18:00: Open doors
-
-        18:00 - 18: 30: Welcome speech by Sara Polak, Zdenek Nemec, & Tomas Mikolov
-
-        18:30 - 19:00: Visionary presentation by Zdenek Nemec
-
-        19:00 - 19:45: Product Demo by Jan Vlnas & Vratislav Kopp
-
-        19:45 - 20:30: In-depth workshop by the dev team - or
-
-        19:45 - 22:00: VR games & chill'
-      og_title: 'Superface Demo Day: Self-integrating applications in Node.js, Thu, Sep 16, 4:00 PM | Meetup'
+      meta_description: 'Thu, Sep 16, 2021, 6:00 PM: ⚠️ Register via Eventbrite to get the ticket: https://www.eventbrite.com/e/superface-demo-day-self-integrating-applications-in-nodejs-tickets-169443392749Join us in celebra'
+      og_title: 'Superface Demo Day: Self-integrating applications in Node.js'
       image: https://secure.meetupstatic.com/photos/event/9/7/4/6/600_498578726.jpeg
       url: https://www.meetup.com/api-prague/events/280531427/
       ical:

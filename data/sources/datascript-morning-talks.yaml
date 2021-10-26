@@ -154,45 +154,8 @@ series:
         dtstart: 2021-10-13 09:00:00+02:00
         dtend: 2021-10-13 10:00:00+02:00
   - meetupcom:
-      meta_description: 'REGISTRACE ZDE: https://www.datascript.cz/morning-talks/prometheus-pro-logging-metering-a-profiling/
-
-
-        Na co se můžete těšit:
-
-        Neustále rostoucí nároky na rychlost a objem nasazovaných služeb se odráží v práci IT týmů. Moderní nástroje na správu konfigurací a nové přístupy k běhu aplikací, dovolují i malým týmům spravovat velké infrastruktury. Tento trend se projevuje
-        i v oblasti monitoringu, kde nestačí jen staticky konfigurované řešení, ale je třeba pokrýt velké množství služeb a procesů, které jsou v provozu napříč privátními datacentry / veřejnými cloudy provozované jako servery nebo v kontejnerech.
-
-
-        V rámci této snídaně představíme, jak problematiku monitoringu řeší nástroje založené na filosofii nástroje Prometheus. Tento nástroj sbírá a analyzuje metrické data a dynamické konfigurace dovolují jednoduchou správu. Samotná analýza metrických
-        dat nestačí pro celkovou diagnostiku problémů infrastruktury. Pro analýzu logů slouží agregační platforma Loki a pro profilování aplikací je možné použít nástroj ConProf. Tyto nástroje sdílí stejnou filosofii pro sběr dat a stejný jazyk pro analýzu
-        a jednoduchou korelaci získaných dat pro efektivní debugging problémů ve vaší infrastruktuře.
-
-
-        Technologie Prometheus, Loki, PromQL
-
-        Ukázka infrastruktury pro sběr metrických dat, logů i profilovacích dat.
-
-        Možnosti jazyka PromQL, který je použitý pro metrická data i logy.
-
-        Ukázka živých dashboadů, které prezentují na jednom místě všechny druhy sebraných dat..
-
-
-        Prezentující: Aleš Komárek, Senior SRE Engineer (F5 Volterra)
-
-        Aleš Komárek pracuje v F5 jako Senior SRE Engineer. Dříve pracoval ve společnosti Volterra, Mirantis a tcpcloud na provozu cloudových a kontejnerových řešení. Jeho prací je správa monitorovacího řešení pro globální platformu pro běh aplikací.
-
-
-        Místo konání:
-
-        V současné době jsme se Vám rozhodli poskytnout snídani ve virtuální podobě. Den před konáním Vám zašleme na emailovou adresu link pro připojení.
-
-        Těšíme se na Vaši účast, team DataScriptu
-
-
-        Podmínky registrace
-
-        Podmínkou bezplatné účasti na našich snídaních je uvedení Vaší společnosti, jmenného emailu a platného telefonního čísla. V opačném případě si vyhrazujeme právo Vaši účast odmítnout.'
-      og_title: Prometheus pro logging, metering a profiling, Wed, Oct 20, 7:00 AM | Meetup
+      meta_description: 'Wed, Oct 20, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/prometheus-pro-logging-metering-a-profiling/Na co se můžete těšit:Neustále rostoucí nároky na rychlost a objem nasaz'
+      og_title: Prometheus pro logging, metering a profiling
       image: https://secure.meetupstatic.com/photos/event/5/2/0/6/600_498560998.jpeg
       url: https://www.meetup.com/Morning-Talks/events/280508488/
       ical:
@@ -216,51 +179,8 @@ series:
         dtstart: 2021-10-20 09:00:00+02:00
         dtend: 2021-10-20 10:00:00+02:00
   - meetupcom:
-      meta_description: 'REGISTRACE ZDE: https://www.datascript.cz/morning-talks/neni-business-analytik-jako-business-analytik/
-
-
-        Na co se můžete těšit:
-
-        Kdo je business analytik a co je to business analýza? Víme vždy, co od této role a činnosti očekáváme? Má být jejich výstupem soubor požadavků na nový systém, nebo komplexní datová analýza? Do jaké podrobnosti má vytvořit datový model business
-        analytik a kdy už musí do hry vstoupit vývojář nebo SW analytik? Zpracujeme-li na začátku vývojového projektu AS-IS a TO-BE analýzu procesu, už dále business analytika nepotřebujeme? Můžeme jej v tu chvíli z týmu propustit? A jak je to s business
-        analýzou v agilních přístupech? Například SCRUM team nezná roli business analytika. Znamená to, že business analýzu v agilních týmech nepotřebujeme? A vůbec, business analýza je neproduktivní činnost. Co se stane, když ji z rozpočtu úplně vyškrtneme?
-
-
-        V rámci snídaně se budeme věnovat tématům:
-
-        Kdo je business analytik a co je business analýza?
-
-        Jaký je rozdíl BA ve vodopádových projektech a při agilním vývoji aplikací?
-
-        Jaké jsou kvalifikační předpoklady a požadavky na business analytika a kohokoliv, kdo se business analytickými činnostmi zabývá?
-
-        Jakou formu a obsah výstupů business analýzy potřebujeme a dostáváme?
-
-        Jak souvisí business analýza se zajištěním kvality dodávek vývoje aplikací?
-
-        Které nástroje a metody efektivně používat pro BA?
-
-        Mnoho inspirativních příběhů z reálné praxe.
-
-
-        Prezentující: Ing. Ivana Šabatová, Ph.D. (sabi consulting s.r.o.)
-
-        Ivana jako první v ČR vytvořila kurz připravující adepty na certifikaci OCEB Fundamental. Od té doby jejími kurzy u nás i v zahraničí prošlo několik stovek konzultantů, manažerů, business analytiků a lidí dalších profesí, které Ivana nadchla pro
-        heslo „Procesy nás baví!“. Vystudovala Technickou kybernetiku a získala doktorát z aplikované informatiky. Je držitelkou řady odborných certifikátů a akreditovanou lektorkou ITIL® 3 /4. Věnuje se konzultacím v oblastech automatizace business procesů
-        a business pravidel, řízení IT služeb a zajišťování informační bezpečnosti.
-
-
-        Místo konání:
-
-        V současné době jsme se Vám rozhodli poskytnout snídani ve virtuální podobě. Den před konáním Vám zašleme na emailovou adresu link pro připojení.
-
-        Těšíme se na Vaši účast, team DataScriptu
-
-
-        Podmínky registrace
-
-        Podmínkou bezplatné účasti na našich snídaních je uvedení Vaší společnosti, jmenného emailu a platného telefonního čísla. V opačném případě si vyhrazujeme právo Vaši účast odmítnout.'
-      og_title: Není business analytik jako business analytik, Tue, Oct 26, 7:00 AM | Meetup
+      meta_description: 'Tue, Oct 26, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/neni-business-analytik-jako-business-analytik/Na co se můžete těšit:Kdo je business analytik a co je to business ana'
+      og_title: Není business analytik jako business analytik
       image: https://secure.meetupstatic.com/photos/event/5/2/2/3/600_498561027.jpeg
       url: https://www.meetup.com/Morning-Talks/events/280508565/
       ical:
@@ -284,35 +204,8 @@ series:
         dtstart: 2021-10-26 09:00:00+02:00
         dtend: 2021-10-26 10:00:00+02:00
   - meetupcom:
-      meta_description: 'REGISTRACE ZDE: https://www.datascript.cz/morning-talks/uvod-do-devsecops/
-
-
-        Na co se můžete těšit:
-
-
-        Kdo je to ten DevSecOps a co na něj Jan Tleskač? DevOps dnes už zná i vaše babička, ale slyšeli jste už o DevSecOps? Dost možná ne, a proto by vás mohla zajímat snídaně na které si o něm pár slov povíme. Jak během posledních let stále víc a víc
-        pozorujeme, bezpečnost (security) je v IT branži čím dál důležitější a skloňovanější téma. Jak tento faktor pojmout tzv. z gruntu při vývoji software nám prozradí právě DevSecOps.
-
-
-        Motivace
-
-        Základní principy DevSecOps
-
-        Použití a rozšíření ve firmě
-
-        Analýza (nejen) kódu
-
-        Nástroje a cloud
-
-        A co dál?
-
-
-        Prezentující: Pavel Winkler (Rationis Development s.r.o.)
-
-
-        Vývoj software hraje pro Pavla v osobním i pracovním životě prim už od patnácti let. Od střední školy a prvních brigád v oblasti programování se postupně dostal až k vlastní společnosti Rationis Development a orientuje se na vývoj aplikací pro
-        finanční sektor. Díky vyšší požadavkům na bezpečnost ze strany klientů se spolu s kolegou se kterou firmu založili, začali zabývat DevSecOps, který u několika klientů pomáhali zavádět a rozvíjet.'
-      og_title: Úvod do DevSecops, Wed, Nov 3, 8:00 AM | Meetup
+      meta_description: 'Wed, Nov 3, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/uvod-do-devsecops/Na co se můžete těšit:Kdo je to ten DevSecOps a co na něj Jan Tleskač? DevOps dnes už zná i vaše ba'
+      og_title: Úvod do DevSecops
       url: https://www.meetup.com/Morning-Talks/events/281648054/
       ical:
         summary: Úvod do DevSecops
@@ -334,35 +227,10 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/281648054/
         dtstart: 2021-11-03 09:00:00+01:00
         dtend: 2021-11-03 10:00:00+01:00
+      image: https://secure.meetupstatic.com/photos/event/c/2/c/600_499743116.jpeg
   - meetupcom:
-      meta_description: 'REGISTRACE ZDE: https://www.datascript.cz/morning-talks/elastic-stack-observability-a-vyhledavani/
-
-
-        Na co se můžete těšit:
-
-
-        Search. Observability. Kubernetes. Elastic Stack dnes pokrývá celou řadu témat, o kterých se budeme bavit. Vyhledávat můžeme v logách, metrikách, APM nebo pomocí stacku stavět robustní vyhledávání v aplikaci. Na reálných příkladech si ukážeme jak
-        Elastic využít pro celou řadu úloh. Pokud Vás zajímá jak maximálně využít Elastic Stack na vašich projektech a co nového přináší poslední verze, je tento morning talk právě pro vás.
-
-
-        Sběr a zpracování logů pomocí Elastic Stack
-
-        Monitoring, APM, Uptime
-
-        Elastic Stack 8.0
-
-        Observability - Elastic, Kubernetes a Service mesh
-
-        Pohled pod kapotu Elasticsearch
-
-        Jak navrhnout aplikační vyhledávání (fulltextové vyhledávání, jazyky, překlepy,..)
-
-
-        Prezentující: Ing. Petr Novotný
-
-        Petr pracuje s ElasticSearch na denní bázi posledních 9 let a během této doby nasazoval Elastic v Mall.cz a několika dalších IT společnostech. Jeho odborný záběr je od solution architektury přes vlastní development (JavaScript, PHP), přes ElasticSearch,
-        Oracle, PL/SQL až po agilní metodiky a SCRUM.'
-      og_title: Elastic Stack - observability a vyhledávání, Wed, Nov 10, 8:00 AM | Meetup
+      meta_description: 'Wed, Nov 10, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/elastic-stack-observability-a-vyhledavani/Na co se můžete těšit:Search. Observability. Kubernetes. Elastic Stack dne'
+      og_title: Elastic Stack - observability a vyhledávání
       url: https://www.meetup.com/Morning-Talks/events/281648071/
       ical:
         summary: Elastic Stack - observability a vyhledávání
@@ -384,35 +252,10 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/281648071/
         dtstart: 2021-11-10 09:00:00+01:00
         dtend: 2021-11-10 10:00:00+01:00
+      image: https://secure.meetupstatic.com/photos/event/c/4/9/600_499743145.jpeg
   - meetupcom:
-      meta_description: 'REGISTRACE ZDE: https://www.datascript.cz/morning-talks/licencni-aktuality-ze-sveta-atlassian/
-
-
-        Na co se můžete těšit:
-
-
-        V poslední roce se událo mnoho změn, které zahýbaly Atlassian světem a nejedné organizaci připravily řadu rozhodovacích problémů. Chcete se zorientovat v nelehké licenční politice? Chcete se dovědět, kam Atlassian a jeho systémy směřují? Pak je
-        tento Morning talk pro Vás.
-
-
-        Konkrétně budeme hovořit o těchto tématech:
-
-        Konec podpory Serverové Jiry a co to znamená pro stávající zákazníky
-
-        Jaké jsou možnosti migrace na jinou formu Jira, případně úplně do jiného systému
-
-        Jak se změnila a bude měnit licenční politika
-
-        Zvláštní licenční modely - akademické licence, open source licence
-
-        Výhled do budoucna z pohledu funkcionality a nákladů
-
-
-        Prezentující: Michal Feitl (it:smart)
-
-        Michal je zakladatelem společnosti it:smart a zároveň je Certifikovaný Atlassian expert se zkušenostmi s řízením lokálních i zahraničních implementací Jira. Jeho specializací jsou Service Deskové systémy a optimalizace podnikových procesů. Michal
-        klade velký důraz na obchodní stránku věci a je ve své práci orientován na výsledek a efektivní cestu k němu.'
-      og_title: Licenční aktuality ze světa Atlassian , Thu, Nov 11, 8:00 AM | Meetup
+      meta_description: 'Thu, Nov 11, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/licencni-aktuality-ze-sveta-atlassian/Na co se můžete těšit:V poslední roce se událo mnoho změn, které zahýbaly Atla'
+      og_title: 'Licenční aktuality ze světa Atlassian '
       url: https://www.meetup.com/Morning-Talks/events/281648084/
       ical:
         summary: 'Licenční aktuality ze světa Atlassian '
@@ -434,3 +277,4 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/281648084/
         dtstart: 2021-11-11 09:00:00+01:00
         dtend: 2021-11-11 10:00:00+01:00
+      image: https://secure.meetupstatic.com/photos/event/c/5/3/600_499743155.jpeg

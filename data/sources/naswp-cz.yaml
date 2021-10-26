@@ -31,49 +31,8 @@ series:
         dtstart: 2021-09-29 18:30:00+02:00
         dtend: 2021-09-29 21:30:00+02:00
   - meetupcom:
-      meta_description: 'Pojďte si s námi naposled před létem sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity.
-
-
-        Live stream: https://www.youtube.com/watch?v=1ab_FpQcl2Y
-
-
-        📢 Program (anotace níže):
-
-
-        – 18:30 Úvodní slovo a novinky ze světa WordPressu (Karolína Vyskočilová)
-
-        – 18:50 Oxygen - builder pro ty, co se nebojí CSS a PHP (Vladimír Smitka)
-
-        – 19:30 Jak v Divi pracovat efektivně s theme builderem (Miroslav Bartík)
-
-        – 20:10 “Afterparty” - call
-
-
-        🖐Chcete přednášet na příštím WP pivu? Rádi vás uslyšíme, napište nám na wppivo@naswp.cz nebo se ozvěte v průběhu večera.
-
-
-        ---
-
-
-        💡 Oxygen - builder pro ty, co se nebojí CSS a PHP (Vladimír Smitka, Lynt)
-
-        Představení relativně nového builderu Oxygen a několika způsobů jak s ním efektivně pracovat. Výhody a nevýhody, principy, best practices a ekosystém doplňků.
-
-
-        💡 Jak v Divi pracovat efektivně s theme builderem (Miroslav Bartík, Webspecialista)
-
-        Podíváme se, jak si usnadnit práci při tvobě webu na Divi. Zaměříme se na práci s theme buildem a globálními Presety a ukážeme si, jak pomocí importu/exportu layoutů a sekcí v rámci Divi knihovny přenášet připraven prvky napříč různými projekty.
-
-
-        ---
-
-
-        WordPress piva jsou tradiční a neformání setkání lidí s WordPress komunity. Typicky se koná každou poslední středu v měsíci.
-
-
-        Vítáni jsou všichni, kteří mají rádi WordPress stejně jako my – ať jste HTML kodér, programátor, marketér nebo správce stránek, které na WordPressu běží. Sedneme si a pohovoříme o tom, co děláte, co děláme my, proč a jak. Vyměníme si zkušenosti,
-        znalosti i nápady na to, jak dělat něco lépe nebo jinak. Není důležité, jakou úroveň znalostí máte a zda přijdete pouze poslouchat a něco nového se dozvědět.'
-      og_title: 'WordPress pivo online #5, Wed, Jun 30, 4:30 PM | Meetup'
+      meta_description: 'Wed, Jun 30, 2021, 6:30 PM: Pojďte si s námi naposled před létem sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity.Live stream: https://www.youtube.com/watch?v=1ab_FpQc'
+      og_title: 'WordPress pivo online #5'
       image: https://secure.meetupstatic.com/photos/event/8/4/c/6/600_496353990.jpeg
       url: https://www.meetup.com/naswp-cz/events/278242359/
       ical:
@@ -172,41 +131,8 @@ series:
         dtstart: 2021-03-31 18:30:00+02:00
         dtend: 2021-03-31 21:30:00+02:00
   - meetupcom:
-      meta_description: 'Pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity.
-
-
-        📢 Program (anotace níže):
-
-
-        – 18:30 Úvodní slovo a novinky ze světa WordPressu (Karolína Vyskočilová)
-
-        – 18:50 Jak na technické řešení Cookie Consent? (Vladimír Smitka, https://lynt.cz)
-
-        – 19:30 Cookie Consent z pohledu právníka (Jitka Soukupová Ivančíková, Havel & Partners / https://www.fairdata.cz/)
-
-        – 20:10 “Afterparty” - call
-
-
-        🖐Chcete přednášet na příštím WP pivu? Rádi vás uslyšíme, napište nám na wppivo@naswp.cz nebo se ozvěte v průběhu večera.
-
-
-        ---
-
-
-        💡 JAK NA TECHNICKÉ ŘEŠENÍ COOKIE CONSENT? (Vladimír Smitka)
-
-        Jak by měla vypadat cookie lišta podle nového zákona o elektronických komunikacích a hlavně co by měla ve skutečnosti dělat. Technický vhled do fungování souhlasu s cookies a ukázková implementace pomocí GTM.
-
-
-        ---
-
-
-        WordPress piva jsou tradiční a neformání setkání lidí s WordPress komunity. Typicky se koná každou poslední středu v měsíci.
-
-
-        Vítáni jsou všichni, kteří mají rádi WordPress stejně jako my – ať jste HTML kodér, programátor, marketér nebo správce stránek, které na WordPressu běží. Sedneme si a pohovoříme o tom, co děláte, co děláme my, proč a jak. Vyměníme si zkušenosti,
-        znalosti i nápady na to, jak dělat něco lépe nebo jinak. Není důležité, jakou úroveň znalostí máte a zda přijdete pouze poslouchat a něco nového se dozvědět.'
-      og_title: 'WordPress pivo #6, Wed, Oct 27, 4:30 PM | Meetup'
+      meta_description: 'Wed, Oct 27, 2021, 6:30 PM: Pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity.📢 Program (anotace níže):– 18:30 Úvodní slovo a novinky ze světa WordPre'
+      og_title: 'WordPress pivo #6'
       image: https://secure.meetupstatic.com/photos/event/6/4/e/c/600_499585836.jpeg
       url: https://www.meetup.com/naswp-cz/events/281506962/
       ical:
@@ -230,24 +156,8 @@ series:
         dtstart: 2021-10-27 18:30:00+02:00
         dtend: 2021-10-27 21:30:00+02:00
   - meetupcom:
-      meta_description: 'Pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity.
-
-
-        📢 Program bude upřesněn.
-
-
-        🖐Chcete přednášet na příštím WP pivu? Rádi vás uslyšíme, napište nám na wppivo@naswp.cz nebo se ozvěte v průběhu večera.
-
-
-        ---
-
-
-        WordPress piva jsou tradiční a neformání setkání lidí s WordPress komunity. Typicky se koná každou poslední středu v měsíci.
-
-
-        Vítáni jsou všichni, kteří mají rádi WordPress stejně jako my – ať jste HTML kodér, programátor, marketér nebo správce stránek, které na WordPressu běží. Sedneme si a pohovoříme o tom, co děláte, co děláme my, proč a jak. Vyměníme si zkušenosti,
-        znalosti i nápady na to, jak dělat něco lépe nebo jinak. Není důležité, jakou úroveň znalostí máte a zda přijdete pouze poslouchat a něco nového se dozvědět.'
-      og_title: 'WordPress Pivo #7, Wed, Nov 24, 5:30 PM | Meetup'
+      meta_description: 'Wed, Nov 24, 2021, 6:30 PM: Pojďte si s námi sednout alespoň virtuálně a zúčastnit se online srazu české wordpressové komunity.📢 Program bude upřesněn.🖐Chcete přednášet na příštím WP pivu? Rádi vás '
+      og_title: 'WordPress Pivo #7'
       image: https://secure.meetupstatic.com/photos/event/6/5/4/f/600_499585935.jpeg
       url: https://www.meetup.com/naswp-cz/events/281507008/
       ical:
