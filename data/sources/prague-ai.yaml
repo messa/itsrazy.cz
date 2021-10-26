@@ -156,3 +156,28 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281378423/
         dtstart: 2021-10-20 11:00:00+02:00
         dtend: 2021-10-20 12:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Nov 9, 2021, 11:00 AM: Hello Makers,Studies by market-research institutes estimate that the contribution of AI to the economy will be as high as $15.7tr within the next decade (source: PwC – Sizi'
+      og_title: Building Modern AI Apps & Driving AI Adoption with Less Time and Effort
+      image: https://secure.meetupstatic.com/photos/event/6/6/1/e/600_499766142.jpeg
+      url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281670252/
+      ical:
+        summary: Building Modern AI Apps & Driving AI Adoption with Less Time and Effort
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Tuesday, November 9 at 11:00 AM
+
+
+          Hello Makers, Studies by market-research institutes estimate that the contribution of AI to the economy will be as high as $15.7tr within the next dec...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281670252/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281670252@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281670252/
+        dtstart: 2021-11-09 11:00:00+01:00
+        dtend: 2021-11-09 12:00:00+01:00

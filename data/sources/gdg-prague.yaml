@@ -305,3 +305,28 @@ series:
         dtstart: 2021-12-20 18:30:00+01:00
         dtend: 2021-12-20 20:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+  - meetupcom:
+      meta_description: 'Fri, Nov 26, 2021, 1:00 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOWhttps://gdg.community.dev/events/details/google-gdg-prague-presents-devfestcz-connect-prague/DevFest.cz is o'
+      og_title: 'DevFest.cz Connect: Prague'
+      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      url: https://www.meetup.com/GDGPrague/events/281675919/
+      ical:
+        summary: 'DevFest.cz Connect: Prague'
+        description: 'GDG Prague
+
+          Friday, November 26 at 1:00 PM
+
+
+          THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW <br/>https://gdg.community.dev/events/details/google-gdg-prague-presents-devfestcz-co...
+
+
+          https://www.meetup.com/GDGPrague/events/281675919/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281675919@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/281675919/
+        dtstart: 2021-11-26 13:00:00+01:00
+        dtend: 2021-11-26 21:00:00+01:00

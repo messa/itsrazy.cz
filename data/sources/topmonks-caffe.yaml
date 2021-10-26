@@ -129,3 +129,28 @@ series:
         url: https://www.meetup.com/TopMonks-Caffe/events/281139148/
         dtstart: 2021-10-05 19:00:00+02:00
         dtend: 2021-10-05 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Nov 2, 2021, 7:00 PM: Jak dělat produkt management pro netradiční produkty?'
+      og_title: Product management
+      image: https://secure.meetupstatic.com/photos/event/6/e/1/0/600_499768176.jpeg
+      url: https://www.meetup.com/TopMonks-Caffe/events/281672705/
+      ical:
+        summary: Product management
+        description: 'TopMonks Caffè
+
+          Tuesday, November 2 at 7:00 PM
+
+
+          Jak dělat produkt management pro netradiční produkty?
+
+
+          https://www.meetup.com/TopMonks-Caffe/events/281672705/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281672705@meetup.com
+        url: https://www.meetup.com/TopMonks-Caffe/events/281672705/
+        dtstart: 2021-11-02 19:00:00+01:00
+        dtend: 2021-11-02 21:00:00+01:00

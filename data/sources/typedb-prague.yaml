@@ -377,3 +377,28 @@ series:
         url: https://www.meetup.com/typedb-prague/events/281589722/
         dtstart: 2021-11-09 18:30:00+01:00
         dtend: 2021-11-09 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Nov 10, 2021, 6:30 PM: Graph databases have matured into mainstream technologies and deliver tremendous value to organisations across any industry. They are more flexible than traditional relatio'
+      og_title: Comparing Labeled Property Graphs (Graph Databases) to TypeDB
+      image: https://secure.meetupstatic.com/photos/event/c/d/6/a/600_497332586.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280962191/
+      ical:
+        summary: Comparing Labeled Property Graphs (Graph Databases) to TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Wednesday, November 10 at 6:30 PM
+
+
+          Graph databases have matured into mainstream technologies and deliver tremendous value to organisations across any industry. They are more flexible th...
+
+
+          https://www.meetup.com/typedb-prague/events/280962191/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280962191@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280962191/
+        dtstart: 2021-11-10 18:30:00+01:00
+        dtend: 2021-11-10 19:30:00+01:00
