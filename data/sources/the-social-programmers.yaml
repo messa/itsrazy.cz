@@ -2,7 +2,7 @@ series:
   meetupcom:
     url: https://www.meetup.com/the-social-programers/
     meta_description: Join this group if you are a programmer or if you want to be a programmer.Learn and/or share knowledge through co-coding, mentoring or just a social drink.All levels, technologies, ages and genders we
-    og_title: The Social Programers (Prague, Czech Republic)
+    og_title: The Social Programmers (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/6/6/8/d/600_498986253.jpeg
   events:
   - meetupcom:
@@ -12,12 +12,11 @@ series:
       url: https://www.meetup.com/the-social-programers/events/280899375/
       ical:
         summary: 'Coding Session - Web Dev '
-        description: 'The Social Programers
+        description: 'The Social Programmers
 
           Thursday, September 30 at 6:30 PM
 
-
-          Let’s code together, whether a complete beginner or seasoned developer come and have a coffee and sharesome knowledge. Bring a laptop and a sense of a...
+          \nLet’s code together, whether a complete beginner or seasoned developer come and have a coffee and sharesome knowledge. Bring a laptop and a sense of a...
 
 
           https://www.meetup.com/the-social-programers/events/280899375/'
@@ -37,7 +36,7 @@ series:
       url: https://www.meetup.com/the-social-programers/events/281199410/
       ical:
         summary: 'Coding Session '
-        description: 'The Social Programers
+        description: 'The Social Programmers
 
           Thursday, October 7 at 6:30 PM
 
@@ -62,7 +61,7 @@ series:
       url: https://www.meetup.com/the-social-programers/events/281374093/
       ical:
         summary: 'Coding session - V3 '
-        description: 'The Social Programers
+        description: 'The Social Programmers
 
           Thursday, October 14 at 6:30 PM
 
@@ -87,7 +86,7 @@ series:
       url: https://www.meetup.com/the-social-programers/events/281669240/
       ical:
         summary: Coding session V4
-        description: 'The Social Programers
+        description: 'The Social Programmers
 
           Wednesday, October 27 at 6:30 PM
 
