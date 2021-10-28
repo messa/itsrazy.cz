@@ -402,3 +402,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/280962191/
         dtstart: 2021-11-10 18:30:00+01:00
         dtend: 2021-11-10 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Nov 11, 2021, 6:30 PM: How might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine?We''ll visit the key ideas behind actors, and then walk through how we b'
+      og_title: Reasoner Meet Actors | TypeDB's Native Reasoning Engine
+      image: https://secure.meetupstatic.com/photos/event/1/6/7/f/600_498365759.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280962390/
+      ical:
+        summary: Reasoner Meet Actors | TypeDB's Native Reasoning Engine
+        description: 'TypeDB Prague Engineers
+
+          Thursday, November 11 at 6:30 PM
+
+          \nHow might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine? We''ll visit the key ideas behind actors, and the...
+
+
+          https://www.meetup.com/typedb-prague/events/280962390/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280962390@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280962390/
+        dtstart: 2021-11-11 18:30:00+01:00
+        dtend: 2021-11-11 19:30:00+01:00
