@@ -32,11 +32,11 @@ series:
         dtend: 2021-10-13 21:00:00+02:00
   - meetupcom:
       meta_description: 'Wed, Nov 10, 2021, 6:30 PM: We look forward to seeing you at Pipedrive in Prague! This time mainly in English.TALKS:— Michael Possumato (Netflix) [Remote talk] — Approach to Micro FE at Netflix— Tomas'
-      og_title: 'Meetup in Prague: MicroFrontends in Netflix, Bitcoin hardware wallets…, Wed, Nov 10, 2021, 6:30 PM'
+      og_title: 'Meetup in Prague: MicroFrontends in Netflix, Bitcoin hardware wallets…|, Wed, Nov 10, 2021, 6:30 PM'
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsyccpbnb/
       ical:
-        summary: 'Meetup in Prague: MicroFrontends in Netflix, Bitcoin hardware wallets…'
+        summary: 'Meetup in Prague: MicroFrontends in Netflix, Bitcoin hardware wallets…|'
         description: 'Frontendisti.cz
 
           Wednesday, November 10 at 6:30 PM
