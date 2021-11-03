@@ -426,3 +426,28 @@ series:
         url: https://www.meetup.com/typedb-prague/events/280962390/
         dtstart: 2021-11-11 18:30:00+01:00
         dtend: 2021-11-11 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Nov 16, 2021, 6:30 PM: Computational biology has revolutionised biomedicine. The volume of data it is generating is growing exponentially. This requires tools that enable computational and non-co'
+      og_title: Enabling the Computational Future of Biology
+      image: https://secure.meetupstatic.com/photos/event/1/e/c/9/600_496987881.jpeg
+      url: https://www.meetup.com/typedb-prague/events/280963860/
+      ical:
+        summary: Enabling the Computational Future of Biology
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, November 16 at 6:30 PM
+
+
+          Computational biology has revolutionised biomedicine. The volume of data it is generating is growing exponentially. This requires tools that enable co...
+
+
+          https://www.meetup.com/typedb-prague/events/280963860/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280963860@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/280963860/
+        dtstart: 2021-11-16 18:30:00+01:00
+        dtend: 2021-11-16 19:30:00+01:00
