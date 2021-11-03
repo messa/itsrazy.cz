@@ -302,3 +302,27 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/281648112/
         dtstart: 2021-11-16 09:00:00+01:00
         dtend: 2021-11-16 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Nov 23, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ceph-storage-tak-trochu-jinak/Na co se můžete těšit:Zajímá vás trošku jiný pohled na ukládání dat? Rádi byste měli m'
+      og_title: CEPH – Storage tak trochu jinak
+      image: https://secure.meetupstatic.com/photos/event/c/8/c/600_499743212.jpeg
+      url: https://www.meetup.com/Morning-Talks/events/281648170/
+      ical:
+        summary: CEPH – Storage tak trochu jinak
+        description: 'Morning Talks
+
+          Tuesday, November 23 at 9:00 AM
+
+
+          REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ceph-storage-tak-trochu-jinak/ Na co se můžete těšit: Zajímá vás trošku jiný pohled na ukládán...\n
+
+          https://www.meetup.com/Morning-Talks/events/281648170/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281648170@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/281648170/
+        dtstart: 2021-11-23 09:00:00+01:00
+        dtend: 2021-11-23 10:00:00+01:00
