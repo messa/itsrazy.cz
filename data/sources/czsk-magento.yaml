@@ -6,12 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/2/6/f/e/600_483609982.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Nov 5, 4:30 PM: Live stream link --> https://youtu.be/gexDTcZLRKk
-
-        ...
-
-        DEV session je setkání všech backend, frontend a fullstack vývojářů s chutí rozšiřovat si svoje obzory. Toto první set'
-      og_title: 'DEV session #1 - Magento, Vue3, projektové řízení | Meetup'
+      meta_description: 'Thu, Nov 5, 2020, 5:30 PM: Live stream link --> https://youtu.be/gexDTcZLRKk...DEV session je setkání všech backend, frontend a fullstack vývojářů s chutí rozšiřovat si svoje obzory. Toto první setkán'
+      og_title: 'DEV session #1 - Magento, Vue3, projektové řízení'
       image: https://secure.meetupstatic.com/photos/event/9/1/5/6/600_493237206.jpeg
       url: https://www.meetup.com/czech-slovak-magento-group/events/273955075/
       ical:
@@ -35,11 +31,8 @@ series:
         dtstart: 2020-11-05 17:30:00+01:00
         dtend: 2020-11-05 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Oct 7, 1:00 PM: Register for free at https://www.timetospeedup.com/
-
-
-        Core Web Vitals will change how Google measures the page experience with a significant impact on your SERP position. Fo'
-      og_title: Time to speed up! Web Vitals & PWA in e-commerce | Meetup
+      meta_description: 'Thu, Oct 7, 2021, 3:00 PM: Register for free at https://www.timetospeedup.com/Core Web Vitals will change how Google measures the page experience with a significant impact on your SERP position. Four '
+      og_title: Time to speed up! Web Vitals & PWA in e-commerce
       image: https://secure.meetupstatic.com/photos/event/e/5/e/7/600_498838855.jpeg
       url: https://www.meetup.com/czech-slovak-magento-group/events/280788968/
       ical:

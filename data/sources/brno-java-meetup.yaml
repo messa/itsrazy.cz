@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Sep 24, 5:00 PM: Kubernetes se velice rychle stal nejrozšířenější platformou pro provozování stateless aplikací. Stále více uživatelů dnes na Kubernetes přesouvá dokonce i své stateful apli'
-      og_title: Stateful aplikace na Kubernetes pomocí operátor patternu (online) | Meetup
+      meta_description: 'Thu, Sep 24, 2020, 7:00 PM: Kubernetes se velice rychle stal nejrozšířenější platformou pro provozování stateless aplikací. Stále více uživatelů dnes na Kubernetes přesouvá dokonce i své stateful apli'
+      og_title: Stateful aplikace na Kubernetes pomocí operátor patternu (online)
       image: https://secure.meetupstatic.com/photos/event/c/6/4/f/600_492410767.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/273090874/
       ical:
@@ -105,11 +105,8 @@ series:
         dtstart: 2020-04-23 15:30:00+02:00
         dtend: 2020-04-23 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Nov 4, 5:30 PM: Brno Java MeetUp je po více než roce zpátky. Děkujeme všem, co vyplnili dotazník. Dle výsledků celkem jednoznačně zvítězilo téma “JVM a Kubernetes”.
-
-
-        Praktickou přednášku n'
-      og_title: JVM a Kubernetes | Meetup
+      meta_description: 'Thu, Nov 4, 2021, 6:30 PM: Brno Java MeetUp je po více než roce zpátky. Děkujeme všem, co vyplnili dotazník. Dle výsledků celkem jednoznačně zvítězilo téma “JVM a Kubernetes”.Praktickou přednášku na t'
+      og_title: JVM a Kubernetes
       image: https://secure.meetupstatic.com/photos/event/6/4/d/7/600_499765815.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/281669937/
       ical:

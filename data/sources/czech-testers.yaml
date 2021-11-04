@@ -6,19 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/a/3/2/600_486662610.jpeg
   events:
   - meetupcom:
-      meta_description: 'Sat, Aug 28, 6:00 PM: Ahoj testeři,
-
-        další Testerská Katovna již tuto sobotu od 20h.
-
-
-        🚀 Katovna probíhá na Discordu > Katovna > STAGE
-
-
-        🚀 Odkaz na discord audio: https://discord.gg/ccAwX2rwXj
-
-
-        �'
-      og_title: Testerská Katovna | Meetup
+      meta_description: 'Sat, Aug 28, 2021, 8:00 PM: Ahoj testeři,další Testerská Katovna již tuto sobotu od 20h.🚀 Katovna probíhá na Discordu > Katovna > STAGE🚀 Odkaz na discord audio: https://discord.gg/ccAwX2rwXj🚀 Přijď'
+      og_title: Testerská Katovna
       image: https://secure.meetupstatic.com/photos/event/d/f/e/3/600_495237315.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/280378855/
       ical:
@@ -42,8 +31,8 @@ series:
         dtstart: 2021-08-28 20:00:00+02:00
         dtend: 2021-08-28 23:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, May 21, 11:00 AM: Fedor je dnes DevOps Architekt ve Slovenské spořitelně a tvoří platformy, které umožňují automatizovat build-deploy-test a provozovat microservices. Svou kariéru začal jako'
-      og_title: 'Fedor Pavkovček: Performance testing je tak trochu alchymie | Meetup'
+      meta_description: 'Fri, May 21, 2021, 1:00 PM: Fedor je dnes DevOps Architekt ve Slovenské spořitelně a tvoří platformy, které umožňují automatizovat build-deploy-test a provozovat microservices. Svou kariéru začal jako'
+      og_title: 'Fedor Pavkovček: Performance testing je tak trochu alchymie'
       image: https://secure.meetupstatic.com/photos/event/8/1/4/600_496382068.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/278273942/
       ical:
@@ -67,21 +56,8 @@ series:
         dtstart: 2021-05-21 13:00:00+02:00
         dtend: 2021-05-21 15:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, May 20, 11:00 AM: Nový spolumoderátor a nový formát, přijďte na premiéru :)
-
-
-        ===========
-
-
-        Nastavit odběr a připomenutí
-
-        http://bit.ly/teststacksub
-
-
-        DISCORD: https://bit.ly/tt-discord
-
-        PATREON:'
-      og_title: Bugy, fixy, hotfixy | Meetup
+      meta_description: 'Thu, May 20, 2021, 1:00 PM: Nový spolumoderátor a nový formát, přijďte na premiéru :)===========Nastavit odběr a připomenutíhttp://bit.ly/teststacksubDISCORD: https://bit.ly/tt-discordPATREON: https:/'
+      og_title: Bugy, fixy, hotfixy
       image: https://secure.meetupstatic.com/photos/event/4/b/f/c/600_496399452.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/278296129/
       ical:
@@ -130,13 +106,8 @@ series:
         dtstart: 2021-04-27 18:00:00+02:00
         dtend: 2021-04-27 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Sep 29, 4:00 PM: Po delší prázdninové pauze opět proběhne setkání nejen brněnských testerů.
-
-
-        Akce bude online, takže se může připojit do diskuze kdokoliv.
-
-        Pro spojení a diskuzi použijeme op'
-      og_title: 'online: QA Brno - Volná témata | Meetup'
+      meta_description: 'Wed, Sep 29, 2021, 6:00 PM: Po delší prázdninové pauze opět proběhne setkání nejen brněnských testerů.Akce bude online, takže se může připojit do diskuze kdokoliv.Pro spojení a diskuzi použijeme opět '
+      og_title: 'online: QA Brno - Volná témata'
       image: https://secure.meetupstatic.com/photos/event/c/9/0/2/600_499131458.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/281067619/
       ical:

@@ -105,8 +105,8 @@ series:
         dtstart: 2020-02-25 07:30:00+01:00
         dtend: 2020-02-25 09:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Oct 19, 4:00 PM: If you want to succeed as a product-led company, you must ensure your teams are `empowered` enough to do the best work they can. As Marty Cagan famously wrote: "Great teams'
-      og_title: 'Product Meetup: Empowered Product Teams | Meetup'
+      meta_description: 'Tue, Oct 19, 2021, 6:00 PM: If you want to succeed as a product-led company, you must ensure your teams are `empowered` enough to do the best work they can. As Marty Cagan famously wrote: "Great teams'
+      og_title: 'Product Meetup: Empowered Product Teams'
       image: https://secure.meetupstatic.com/photos/event/6/5/7/0/600_499105968.jpeg
       url: https://www.meetup.com/pipedrive-talks-prague/events/280939384/
       ical:
@@ -130,8 +130,8 @@ series:
         dtstart: 2021-10-19 18:00:00+02:00
         dtend: 2021-10-19 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 16, 5:00 PM: Microservices are a popular and well-known architectural choice. Over time, best practices regarding implementing and maintaining this architectural style have evolved. In '
-      og_title: 'Backend Meetup: Advanced Microservices | Meetup'
+      meta_description: 'Tue, Nov 16, 2021, 6:00 PM: Microservices are a popular and well-known architectural choice. Over time, best practices regarding implementing and maintaining this architectural style have evolved. In '
+      og_title: 'Backend Meetup: Advanced Microservices'
       image: https://secure.meetupstatic.com/photos/event/5/d/2/8/600_499463848.jpeg
       url: https://www.meetup.com/pipedrive-talks-prague/events/281095226/
       ical:

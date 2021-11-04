@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/2/a/9/3/600_465070899.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Oct 5, 4:00 PM: Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve úterý 5. října 2021. Opencafé je pro ty, kteří chtějí něčím zajímavým '
-      og_title: Agilní Open Café Praha – 5.10.2021 | Meetup
+      meta_description: 'Tue, Oct 5, 2021, 6:00 PM: Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve úterý 5. října 2021. Opencafé je pro ty, kteří chtějí něčím zajímavým p'
+      og_title: Agilní Open Café Praha – 5.10.2021
       image: https://secure.meetupstatic.com/photos/event/6/6/e/6/600_498506342.jpeg
       url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280683798/
       ical:
@@ -31,11 +31,8 @@ series:
         dtstart: 2021-10-05 18:00:00+02:00
         dtend: 2021-10-05 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Oct 8, 1:00 PM: We bring the best speakers to your homes. Join the October Virtual Bonus Agile Prague Conference.
-
-
-        Reserve the date for Friday October 8, 2021 for our AgilePrague Virtual C'
-      og_title: Agile Prague Conference 2021 Virtual Edition | Meetup
+      meta_description: 'Fri, Oct 8, 2021, 3:00 PM: We bring the best speakers to your homes. Join the October Virtual Bonus Agile Prague Conference.Reserve the date for Friday October 8, 2021 for our AgilePrague Virtual Conf'
+      og_title: Agile Prague Conference 2021 Virtual Edition
       image: https://secure.meetupstatic.com/photos/event/5/7/2/d/600_498922317.jpeg
       url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280726386/
       ical:
@@ -59,8 +56,8 @@ series:
         dtstart: 2021-10-08 15:00:00+02:00
         dtend: 2021-10-08 18:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Sep 8, 4:00 PM: Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve středu 8. září 2021. Opencafé je pro ty, kteří chtějí něčím zajímavým '
-      og_title: Agilní Open Café Praha – 8.9.2021 | Meetup
+      meta_description: 'Wed, Sep 8, 2021, 6:00 PM: Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve středu 8. září 2021. Opencafé je pro ty, kteří chtějí něčím zajímavým p'
+      og_title: Agilní Open Café Praha – 8.9.2021
       image: https://secure.meetupstatic.com/photos/event/6/6/e/6/600_498506342.jpeg
       url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/280441638/
       ical:
@@ -83,8 +80,8 @@ series:
         dtstart: 2021-09-08 18:00:00+02:00
         dtend: 2021-09-08 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, May 19, 4:00 PM: Příští Agilní Open Café alias setkání Agilních nadšenců bude ve virtuálním prostoru ve středu 19. května 2021 a bude na pozvání pro ty, kteří chtějí něčím zajímavým přispět'
-      og_title: Agilní Open Café Virtuálně – 19.5.2021 | Meetup
+      meta_description: 'Wed, May 19, 2021, 6:00 PM: Příští Agilní Open Café alias setkání Agilních nadšenců bude ve virtuálním prostoru ve středu 19. května 2021 a bude na pozvání pro ty, kteří chtějí něčím zajímavým přispět'
+      og_title: Agilní Open Café Virtuálně – 19.5.2021
       image: https://secure.meetupstatic.com/photos/event/2/a/9/3/600_465070899.jpeg
       url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/277995118/
       ical:
