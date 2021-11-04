@@ -131,8 +131,8 @@ series:
         dtstart: 2020-11-19 14:00:00+01:00
         dtend: 2020-11-19 16:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Oct 21, 2021, 5:00 PM: To continuously deliver IT systems at speed with a focus on business value, cross-functional DevOps IT delivery teams integrate quality engineering in their way of working.'
-      og_title: Quality Engineering & Testing in DevOps IT Delivery
+      meta_description: 'Thu, Oct 21, 3:00 PM: To continuously deliver IT systems at speed with a focus on business value, cross-functional DevOps IT delivery teams integrate quality engineering in their way of working.'
+      og_title: Quality Engineering & Testing in DevOps IT Delivery | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564708/
       ical:
@@ -156,8 +156,8 @@ series:
         dtstart: 2021-10-21 17:00:00+02:00
         dtend: 2021-10-21 18:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Nov 4, 2021, 10:00 AM: Na trhu existuje množství nástrojů na automatizované testovaní. Mnoho z nich vyžaduje znalosti programovaní, nebo jsou příliš specifické s vlastní implementací kódu. My jsm'
-      og_title: Testování mobilních aplikací pomocí nástroje TestProject.io
+      meta_description: 'Thu, Nov 4, 9:00 AM: Na trhu existuje množství nástrojů na automatizované testovaní. Mnoho z nich vyžaduje znalosti programovaní, nebo jsou příliš specifické s vlastní implementací kódu. My jsm'
+      og_title: Testování mobilních aplikací pomocí nástroje TestProject.io | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564729/
       ical:
@@ -181,8 +181,8 @@ series:
         dtstart: 2021-11-04 10:00:00+01:00
         dtend: 2021-11-04 11:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 11, 2021, 10:30 AM: Svět testingu nás čas od času postaví před opravdovou výzvu. Jedna taková přišla v loňském roce - zautomatizovat alespoň základní průchody desktopovou aplikací, která byla'
-      og_title: Automatizace UI pomocí vizuálního rozpoznání (RF + Sikuli)
+      meta_description: 'Thu, Nov 11, 9:30 AM: Svět testingu nás čas od času postaví před opravdovou výzvu. Jedna taková přišla v loňském roce - zautomatizovat alespoň základní průchody desktopovou aplikací, která byla '
+      og_title: Automatizace UI pomocí vizuálního rozpoznání (RF + Sikuli) | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564755/
       ical:
@@ -206,8 +206,8 @@ series:
         dtstart: 2021-11-11 10:30:00+01:00
         dtend: 2021-11-11 11:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 18, 2021, 5:30 PM: Někdy je velice obtížné napsat test tak, aby fungoval za každých okolností, a to i v podmínkách dynamického vývoje v průběhu sprintu. Navíc nám to vývojáři někdy neusnadňuj'
-      og_title: Healenium a Robot Framework aneb samouzdravující se testy
+      meta_description: 'Thu, Nov 18, 4:30 PM: Někdy je velice obtížné napsat test tak, aby fungoval za každých okolností, a to i v podmínkách dynamického vývoje v průběhu sprintu. Navíc nám to vývojáři někdy neusnadňuj'
+      og_title: Healenium a Robot Framework aneb samouzdravující se testy | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564776/
       ical:
@@ -231,8 +231,8 @@ series:
         dtstart: 2021-11-18 17:30:00+01:00
         dtend: 2021-11-18 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 25, 2021, 5:30 PM: Nástrojů v testingu máme mnoho, ale stejně jak u funkcionálních testů, tak i u performance testů nám někdy nemusí vyhovovat forma reportování výsledků daného nástroje. Možn'
-      og_title: Pokročilý reporting performance testů - jtl-reporter
+      meta_description: 'Thu, Nov 25, 4:30 PM: Nástrojů v testingu máme mnoho, ale stejně jak u funkcionálních testů, tak i u performance testů nám někdy nemusí vyhovovat forma reportování výsledků daného nástroje. Možn'
+      og_title: Pokročilý reporting performance testů - jtl-reporter | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564791/
       ical:
