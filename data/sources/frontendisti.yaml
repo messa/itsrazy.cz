@@ -32,11 +32,11 @@ series:
         dtend: 2021-10-13 21:00:00+02:00
   - meetupcom:
       meta_description: 'Wed, Nov 10, 2021, 6:00 PM: We look forward to seeing you at Pipedrive in Prague! Only in English this time.18:00 - Door open - Pipedrive, Prague18:30 - LIVE STREAM18:35 - Quick intro into the world o'
-      og_title: 'Meetup in Prague: Bitcoin wallets, Smart TV testing & MicroFrontends, Wed, Nov 10, 2021, 6:00 PM'
+      og_title: 'Meetup in Prague: Bitcoin wallets, Smart TVs testing and MicroFrontends, Wed, Nov 10, 2021, 6:00 PM'
       image: https://secure.meetupstatic.com/photos/event/4/4/1/4/600_499997428.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsyccpbnb/
       ical:
-        summary: 'Meetup in Prague: Bitcoin wallets, Smart TV testing & MicroFrontends'
+        summary: 'Meetup in Prague: Bitcoin wallets, Smart TVs testing and MicroFrontends'
         description: 'Frontendisti.cz
 
           Wednesday, November 10 at 6:00 PM
@@ -156,11 +156,11 @@ series:
         dtend: 2022-02-09 21:00:00+01:00
   - meetupcom:
       meta_description: 'Wed, Nov 10, 2021, 6:30 PM: Online stream for meetup from Pipedrive in Prague. This time mainly in English:18:30 - LIVE STREAM - https://www.youtube.com/watch?v=zE75vOR4iDM18:35 - Quick intro into the'
-      og_title: 'Online stream: Bitcoin wallets, Smart TVs testing & MicroFrontends in Netflix'
+      og_title: 'Online stream: Bitcoin wallets, Smart TVs testing and MicroFrontends'
       image: https://secure.meetupstatic.com/photos/event/4/4/1/3/600_499997427.jpeg
       url: https://www.meetup.com/frontendisti/events/281587897/
       ical:
-        summary: 'Online stream: Bitcoin wallets, Smart TVs testing & MicroFrontends in Netflix'
+        summary: 'Online stream: Bitcoin wallets, Smart TVs testing and MicroFrontends'
         description: 'Frontendisti.cz
 
           Wednesday, November 10 at 6:30 PM
