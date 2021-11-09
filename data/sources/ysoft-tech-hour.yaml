@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/8/7/9/e/600_478894718.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Mar 30, 2021, 5:30 PM: Žijeme v době rychlého vývoje a ad-hoc řešení a v případě testování to platí dvojnásob. Je pak velký kumšt se v tom všem vyznat. Prozkoumejte s námi různé typy testů a jeji'
-      og_title: Každý test jiná ves
+      meta_description: 'Tue, Mar 30, 3:30 PM: Žijeme v době rychlého vývoje a ad-hoc řešení a v případě testování to platí dvojnásob. Je pak velký kumšt se v tom všem vyznat. Prozkoumejte s námi různé typy testů a jeji'
+      og_title: Každý test jiná ves | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/f/e/4/600_495113220.jpeg
       url: https://www.meetup.com/ysoft-th/events/276847788/
       ical:
@@ -31,8 +31,8 @@ series:
         dtstart: 2021-03-30 17:30:00+02:00
         dtend: 2021-03-30 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Sep 8, 2020, 5:30 PM: In large scale product development with multiple teams, organizing and facilitating events is important to optimize transparency, provide opportunities for collaboration, an'
-      og_title: 'Remote facilitation of distributed multi-team events '
+      meta_description: 'Tue, Sep 8, 3:30 PM: In large scale product development with multiple teams, organizing and facilitating events is important to optimize transparency, provide opportunities for collaboration, a'
+      og_title: Remote facilitation of distributed multi-team events  | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/5/c/1/600_491810625.jpeg
       url: https://www.meetup.com/ysoft-th/events/272570292/
       ical:
@@ -56,8 +56,8 @@ series:
         dtstart: 2020-09-08 17:30:00+02:00
         dtend: 2020-09-08 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jul 8, 2020, 6:00 PM: After 1.5 years on the agile journey, we now have 13 self-managed teams and no managers or scrum masters. While we’re definitely not done with this, and there’re always thin'
-      og_title: 'Y Soft LeSS Meetup '
+      meta_description: 'Wed, Jul 8, 4:00 PM: After 1.5 years on the agile journey, we now have 13 self-managed teams and no managers or scrum masters. While we’re definitely not done with this, and there’re always thi'
+      og_title: Y Soft LeSS Meetup  | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/6/0/e/600_490997934.jpeg
       url: https://www.meetup.com/ysoft-th/events/271492610/
       ical:
@@ -81,8 +81,8 @@ series:
         dtstart: 2020-07-08 18:00:00+02:00
         dtend: 2020-07-08 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, May 11, 2020, 5:30 PM: Azure Functions se neustále zdokonalují, a tak toho se serverless aplikacemi můžeme dosáhnout čím dál víc. Vývojářům například umožňují zdolat překážky v serverless světě z'
-      og_title: Jak na tvorbu serverless aplikací s pomocí Azure Functions
+      meta_description: 'Mon, May 11, 3:30 PM: Azure Functions se neustále zdokonalují, a tak toho se serverless aplikacemi můžeme dosáhnout čím dál víc. Vývojářům například umožňují zdolat překážky v serverless světě z'
+      og_title: Jak na tvorbu serverless aplikací s pomocí Azure Functions | Meetup
       image: https://secure.meetupstatic.com/photos/event/d/d/5/7/600_490256663.jpeg
       url: https://www.meetup.com/ysoft-th/events/270218334/
       ical:

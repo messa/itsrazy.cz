@@ -157,8 +157,11 @@ series:
         dtstart: 2021-10-20 11:00:00+02:00
         dtend: 2021-10-20 12:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 9, 2021, 11:00 AM: Hello Makers,Studies by market-research institutes estimate that the contribution of AI to the economy will be as high as $15.7tr within the next decade (source: PwC – Sizi'
-      og_title: Building Modern AI Apps & Driving AI Adoption with Less Time and Effort
+      meta_description: 'Tue, Nov 9, 10:00 AM: Hello Makers,
+
+
+        Studies by market-research institutes estimate that the contribution of AI to the economy will be as high as $15.7tr within the next decade (source: PwC – Si'
+      og_title: Building Modern AI Apps & Driving AI Adoption with Less Time and Effort | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/6/1/e/600_499766142.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281670252/
       ical:
@@ -181,3 +184,30 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281670252/
         dtstart: 2021-11-09 11:00:00+01:00
         dtend: 2021-11-09 12:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Nov 16, 3:00 PM: Hi Makers!
+
+
+        Join us on November 16 to hear from industry experts at MarketAxess on how they are leveraging AI and cloud to improve the functioning of the bond market. Marke'
+      og_title: '[Virtual Event] Solving challenges in the world’s largest bond marketplace | Meetup'
+      url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281975812/
+      ical:
+        summary: '[Virtual Event] Solving challenges in the world’s largest bond marketplace'
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Tuesday, November 16 at 4:00 PM
+
+
+          Hi Makers! Join us on November 16 to hear from industry experts at MarketAxess on how they are leveraging AI and cloud to improve the functioning of t...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281975812/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281975812@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281975812/
+        dtstart: 2021-11-16 16:00:00+01:00
+        dtend: 2021-11-16 17:00:00+01:00

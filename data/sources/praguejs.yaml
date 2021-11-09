@@ -1,7 +1,7 @@
 series:
   meetupcom:
     url: https://www.meetup.com/praguejs/events/
-    meta_description: Upcoming events for PragueJS in Prague, Czech Republic. A Meetup group with over 1863 Members.
+    meta_description: Upcoming events for PragueJS in Prague, Czech Republic. A Meetup group with over 1864 Members.
     og_title: Upcoming events | PragueJS (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
   events:
@@ -223,8 +223,10 @@ series:
         dtstart: 2021-11-02 18:30:00+01:00
         dtend: 2021-11-02 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 2021, 6:30 PM: Get out and get social in 2021 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that are'
-      og_title: '2021 #3 Gaming Development'
+      meta_description: 'Tue, Dec 7, 5:30 PM: Get out and get social in 2021 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that a'
+      og_title: '2021 #3 Gaming Development | Meetup'
       image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
       url: https://www.meetup.com/praguejs/events/267847634/
       ical_raw:
@@ -294,8 +296,10 @@ series:
         dtstart: 2021-12-07 18:30:00+01:00
         dtend: 2021-12-07 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Jan 25, 2022, 6:30 PM: Get out and get social in 2022 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that ar'
-      og_title: '2022 #1 Server Side JavaScript'
+      meta_description: 'Tue, Jan 25, 5:30 PM: Get out and get social in 2022 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that a'
+      og_title: '2022 #1 Server Side JavaScript | Meetup'
       image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
       url: https://www.meetup.com/praguejs/events/269001730/
       ical_raw:
@@ -365,8 +369,10 @@ series:
         dtstart: 2022-01-25 18:30:00+01:00
         dtend: 2022-01-25 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Feb 22, 2022, 6:30 PM: Get out and get social in 2022 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that ar'
-      og_title: '2022 #2 Client-side Databases'
+      meta_description: 'Tue, Feb 22, 5:30 PM: Get out and get social in 2022 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that a'
+      og_title: '2022 #2 Client-side Databases | Meetup'
       image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
       url: https://www.meetup.com/praguejs/events/267847695/
       ical_raw:

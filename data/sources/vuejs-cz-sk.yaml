@@ -6,8 +6,11 @@ series:
     image: https://secure.meetupstatic.com/photos/event/b/1/e/7/600_469905543.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Jun 23, 2021, 6:00 PM: Jelikož už nás covidová nečinnost nebaví, rozhodli jsme se opět zorganizovat večer na naše oblíbené téma Vue.js.V případě zájmu se zaregistrujte na eventbrite: https://www.'
-      og_title: 'Vue.js Meetup Brno #5'
+      meta_description: 'Wed, Jun 23, 4:00 PM: Jelikož už nás covidová nečinnost nebaví, rozhodli jsme se opět zorganizovat večer na naše oblíbené téma Vue.js.
+
+
+        V případě zájmu se zaregistrujte na eventbrite: https://ww'
+      og_title: 'Vue.js Meetup Brno #5 | Meetup'
       image: https://secure.meetupstatic.com/photos/event/5/9/b/4/600_495982964.jpeg
       url: https://www.meetup.com/vuejs-cz-sk/events/277852111/
       ical:
@@ -30,8 +33,13 @@ series:
         dtstart: 2021-06-23 18:00:00+02:00
         dtend: 2021-06-23 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jul 29, 2020, 6:30 PM: Po karanténě se potkáme znova naživo nad zajímavými tématy z Vue.js vesmíru.Jako vždy, nebude chybět pivo, pizza a skvělá atmosféra našeho brněnského Vue.js kolektivu 😊Pro'
-      og_title: 'Vue.js Meetup Brno #4'
+      meta_description: 'Wed, Jul 29, 4:30 PM: Po karanténě se potkáme znova naživo nad zajímavými tématy z Vue.js vesmíru.
+
+        Jako vždy, nebude chybět pivo, pizza a skvělá atmosféra našeho brněnského Vue.js kolektivu 😊
+
+
+        '
+      og_title: 'Vue.js Meetup Brno #4 | Meetup'
       image: https://secure.meetupstatic.com/photos/event/a/8/0/c/600_491323020.jpeg
       url: https://www.meetup.com/vuejs-cz-sk/events/271623946/
       ical:
@@ -55,8 +63,11 @@ series:
         dtstart: 2020-07-29 18:30:00+02:00
         dtend: 2020-07-29 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Mar 2, 2020, 6:30 PM: Na druhém meetupu jsme se koukli na Typescript ve Vue, Vue CLI a novinky ve Vue3.Na třetím meetupu kromě jiného s Vue3 pokračujeme. A připájíme i téma, které jste si sami od'
-      og_title: 'Vue.js Meetup Brno #3'
+      meta_description: 'Mon, Mar 2, 5:30 PM: Na druhém meetupu jsme se koukli na Typescript ve Vue, Vue CLI a novinky ve Vue3.
+
+
+        Na třetím meetupu kromě jiného s Vue3 pokračujeme. A připájíme i téma, které jste si sami'
+      og_title: 'Vue.js Meetup Brno #3 | Meetup'
       image: https://secure.meetupstatic.com/photos/event/3/a/1/1/600_488954865.jpeg
       url: https://www.meetup.com/vuejs-cz-sk/events/268655132/
       ical:
@@ -105,8 +116,11 @@ series:
         dtstart: 2020-01-22 18:30:00+01:00
         dtend: 2020-01-22 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Oct 6, 2021, 6:30 PM: Registrace na event tady: https://www.eventbrite.com/e/vuejs-meetup-brno-6-tickets-175523534617Tentokrát se potkáme konečně naživo, opět nad zajímavými tématy z Vue.js vesmí'
-      og_title: 'Vue.js Meetup Brno #6'
+      meta_description: 'Wed, Oct 6, 4:30 PM: Registrace na event tady: https://www.eventbrite.com/e/vuejs-meetup-brno-6-tickets-175523534617
+
+
+        Tentokrát se potkáme konečně naživo, opět nad zajímavými tématy z Vue.js ve'
+      og_title: 'Vue.js Meetup Brno #6 | Meetup'
       image: https://secure.meetupstatic.com/photos/event/5/9/b/4/600_495982964.jpeg
       url: https://www.meetup.com/vuejs-cz-sk/events/280895996/
       ical:

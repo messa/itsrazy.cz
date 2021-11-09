@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/a/a/3/8/600_495223576.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Sep 8, 2021, 6:00 PM: Podzimní Ladies’ Coding Night s Green Fox Academy - jeden večer, při kterém se uskuteční debata s inspirativními ženami z IT oboru a workshop základů programování v JavaScri'
-      og_title: Ladies' Coding Night / online
+      meta_description: 'Wed, Sep 8, 4:00 PM: Podzimní Ladies’ Coding Night s Green Fox Academy - jeden večer, při kterém se uskuteční debata s inspirativními ženami z IT oboru a workshop základů programování v JavaScr'
+      og_title: Ladies' Coding Night / online | Meetup
       image: https://secure.meetupstatic.com/photos/event/3/4/7/4/600_498433428.jpeg
       url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/280381087/
       ical:
@@ -106,8 +106,11 @@ series:
         dtstart: 2021-06-29 18:00:00+02:00
         dtend: 2021-06-29 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Sep 29, 2021, 6:00 PM: Jak změnit kariéru a rekvalifikovat se do IT oboru? Jak probíhá kurz Junior programátor v Green Fox Academy a v čem spočívá výběrové řízení?Připojte se k naší online schůzc'
-      og_title: Online informační schůzka - Jak se rekvalifikovat do IT?
+      meta_description: 'Wed, Sep 29, 4:00 PM: Jak změnit kariéru a rekvalifikovat se do IT oboru? Jak probíhá kurz Junior programátor v Green Fox Academy a v čem spočívá výběrové řízení?
+
+
+        Připojte se k naší online schů'
+      og_title: Online informační schůzka - Jak se rekvalifikovat do IT? | Meetup
       image: https://secure.meetupstatic.com/photos/event/3/a/6/600_498840934.jpeg
       url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/280792094/
       ical:
@@ -131,8 +134,11 @@ series:
         dtstart: 2021-09-29 18:00:00+02:00
         dtend: 2021-09-29 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Oct 13, 2021, 6:00 PM: Chceš vyzkoušet programování a setkat se online s mentory Green Fox Academy?Připoj se k našemu večernímu workshopu, který proběhne online ve středu 13. října od 18 hodin. P'
-      og_title: 'Online workshop: Základy programování'
+      meta_description: 'Wed, Oct 13, 4:00 PM: Chceš vyzkoušet programování a setkat se online s mentory Green Fox Academy?
+
+
+        Připoj se k našemu večernímu workshopu, který proběhne online ve středu 13. října od 18 hodin.'
+      og_title: 'Online workshop: Základy programování | Meetup'
       image: https://secure.meetupstatic.com/photos/event/a/3/2/f/600_499301775.jpeg
       url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/281244326/
       ical:
@@ -156,8 +162,11 @@ series:
         dtstart: 2021-10-13 18:00:00+02:00
         dtend: 2021-10-13 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 26, 2021, 6:00 PM: Pokud přemýšlíš o změně kariéry a zajímá tě programování, připoj se k naší informační schůzce, kde se dozvíš všechno potřebné o rekvalifikaci do tohoto oboru.Poznáš členy n'
-      og_title: 'Online informační schůzka: Jak se rekvalifikovat na programátora?'
+      meta_description: 'Tue, Oct 26, 4:00 PM: Pokud přemýšlíš o změně kariéry a zajímá tě programování, připoj se k naší informační schůzce, kde se dozvíš všechno potřebné o rekvalifikaci do tohoto oboru.
+
+
+        Poznáš členy'
+      og_title: 'Online informační schůzka: Jak se rekvalifikovat na programátora? | Meetup'
       url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/281629117/
       ical:
         summary: 'Online informační schůzka: Jak se rekvalifikovat na programátora?'
