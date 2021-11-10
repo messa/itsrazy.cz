@@ -326,3 +326,28 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/281648170/
         dtstart: 2021-11-23 09:00:00+01:00
         dtend: 2021-11-23 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Dec 1, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ai-deep-learning-v-praxi/Na co se můžete těšit:Hluboké neuronové sítě dnes ve většině úloh spojených s Computer visio'
+      og_title: AI – Deep Learning v praxi
+      image: https://secure.meetupstatic.com/photos/event/c/a/1/600_499743233.jpeg
+      url: https://www.meetup.com/Morning-Talks/events/281648217/
+      ical:
+        summary: AI – Deep Learning v praxi
+        description: 'Morning Talks
+
+          Wednesday, December 1 at 9:00 AM
+
+
+          REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ai-deep-learning-v-praxi/ Na co se můžete těšit: Hluboké neuronové sítě dnes ve většině úloh s...
+
+
+          https://www.meetup.com/Morning-Talks/events/281648217/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281648217@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/281648217/
+        dtstart: 2021-12-01 09:00:00+01:00
+        dtend: 2021-12-01 10:00:00+01:00
