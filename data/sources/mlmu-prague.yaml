@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/c/2/f/a/600_455269914.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Jun 24, 5:00 PM: The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that tradition'
-      og_title: 'D<AI>DALOS – Post-Human Creativity: The Use of AI in Art | Meetup'
+      meta_description: 'Thu, Jun 24, 2021, 7:00 PM: The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that tradition'
+      og_title: 'D<AI>DALOS – Post-Human Creativity: The Use of AI in Art'
       image: https://secure.meetupstatic.com/photos/event/c/e/2/6/600_496912774.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/278824052/
       ical:
@@ -31,8 +31,8 @@ series:
         dtstart: 2021-06-24 19:00:00+02:00
         dtend: 2021-06-24 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Jun 7, 5:30 PM: We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the opening lecture of a discu'
-      og_title: 'D<AI>DALOS – From Automation to Intelligence: The Long History of AI | Meetup'
+      meta_description: 'Mon, Jun 7, 2021, 7:30 PM: We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the opening lecture of a discus'
+      og_title: 'D<AI>DALOS – From Automation to Intelligence: The Long History of AI'
       image: https://secure.meetupstatic.com/photos/event/d/4/a/2/600_496614434.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/278523643/
       ical:
@@ -55,11 +55,8 @@ series:
         dtstart: 2021-06-07 19:30:00+02:00
         dtend: 2021-06-07 21:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, May 26, 4:00 PM: The talks will be live on YouTube.
-
-
-        Multiple speakers will shows us how they different technologies to successfully implement MLOps with variety of organizations and they w'
-      og_title: 'MLMU Online #15: Key factors of successful MLOps | Meetup'
+      meta_description: 'Wed, May 26, 2021, 6:00 PM: The talks will be live on YouTube.Multiple speakers will shows us how they different technologies to successfully implement MLOps with variety of organizations and they wil'
+      og_title: 'MLMU Online #15: Key factors of successful MLOps'
       image: https://secure.meetupstatic.com/photos/event/7/8/c/600_496381932.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/278273820/
       ical:
@@ -108,11 +105,8 @@ series:
         dtstart: 2021-04-21 18:00:00+02:00
         dtend: 2021-04-21 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Oct 14, 4:00 PM: Přednáška bude online na YouTube a v češtině!
-
-
-        Výběr vhodného nástroje pro provoz ML modelů je jedním z kritických rozhodnutí při návrhu produkční infrastruktury. Srovnali '
-      og_title: 'MLMU Online#16: Kvantitativní porovnání platforem pro produkční provoz ML modelů | Meetup'
+      meta_description: 'Thu, Oct 14, 2021, 6:00 PM: Přednáška bude online na YouTube a v češtině!Výběr vhodného nástroje pro provoz ML modelů je jedním z kritických rozhodnutí při návrhu produkční infrastruktury. Srovnali js'
+      og_title: 'MLMU Online#16: Kvantitativní porovnání platforem pro produkční provoz ML modelů'
       image: https://secure.meetupstatic.com/photos/event/4/1/2/6/600_499336678.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/281293818/
       ical:

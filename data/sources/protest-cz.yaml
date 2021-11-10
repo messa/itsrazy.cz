@@ -6,10 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/4/b/c/0/600_491719392.jpeg
   events:
   - meetupcom:
-      meta_description: 'Sun, Sep 5, 1:00 PM: Tentokrát bude setkání osobně, těšíme se na Vás!
-
-        Nachystali jsme si pro Vás dvě přednášky od Petra Fifky a Marcela Veselky. Stanete se také součástí natáčení podcastu Kvali'
-      og_title: 102. [pro:]TEST! - Testovací odpoledne s Kvalitním Kafem | Meetup
+      meta_description: 'Sun, Sep 5, 2021, 3:00 PM: Tentokrát bude setkání osobně, těšíme se na Vás!Nachystali jsme si pro Vás dvě přednášky od Petra Fifky a Marcela Veselky. Stanete se také součástí natáčení podcastu Kvalitn'
+      og_title: 102. [pro:]TEST! - Testovací odpoledne s Kvalitním Kafem
       image: https://secure.meetupstatic.com/photos/event/d/7/b/e/600_498415230.jpeg
       url: https://www.meetup.com/protest_cz/events/280210840/
       ical:
@@ -32,10 +30,8 @@ series:
         dtstart: 2021-09-05 15:00:00+02:00
         dtend: 2021-09-05 18:15:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jul 27, 4:00 PM: Anotace přednášky
-
-        Zuzana nás nebude učit dělat penetrační testy a další pokročilé úlohy z kybernetické bezpečnosti, ale bude nám vyprávět o tom, čeho si můžeme při normální'
-      og_title: 101. [pro:]TEST! - Testujeme okem informační bezpečnosti se Zuzanou Pechovou | Meetup
+      meta_description: 'Tue, Jul 27, 2021, 6:00 PM: Anotace přednáškyZuzana nás nebude učit dělat penetrační testy a další pokročilé úlohy z kybernetické bezpečnosti, ale bude nám vyprávět o tom, čeho si můžeme při normálním'
+      og_title: 101. [pro:]TEST! - Testujeme okem informační bezpečnosti se Zuzanou Pechovou
       image: https://secure.meetupstatic.com/photos/event/5/b/9/9/600_497663449.jpeg
       url: https://www.meetup.com/protest_cz/events/279598290/
       ical:
@@ -59,8 +55,8 @@ series:
         dtstart: 2021-07-27 18:00:00+02:00
         dtend: 2021-07-27 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jul 13, 4:00 PM: Je to neuvěřitelné, ale je to tu! 100. setkání komunity. 100 přednášek, workshopů, panelovek, diskusí. A co je hlavní, 100x jsme se sešli. Ani covid nám nezabránil dál rozv'
-      og_title: 100. [pro:]TEST! REUNION | Meetup
+      meta_description: 'Tue, Jul 13, 2021, 6:00 PM: Je to neuvěřitelné, ale je to tu! 100. setkání komunity. 100 přednášek, workshopů, panelovek, diskusí. A co je hlavní, 100x jsme se sešli. Ani covid nám nezabránil dál rozv'
+      og_title: 100. [pro:]TEST! REUNION
       image: https://secure.meetupstatic.com/photos/event/c/e/9/f/600_497392895.jpeg
       url: https://www.meetup.com/protest_cz/events/279340696/
       ical:
@@ -109,16 +105,8 @@ series:
         dtstart: 2021-06-08 18:00:00+02:00
         dtend: 2021-06-08 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 26, 4:00 PM: Anotace Přednášky
-
-
-        “Předpoklad místo důkazu, aneb pohled DevOpsáka na testování skrze celý software delivery chain.”
-
-
-        Pár slov o speakerovi
-
-        V současnosti působí jako E-comm'
-      og_title: 103. [pro:]TEST! Martin Hrášek✨ expect(true).toBeTruthy() | Meetup
+      meta_description: 'Tue, Oct 26, 2021, 6:00 PM: Anotace Přednášky“Předpoklad místo důkazu, aneb pohled DevOpsáka na testování skrze celý software delivery chain.”Pár slov o speakeroviV současnosti působí jako E-commerce '
+      og_title: 103. [pro:]TEST! Martin Hrášek✨ expect(true).toBeTruthy()
       image: https://secure.meetupstatic.com/photos/event/4/8/2/a/600_499638474.jpeg
       url: https://www.meetup.com/protest_cz/events/281566536/
       ical:

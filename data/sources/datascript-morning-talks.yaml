@@ -204,14 +204,8 @@ series:
         dtstart: 2021-10-26 09:00:00+02:00
         dtend: 2021-10-26 10:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Nov 3, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/uvod-do-devsecops/
-
-
-        Na co se můžete těšit:
-
-
-        Kdo je to ten DevSecOps a co na něj Jan Tleskač? DevOps dnes už zná i va'
-      og_title: Úvod do DevSecops | Meetup
+      meta_description: 'Wed, Nov 3, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/uvod-do-devsecops/Na co se můžete těšit:Kdo je to ten DevSecOps a co na něj Jan Tleskač? DevOps dnes už zná i vaše ba'
+      og_title: Úvod do DevSecops
       url: https://www.meetup.com/Morning-Talks/events/281648054/
       ical:
         summary: Úvod do DevSecops
@@ -235,14 +229,8 @@ series:
         dtend: 2021-11-03 10:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/c/2/c/600_499743116.jpeg
   - meetupcom:
-      meta_description: 'Wed, Nov 10, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/elastic-stack-observability-a-vyhledavani/
-
-
-        Na co se můžete těšit:
-
-
-        Search. Observability. Kubernetes. Elastic Stack'
-      og_title: Elastic Stack - observability a vyhledávání | Meetup
+      meta_description: 'Wed, Nov 10, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/elastic-stack-observability-a-vyhledavani/Na co se můžete těšit:Search. Observability. Kubernetes. Elastic Stack dne'
+      og_title: Elastic Stack - observability a vyhledávání
       url: https://www.meetup.com/Morning-Talks/events/281648071/
       ical:
         summary: Elastic Stack - observability a vyhledávání
@@ -266,14 +254,8 @@ series:
         dtend: 2021-11-10 10:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/c/4/9/600_499743145.jpeg
   - meetupcom:
-      meta_description: 'Thu, Nov 11, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/licencni-aktuality-ze-sveta-atlassian/
-
-
-        Na co se můžete těšit:
-
-
-        V poslední roce se událo mnoho změn, které zahýbaly '
-      og_title: Licenční aktuality ze světa Atlassian  | Meetup
+      meta_description: 'Thu, Nov 11, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/licencni-aktuality-ze-sveta-atlassian/Na co se můžete těšit:V poslední roce se událo mnoho změn, které zahýbaly Atla'
+      og_title: 'Licenční aktuality ze světa Atlassian '
       url: https://www.meetup.com/Morning-Talks/events/281648084/
       ical:
         summary: 'Licenční aktuality ze světa Atlassian '
@@ -297,14 +279,8 @@ series:
         dtend: 2021-11-11 10:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/c/5/3/600_499743155.jpeg
   - meetupcom:
-      meta_description: 'Tue, Nov 16, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/dynamicka-infrastruktura-v-consulu/
-
-
-        Na co se můžete těšit:
-
-
-        V měnící se infrastruktuře je těžké udržovat seznam slu'
-      og_title: Dynamická infrastruktura v Consulu | Meetup
+      meta_description: 'Tue, Nov 16, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/dynamicka-infrastruktura-v-consulu/Na co se můžete těšit:V měnící se infrastruktuře je těžké udržovat seznam služeb '
+      og_title: Dynamická infrastruktura v Consulu
       image: https://secure.meetupstatic.com/photos/event/c/6/1/600_499743169.jpeg
       url: https://www.meetup.com/Morning-Talks/events/281648112/
       ical:
@@ -327,14 +303,8 @@ series:
         dtstart: 2021-11-16 09:00:00+01:00
         dtend: 2021-11-16 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Nov 23, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ceph-storage-tak-trochu-jinak/
-
-
-        Na co se můžete těšit:
-
-
-        Zajímá vás trošku jiný pohled na ukládání dat? Rádi byste mě'
-      og_title: CEPH – Storage tak trochu jinak | Meetup
+      meta_description: 'Tue, Nov 23, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ceph-storage-tak-trochu-jinak/Na co se můžete těšit:Zajímá vás trošku jiný pohled na ukládání dat? Rádi byste měli m'
+      og_title: CEPH – Storage tak trochu jinak
       image: https://secure.meetupstatic.com/photos/event/c/8/c/600_499743212.jpeg
       url: https://www.meetup.com/Morning-Talks/events/281648170/
       ical:

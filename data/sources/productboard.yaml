@@ -137,8 +137,8 @@ series:
         dtstart: 2021-10-19 18:00:00+02:00
         dtend: 2021-10-19 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Oct 20, 4:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as'
-      og_title: 'Frontend Meetup PRG #2 - Offline + Livestreaming | Meetup'
+      meta_description: 'Wed, Oct 20, 2021, 6:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as'
+      og_title: 'Frontend Meetup PRG #2 - Offline + Livestreaming'
       image: https://secure.meetupstatic.com/photos/event/9/b/d/1/600_499419889.jpeg
       url: https://www.meetup.com/productboard-meetups/events/281355157/
       ical:
@@ -162,8 +162,8 @@ series:
         dtstart: 2021-10-20 18:00:00+02:00
         dtend: 2021-10-20 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 30, 5:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as'
-      og_title: 'Frontend Meetup #3 | Meetup'
+      meta_description: 'Tue, Nov 30, 2021, 6:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as'
+      og_title: 'Frontend Meetup #3'
       url: https://www.meetup.com/productboard-meetups/events/281628250/
       ical:
         summary: 'Frontend Meetup #3'

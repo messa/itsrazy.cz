@@ -131,8 +131,8 @@ series:
         dtstart: 2021-10-14 17:00:00+02:00
         dtend: 2021-10-14 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Oct 18, 10:00 AM: Let''s continue the conversation; build smart and build secure with the right tools and services by working with the world’s largest technical support provider for open sour'
-      og_title: Developer Festival | Meetup
+      meta_description: 'Mon, Oct 18, 2021, 12:00 PM: Let''s continue the conversation; build smart and build secure with the right tools and services by working with the world’s largest technical support provider for open sou'
+      og_title: Developer Festival
       image: https://secure.meetupstatic.com/photos/event/b/2/d/1/600_499485777.jpeg
       url: https://www.meetup.com/IBM-Developer-Prague/events/281430037/
       ical:
@@ -156,8 +156,8 @@ series:
         dtstart: 2021-10-18 12:00:00+02:00
         dtend: 2021-10-20 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Nov 18, 3:00 PM: 🌍Today everyone is talking about cloud-native services and you might ask yourself what does it really means? Why is it so popular? One of the major cloud-native services a'
-      og_title: Microservices and CloudNative Architecture:Key Use Cases and practical solutions | Meetup
+      meta_description: 'Thu, Nov 18, 2021, 4:00 PM: 🌍Today everyone is talking about cloud-native services and you might ask yourself what does it really means? Why is it so popular? One of the major cloud-native services a'
+      og_title: Microservices and CloudNative Architecture:Key Use Cases and practical solutions
       url: https://www.meetup.com/IBM-Developer-Prague/events/281975947/
       ical:
         summary: Microservices and CloudNative Architecture:Key Use Cases and practical solutions
@@ -179,3 +179,4 @@ series:
         url: https://www.meetup.com/IBM-Developer-Prague/events/281975947/
         dtstart: 2021-11-18 16:00:00+01:00
         dtend: 2021-11-18 18:00:00+01:00
+      image: https://secure.meetupstatic.com/photos/event/2/e/9/b/600_500111931.jpeg

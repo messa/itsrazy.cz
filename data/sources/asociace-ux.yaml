@@ -230,11 +230,8 @@ series:
         dtend: 2021-11-01 20:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/1/6/c/d/600_499745837.jpeg
   - meetupcom:
-      meta_description: 'Thu, Nov 4, 6:00 PM: Are you a UX writer, UX designer, UX researcher, or are just UX curious? Come on out for the next Prague UX Writers meetup!
-
-
-        If you have something you want to talk about or'
-      og_title: PRAGUE UX WRITERS MEETUP Vol. 23 - November | Meetup
+      meta_description: 'Thu, Nov 4, 2021, 7:00 PM: Are you a UX writer, UX designer, UX researcher, or are just UX curious? Come on out for the next Prague UX Writers meetup!If you have something you want to talk about or sh'
+      og_title: PRAGUE UX WRITERS MEETUP Vol. 23 - November
       url: https://www.meetup.com/asociace-ux/events/281657918/
       ical:
         summary: PRAGUE UX WRITERS MEETUP Vol. 23 - November
@@ -258,11 +255,8 @@ series:
         dtend: 2021-11-04 20:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/3/3/2/b/600_499753099.jpeg
   - meetupcom:
-      meta_description: 'Thu, Nov 11, 4:00 PM: Tématem WUDu 2021 je důvěra, integrita a etika v UX designu. WUD bude letos kratší, večerní, a bude mít formu panelové diskuse.
-
-
-        Diskutovat budeme o tom, jaké otázky si mám'
-      og_title: 'World Usability Day 2021: Důvěra, integrita a etika | Meetup'
+      meta_description: 'Thu, Nov 11, 2021, 5:00 PM: Tématem WUDu 2021 je důvěra, integrita a etika v UX designu. WUD bude letos kratší, večerní, a bude mít formu panelové diskuse.Diskutovat budeme o tom, jaké otázky si máme '
+      og_title: 'World Usability Day 2021: Důvěra, integrita a etika'
       url: https://www.meetup.com/asociace-ux/events/281853283/
       ical:
         summary: 'World Usability Day 2021: Důvěra, integrita a etika'
