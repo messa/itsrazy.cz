@@ -280,3 +280,28 @@ series:
         url: https://www.meetup.com/Tesena-testing-club/events/281564810/
         dtstart: 2021-11-30 10:00:00+01:00
         dtend: 2021-11-30 11:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Dec 7, 2021, 10:00 AM: Současné přístupy k testovaní zdržují vývoj a jsou dlouhodobě neudržitelné. Automatizovaní testů bylo dlouho tím, co to mělo vyřešit. Nestalo se.Automatizace je dnes standa'
+      og_title: Autonomní testování
+      image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
+      url: https://www.meetup.com/Tesena-testing-club/events/281564820/
+      ical:
+        summary: Autonomní testování
+        description: 'Tesena Testing Club
+
+          Tuesday, December 7 at 10:00 AM
+
+
+          Současné přístupy k testovaní zdržují vývoj a jsou dlouhodobě neudržitelné. Automatizovaní testů bylo dlouho tím, co to mělo vyřešit. Nestalo se. Auto...
+
+
+          https://www.meetup.com/Tesena-testing-club/events/281564820/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281564820@meetup.com
+        url: https://www.meetup.com/Tesena-testing-club/events/281564820/
+        dtstart: 2021-12-07 10:00:00+01:00
+        dtend: 2021-12-07 11:00:00+01:00
