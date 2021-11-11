@@ -351,3 +351,28 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/281648217/
         dtstart: 2021-12-01 09:00:00+01:00
         dtend: 2021-12-01 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Dec 7, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/enterprise-linux-8-rhelcentos-8/Na co se můžete těšit:Používáte operační systém Red Hat Enterprise Linux (nebo jeho k'
+      og_title: Enterprise Linux 8 (RHEL/CentOS 8)
+      image: https://secure.meetupstatic.com/photos/event/c/b/2/600_499743250.jpeg
+      url: https://www.meetup.com/Morning-Talks/events/281648243/
+      ical:
+        summary: Enterprise Linux 8 (RHEL/CentOS 8)
+        description: 'Morning Talks
+
+          Tuesday, December 7 at 9:00 AM
+
+
+          REGISTRACE ZDE: https://www.datascript.cz/morning-talks/enterprise-linux-8-rhelcentos-8/ Na co se můžete těšit: Používáte operační systém Red Hat Ente...
+
+
+          https://www.meetup.com/Morning-Talks/events/281648243/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281648243@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/281648243/
+        dtstart: 2021-12-07 09:00:00+01:00
+        dtend: 2021-12-07 10:00:00+01:00
