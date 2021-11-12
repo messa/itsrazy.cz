@@ -182,14 +182,14 @@ series:
         dtstart: 2021-11-09 11:00:00+01:00
         dtend: 2021-11-09 12:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Nov 16, 2021, 4:00 PM: Hi Makers!Join us on November 16 to hear from industry experts at MarketAxess on how they are leveraging AI and cloud to improve the functioning of the bond market. MarketA'
+      meta_description: 'Tue, Nov 16, 2021, 5:00 PM: Hi Makers!Join us on November 16 to hear from industry experts at MarketAxess on how they are leveraging AI and cloud to improve the functioning of the bond market. MarketA'
       og_title: '[Virtual Event] Solving challenges in the world’s largest bond marketplace'
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281975812/
       ical:
         summary: '[Virtual Event] Solving challenges in the world’s largest bond marketplace'
         description: 'Prague Artificial Intelligence & Deep Learning
 
-          Tuesday, November 16 at 4:00 PM
+          Tuesday, November 16 at 5:00 PM
 
 
           Hi Makers! Join us on November 16 to hear from industry experts at MarketAxess on how they are leveraging AI and cloud to improve the functioning of t...
@@ -203,9 +203,9 @@ series:
         status: CONFIRMED
         uid: event_281975812@meetup.com
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281975812/
-        dtstart: 2021-11-16 16:00:00+01:00
-        dtend: 2021-11-16 17:00:00+01:00
-      image: https://secure.meetupstatic.com/photos/event/2/e/2/9/600_500111817.jpeg
+        dtstart: 2021-11-16 17:00:00+01:00
+        dtend: 2021-11-16 18:00:00+01:00
+      image: https://secure.meetupstatic.com/photos/event/1/d/5/e/600_500167518.jpeg
   - meetupcom:
       meta_description: 'Wed, Dec 1, 2021, 10:00 AM: Machine-Learning can help every organisation solve the most challenging analytical problems, but complex systems and skills gaps can prevent organisations from exploiting i'
       og_title: Accelerating Machine-Learning with Snowflake and H2O.ai

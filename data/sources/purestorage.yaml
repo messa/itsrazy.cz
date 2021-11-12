@@ -155,3 +155,28 @@ series:
         url: https://www.meetup.com/Pure-Storage-Talks/events/281401178/
         dtstart: 2021-11-11 18:00:00+01:00
         dtend: 2021-11-11 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Dec 9, 2021, 6:00 PM: PURE has landed in Prague 2 years ago and what a journey has been since then. We have proven that we are a strong company even through most difficult of times, a company tha'
+      og_title: 'Story of PURE in Prague || Chapter Two: Hacking the Future of Data'
+      image: https://secure.meetupstatic.com/photos/event/a/7/8/600_500162680.jpeg
+      url: https://www.meetup.com/Pure-Storage-Talks/events/282039970/
+      ical:
+        summary: 'Story of PURE in Prague || Chapter Two: Hacking the Future of Data'
+        description: 'Pure Storage Talks
+
+          Thursday, December 9 at 6:00 PM
+
+
+          PURE has landed in Prague 2 years ago and what a journey has been since then. We have proven that we are a strong company even through most difficult ...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/282039970/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282039970@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/282039970/
+        dtstart: 2021-12-09 18:00:00+01:00
+        dtend: 2021-12-09 19:30:00+01:00

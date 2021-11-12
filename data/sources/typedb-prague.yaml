@@ -477,7 +477,7 @@ series:
         dtend: 2021-11-17 19:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/c/d/6/2/600_497332578.jpeg
   - meetupcom:
-      meta_description: 'Thu, Nov 18, 2021, 6:30 PM: Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform kno'
+      meta_description: 'Thu, Nov 18, 2021, 5:00 PM: Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform kno'
       og_title: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise
       image: https://secure.meetupstatic.com/photos/event/b/3/a/d/600_496365997.jpeg
       url: https://www.meetup.com/typedb-prague/events/280964730/
@@ -485,7 +485,7 @@ series:
         summary: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise
         description: 'TypeDB Prague Engineers
 
-          Thursday, November 18 at 6:30 PM
+          Thursday, November 18 at 5:00 PM
 
           \nCognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query l...
 
@@ -498,8 +498,8 @@ series:
         status: CONFIRMED
         uid: event_280964730@meetup.com
         url: https://www.meetup.com/typedb-prague/events/280964730/
-        dtstart: 2021-11-18 18:30:00+01:00
-        dtend: 2021-11-18 19:30:00+01:00
+        dtstart: 2021-11-18 17:00:00+01:00
+        dtend: 2021-11-18 18:00:00+01:00
   - meetupcom:
       meta_description: 'Tue, Nov 23, 2021, 6:30 PM: Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However, relational datab'
       og_title: Beyond SQL | Comparing SQL to TypeQL
