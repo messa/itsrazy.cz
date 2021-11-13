@@ -1,8 +1,8 @@
 series:
   meetupcom:
-    url: https://www.meetup.com/vuejs-cz-sk/
-    meta_description: Přijďte se seznámit a poklábosit si o progresivním JS frameworku Vue.js a vývoji webových stránek a aplikací.Chystáme setkání v Praze a Brně s prezentacemi, novinkami z komunity i ukázkami případových
-    og_title: Vue.js CZ/SK (Prague, Czech Republic)
+    url: https://www.meetup.com/login/
+    meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+    og_title: Login to Meetup | Meetup
     image: https://secure.meetupstatic.com/photos/event/b/1/e/7/600_469905543.jpeg
   events:
   - meetupcom:
