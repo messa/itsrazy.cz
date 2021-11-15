@@ -231,3 +231,28 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281995999/
         dtstart: 2021-12-01 10:00:00+01:00
         dtend: 2021-12-01 11:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Nov 18, 2021, 7:00 PM: Hello Maker,Join us on November 18th for our next live event on LinkedIn, Twitter, and YouTube. I will be discussing the H2O.ai Wildfire Challenge (our first AI competition'
+      og_title: 'Make with H2O: Introducing the Wildfire Challenge'
+      image: https://secure.meetupstatic.com/photos/event/6/d/8/7/600_500248039.jpeg
+      url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282102611/
+      ical:
+        summary: 'Make with H2O: Introducing the Wildfire Challenge'
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Thursday, November 18 at 7:00 PM
+
+
+          Hello Maker, Join us on November 18th for our next live event on LinkedIn, Twitter, and YouTube. I will be discussing the H2O.ai Wildfire Challenge (o...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282102611/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282102611@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282102611/
+        dtstart: 2021-11-18 19:00:00+01:00
+        dtend: 2021-11-18 20:00:00+01:00
