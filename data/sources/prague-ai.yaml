@@ -256,3 +256,28 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282102611/
         dtstart: 2021-11-18 19:00:00+01:00
         dtend: 2021-11-18 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Dec 2, 2021, 4:00 PM: The possibilities of AI in the production process seem to be almost limitless, from autonomous driving to secure payment transactions. Especially in the manufacturing indust'
+      og_title: 'AI-Driven Manufacturing '
+      image: https://secure.meetupstatic.com/photos/event/a/1/c/6/600_500261414.jpeg
+      url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282116019/
+      ical:
+        summary: 'AI-Driven Manufacturing '
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Thursday, December 2 at 4:00 PM
+
+
+          The possibilities of AI in the production process seem to be almost limitless, from autonomous driving to secure payment transactions. Especially in t...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282116019/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282116019@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282116019/
+        dtstart: 2021-12-02 16:00:00+01:00
+        dtend: 2021-12-02 17:00:00+01:00
