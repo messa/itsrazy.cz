@@ -128,3 +128,27 @@ series:
         url: https://www.meetup.com/protest_cz/events/281566536/
         dtstart: 2021-10-26 18:00:00+02:00
         dtend: 2021-10-26 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Nov 30, 2021, 6:00 PM: AnnotationPuppeteer is a node library that provides high-level API to control chrome and chromium. Puppeteer can also be used for browser automation as it has all capabilit'
+      og_title: 104. [pro:]TEST! – Vivek Shringi about Puppeteer
+      image: https://secure.meetupstatic.com/photos/event/b/b/0/e/600_500267886.jpeg
+      url: https://www.meetup.com/protest_cz/events/282124529/
+      ical:
+        summary: 104. [pro:]TEST! – Vivek Shringi about Puppeteer
+        description: '[pro:]TEST!
+
+          Tuesday, November 30 at 6:00 PM
+
+
+          AnnotationPuppeteer is a node library that provides high-level API to control chrome and chromium. Puppeteer can also be used for browser automation a...
+
+          \nhttps://www.meetup.com/protest_cz/events/282124529/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282124529@meetup.com
+        url: https://www.meetup.com/protest_cz/events/282124529/
+        dtstart: 2021-11-30 18:00:00+01:00
+        dtend: 2021-11-30 19:00:00+01:00

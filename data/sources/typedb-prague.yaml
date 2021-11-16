@@ -403,7 +403,7 @@ series:
         dtstart: 2021-11-10 18:30:00+01:00
         dtend: 2021-11-10 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 11, 2021, 6:30 PM: How might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine?We''ll visit the key ideas behind actors, and then walk through how we b'
+      meta_description: 'Tue, Nov 30, 2021, 6:30 PM: How might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine?We''ll visit the key ideas behind actors, and then walk through how we b'
       og_title: Reasoner Meet Actors | TypeDB's Native Reasoning Engine
       image: https://secure.meetupstatic.com/photos/event/1/6/7/f/600_498365759.jpeg
       url: https://www.meetup.com/typedb-prague/events/280962390/
@@ -411,9 +411,10 @@ series:
         summary: Reasoner Meet Actors | TypeDB's Native Reasoning Engine
         description: 'TypeDB Prague Engineers
 
-          Thursday, November 11 at 6:30 PM
+          Tuesday, November 30 at 6:30 PM
 
-          \nHow might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine? We''ll visit the key ideas behind actors, and the...
+
+          How might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine? We''ll visit the key ideas behind actors, and the...
 
 
           https://www.meetup.com/typedb-prague/events/280962390/'
@@ -424,8 +425,8 @@ series:
         status: CONFIRMED
         uid: event_280962390@meetup.com
         url: https://www.meetup.com/typedb-prague/events/280962390/
-        dtstart: 2021-11-11 18:30:00+01:00
-        dtend: 2021-11-11 19:30:00+01:00
+        dtstart: 2021-11-30 18:30:00+01:00
+        dtend: 2021-11-30 19:30:00+01:00
   - meetupcom:
       meta_description: 'Tue, Nov 16, 2021, 6:30 PM: Computational biology has revolutionised biomedicine. The volume of data it is generating is growing exponentially. This requires tools that enable computational and non-co'
       og_title: Enabling the Computational Future of Biology
