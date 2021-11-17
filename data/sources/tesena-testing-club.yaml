@@ -305,3 +305,28 @@ series:
         url: https://www.meetup.com/Tesena-testing-club/events/281564820/
         dtstart: 2021-12-07 10:00:00+01:00
         dtend: 2021-12-07 11:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Nov 24, 2021, 5:30 PM: . . . a takto to cele zacalo. Cypress.io aj Playwright majú čo ponúknuť. Ak ste ešte nevybrali, nebude to jednoduché. . . .Filip a Marcel pokecajú o týchto 2 nástrojoch ako'
+      og_title: 'Playwright & Cypress.io: kde sme teraz a aká bude budúcnosť . . .'
+      image: https://secure.meetupstatic.com/photos/event/c/5/1/0/600_500270448.jpeg
+      url: https://www.meetup.com/Tesena-testing-club/events/282127769/
+      ical:
+        summary: 'Playwright & Cypress.io: kde sme teraz a aká bude budúcnosť . . .'
+        description: 'Tesena Testing Club
+
+          Wednesday, November 24 at 5:30 PM
+
+
+          . . . a takto to cele zacalo. Cypress.io aj Playwright majú čo ponúknuť. Ak ste ešte nevybrali, nebude to jednoduché. . . . Filip a Marcel pokecajú o ...
+
+
+          https://www.meetup.com/Tesena-testing-club/events/282127769/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282127769@meetup.com
+        url: https://www.meetup.com/Tesena-testing-club/events/282127769/
+        dtstart: 2021-11-24 17:30:00+01:00
+        dtend: 2021-11-24 18:30:00+01:00
