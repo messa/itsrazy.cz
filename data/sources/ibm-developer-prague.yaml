@@ -156,14 +156,14 @@ series:
         dtstart: 2021-10-18 12:00:00+02:00
         dtend: 2021-10-20 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Nov 18, 2021, 4:00 PM: 🌍Today everyone is talking about cloud-native services and you might ask yourself what does it really means? Why is it so popular? One of the major cloud-native services a'
+      meta_description: 'Thu, Nov 25, 2021, 4:00 PM: 🌍Today everyone is talking about cloud-native services and you might ask yourself what does it really means? Why is it so popular? One of the major cloud-native services a'
       og_title: Microservices and CloudNative Architecture:Key Use Cases and practical solutions
       url: https://www.meetup.com/IBM-Developer-Prague/events/281975947/
       ical:
         summary: Microservices and CloudNative Architecture:Key Use Cases and practical solutions
         description: 'IBM Developer Czechia
 
-          Thursday, November 18 at 4:00 PM
+          Thursday, November 25 at 4:00 PM
 
 
           ??Today everyone is talking about cloud-native services and you might ask yourself what does it really means? Why is it so popular? One of the major cl...
@@ -177,6 +177,6 @@ series:
         status: CONFIRMED
         uid: event_281975947@meetup.com
         url: https://www.meetup.com/IBM-Developer-Prague/events/281975947/
-        dtstart: 2021-11-18 16:00:00+01:00
-        dtend: 2021-11-18 17:00:00+01:00
+        dtstart: 2021-11-25 16:00:00+01:00
+        dtend: 2021-11-25 17:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/2/e/9/b/600_500111931.jpeg
