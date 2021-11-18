@@ -279,3 +279,27 @@ series:
         dtstart: 2021-11-11 17:00:00+01:00
         dtend: 2021-11-11 20:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/a/a/7/4/600_500083636.jpeg
+  - meetupcom:
+      meta_description: 'Tue, Dec 7, 2021, 6:00 PM: UX dinner is a meeting of the UX community in Brno, where an informal dinner, a discussion about small design problems, the opportunity to find a mentor or a new project awa'
+      og_title: UX Dinner Brno in December
+      image: https://secure.meetupstatic.com/photos/event/5/3/4/5/600_500301317.jpeg
+      url: https://www.meetup.com/asociace-ux/events/282115964/
+      ical:
+        summary: UX Dinner Brno in December
+        description: 'Asociace UX
+
+          Tuesday, December 7 at 6:00 PM
+
+
+          UX dinner is a meeting of the UX community in Brno, where an informal dinner, a discussion about small design problems, the opportunity to find a ment...\n
+
+          https://www.meetup.com/asociace-ux/events/282115964/'
+        location: Za Zrcadlem (Jaselská 199/16, Brno-střed-Veveří, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282115964@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/282115964/
+        dtstart: 2021-12-07 18:00:00+01:00
+        dtend: 2021-12-07 21:00:00+01:00
