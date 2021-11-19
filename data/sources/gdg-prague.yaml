@@ -3,7 +3,7 @@ series:
     url: https://www.meetup.com/GDGPrague/
     meta_description: GDG (Google Developer Groups) Prague organizes public events for developers in Prague. GDG Prague is part of the non-profit organization GUG.cz.We have moved our activities to Meetup very recently, so
     og_title: GDG Prague (Prague, Czech Republic)
-    image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+    image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg
   events:
   - meetupcom:
       meta_description: 'Mon, Sep 13, 2021, 6:30 PM: • How to join?Online only because of covid https://meet.google.com/zzn-enqh-vnn• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/'
@@ -308,7 +308,7 @@ series:
   - meetupcom:
       meta_description: 'Fri, Nov 26, 2021, 1:00 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOWhttps://gdg.community.dev/events/details/google-gdg-prague-presents-devfestcz-connect-prague/DevFest.cz is o'
       og_title: 'DevFest.cz Connect: Prague'
-      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      image: https://secure.meetupstatic.com/photos/event/8/3/d/9/600_500313753.jpeg
       url: https://www.meetup.com/GDGPrague/events/281675919/
       ical:
         summary: 'DevFest.cz Connect: Prague'
@@ -321,7 +321,7 @@ series:
 
 
           https://www.meetup.com/GDGPrague/events/281675919/'
-        location: null
+        location: H40 - OSE Czech Republic (Bubenské nábřeží 306/13, Praha 7 - Holešovice-Praha 7, Czech Republic 170 00)
         geo:
           lat: 50.08
           lon: 14.43
@@ -358,7 +358,7 @@ series:
   - meetupcom:
       meta_description: 'Tue, Nov 9, 2021, 6:30 PM: • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/GDG Gara'
       og_title: GDG Garage Prague One, Tue, Nov 9, 2021, 6:30 PM
-      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg
       url: https://www.meetup.com/GDGPrague/events/xqcsqsyccpblb/
       ical:
         summary: GDG Garage Prague One
@@ -383,7 +383,7 @@ series:
   - meetupcom:
       meta_description: 'Tue, Nov 23, 2021, 6:30 PM: • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/GDG Gar'
       og_title: GDG Garage Prague One, Tue, Nov 23, 2021, 6:30 PM
-      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg
       url: https://www.meetup.com/GDGPrague/events/xqcsqsyccpbfc/
       ical:
         summary: GDG Garage Prague One
@@ -429,7 +429,7 @@ series:
         url: https://www.meetup.com/GDGPrague/events/xqcsqsyccqbkb/
         dtstart: 2021-12-07 18:30:00+01:00
         dtend: 2021-12-07 20:30:00+01:00
-      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg
   - meetupcom:
       meta_description: 'Tue, Dec 21, 2021, 6:30 PM: • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/GDG Gar'
       og_title: GDG Garage Prague One, Tue, Dec 21, 2021, 6:30 PM
@@ -454,4 +454,4 @@ series:
         url: https://www.meetup.com/GDGPrague/events/xqcsqsyccqbcc/
         dtstart: 2021-12-21 18:30:00+01:00
         dtend: 2021-12-21 20:30:00+01:00
-      image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
+      image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg

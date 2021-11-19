@@ -56,18 +56,18 @@ series:
         dtstart: 2021-11-10 18:00:00+01:00
         dtend: 2021-11-10 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Dec 8, 2021, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každo'
-      og_title: Meetup Frontedisti.cz, Wed, Dec 8, 2021, 7:00 PM
+      meta_description: 'Wed, Dec 8, 2021, 7:00 PM: Pomalu, ale jistě se nám blíží konec roku. Spolu s ním přichází i vánoční setkání Frontendisti.cz. Situace kolem koronaviru v ČR nám sice nedovolí uspořádat tradiční offline'
+      og_title: Vánoční meetup Frontedisti.cz, Wed, Dec 8, 2021, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsyccqblb/
       ical:
-        summary: Meetup Frontedisti.cz
+        summary: Vánoční meetup Frontedisti.cz
         description: 'Frontendisti.cz
 
           Wednesday, December 8 at 7:00 PM
 
 
-          Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat ...
+          Pomalu\, ale jistě se nám blíží konec roku. Spolu s ním přichází i vánoční setkání Frontendisti.cz. Situace kolem koronaviru v ČR nám sice nedovolí usp...
 
 
           https://www.meetup.com/frontendisti/events/280531796/'
