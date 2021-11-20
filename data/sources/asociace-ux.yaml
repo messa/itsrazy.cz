@@ -303,3 +303,28 @@ series:
         url: https://www.meetup.com/asociace-ux/events/282115964/
         dtstart: 2021-12-07 18:00:00+01:00
         dtend: 2021-12-07 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Dec 2, 2021, 7:00 PM: Interested in UX writing? Want to hear from UX writers and designers about how they work together?Join Prague UX Writers for our 24th meetup! 🍻'
+      og_title: PRAGUE UX WRITERS MEETUP Vol. 24 - December
+      image: https://secure.meetupstatic.com/photos/event/a/c/1/2/600_500324050.jpeg
+      url: https://www.meetup.com/asociace-ux/events/282196849/
+      ical:
+        summary: PRAGUE UX WRITERS MEETUP Vol. 24 - December
+        description: 'Asociace UX
+
+          Thursday, December 2 at 7:00 PM
+
+
+          Interested in UX writing? Want to hear from UX writers and designers about how they work together? Join Prague UX Writers for our 24th meetup! 🍻
+
+
+          https://www.meetup.com/asociace-ux/events/282196849/'
+        location: Black Bettie's Grill (Mánesova 7, Vinohrady, Praha-Praha 2, Czech Republic 120 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282196849@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/282196849/
+        dtstart: 2021-12-02 19:00:00+01:00
+        dtend: 2021-12-02 20:30:00+01:00
