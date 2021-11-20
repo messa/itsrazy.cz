@@ -6,8 +6,13 @@ series:
     image: https://secure.meetupstatic.com/photos/event/6/e/7/4/600_474748276.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Sep 8, 2021, 7:00 PM: Hello doers,The third online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.The structure of the session will be one main'
-      og_title: Prague DevOps meetup online (September)
+      meta_description: 'Wed, Sep 8, 5:00 PM: Hello doers,
+
+
+        The third online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.
+
+        The structure of the session will be one '
+      og_title: Prague DevOps meetup online (September) | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/e/7/4/600_474748276.jpeg
       url: https://www.meetup.com/Prague-DevOps-Meetup/events/280234441/
       ical:
@@ -31,8 +36,13 @@ series:
         dtstart: 2021-09-08 19:00:00+02:00
         dtend: 2021-09-08 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Aug 4, 2021, 7:00 PM: Hello doers,The second online devops meetup is here and we are ready to welcome all devops enthusiasts, from Prague or elsewhere.The structure of the session will be similar'
-      og_title: Prague DevOps meetup online
+      meta_description: 'Wed, Aug 4, 5:00 PM: Hello doers,
+
+
+        The second online devops meetup is here and we are ready to welcome all devops enthusiasts, from Prague or elsewhere.
+
+        The structure of the session will be sim'
+      og_title: Prague DevOps meetup online | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/e/7/4/600_474748276.jpeg
       url: https://www.meetup.com/Prague-DevOps-Meetup/events/277429169/
       ical:
@@ -56,8 +66,15 @@ series:
         dtstart: 2021-08-04 19:00:00+02:00
         dtend: 2021-08-04 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jun 2, 2021, 7:00 PM: Hello doers,After a long break we are back with DevOps related presentations anddiscussions!We were trying to avoid running online events until now and not adding more to ev'
-      og_title: The First Online Prague DevOps meetup
+      meta_description: 'Wed, Jun 2, 5:00 PM: Hello doers,
+
+
+        After a long break we are back with DevOps related presentations and
+
+        discussions!
+
+        We were trying to avoid running online events until now and not adding more '
+      og_title: The First Online Prague DevOps meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/e/7/4/600_474748276.jpeg
       url: https://www.meetup.com/Prague-DevOps-Meetup/events/277429158/
       ical:
@@ -106,8 +123,13 @@ series:
         dtstart: 2020-02-24 18:00:00+01:00
         dtend: 2020-02-24 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Nov 3, 2021, 6:00 PM: Hello doers,The fourth online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.The structure of the session will be one mai'
-      og_title: Prague DevOps meetup online (November)
+      meta_description: 'Wed, Nov 3, 5:00 PM: Hello doers,
+
+
+        The fourth online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.
+
+        The structure of the session will be one'
+      og_title: Prague DevOps meetup online (November) | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/e/7/4/600_474748276.jpeg
       url: https://www.meetup.com/Prague-DevOps-Meetup/events/281198432/
       ical:

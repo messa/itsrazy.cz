@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Sep 24, 2020, 7:00 PM: Kubernetes se velice rychle stal nejrozšířenější platformou pro provozování stateless aplikací. Stále více uživatelů dnes na Kubernetes přesouvá dokonce i své stateful apli'
-      og_title: Stateful aplikace na Kubernetes pomocí operátor patternu (online)
+      meta_description: 'Thu, Sep 24, 5:00 PM: Kubernetes se velice rychle stal nejrozšířenější platformou pro provozování stateless aplikací. Stále více uživatelů dnes na Kubernetes přesouvá dokonce i své stateful apli'
+      og_title: Stateful aplikace na Kubernetes pomocí operátor patternu (online) | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/6/4/f/600_492410767.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/273090874/
       ical:
@@ -31,8 +31,8 @@ series:
         dtstart: 2020-09-24 19:00:00+02:00
         dtend: 2020-09-24 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, May 21, 2020, 3:30 PM: Hostem následujícího on-line meetupu bude Andrey Pechkurov (https://twitter.com/andreypechkurov). Se svým týmem postavil time-series databázi a bude mluvit o výzvách, které'
-      og_title: 'Embedded Time Series Storage: A Cookbook (online)'
+      meta_description: 'Thu, May 21, 1:30 PM: Hostem následujícího on-line meetupu bude Andrey Pechkurov (https://twitter.com/andreypechkurov). Se svým týmem postavil time-series databázi a bude mluvit o výzvách, které'
+      og_title: 'Embedded Time Series Storage: A Cookbook (online) | Meetup'
       image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/270671333/
       ical:
@@ -56,8 +56,8 @@ series:
         dtstart: 2020-05-21 15:30:00+02:00
         dtend: 2020-05-21 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, May 7, 2020, 3:30 PM: Huseyin Babal (Team Lead @ Hazelcast Cloud, ex. Sony and eBay Engineer, https://twitter.com/huseyinbabal) posdílí své zkušenosti s designem a implementací managované infrast'
-      og_title: Lesson Learned From Building a Managed Service (online)
+      meta_description: 'Thu, May 7, 1:30 PM: Huseyin Babal (Team Lead @ Hazelcast Cloud, ex. Sony and eBay Engineer, https://twitter.com/huseyinbabal) posdílí své zkušenosti s designem a implementací managované infras'
+      og_title: Lesson Learned From Building a Managed Service (online) | Meetup
       image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/270359625/
       ical:
@@ -105,8 +105,11 @@ series:
         dtstart: 2020-04-23 15:30:00+02:00
         dtend: 2020-04-23 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Nov 4, 2021, 6:30 PM: Brno Java MeetUp je po více než roce zpátky. Děkujeme všem, co vyplnili dotazník. Dle výsledků celkem jednoznačně zvítězilo téma “JVM a Kubernetes”.Praktickou přednášku na t'
-      og_title: JVM a Kubernetes
+      meta_description: 'Thu, Nov 4, 5:30 PM: Brno Java MeetUp je po více než roce zpátky. Děkujeme všem, co vyplnili dotazník. Dle výsledků celkem jednoznačně zvítězilo téma “JVM a Kubernetes”.
+
+
+        Praktickou přednášku n'
+      og_title: JVM a Kubernetes | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/4/d/7/600_499765815.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/281669937/
       ical:
