@@ -206,8 +206,8 @@ series:
         dtstart: 2021-11-11 10:30:00+01:00
         dtend: 2021-11-11 11:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 18, 4:30 PM: Někdy je velice obtížné napsat test tak, aby fungoval za každých okolností, a to i v podmínkách dynamického vývoje v průběhu sprintu. Navíc nám to vývojáři někdy neusnadňuj'
-      og_title: Healenium a Robot Framework aneb samouzdravující se testy | Meetup
+      meta_description: 'Thu, Nov 18, 2021, 5:30 PM: Někdy je velice obtížné napsat test tak, aby fungoval za každých okolností, a to i v podmínkách dynamického vývoje v průběhu sprintu. Navíc nám to vývojáři někdy neusnadňuj'
+      og_title: Healenium a Robot Framework aneb samouzdravující se testy
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564776/
       ical:
@@ -231,8 +231,8 @@ series:
         dtstart: 2021-11-18 17:30:00+01:00
         dtend: 2021-11-18 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 25, 4:30 PM: Nástrojů v testingu máme mnoho, ale stejně jak u funkcionálních testů, tak i u performance testů nám někdy nemusí vyhovovat forma reportování výsledků daného nástroje. Možn'
-      og_title: Pokročilý reporting performance testů - jtl-reporter | Meetup
+      meta_description: 'Thu, Nov 25, 2021, 5:30 PM: Nástrojů v testingu máme mnoho, ale stejně jak u funkcionálních testů, tak i u performance testů nám někdy nemusí vyhovovat forma reportování výsledků daného nástroje. Možn'
+      og_title: Pokročilý reporting performance testů - jtl-reporter
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564791/
       ical:
@@ -256,8 +256,8 @@ series:
         dtstart: 2021-11-25 17:30:00+01:00
         dtend: 2021-11-25 18:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Nov 30, 9:00 AM: Spolu s funkčným testovaním UI pomocou Selenium a testovaním layoutu UI pomocou Galen framework, je doležité vykonávať aj vizuálne UI testovanie. Spomedzi nástrojov na trhu'
-      og_title: Visual UI Testing with Percy | Meetup
+      meta_description: 'Tue, Nov 30, 2021, 10:00 AM: Spolu s funkčným testovaním UI pomocou Selenium a testovaním layoutu UI pomocou Galen framework, je doležité vykonávať aj vizuálne UI testovanie. Spomedzi nástrojov na trh'
+      og_title: Visual UI Testing with Percy
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564810/
       ical:
@@ -281,11 +281,8 @@ series:
         dtstart: 2021-11-30 10:00:00+01:00
         dtend: 2021-11-30 11:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 9:00 AM: Současné přístupy k testovaní zdržují vývoj a jsou dlouhodobě neudržitelné. Automatizovaní testů bylo dlouho tím, co to mělo vyřešit. Nestalo se.
-
-
-        Automatizace je dnes stan'
-      og_title: Autonomní testování | Meetup
+      meta_description: 'Tue, Dec 7, 2021, 10:00 AM: Současné přístupy k testovaní zdržují vývoj a jsou dlouhodobě neudržitelné. Automatizovaní testů bylo dlouho tím, co to mělo vyřešit. Nestalo se.Automatizace je dnes standa'
+      og_title: Autonomní testování
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564820/
       ical:
@@ -309,11 +306,8 @@ series:
         dtstart: 2021-12-07 10:00:00+01:00
         dtend: 2021-12-07 11:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Nov 24, 4:30 PM: . . . a takto to cele zacalo. Cypress.io aj Playwright majú čo ponúknuť. Ak ste ešte nevybrali, nebude to jednoduché. . . .
-
-
-        Filip a Marcel pokecajú o týchto 2 nástrojoch a'
-      og_title: 'Playwright & Cypress.io: kde sme teraz a aká bude budúcnosť . . . | Meetup'
+      meta_description: 'Wed, Nov 24, 2021, 5:30 PM: . . . a takto to cele zacalo. Cypress.io aj Playwright majú čo ponúknuť. Ak ste ešte nevybrali, nebude to jednoduché. . . .Filip a Marcel pokecajú o týchto 2 nástrojoch ako'
+      og_title: 'Playwright & Cypress.io: kde sme teraz a aká bude budúcnosť . . .'
       image: https://secure.meetupstatic.com/photos/event/c/5/1/0/600_500270448.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/282127769/
       ical:

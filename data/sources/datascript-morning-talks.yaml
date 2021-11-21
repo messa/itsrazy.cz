@@ -279,14 +279,8 @@ series:
         dtend: 2021-11-11 10:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/c/5/3/600_499743155.jpeg
   - meetupcom:
-      meta_description: 'Tue, Nov 16, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/dynamicka-infrastruktura-v-consulu/
-
-
-        Na co se můžete těšit:
-
-
-        V měnící se infrastruktuře je těžké udržovat seznam slu'
-      og_title: Dynamická infrastruktura v Consulu | Meetup
+      meta_description: 'Tue, Nov 16, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/dynamicka-infrastruktura-v-consulu/Na co se můžete těšit:V měnící se infrastruktuře je těžké udržovat seznam služeb '
+      og_title: Dynamická infrastruktura v Consulu
       image: https://secure.meetupstatic.com/photos/event/c/6/1/600_499743169.jpeg
       url: https://www.meetup.com/Morning-Talks/events/281648112/
       ical:
@@ -309,14 +303,8 @@ series:
         dtstart: 2021-11-16 09:00:00+01:00
         dtend: 2021-11-16 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Nov 23, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ceph-storage-tak-trochu-jinak/
-
-
-        Na co se můžete těšit:
-
-
-        Zajímá vás trošku jiný pohled na ukládání dat? Rádi byste mě'
-      og_title: CEPH – Storage tak trochu jinak | Meetup
+      meta_description: 'Tue, Nov 23, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ceph-storage-tak-trochu-jinak/Na co se můžete těšit:Zajímá vás trošku jiný pohled na ukládání dat? Rádi byste měli m'
+      og_title: CEPH – Storage tak trochu jinak
       image: https://secure.meetupstatic.com/photos/event/c/8/c/600_499743212.jpeg
       url: https://www.meetup.com/Morning-Talks/events/281648170/
       ical:
@@ -339,14 +327,8 @@ series:
         dtstart: 2021-11-23 09:00:00+01:00
         dtend: 2021-11-23 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Dec 1, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ai-deep-learning-v-praxi/
-
-
-        Na co se můžete těšit:
-
-
-        Hluboké neuronové sítě dnes ve většině úloh spojených s Computer '
-      og_title: AI – Deep Learning v praxi | Meetup
+      meta_description: 'Wed, Dec 1, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ai-deep-learning-v-praxi/Na co se můžete těšit:Hluboké neuronové sítě dnes ve většině úloh spojených s Computer visio'
+      og_title: AI – Deep Learning v praxi
       image: https://secure.meetupstatic.com/photos/event/c/a/1/600_499743233.jpeg
       url: https://www.meetup.com/Morning-Talks/events/281648217/
       ical:
@@ -370,14 +352,8 @@ series:
         dtstart: 2021-12-01 09:00:00+01:00
         dtend: 2021-12-01 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/enterprise-linux-8-rhelcentos-8/
-
-
-        Na co se můžete těšit:
-
-
-        Používáte operační systém Red Hat Enterprise Linux (nebo j'
-      og_title: Enterprise Linux 8 (RHEL/CentOS 8) | Meetup
+      meta_description: 'Tue, Dec 7, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/enterprise-linux-8-rhelcentos-8/Na co se můžete těšit:Používáte operační systém Red Hat Enterprise Linux (nebo jeho k'
+      og_title: Enterprise Linux 8 (RHEL/CentOS 8)
       image: https://secure.meetupstatic.com/photos/event/c/b/2/600_499743250.jpeg
       url: https://www.meetup.com/Morning-Talks/events/281648243/
       ical:
