@@ -502,7 +502,7 @@ series:
         dtstart: 2021-11-18 17:00:00+01:00
         dtend: 2021-11-18 18:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Nov 23, 2021, 6:30 PM: Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However, relational datab'
+      meta_description: 'Wed, Dec 1, 2021, 6:30 PM: Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However, relational databa'
       og_title: Beyond SQL | Comparing SQL to TypeQL
       image: https://secure.meetupstatic.com/photos/event/2/1/c/3/600_496988643.jpeg
       url: https://www.meetup.com/typedb-prague/events/280965322/
@@ -510,10 +510,9 @@ series:
         summary: Beyond SQL | Comparing SQL to TypeQL
         description: 'TypeDB Prague Engineers
 
-          Tuesday, November 23 at 6:30 PM
+          Wednesday, December 1 at 6:30 PM
 
-
-          Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. How...
+          \nUsing SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. How...
 
 
           https://www.meetup.com/typedb-prague/events/280965322/'
@@ -524,5 +523,5 @@ series:
         status: CONFIRMED
         uid: event_280965322@meetup.com
         url: https://www.meetup.com/typedb-prague/events/280965322/
-        dtstart: 2021-11-23 18:30:00+01:00
-        dtend: 2021-11-23 19:30:00+01:00
+        dtstart: 2021-12-01 18:30:00+01:00
+        dtend: 2021-12-01 19:30:00+01:00
