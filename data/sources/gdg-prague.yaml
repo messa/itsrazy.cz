@@ -455,3 +455,28 @@ series:
         dtstart: 2021-12-21 18:30:00+01:00
         dtend: 2021-12-21 20:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg
+  - meetupcom:
+      meta_description: 'Tue, Jan 4, 2022, 6:30 PM: • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/GDG Gara'
+      og_title: GDG Garage Prague One, Tue, Jan 4, 2022, 6:30 PM
+      image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg
+      url: https://www.meetup.com/GDGPrague/events/xqcsqsydccbgb/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Tuesday, January 4 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/xqcsqsydccbgb/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_xqcsqsydccbgb@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/xqcsqsydccbgb/
+        dtstart: 2022-01-04 18:30:00+01:00
+        dtend: 2022-01-04 20:30:00+01:00

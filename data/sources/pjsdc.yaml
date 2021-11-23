@@ -180,3 +180,28 @@ series:
         dtstart: 2021-10-26 18:00:00+02:00
         dtend: 2021-10-26 20:00:00+02:00
       image: https://secure.meetupstatic.com/photos/event/6/c/9/e/600_499707806.jpeg
+  - meetupcom:
+      meta_description: 'Thu, Dec 2, 2021, 6:00 PM: Připoj se k našemu večernímu workshopu, který bude probíhat online ve čtvrtek 2. prosince od 18 hodin. Probereme základy kódování a dozvíš se, co znamená pro-code a low-code'
+      og_title: 'Online workshop: Základy programování'
+      image: https://secure.meetupstatic.com/photos/event/3/1/e/9/600_500412777.jpeg
+      url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/282264181/
+      ical:
+        summary: 'Online workshop: Základy programování'
+        description: 'Become a software developer from 0
+
+          Thursday, December 2 at 6:00 PM
+
+
+          Připoj se k našemu večernímu workshopu, který bude probíhat online ve čtvrtek 2. prosince od 18 hodin. Probereme základy kódování a dozvíš se, co znam...
+
+
+          https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/282264181/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282264181@meetup.com
+        url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/282264181/
+        dtstart: 2021-12-02 18:00:00+01:00
+        dtend: 2021-12-02 21:00:00+01:00
