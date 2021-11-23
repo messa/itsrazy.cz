@@ -57,11 +57,11 @@ series:
         dtend: 2021-11-10 21:00:00+01:00
   - meetupcom:
       meta_description: 'Wed, Dec 8, 2021, 7:00 PM: Blíží konec roku a s ním vánoční setkání Frontendisti.cz. Situace kolem koronaviru v ČR nám sice nedovolí uspořádat tradiční offline sraz. My vám ale ukážeme, že si naše spo'
-      og_title: Vánoční sraz Frontedisti.cz, Wed, Dec 8, 2021, 7:00 PM
+      og_title: Vánoční sraz Frontendisti.cz, Wed, Dec 8, 2021, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsyccqblb/
       ical:
-        summary: Vánoční sraz Frontedisti.cz
+        summary: Vánoční sraz Frontendisti.cz
         description: 'Frontendisti.cz
 
           Wednesday, December 8 at 7:00 PM
