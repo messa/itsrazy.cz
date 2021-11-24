@@ -162,7 +162,7 @@ series:
         dtstart: 2021-10-20 18:00:00+02:00
         dtend: 2021-10-20 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Dec 1, 2021, 6:00 PM: Stay home, stay safe, but stay connected to the community! 🙌Join us for our next online meetup. We’ll be talking Frontend and have put together an awesome program for you:�'
+      meta_description: 'Wed, Dec 1, 2021, 6:00 PM: Stay home, stay safe, but stay connected to the community! 🙌Join us for our next online meetup. Please register via Eventbrite:https://www.eventbrite.com/e/frontend-meetup-'
       og_title: 'Frontend Meetup #3'
       url: https://www.meetup.com/productboard-meetups/events/281628250/
       ical:
@@ -172,11 +172,11 @@ series:
           Wednesday, December 1 at 6:00 PM
 
 
-          Stay home, stay safe, but stay connected to the community! 🙌  Join us for our next online meetup. We’ll be talking Frontend and have put together an a...
+          Stay home, stay safe, but stay connected to the community! 🙌 Join us for our next online meetup. Please register via Eventbrite:https://www.eventbrite...
 
 
           https://www.meetup.com/productboard-meetups/events/281628250/'
-        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        location: Online event
         geo:
           lat: 50.08
           lon: 14.43
@@ -185,4 +185,4 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/281628250/
         dtstart: 2021-12-01 18:00:00+01:00
         dtend: 2021-12-01 19:30:00+01:00
-      image: https://secure.meetupstatic.com/photos/event/6/a/d/d/600_500427357.jpeg
+      image: https://secure.meetupstatic.com/photos/event/6/f/3/6/600_500428470.jpeg
