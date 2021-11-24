@@ -162,17 +162,17 @@ series:
         dtstart: 2021-10-20 18:00:00+02:00
         dtend: 2021-10-20 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 30, 2021, 6:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as'
+      meta_description: 'Wed, Dec 1, 2021, 6:00 PM: Stay home, stay safe, but stay connected to the community! 🙌Join us for our next online meetup. We’ll be talking Frontend and have put together an awesome program for you:�'
       og_title: 'Frontend Meetup #3'
       url: https://www.meetup.com/productboard-meetups/events/281628250/
       ical:
         summary: 'Frontend Meetup #3'
         description: 'Productboard Meetups
 
-          Tuesday, November 30 at 6:00 PM
+          Wednesday, December 1 at 6:00 PM
 
 
-          During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new even...
+          Stay home, stay safe, but stay connected to the community! 🙌  Join us for our next online meetup. We’ll be talking Frontend and have put together an a...
 
 
           https://www.meetup.com/productboard-meetups/events/281628250/'
@@ -183,6 +183,6 @@ series:
         status: CONFIRMED
         uid: event_281628250@meetup.com
         url: https://www.meetup.com/productboard-meetups/events/281628250/
-        dtstart: 2021-11-30 18:00:00+01:00
-        dtend: 2021-11-30 21:00:00+01:00
-      image: https://secure.meetupstatic.com/photos/event/6/6/1/2/600_499706130.jpeg
+        dtstart: 2021-12-01 18:00:00+01:00
+        dtend: 2021-12-01 19:30:00+01:00
+      image: https://secure.meetupstatic.com/photos/event/6/a/d/d/600_500427357.jpeg
