@@ -55,3 +55,53 @@ series:
         url: https://www.meetup.com/GDG-Ostrava/events/278023608/
         dtstart: 2021-06-02 18:00:00+02:00
         dtend: 2021-06-02 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, May 26, 2021, 6:00 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOWhttps://gdg.community.dev/events/details/google-gdg-ostrava-presents-cybersecurity-with-zdenek-klus-i-czech/'
+      og_title: Cybersecurity with Zdenek Klus I [Czech]
+      image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
+      url: https://www.meetup.com/GDG-Ostrava/events/278023442/
+      ical:
+        summary: Cybersecurity with Zdenek Klus I [Czech]
+        description: 'GDG Ostrava
+
+          Wednesday, May 26 at 6:00 PM
+
+
+          THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW <br/>https://gdg.community.dev/events/details/google-gdg-ostrava-presents-cybersecuri...
+
+
+          https://www.meetup.com/GDG-Ostrava/events/278023442/'
+        location: null
+        geo:
+          lat: 49.83
+          lon: 18.27
+        status: CONFIRMED
+        uid: event_278023442@meetup.com
+        url: https://www.meetup.com/GDG-Ostrava/events/278023442/
+        dtstart: 2021-05-26 18:00:00+02:00
+        dtend: 2021-05-26 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 18, 2021, 6:30 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOWhttps://gdg.community.dev/events/details/google-gdg-ostrava-presents-io-commented-keynote-czech/Enjoy the I/'
+      og_title: I/O Commented Keynote [Czech]
+      image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
+      url: https://www.meetup.com/GDG-Ostrava/events/278017552/
+      ical:
+        summary: I/O Commented Keynote [Czech]
+        description: 'GDG Ostrava
+
+          Tuesday, May 18 at 6:30 PM
+
+
+          THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW <br/>https://gdg.community.dev/events/details/google-gdg-ostrava-presents-io-commente...
+
+
+          https://www.meetup.com/GDG-Ostrava/events/278017552/'
+        location: null
+        geo:
+          lat: 49.83
+          lon: 18.27
+        status: CONFIRMED
+        uid: event_278017552@meetup.com
+        url: https://www.meetup.com/GDG-Ostrava/events/278017552/
+        dtstart: 2021-05-18 18:30:00+02:00
+        dtend: 2021-05-18 21:00:00+02:00
