@@ -329,7 +329,7 @@ series:
         dtstart: 2021-12-02 19:00:00+01:00
         dtend: 2021-12-02 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Sun, Dec 5, 2021, 6:00 PM: Otázky řečníkům můžete pokládat už nyní na https://app.sli.do/event/uoq2u7pm18:20 – 18:30 Otevření Zoomu a volná diskuze18:30 – 20:00 Začátek programu a start livestreamingu'
+      meta_description: 'Mon, Dec 6, 2021, 6:00 PM: Otázky řečníkům můžete pokládat už nyní na https://app.sli.do/event/uoq2u7pm18:20 – 18:30 Otevření Zoomu a volná diskuze18:30 – 20:00 Začátek programu a start livestreamingu'
       og_title: 'UX Monday: Pro všechny (Online only)'
       image: https://secure.meetupstatic.com/photos/event/d/a/4/2/600_500395874.jpeg
       url: https://www.meetup.com/asociace-ux/events/282244163/
@@ -337,7 +337,7 @@ series:
         summary: 'UX Monday: Pro všechny (Online only)'
         description: 'Asociace UX
 
-          Sunday, December 5 at 6:00 PM
+          Monday, December 6 at 6:00 PM
 
 
           Otázky řečníkům můžete pokládat už nyní na https://app.sli.do/event/uoq2u7pm 18:20 – 18:30 Otevření Zoomu a volná diskuze18:30 – 20:00 Začátek program...
@@ -351,5 +351,5 @@ series:
         status: CONFIRMED
         uid: event_282244163@meetup.com
         url: https://www.meetup.com/asociace-ux/events/282244163/
-        dtstart: 2021-12-05 18:00:00+01:00
-        dtend: 2021-12-05 21:00:00+01:00
+        dtstart: 2021-12-06 18:00:00+01:00
+        dtend: 2021-12-06 21:00:00+01:00
