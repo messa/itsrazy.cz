@@ -281,3 +281,28 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282116019/
         dtstart: 2021-12-02 16:00:00+01:00
         dtend: 2021-12-02 17:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Dec 2, 2021, 7:00 PM: Hello Maker,Join us on December 2nd for our next live event on LinkedIn, Twitter, and YouTube. This time I will be discussing Wave apps development and deployment for the H2'
+      og_title: 'Make with H2O: Getting Started with Wave for the Wildfire Challenge'
+      image: https://secure.meetupstatic.com/photos/event/d/1/d/600_500523357.jpeg
+      url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282378254/
+      ical:
+        summary: 'Make with H2O: Getting Started with Wave for the Wildfire Challenge'
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Thursday, December 2 at 7:00 PM
+
+
+          Hello Maker, Join us on December 2nd for our next live event on LinkedIn, Twitter, and YouTube. This time I will be discussing Wave apps development a...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282378254/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282378254@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282378254/
+        dtstart: 2021-12-02 19:00:00+01:00
+        dtend: 2021-12-02 20:00:00+01:00
