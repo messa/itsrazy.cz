@@ -130,8 +130,8 @@ series:
         dtstart: 2021-10-05 19:00:00+02:00
         dtend: 2021-10-05 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 2, 2021, 7:00 PM: Jak dělat produkt management pro netradiční produkty?'
-      og_title: Product management
+      meta_description: 'Tue, Nov 2, 6:00 PM: Jak dělat produkt management pro netradiční produkty?'
+      og_title: Product management | Meetup
       image: https://secure.meetupstatic.com/photos/event/a/5/8/6/600_499782374.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/281672705/
       ical:
@@ -155,8 +155,8 @@ series:
         dtstart: 2021-11-02 19:00:00+01:00
         dtend: 2021-11-02 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 2021, 7:00 PM: Lze decentralizovat vlastnictví realit?'
-      og_title: Decentrializace vlastnictví realit
+      meta_description: 'Tue, Dec 7, 6:00 PM: Lze decentralizovat vlastnictví realit?'
+      og_title: Decentrializace vlastnictví realit | Meetup
       image: https://secure.meetupstatic.com/photos/event/3/c/3/2/600_500295410.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/282160838/
       ical:

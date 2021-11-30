@@ -105,8 +105,16 @@ series:
         dtstart: 2021-06-08 18:00:00+02:00
         dtend: 2021-06-08 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 26, 2021, 6:00 PM: Anotace Přednášky“Předpoklad místo důkazu, aneb pohled DevOpsáka na testování skrze celý software delivery chain.”Pár slov o speakeroviV současnosti působí jako E-commerce '
-      og_title: 103. [pro:]TEST! Martin Hrášek✨ expect(true).toBeTruthy()
+      meta_description: 'Tue, Oct 26, 4:00 PM: Anotace Přednášky
+
+
+        “Předpoklad místo důkazu, aneb pohled DevOpsáka na testování skrze celý software delivery chain.”
+
+
+        Pár slov o speakerovi
+
+        V současnosti působí jako E-comm'
+      og_title: 103. [pro:]TEST! Martin Hrášek✨ expect(true).toBeTruthy() | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/8/2/a/600_499638474.jpeg
       url: https://www.meetup.com/protest_cz/events/281566536/
       ical:
@@ -129,8 +137,10 @@ series:
         dtstart: 2021-10-26 18:00:00+02:00
         dtend: 2021-10-26 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 30, 2021, 6:00 PM: AnnotationPuppeteer is a node library that provides high-level API to control chrome and chromium. Puppeteer can also be used for browser automation as it has all capabilit'
-      og_title: 104. [pro:]TEST! – Vivek Shringi about Puppeteer
+      meta_description: 'Tue, Nov 30, 5:00 PM: Annotation
+
+        Puppeteer is a node library that provides high-level API to control chrome and chromium. Puppeteer can also be used for browser automation as it has all capabili'
+      og_title: 104. [pro:]TEST! – Vivek Shringi about Puppeteer | Meetup
       image: https://secure.meetupstatic.com/photos/event/b/b/0/e/600_500267886.jpeg
       url: https://www.meetup.com/protest_cz/events/282124529/
       ical:

@@ -255,8 +255,11 @@ series:
         dtend: 2021-11-04 20:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/3/3/2/b/600_499753099.jpeg
   - meetupcom:
-      meta_description: 'Thu, Nov 11, 2021, 5:00 PM: Tématem WUDu 2021 je důvěra, integrita a etika v UX designu. WUD bude letos kratší, večerní, a bude mít formu panelové diskuse.Diskutovat budeme o tom, jaké otázky si máme '
-      og_title: 'World Usability Day 2021: Důvěra, integrita a etika'
+      meta_description: 'Thu, Nov 11, 4:00 PM: Tématem WUDu 2021 je důvěra, integrita a etika v UX designu. WUD bude letos kratší, večerní, a bude mít formu panelové diskuse.
+
+
+        Diskutovat budeme o tom, jaké otázky si mám'
+      og_title: 'World Usability Day 2021: Důvěra, integrita a etika | Meetup'
       url: https://www.meetup.com/asociace-ux/events/281853283/
       ical:
         summary: 'World Usability Day 2021: Důvěra, integrita a etika'
@@ -280,8 +283,8 @@ series:
         dtend: 2021-11-11 20:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/a/a/7/4/600_500083636.jpeg
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 2021, 6:00 PM: UX dinner is a meeting of the UX community in Brno, where an informal dinner, a discussion about small design problems, the opportunity to find a mentor or a new project awa'
-      og_title: UX Dinner Brno in December
+      meta_description: 'Tue, Dec 7, 5:00 PM: UX dinner is a meeting of the UX community in Brno, where an informal dinner, a discussion about small design problems, the opportunity to find a mentor or a new project aw'
+      og_title: UX Dinner Brno in December | Meetup
       image: https://secure.meetupstatic.com/photos/event/5/3/4/5/600_500301317.jpeg
       url: https://www.meetup.com/asociace-ux/events/282115964/
       ical:
@@ -329,8 +332,13 @@ series:
         dtstart: 2021-12-02 19:00:00+01:00
         dtend: 2021-12-02 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Mon, Dec 6, 2021, 6:00 PM: Otázky řečníkům můžete pokládat už nyní na https://app.sli.do/event/uoq2u7pm18:20 – 18:30 Otevření Zoomu a volná diskuze18:30 – 20:00 Začátek programu a start livestreamingu'
-      og_title: 'UX Monday: Pro všechny (Online only)'
+      meta_description: 'Mon, Dec 6, 5:00 PM: Otázky řečníkům můžete pokládat už nyní na https://app.sli.do/event/uoq2u7pm
+
+
+        18:20 – 18:30 Otevření Zoomu a volná diskuze
+
+        18:30 – 20:00 Začátek programu a start livestream'
+      og_title: 'UX Monday: Pro všechny (Online only) | Meetup'
       image: https://secure.meetupstatic.com/photos/event/d/a/4/2/600_500395874.jpeg
       url: https://www.meetup.com/asociace-ux/events/282244163/
       ical:

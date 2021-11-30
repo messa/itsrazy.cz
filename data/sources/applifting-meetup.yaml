@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/1/7/d/3/600_493506099.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Dec 10, 2020, 1:00 PM: Handling personal data is a hot topic! They are a treasure and a curse at the same time. How do you, as a company, take care of data privacy? Are you, as a user, happy with'
-      og_title: Stop struggling with Data Privacy
+      meta_description: 'Thu, Dec 10, 12:00 PM: Handling personal data is a hot topic! They are a treasure and a curse at the same time. How do you, as a company, take care of data privacy? Are you, as a user, happy with'
+      og_title: Stop struggling with Data Privacy | Meetup
       image: https://secure.meetupstatic.com/photos/event/7/1/a/3/600_493769091.jpeg
       url: https://www.meetup.com/Applifting-meetup-1/events/274921291/
       ical:
@@ -106,8 +106,8 @@ series:
         dtstart: 2019-05-21 17:30:00+02:00
         dtend: 2019-05-21 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 12, 2021, 6:30 PM: Nosíte v hlavě myšlenku na super byznys, ale nevíte, jak ji zrealizovat? Už máte existující produkt a chcete ho posunout dál? Nebo se chcete jen poradit? Pak by vám neměl u'
-      og_title: 'Jak na úspěšný produkt: Od nápadu k realizaci'
+      meta_description: 'Tue, Oct 12, 4:30 PM: Nosíte v hlavě myšlenku na super byznys, ale nevíte, jak ji zrealizovat? Už máte existující produkt a chcete ho posunout dál? Nebo se chcete jen poradit? Pak by vám neměl u'
+      og_title: 'Jak na úspěšný produkt: Od nápadu k realizaci | Meetup'
       image: https://secure.meetupstatic.com/photos/event/1/b/0/b/600_499026923.jpeg
       url: https://www.meetup.com/Applifting-meetup-1/events/280984779/
       ical:
@@ -131,8 +131,10 @@ series:
         dtstart: 2021-10-12 18:30:00+02:00
         dtend: 2021-10-12 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Oct 20, 2021, 4:00 PM: O čem budeme mluvit?Vyplatí se vašemu produktu či službě BankID? Jaké možnosti bankovní identita nabízí a proč byste ji neměli ignorovat? Na tyto a další otázky bude prostř'
-      og_title: 'Seminář BankID pro firmy: Vše, co potřebujete vědět před integrací BankID'
+      meta_description: 'Wed, Oct 20, 2:00 PM: O čem budeme mluvit?
+
+        Vyplatí se vašemu produktu či službě BankID? Jaké možnosti bankovní identita nabízí a proč byste ji neměli ignorovat? Na tyto a další otázky bude prost'
+      og_title: 'Seminář BankID pro firmy: Vše, co potřebujete vědět před integrací BankID | Meetup'
       image: https://secure.meetupstatic.com/photos/event/3/8/a/d/600_499334509.jpeg
       url: https://www.meetup.com/Applifting-meetup-1/events/281290839/
       ical:
@@ -156,8 +158,8 @@ series:
         dtstart: 2021-10-20 16:00:00+02:00
         dtend: 2021-10-20 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 26, 2021, 6:00 PM: Žijete backendem nebo o něm uvažujete? Pak vás moc rádi uvidíme na našem online tematickém meetupu online ( který ale proběhne konečně i naživo). Na co se můžete těšit? Pop'
-      og_title: 'Backend meetup: Architektura, mýty o OOP a těžký život backenďáka'
+      meta_description: 'Tue, Oct 26, 4:00 PM: Žijete backendem nebo o něm uvažujete? Pak vás moc rádi uvidíme na našem online tematickém meetupu online ( který ale proběhne konečně i naživo). Na co se můžete těšit? Pop'
+      og_title: 'Backend meetup: Architektura, mýty o OOP a těžký život backenďáka | Meetup'
       image: https://secure.meetupstatic.com/photos/event/9/a/6/d/600_499419533.jpeg
       url: https://www.meetup.com/Applifting-meetup-1/events/281354506/
       ical:
