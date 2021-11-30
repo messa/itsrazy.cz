@@ -6,11 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/1/9/4/4/600_496506468.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Jun 15, 10:00 AM: The future of automation is coming to you. Live, online, and free.
-
-
-        The global UiPath Community is coming together on June 15-16, 2021 to learn, build, and connect at UiPat'
-      og_title: UiPath DevCon 2021 | Meetup
+      meta_description: 'Tue, Jun 15, 2021, 12:00 PM: The future of automation is coming to you. Live, online, and free.The global UiPath Community is coming together on June 15-16, 2021 to learn, build, and connect at UiPath'
+      og_title: UiPath DevCon 2021
       image: https://secure.meetupstatic.com/photos/event/1/9/3/7/600_496506455.jpeg
       url: https://www.meetup.com/UiPath-RPA-Prague/events/278400401/
       ical:
@@ -34,14 +31,8 @@ series:
         dtstart: 2021-06-15 12:00:00+02:00
         dtend: 2021-06-15 16:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 25, 1:00 PM: Hello UiPath Community!
-
-
-        New monthly global meetup coming up!
-
-
-        Incorporating API automation into your overall strategy allows both RPA and Test Teams to improve execution e'
-      og_title: Leveraging API Automation in UiPath Studio | Meetup
+      meta_description: 'Thu, Jun 25, 2020, 3:00 PM: Hello UiPath Community!New monthly global meetup coming up!Incorporating API automation into your overall strategy allows both RPA and Test Teams to improve execution effic'
+      og_title: Leveraging API Automation in UiPath Studio
       image: https://secure.meetupstatic.com/photos/event/c/8/4/c/600_490791276.jpeg
       url: https://www.meetup.com/UiPath-RPA-Prague/events/271224883/
       ical:
@@ -65,14 +56,8 @@ series:
         dtstart: 2020-06-25 15:00:00+02:00
         dtend: 2020-06-25 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, May 28, 1:00 PM: Hello UiPath Community!
-
-
-        Brand new virtual meetup coming up on how you can accelerate your implementation time with API integration!
-
-
-        UiPath integrates deeply with the best'
-      og_title: Accelerate your implementation time with API integration | Meetup
+      meta_description: 'Thu, May 28, 2020, 3:00 PM: Hello UiPath Community!Brand new virtual meetup coming up on how you can accelerate your implementation time with API integration!UiPath integrates deeply with the best tec'
+      og_title: Accelerate your implementation time with API integration
       image: https://secure.meetupstatic.com/photos/event/4/b/6/f/600_490519311.jpeg
       url: https://www.meetup.com/UiPath-RPA-Prague/events/270786749/
       ical:
@@ -95,17 +80,8 @@ series:
         dtstart: 2020-05-28 15:00:00+02:00
         dtend: 2020-05-28 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Fri, May 1, 2:30 PM: Hello UiPath Community,
-
-
-        Second most wanted virtual meetup is here: UiPath Test suite: Mobile Automation!
-
-
-        Register for the session here: https://bit.ly/UiPathTestSuite.
-
-
-        A'
-      og_title: 'UiPath Test Suite: Mobile Automation: Virtual Meetup  | Meetup'
+      meta_description: 'Fri, May 1, 2020, 4:30 PM: Hello UiPath Community,Second most wanted virtual meetup is here: UiPath Test suite: Mobile Automation!Register for the session here: https://bit.ly/UiPathTestSuite.As soon '
+      og_title: 'UiPath Test Suite: Mobile Automation: Virtual Meetup '
       image: https://secure.meetupstatic.com/photos/event/e/3/8/7/600_490198247.jpeg
       url: https://www.meetup.com/UiPath-RPA-Prague/events/270178392/
       ical:

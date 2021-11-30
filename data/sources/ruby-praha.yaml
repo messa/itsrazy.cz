@@ -28,8 +28,8 @@ series:
         dtstart: 2021-10-06 19:00:00+02:00
         dtend: 2021-10-06 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Nov 3, 6:00 PM: '
-      og_title: First Wednesday Of The Month - Ruby | Meetup
+      meta_description: 'Wed, Nov 3, 2021, 7:00 PM: '
+      og_title: First Wednesday Of The Month - Ruby, Wed, Nov 3, 2021, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
       url: https://www.meetup.com/Praguerb/events/dkmktfyccpbfb/
       ical:
@@ -50,8 +50,8 @@ series:
         dtstart: 2021-11-03 19:00:00+01:00
         dtend: 2021-11-03 22:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Dec 1, 6:00 PM: '
-      og_title: First Wednesday Of The Month - Ruby | Meetup
+      meta_description: 'Wed, Dec 1, 2021, 7:00 PM: '
+      og_title: First Wednesday Of The Month - Ruby, Wed, Dec 1, 2021, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
       url: https://www.meetup.com/Praguerb/events/dkmktfyccqbcb/
       ical:
@@ -72,8 +72,8 @@ series:
         dtstart: 2021-12-01 19:00:00+01:00
         dtend: 2021-12-01 22:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Jan 5, 6:00 PM: '
-      og_title: First Wednesday Of The Month - Ruby | Meetup
+      meta_description: 'Wed, Jan 5, 2022, 7:00 PM: '
+      og_title: First Wednesday Of The Month - Ruby, Wed, Jan 5, 2022, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
       url: https://www.meetup.com/Praguerb/events/dkmktfydccbhb/
       ical:
@@ -116,8 +116,8 @@ series:
         dtstart: 2021-09-01 19:00:00+02:00
         dtend: 2021-09-01 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Feb 2, 6:00 PM: '
-      og_title: First Wednesday Of The Month - Ruby | Meetup
+      meta_description: 'Wed, Feb 2, 2022, 7:00 PM: '
+      og_title: First Wednesday Of The Month - Ruby, Wed, Feb 2, 2022, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
       url: https://www.meetup.com/Praguerb/events/dkmktfydcdbdb/
       ical:
@@ -138,8 +138,8 @@ series:
         dtstart: 2022-02-02 19:00:00+01:00
         dtend: 2022-02-02 22:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Mar 2, 6:00 PM: '
-      og_title: First Wednesday Of The Month - Ruby | Meetup
+      meta_description: 'Wed, Mar 2, 2022, 7:00 PM: '
+      og_title: First Wednesday Of The Month - Ruby, Wed, Mar 2, 2022, 7:00 PM
       url: https://www.meetup.com/Praguerb/events/dkmktfydcfbdb/
       ical:
         summary: First Wednesday Of The Month - Ruby

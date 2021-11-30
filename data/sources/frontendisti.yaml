@@ -56,9 +56,9 @@ series:
         dtstart: 2021-11-10 18:00:00+01:00
         dtend: 2021-11-10 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Dec 8, 5:00 PM: Blíží konec roku a s ním vánoční setkání Frontendisti.cz. Situace kolem koronaviru v ČR nám sice nedovolí uspořádat tradiční offline sraz. My vám ale ukážeme, že si naše sp'
-      og_title: Vánoční sraz Frontendisti.cz | Meetup
-      image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
+      meta_description: 'Wed, Dec 8, 2021, 6:00 PM: Blíží konec roku a s ním vánoční setkání Frontendisti.cz. Situace kolem koronaviru v ČR nám sice nedovolí uspořádat tradiční offline sraz. My vám ale ukážeme, že si naše spo'
+      og_title: Vánoční sraz Frontendisti.cz, Wed, Dec 8, 2021, 6:00 PM
+      image: https://secure.meetupstatic.com/photos/event/4/9/4/1/600_500538753.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsyccqblb/
       ical:
         summary: Vánoční sraz Frontendisti.cz
@@ -130,8 +130,8 @@ series:
         dtstart: 2021-05-29 10:00:00+02:00
         dtend: 2021-05-29 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Feb 9, 6:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
-      og_title: Meetup Frontedisti.cz | Meetup
+      meta_description: 'Wed, Feb 9, 2022, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každo'
+      og_title: Meetup Frontedisti.cz, Wed, Feb 9, 2022, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsydcdbmb/
       ical:
@@ -155,14 +155,8 @@ series:
         dtstart: 2022-02-09 19:00:00+01:00
         dtend: 2022-02-09 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Nov 10, 5:30 PM: Online stream for meetup from Pipedrive in Prague. This time mainly in English:
-
-
-        18:30 - LIVE STREAM - https://www.youtube.com/watch?v=zE75vOR4iDM
-
-
-        18:35 - Quick intro into'
-      og_title: 'Online stream: Bitcoin wallets, Smart TVs testing and MicroFrontends | Meetup'
+      meta_description: 'Wed, Nov 10, 2021, 6:30 PM: Online stream for meetup from Pipedrive in Prague. This time mainly in English:18:30 - LIVE STREAM - https://www.youtube.com/watch?v=zE75vOR4iDM18:35 - Quick intro into the'
+      og_title: 'Online stream: Bitcoin wallets, Smart TVs testing and MicroFrontends'
       image: https://secure.meetupstatic.com/photos/event/4/4/1/3/600_499997427.jpeg
       url: https://www.meetup.com/frontendisti/events/281587897/
       ical:
@@ -186,8 +180,8 @@ series:
         dtstart: 2021-11-10 18:30:00+01:00
         dtend: 2021-11-10 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Mar 9, 6:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
-      og_title: Meetup Frontedisti.cz | Meetup
+      meta_description: 'Wed, Mar 9, 2022, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každo'
+      og_title: Meetup Frontedisti.cz, Wed, Mar 9, 2022, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsydcfbmb/
       ical:
@@ -210,8 +204,8 @@ series:
         dtstart: 2022-03-09 19:00:00+01:00
         dtend: 2022-03-09 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Apr 13, 5:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
-      og_title: Meetup Frontedisti.cz | Meetup
+      meta_description: 'Wed, Apr 13, 2022, 7:00 PM: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
+      og_title: Meetup Frontedisti.cz, Wed, Apr 13, 2022, 7:00 PM
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsydcgbrb/
       ical:

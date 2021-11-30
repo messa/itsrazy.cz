@@ -1,7 +1,7 @@
 series:
   meetupcom:
     url: https://www.meetup.com/data-punkers/events/past/
-    meta_description: Past Events for Prague Data Punkers in Prague, Czech Republic. A Meetup group with over 424 Data Punkers.
+    meta_description: Past Events for Prague Data Punkers in Prague, Czech Republic. A Meetup group with over 423 Data Punkers.
     og_title: Past Events | Prague Data Punkers (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/3/a/3/0/600_487934896.jpeg
   events:
