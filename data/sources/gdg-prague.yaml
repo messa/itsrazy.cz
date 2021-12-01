@@ -306,8 +306,14 @@ series:
         dtend: 2021-12-20 20:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/7/1/7/2/600_447689042.jpeg
   - meetupcom:
-      meta_description: 'Fri, Nov 26, 2021, 1:00 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOWhttps://gdg.community.dev/events/details/google-gdg-prague-presents-devfestcz-connect-prague/DevFest.cz is o'
-      og_title: 'DevFest.cz Connect: Prague'
+      meta_description: 'Fri, Nov 26, 12:00 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
+
+
+        https://gdg.community.dev/events/details/google-gdg-prague-presents-devfestcz-connect-prague/
+
+
+        DevFest.cz '
+      og_title: 'DevFest.cz Connect: Prague | Meetup'
       image: https://secure.meetupstatic.com/photos/event/8/3/d/9/600_500313753.jpeg
       url: https://www.meetup.com/GDGPrague/events/281675919/
       ical:
@@ -406,8 +412,20 @@ series:
         dtstart: 2021-11-23 18:30:00+01:00
         dtend: 2021-11-23 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 2021, 6:30 PM: • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/GDG Gara'
-      og_title: GDG Garage Prague One, Tue, Dec 7, 2021, 6:30 PM
+      meta_description: 'Tue, Dec 7, 5:30 PM: • How to join?
+
+        Online only because of covid https://discord.gg/TnaMJMyTDw
+
+
+        • What we''ll do
+
+        https://sites.google.com/site/garagepragueone/home
+
+
+        http://gdg-garage.github.io/
+
+        '
+      og_title: GDG Garage Prague One | Meetup
       url: https://www.meetup.com/GDGPrague/events/xqcsqsyccqbkb/
       ical:
         summary: GDG Garage Prague One
@@ -431,8 +449,20 @@ series:
         dtend: 2021-12-07 20:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg
   - meetupcom:
-      meta_description: 'Tue, Dec 21, 2021, 6:30 PM: • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/GDG Gar'
-      og_title: GDG Garage Prague One, Tue, Dec 21, 2021, 6:30 PM
+      meta_description: 'Tue, Dec 21, 5:30 PM: • How to join?
+
+        Online only because of covid https://discord.gg/TnaMJMyTDw
+
+
+        • What we''ll do
+
+        https://sites.google.com/site/garagepragueone/home
+
+
+        http://gdg-garage.github.io/
+
+        '
+      og_title: GDG Garage Prague One | Meetup
       url: https://www.meetup.com/GDGPrague/events/xqcsqsyccqbcc/
       ical:
         summary: GDG Garage Prague One
@@ -456,8 +486,20 @@ series:
         dtend: 2021-12-21 20:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg
   - meetupcom:
-      meta_description: 'Tue, Jan 4, 2022, 6:30 PM: • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/GDG Gara'
-      og_title: GDG Garage Prague One, Tue, Jan 4, 2022, 6:30 PM
+      meta_description: 'Tue, Jan 4, 5:30 PM: • How to join?
+
+        Online only because of covid https://discord.gg/TnaMJMyTDw
+
+
+        • What we''ll do
+
+        https://sites.google.com/site/garagepragueone/home
+
+
+        http://gdg-garage.github.io/
+
+        '
+      og_title: GDG Garage Prague One | Meetup
       image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg
       url: https://www.meetup.com/GDGPrague/events/xqcsqsydccbgb/
       ical:
@@ -481,8 +523,20 @@ series:
         dtstart: 2022-01-04 18:30:00+01:00
         dtend: 2022-01-04 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Jan 18, 2022, 6:30 PM: • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw• What we''ll dohttps://sites.google.com/site/garagepragueone/homehttp://gdg-garage.github.io/GDG Gar'
-      og_title: GDG Garage Prague One, Tue, Jan 18, 2022, 6:30 PM
+      meta_description: 'Tue, Jan 18, 5:30 PM: • How to join?
+
+        Online only because of covid https://discord.gg/TnaMJMyTDw
+
+
+        • What we''ll do
+
+        https://sites.google.com/site/garagepragueone/home
+
+
+        http://gdg-garage.github.io/
+
+        '
+      og_title: GDG Garage Prague One | Meetup
       image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg
       url: https://www.meetup.com/GDGPrague/events/xqcsqsydccbxb/
       ical:
