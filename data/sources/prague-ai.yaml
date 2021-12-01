@@ -207,8 +207,8 @@ series:
         dtend: 2021-11-16 18:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/1/d/5/e/600_500167518.jpeg
   - meetupcom:
-      meta_description: 'Wed, Dec 1, 9:00 AM: Machine-Learning can help every organisation solve the most challenging analytical problems, but complex systems and skills gaps can prevent organisations from exploiting i'
-      og_title: Accelerating Machine-Learning with Snowflake and H2O.ai | Meetup
+      meta_description: 'Wed, Dec 1, 2021, 10:00 AM: Machine-Learning can help every organisation solve the most challenging analytical problems, but complex systems and skills gaps can prevent organisations from exploiting i'
+      og_title: Accelerating Machine-Learning with Snowflake and H2O.ai
       image: https://secure.meetupstatic.com/photos/event/7/2/d/f/600_500129407.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281995999/
       ical:
@@ -260,8 +260,8 @@ series:
         dtstart: 2021-11-18 19:00:00+01:00
         dtend: 2021-11-18 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Dec 2, 3:00 PM: The possibilities of AI in the production process seem to be almost limitless, from autonomous driving to secure payment transactions. Especially in the manufacturing indus'
-      og_title: AI-Driven Manufacturing  | Meetup
+      meta_description: 'Thu, Dec 2, 2021, 4:00 PM: The possibilities of AI in the production process seem to be almost limitless, from autonomous driving to secure payment transactions. Especially in the manufacturing indust'
+      og_title: 'AI-Driven Manufacturing '
       image: https://secure.meetupstatic.com/photos/event/a/1/c/6/600_500261414.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282116019/
       ical:
@@ -285,11 +285,8 @@ series:
         dtstart: 2021-12-02 16:00:00+01:00
         dtend: 2021-12-02 17:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Dec 2, 6:00 PM: Hello Maker,
-
-
-        Join us on December 2nd for our next live event on LinkedIn, Twitter, and YouTube. This time I will be discussing Wave apps development and deployment for the'
-      og_title: 'Make with H2O: Getting Started with Wave for the Wildfire Challenge | Meetup'
+      meta_description: 'Thu, Dec 2, 2021, 7:00 PM: Hello Maker,Join us on December 2nd for our next live event on LinkedIn, Twitter, and YouTube. This time I will be discussing Wave apps development and deployment for the H2'
+      og_title: 'Make with H2O: Getting Started with Wave for the Wildfire Challenge'
       image: https://secure.meetupstatic.com/photos/event/d/1/d/600_500523357.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282378254/
       ical:

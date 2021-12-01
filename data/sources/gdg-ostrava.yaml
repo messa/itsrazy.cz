@@ -6,14 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
   events:
   - meetupcom:
-      meta_description: 'Fri, Nov 26, 8:00 AM: PLEASE RSVP USING THE LINK BELOW
-
-
-        https://gdg.community.dev/events/details/google-gdg-ostrava-presents-devfestcz-2021-powered-by-techmeetup/
-
-
-        DevFest.cz je každoročně pořád'
-      og_title: DevFest.cz 2021 powered by TechMeetup | Meetup
+      meta_description: 'Fri, Nov 26, 2021, 9:00 AM: PLEASE RSVP USING THE LINK BELOWhttps://gdg.community.dev/events/details/google-gdg-ostrava-presents-devfestcz-2021-powered-by-techmeetup/DevFest.cz je každoročně pořádaný '
+      og_title: DevFest.cz 2021 powered by TechMeetup
       image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
       url: https://www.meetup.com/GDG-Ostrava/events/281546792/
       ical:
@@ -37,11 +31,8 @@ series:
         dtstart: 2021-11-26 09:00:00+01:00
         dtend: 2021-11-26 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Jun 2, 4:00 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
-
-
-        https://gdg.community.dev/events/details/google-gdg-ostrava-presents-cybersecurity-with-zdenek-klus-ii-cze'
-      og_title: Cybersecurity with Zdenek Klus II [Czech] | Meetup
+      meta_description: 'Wed, Jun 2, 2021, 6:00 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOWhttps://gdg.community.dev/events/details/google-gdg-ostrava-presents-cybersecurity-with-zdenek-klus-ii-czech/'
+      og_title: Cybersecurity with Zdenek Klus II [Czech]
       image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
       url: https://www.meetup.com/GDG-Ostrava/events/278023608/
       ical:
@@ -65,11 +56,8 @@ series:
         dtstart: 2021-06-02 18:00:00+02:00
         dtend: 2021-06-02 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, May 26, 4:00 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
-
-
-        https://gdg.community.dev/events/details/google-gdg-ostrava-presents-cybersecurity-with-zdenek-klus-i-czec'
-      og_title: Cybersecurity with Zdenek Klus I [Czech] | Meetup
+      meta_description: 'Wed, May 26, 2021, 6:00 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOWhttps://gdg.community.dev/events/details/google-gdg-ostrava-presents-cybersecurity-with-zdenek-klus-i-czech/'
+      og_title: Cybersecurity with Zdenek Klus I [Czech]
       image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
       url: https://www.meetup.com/GDG-Ostrava/events/278023442/
       ical:
@@ -93,14 +81,8 @@ series:
         dtstart: 2021-05-26 18:00:00+02:00
         dtend: 2021-05-26 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, May 18, 4:30 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
-
-
-        https://gdg.community.dev/events/details/google-gdg-ostrava-presents-io-commented-keynote-czech/
-
-
-        Enjoy th'
-      og_title: I/O Commented Keynote [Czech] | Meetup
+      meta_description: 'Tue, May 18, 2021, 6:30 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOWhttps://gdg.community.dev/events/details/google-gdg-ostrava-presents-io-commented-keynote-czech/Enjoy the I/'
+      og_title: I/O Commented Keynote [Czech]
       image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
       url: https://www.meetup.com/GDG-Ostrava/events/278017552/
       ical:
