@@ -184,8 +184,8 @@ series:
         dtend: 2021-10-26 20:00:00+02:00
       image: https://secure.meetupstatic.com/photos/event/6/c/9/e/600_499707806.jpeg
   - meetupcom:
-      meta_description: 'Thu, Dec 2, 5:00 PM: Připoj se k našemu večernímu workshopu, který bude probíhat online ve čtvrtek 2. prosince od 18 hodin. Probereme základy kódování a dozvíš se, co znamená pro-code a low-cod'
-      og_title: 'Online workshop: Základy programování | Meetup'
+      meta_description: 'Thu, Dec 2, 2021, 6:00 PM: Připoj se k našemu večernímu workshopu, který bude probíhat online ve čtvrtek 2. prosince od 18 hodin. Probereme základy kódování a dozvíš se, co znamená pro-code a low-code'
+      og_title: 'Online workshop: Základy programování'
       image: https://secure.meetupstatic.com/photos/event/3/1/e/9/600_500412777.jpeg
       url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/282264181/
       ical:
@@ -209,8 +209,8 @@ series:
         dtstart: 2021-12-02 18:00:00+01:00
         dtend: 2021-12-02 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 14, 5:00 PM: Jaké znalosti se ti vyplatí naučit už teď, abys ses vždy uplatnil/a na trhu práce? Jaké jsou výhody kurzů akreditovaných státem? Co je pro-code a jak fungují low-code platf'
-      og_title: 'Online informační schůzka: Jak nastartovat kariéru programátora od nuly? | Meetup'
+      meta_description: 'Tue, Dec 14, 2021, 6:00 PM: Jaké znalosti se ti vyplatí naučit už teď, abys ses vždy uplatnil/a na trhu práce? Jaké jsou výhody kurzů akreditovaných státem? Co je pro-code a jak fungují low-code platf'
+      og_title: 'Online informační schůzka: Jak nastartovat kariéru programátora od nuly?'
       image: https://secure.meetupstatic.com/photos/event/9/3/2/5/600_500557669.jpeg
       url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/282423179/
       ical:

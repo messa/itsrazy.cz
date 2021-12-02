@@ -62,11 +62,8 @@ series:
         dtstart: 2021-09-29 18:00:00+02:00
         dtend: 2021-09-29 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Oct 7, 4:00 PM: It’s happening! Productboard is officially in Brno!
-
-
-        Register please via Eventbrite: https://www.eventbrite.com/e/productboard-office-opening-party-in-brno-tickets-17717528'
-      og_title: Productboard Office Opening Party in Brno | Meetup
+      meta_description: 'Thu, Oct 7, 2021, 6:00 PM: It’s happening! Productboard is officially in Brno!Register please via Eventbrite: https://www.eventbrite.com/e/productboard-office-opening-party-in-brno-tickets-17717528504'
+      og_title: Productboard Office Opening Party in Brno
       image: https://secure.meetupstatic.com/photos/event/b/b/3/c/600_499187932.jpeg
       url: https://www.meetup.com/productboard-meetups/events/281141059/
       ical:
@@ -115,8 +112,8 @@ series:
         dtstart: 2021-10-07 17:00:00+02:00
         dtend: 2021-10-07 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 19, 4:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We’re excited to show you our new event space (in person) as '
-      og_title: 'Design Meetup: Cutting edge of prototyping (Offline + Livestreaming) | Meetup'
+      meta_description: 'Tue, Oct 19, 2021, 6:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We’re excited to show you our new event space (in person) as '
+      og_title: 'Design Meetup: Cutting edge of prototyping (Offline + Livestreaming)'
       image: https://secure.meetupstatic.com/photos/event/a/5/b/a/600_499422426.jpeg
       url: https://www.meetup.com/productboard-meetups/events/281251376/
       ical:
@@ -140,8 +137,8 @@ series:
         dtstart: 2021-10-19 18:00:00+02:00
         dtend: 2021-10-19 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Oct 20, 4:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as'
-      og_title: 'Frontend Meetup PRG #2 - Offline + Livestreaming | Meetup'
+      meta_description: 'Wed, Oct 20, 2021, 6:00 PM: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as'
+      og_title: 'Frontend Meetup PRG #2 - Offline + Livestreaming'
       image: https://secure.meetupstatic.com/photos/event/9/b/d/1/600_499419889.jpeg
       url: https://www.meetup.com/productboard-meetups/events/281355157/
       ical:
@@ -165,13 +162,8 @@ series:
         dtstart: 2021-10-20 18:00:00+02:00
         dtend: 2021-10-20 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Dec 1, 5:00 PM: Stay home, stay safe, but stay connected to the community! 🙌
-
-
-        Join us for our next online meetup. Please register via Eventbrite:
-
-        https://www.eventbrite.com/e/frontend-mee'
-      og_title: 'Frontend Meetup #3 | Meetup'
+      meta_description: 'Wed, Dec 1, 2021, 6:00 PM: Stay home, stay safe, but stay connected to the community! 🙌Join us for our next online meetup. Please register via Eventbrite:https://www.eventbrite.com/e/frontend-meetup-'
+      og_title: 'Frontend Meetup #3'
       url: https://www.meetup.com/productboard-meetups/events/281628250/
       ical:
         summary: 'Frontend Meetup #3'
