@@ -56,8 +56,8 @@ series:
         dtstart: 2021-09-16 16:00:00+02:00
         dtend: 2021-09-16 18:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Sep 30, 2021, 4:00 PM: Utilizing messaging systems grants us the capability to decouple services from each other: downtime of a service consuming messages does not impact the functionality of the'
-      og_title: Messaging with Quarkus
+      meta_description: 'Thu, Sep 30, 2:00 PM: Utilizing messaging systems grants us the capability to decouple services from each other: downtime of a service consuming messages does not impact the functionality of the'
+      og_title: Messaging with Quarkus | Meetup
       image: https://secure.meetupstatic.com/photos/event/d/1/3/3/600_498413555.jpeg
       url: https://www.meetup.com/IBM-Developer-Prague/events/280353088/
       ical:
@@ -106,8 +106,12 @@ series:
         dtstart: 2021-08-16 16:00:00+02:00
         dtend: 2021-08-16 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Oct 14, 2021, 5:00 PM: IBM & TCS Present: Communicating between ApplicationsIntro to Enterprise Messaging & Event StreamingEnterprise messaging technologies, such as IBM MQ, have provided asynchr'
-      og_title: 'IBM & TCS Present: Communicating between Applications'
+      meta_description: 'Thu, Oct 14, 3:00 PM: IBM & TCS Present: Communicating between Applications
+
+        Intro to Enterprise Messaging & Event Streaming
+
+        Enterprise messaging technologies, such as IBM MQ, have provided async'
+      og_title: 'IBM & TCS Present: Communicating between Applications | Meetup'
       image: https://secure.meetupstatic.com/photos/event/4/c/e/6/600_499459686.jpeg
       url: https://www.meetup.com/IBM-Developer-Prague/events/280921328/
       ical:
@@ -131,8 +135,8 @@ series:
         dtstart: 2021-10-14 17:00:00+02:00
         dtend: 2021-10-14 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Oct 18, 2021, 12:00 PM: Let''s continue the conversation; build smart and build secure with the right tools and services by working with the world’s largest technical support provider for open sou'
-      og_title: Developer Festival
+      meta_description: 'Mon, Oct 18, 10:00 AM: Let''s continue the conversation; build smart and build secure with the right tools and services by working with the world’s largest technical support provider for open sour'
+      og_title: Developer Festival | Meetup
       image: https://secure.meetupstatic.com/photos/event/b/2/d/1/600_499485777.jpeg
       url: https://www.meetup.com/IBM-Developer-Prague/events/281430037/
       ical:
@@ -156,8 +160,8 @@ series:
         dtstart: 2021-10-18 12:00:00+02:00
         dtend: 2021-10-20 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Nov 25, 2021, 4:00 PM: 🌍Today everyone is talking about cloud-native services and you might ask yourself what does it really means? Why is it so popular? One of the major cloud-native services a'
-      og_title: Microservices and CloudNative Architecture:Key Use Cases and practical solutions
+      meta_description: 'Thu, Nov 25, 3:00 PM: 🌍Today everyone is talking about cloud-native services and you might ask yourself what does it really means? Why is it so popular? One of the major cloud-native services a'
+      og_title: Microservices and CloudNative Architecture:Key Use Cases and practical solutions | Meetup
       url: https://www.meetup.com/IBM-Developer-Prague/events/281975947/
       ical:
         summary: Microservices and CloudNative Architecture:Key Use Cases and practical solutions

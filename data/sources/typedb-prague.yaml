@@ -403,8 +403,11 @@ series:
         dtstart: 2021-11-10 18:30:00+01:00
         dtend: 2021-11-10 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Nov 30, 2021, 6:30 PM: How might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine?We''ll visit the key ideas behind actors, and then walk through how we b'
-      og_title: Reasoner Meet Actors | TypeDB's Native Reasoning Engine
+      meta_description: 'Tue, Nov 30, 5:30 PM: How might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine?
+
+
+        We''ll visit the key ideas behind actors, and then walk through how we'
+      og_title: Reasoner Meet Actors | TypeDB's Native Reasoning Engine | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/6/7/f/600_498365759.jpeg
       url: https://www.meetup.com/typedb-prague/events/280962390/
       ical:
@@ -453,8 +456,8 @@ series:
         dtstart: 2021-11-16 18:30:00+01:00
         dtend: 2021-11-16 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Nov 17, 2021, 6:30 PM: Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bodies of data on the web'
-      og_title: Comparing Semantic Web Technologies to TypeDB
+      meta_description: 'Wed, Nov 17, 5:30 PM: Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bodies of data on the web'
+      og_title: Comparing Semantic Web Technologies to TypeDB | Meetup
       url: https://www.meetup.com/typedb-prague/events/280964242/
       ical:
         summary: Comparing Semantic Web Technologies to TypeDB
@@ -478,8 +481,8 @@ series:
         dtend: 2021-11-17 19:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/c/d/6/2/600_497332578.jpeg
   - meetupcom:
-      meta_description: 'Thu, Nov 18, 2021, 5:00 PM: Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform kno'
-      og_title: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise
+      meta_description: 'Thu, Nov 18, 4:00 PM: Cognitive/AI systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform kno'
+      og_title: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise | Meetup
       image: https://secure.meetupstatic.com/photos/event/b/3/a/d/600_496365997.jpeg
       url: https://www.meetup.com/typedb-prague/events/280964730/
       ical:
@@ -502,8 +505,8 @@ series:
         dtstart: 2021-11-18 17:00:00+01:00
         dtend: 2021-11-18 18:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Dec 1, 2021, 6:30 PM: Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However, relational databa'
-      og_title: Beyond SQL | Comparing SQL to TypeQL
+      meta_description: 'Wed, Dec 1, 5:30 PM: Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However, relational datab'
+      og_title: Beyond SQL | Comparing SQL to TypeQL | Meetup
       image: https://secure.meetupstatic.com/photos/event/2/1/c/3/600_496988643.jpeg
       url: https://www.meetup.com/typedb-prague/events/280965322/
       ical:

@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/8/0/3/9/600_494792825.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, May 18, 2021, 6:00 PM: Cloud-Native Prague #16 is here! Come join us online, share experiences and discuss successes and fuck-ups. It was a great last time, so prepare some drink and connect with'
-      og_title: 'Cloud Native Prague Meetup #16'
+      meta_description: 'Tue, May 18, 4:00 PM: Cloud-Native Prague #16 is here! Come join us online, share experiences and discuss successes and fuck-ups. It was a great last time, so prepare some drink and connect with'
+      og_title: 'Cloud Native Prague Meetup #16 | Meetup'
       image: https://secure.meetupstatic.com/photos/event/3/8/0/e/600_496154350.jpeg
       url: https://www.meetup.com/Cloud-Native-Prague/events/278042296/
       ical:
@@ -31,8 +31,10 @@ series:
         dtstart: 2021-05-18 18:00:00+02:00
         dtend: 2021-05-18 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Mar 2, 2021, 6:00 PM: Hey Cloud-natives,we are happy to announce another meetup with amazing talks. We will meet online, so there is no reason to change because of the stain on your old and belov'
-      og_title: 'Cloud Native Prague Meetup #15'
+      meta_description: 'Tue, Mar 2, 5:00 PM: Hey Cloud-natives,
+
+        we are happy to announce another meetup with amazing talks. We will meet online, so there is no reason to change because of the stain on your old and bel'
+      og_title: 'Cloud Native Prague Meetup #15 | Meetup'
       image: https://secure.meetupstatic.com/photos/event/a/5/e/c/600_494802476.jpeg
       url: https://www.meetup.com/Cloud-Native-Prague/events/276422404/
       ical:
@@ -56,8 +58,10 @@ series:
         dtstart: 2021-03-02 18:00:00+01:00
         dtend: 2021-03-02 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Jan 28, 2021, 6:00 PM: Hi Cloud-natives,we hope you are safe and sound because winter is coming. We managed to prepare some exciting agenda for another online meetup - believe us or not - number '
-      og_title: 'Cloud Native Prague Meetup #14'
+      meta_description: 'Thu, Jan 28, 5:00 PM: Hi Cloud-natives,
+
+        we hope you are safe and sound because winter is coming. We managed to prepare some exciting agenda for another online meetup - believe us or not - number'
+      og_title: 'Cloud Native Prague Meetup #14 | Meetup'
       image: https://secure.meetupstatic.com/photos/event/5/a/2/0/600_494483072.jpeg
       url: https://www.meetup.com/Cloud-Native-Prague/events/275827515/
       ical:
@@ -81,8 +85,10 @@ series:
         dtstart: 2021-01-28 18:00:00+01:00
         dtend: 2021-01-28 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Nov 24, 2020, 6:00 PM: Hey Cloud-natives,it seems like online meetups are our "new normal". Don''t be sad and come join us from your home, we will share experiences and discuss successes and f**k-'
-      og_title: 'Cloud Native Prague Meetup #13'
+      meta_description: 'Tue, Nov 24, 5:00 PM: Hey Cloud-natives,
+
+        it seems like online meetups are our "new normal". Don''t be sad and come join us from your home, we will share experiences and discuss successes and f**k'
+      og_title: 'Cloud Native Prague Meetup #13 | Meetup'
       image: https://secure.meetupstatic.com/photos/event/d/9/1/6/600_493495574.jpeg
       url: https://www.meetup.com/Cloud-Native-Prague/events/274535019/
       ical:

@@ -106,8 +106,13 @@ series:
         dtstart: 2021-04-27 18:00:00+02:00
         dtend: 2021-04-27 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Sep 29, 2021, 6:00 PM: Po delší prázdninové pauze opět proběhne setkání nejen brněnských testerů.Akce bude online, takže se může připojit do diskuze kdokoliv.Pro spojení a diskuzi použijeme opět '
-      og_title: 'online: QA Brno - Volná témata'
+      meta_description: 'Wed, Sep 29, 4:00 PM: Po delší prázdninové pauze opět proběhne setkání nejen brněnských testerů.
+
+
+        Akce bude online, takže se může připojit do diskuze kdokoliv.
+
+        Pro spojení a diskuzi použijeme op'
+      og_title: 'online: QA Brno - Volná témata | Meetup'
       image: https://secure.meetupstatic.com/photos/event/c/9/0/2/600_499131458.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/281067619/
       ical:
@@ -131,8 +136,11 @@ series:
         dtstart: 2021-09-29 18:00:00+02:00
         dtend: 2021-09-29 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Dec 8, 2021, 6:00 PM: Přednáška a praktická ukázka automatizovaného E2E testování Rest API pomocí Swaggeru.- Přednáška bude o E2E testování za pomoci API a Swaggru, díky čemuž můžete ověřit kvali'
-      og_title: 'online: QA Brno - Automatizované E2E testování API pomocí Swaggeru'
+      meta_description: 'Wed, Dec 8, 5:00 PM: Přednáška a praktická ukázka automatizovaného E2E testování Rest API pomocí Swaggeru.
+
+
+        - Přednáška bude o E2E testování za pomoci API a Swaggru, díky čemuž můžete ověřit kv'
+      og_title: 'online: QA Brno - Automatizované E2E testování API pomocí Swaggeru | Meetup'
       image: https://secure.meetupstatic.com/photos/event/9/8/7/600_500522439.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/282376801/
       ical:
