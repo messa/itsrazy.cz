@@ -223,7 +223,7 @@ series:
         dtstart: 2021-11-02 18:30:00+01:00
         dtend: 2021-11-02 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 5:30 PM: Get out and get social in 2021 : come out and discuss JS together!
+      meta_description: 'Get out and get social in 2021 : come out and discuss JS together!
 
         Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that a'
       og_title: '2021 #3 Gaming Development | Meetup'
