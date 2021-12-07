@@ -136,7 +136,7 @@ series:
         dtstart: 2021-09-29 18:00:00+02:00
         dtend: 2021-09-29 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Dec 8, 5:00 PM: Přednáška a praktická ukázka automatizovaného E2E testování Rest API pomocí Swaggeru.
+      meta_description: 'Tue, Dec 14, 5:00 PM: Přednáška a praktická ukázka automatizovaného E2E testování Rest API pomocí Swaggeru.
 
 
         - Přednáška bude o E2E testování za pomoci API a Swaggru, díky čemuž můžete ověřit kv'
@@ -147,7 +147,7 @@ series:
         summary: 'online: QA Brno - Automatizované E2E testování API pomocí Swaggeru'
         description: 'CZECH TESTERS GROUP
 
-          Wednesday, December 8 at 6:00 PM
+          Tuesday, December 14 at 6:00 PM
 
 
           Přednáška a praktická ukázka automatizovaného E2E testování Rest API pomocí Swaggeru. - Přednáška bude o E2E testování za pomoci API a Swaggru, díky č...
@@ -161,5 +161,5 @@ series:
         status: CONFIRMED
         uid: event_282376801@meetup.com
         url: https://www.meetup.com/ProfessionalTesting/events/282376801/
-        dtstart: 2021-12-08 18:00:00+01:00
-        dtend: 2021-12-08 20:00:00+01:00
+        dtstart: 2021-12-14 18:00:00+01:00
+        dtend: 2021-12-14 20:00:00+01:00

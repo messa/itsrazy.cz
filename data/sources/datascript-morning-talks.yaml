@@ -279,8 +279,14 @@ series:
         dtend: 2021-11-11 10:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/c/5/3/600_499743155.jpeg
   - meetupcom:
-      meta_description: 'Tue, Nov 16, 2021, 9:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/dynamicka-infrastruktura-v-consulu/Na co se můžete těšit:V měnící se infrastruktuře je těžké udržovat seznam služeb '
-      og_title: Dynamická infrastruktura v Consulu
+      meta_description: 'Tue, Nov 16, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/dynamicka-infrastruktura-v-consulu/
+
+
+        Na co se můžete těšit:
+
+
+        V měnící se infrastruktuře je těžké udržovat seznam slu'
+      og_title: Dynamická infrastruktura v Consulu | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/6/1/600_499743169.jpeg
       url: https://www.meetup.com/Morning-Talks/events/281648112/
       ical:
