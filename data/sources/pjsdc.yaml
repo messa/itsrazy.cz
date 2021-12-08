@@ -233,3 +233,27 @@ series:
         url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/282423179/
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Dec 21, 5:00 PM: Vánoce jsou za dveřmi a více než pečení vanilkových rohlíčků tě zajímá kariéra v IT? Přihlas se na náš bezplatný online workshop, který se bude konat v úterý 21. prosince o'
+      og_title: 'Vánoční workshop: Základy programování | Meetup'
+      url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/282564834/
+      ical:
+        summary: 'Vánoční workshop: Základy programování'
+        description: 'Become a software developer from 0
+
+          Tuesday, December 21 at 6:00 PM
+
+
+          Vánoce jsou za dveřmi a více než pečení vanilkových rohlíčků tě zajímá kariéra v IT? Přihlas se na náš bezplatný online workshop, který se bude konat ...
+
+
+          https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/282564834/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282564834@meetup.com
+        url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/282564834/
+        dtstart: 2021-12-21 18:00:00+01:00
+        dtend: 2021-12-21 20:00:00+01:00
