@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/2/2/8/5/600_473768837.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Aug 3, 2021, 7:00 PM: Podíváme se na zoubek nástrojům, které časem ztratily svůj význam a dnes už jsou přežité.'
-      og_title: Jednoduše a rychle
+      meta_description: 'Tue, Aug 3, 5:00 PM: Podíváme se na zoubek nástrojům, které časem ztratily svůj význam a dnes už jsou přežité.'
+      og_title: Jednoduše a rychle | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/3/7/600_497884663.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/279829674/
       ical:
@@ -105,8 +105,11 @@ series:
         dtstart: 2021-05-04 19:00:00+02:00
         dtend: 2021-05-04 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 5, 2021, 7:00 PM: Tentokrát se podíváme na adrenalinové sporty. Hledáte nějaký netechnický koníček? Přijďte načerpat inspiraci!Sledovat nás můžete jako vždy i živě na: https://zive.tv/topmonk'
-      og_title: Adrenalinové sporty
+      meta_description: 'Tue, Oct 5, 5:00 PM: Tentokrát se podíváme na adrenalinové sporty. Hledáte nějaký netechnický koníček? Přijďte načerpat inspiraci!
+
+
+        Sledovat nás můžete jako vždy i živě na: https://zive.tv/topm'
+      og_title: Adrenalinové sporty | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/3/b/0/600_499265040.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/281139148/
       ical:

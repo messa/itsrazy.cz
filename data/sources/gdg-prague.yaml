@@ -559,3 +559,39 @@ series:
         url: https://www.meetup.com/GDGPrague/events/xqcsqsydccbxb/
         dtstart: 2022-01-18 18:30:00+01:00
         dtend: 2022-01-18 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Feb 1, 5:30 PM: • How to join?
+
+        Online only because of covid https://discord.gg/TnaMJMyTDw
+
+
+        • What we''ll do
+
+        https://sites.google.com/site/garagepragueone/home
+
+
+        http://gdg-garage.github.io/
+
+        '
+      og_title: GDG Garage Prague One | Meetup
+      url: https://www.meetup.com/GDGPrague/events/xqcsqsydcdbcb/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Tuesday, February 1 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/xqcsqsydcdbcb/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_xqcsqsydcdbcb@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/xqcsqsydcdbcb/
+        dtstart: 2022-02-01 18:30:00+01:00
+        dtend: 2022-02-01 20:30:00+01:00

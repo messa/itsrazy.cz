@@ -230,8 +230,11 @@ series:
         dtend: 2021-11-01 20:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/1/6/c/d/600_499745837.jpeg
   - meetupcom:
-      meta_description: 'Thu, Nov 4, 2021, 7:00 PM: Are you a UX writer, UX designer, UX researcher, or are just UX curious? Come on out for the next Prague UX Writers meetup!If you have something you want to talk about or sh'
-      og_title: PRAGUE UX WRITERS MEETUP Vol. 23 - November
+      meta_description: 'Thu, Nov 4, 6:00 PM: Are you a UX writer, UX designer, UX researcher, or are just UX curious? Come on out for the next Prague UX Writers meetup!
+
+
+        If you have something you want to talk about or'
+      og_title: PRAGUE UX WRITERS MEETUP Vol. 23 - November | Meetup
       url: https://www.meetup.com/asociace-ux/events/281657918/
       ical:
         summary: PRAGUE UX WRITERS MEETUP Vol. 23 - November

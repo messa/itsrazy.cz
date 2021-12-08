@@ -138,3 +138,35 @@ series:
         url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/281293821/
         dtstart: 2021-10-14 18:00:00+02:00
         dtend: 2021-10-14 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Dec 14, 5:00 PM: The talks will be live on YouTube.
+
+
+        Talk #1: How we use simple models to improve intent matching (Tomáš Vodrážka, Feedyou)
+
+
+        Abstract
+
+        Building a chatbot is not tricky anymor'
+      og_title: 'MLMU Online #17: Building Chatbots in Practice and Lessons Learned | Meetup'
+      url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/282546299/
+      ical:
+        summary: 'MLMU Online #17: Building Chatbots in Practice and Lessons Learned'
+        description: 'Machine Learning Meetup Brno
+
+          Tuesday, December 14 at 6:00 PM
+
+
+          The talks will be live on YouTube. Talk #1: How we use simple models to improve intent matching (Tomáš Vodrážka, Feedyou) AbstractBuilding a chatbot i...
+
+
+          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/282546299/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_282546299@meetup.com
+        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/282546299/
+        dtstart: 2021-12-14 18:00:00+01:00
+        dtend: 2021-12-14 20:00:00+01:00
