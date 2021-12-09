@@ -6,8 +6,11 @@ series:
     image: https://secure.meetupstatic.com/photos/event/8/d/c/e/600_492396302.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Sep 7, 2021, 6:00 PM: Pure Storage is pleased to invite you to "Tech Careers Up-Close: Ladies edition'''' on September 7th, 2021 at 18:00 CET.Why be there? Join us to hear from our panelists and th'
-      og_title: 'Tech Career Up-Close: Ladies Edition'
+      meta_description: 'Tue, Sep 7, 4:00 PM: Pure Storage is pleased to invite you to "Tech Careers Up-Close: Ladies edition'''' on September 7th, 2021 at 18:00 CET.
+
+
+        Why be there? Join us to hear from our panelists and'
+      og_title: 'Tech Career Up-Close: Ladies Edition | Meetup'
       image: https://secure.meetupstatic.com/photos/event/9/5/3/5/600_498278197.jpeg
       url: https://www.meetup.com/Pure-Storage-Talks/events/280232891/
       ical:
@@ -106,8 +109,11 @@ series:
         dtstart: 2020-12-17 18:00:00+01:00
         dtend: 2020-12-17 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Mon, Oct 11, 2021, 8:00 AM: Innovation. A buzzword for some, daily bread for us.It started with an innovative idea of two brilliant minds, and since then the innovative mindset has become deeply roote'
-      og_title: Pure Storage @ Innovation Week
+      meta_description: 'Mon, Oct 11, 6:00 AM: Innovation. A buzzword for some, daily bread for us.
+
+
+        It started with an innovative idea of two brilliant minds, and since then the innovative mindset has become deeply roo'
+      og_title: Pure Storage @ Innovation Week | Meetup
       image: https://secure.meetupstatic.com/photos/event/a/a/1/4/600_499303540.jpeg
       url: https://www.meetup.com/Pure-Storage-Talks/events/281246298/
       ical:
