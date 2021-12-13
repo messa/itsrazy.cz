@@ -312,3 +312,29 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282378254/
         dtstart: 2021-12-02 19:00:00+01:00
         dtend: 2021-12-02 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Jan 11, 10:00 AM: Despite the clear value potential of AI, many business stakeholders are frustrated with the slow pace of taking AI projects from proof of concept to actual implementation.
+
+        '
+      og_title: Elevating your AI Projects from PoC to Production at Speed | Meetup
+      url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282654578/
+      ical:
+        summary: Elevating your AI Projects from PoC to Production at Speed
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Tuesday, January 11 at 11:00 AM
+
+
+          Despite the clear value potential of AI, many business stakeholders are frustrated with the slow pace of taking AI projects from proof of concept to a...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282654578/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282654578@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282654578/
+        dtstart: 2022-01-11 11:00:00+01:00
+        dtend: 2022-01-11 12:00:00+01:00
