@@ -231,8 +231,8 @@ series:
         dtstart: 2021-11-18 17:30:00+01:00
         dtend: 2021-11-18 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 25, 2021, 5:30 PM: Nástrojů v testingu máme mnoho, ale stejně jak u funkcionálních testů, tak i u performance testů nám někdy nemusí vyhovovat forma reportování výsledků daného nástroje. Možn'
-      og_title: Pokročilý reporting performance testů - jtl-reporter
+      meta_description: 'Thu, Nov 25, 4:30 PM: Nástrojů v testingu máme mnoho, ale stejně jak u funkcionálních testů, tak i u performance testů nám někdy nemusí vyhovovat forma reportování výsledků daného nástroje. Možn'
+      og_title: Pokročilý reporting performance testů - jtl-reporter | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564791/
       ical:

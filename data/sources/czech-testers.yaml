@@ -6,8 +6,19 @@ series:
     image: https://secure.meetupstatic.com/photos/event/a/3/2/600_486662610.jpeg
   events:
   - meetupcom:
-      meta_description: 'Sat, Aug 28, 2021, 8:00 PM: Ahoj testeři,další Testerská Katovna již tuto sobotu od 20h.🚀 Katovna probíhá na Discordu > Katovna > STAGE🚀 Odkaz na discord audio: https://discord.gg/ccAwX2rwXj🚀 Přijď'
-      og_title: Testerská Katovna
+      meta_description: 'Sat, Aug 28, 6:00 PM: Ahoj testeři,
+
+        další Testerská Katovna již tuto sobotu od 20h.
+
+
+        🚀 Katovna probíhá na Discordu > Katovna > STAGE
+
+
+        🚀 Odkaz na discord audio: https://discord.gg/ccAwX2rwXj
+
+
+        �'
+      og_title: Testerská Katovna | Meetup
       image: https://secure.meetupstatic.com/photos/event/d/f/e/3/600_495237315.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/280378855/
       ical:
@@ -31,8 +42,8 @@ series:
         dtstart: 2021-08-28 20:00:00+02:00
         dtend: 2021-08-28 23:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, May 21, 2021, 1:00 PM: Fedor je dnes DevOps Architekt ve Slovenské spořitelně a tvoří platformy, které umožňují automatizovat build-deploy-test a provozovat microservices. Svou kariéru začal jako'
-      og_title: 'Fedor Pavkovček: Performance testing je tak trochu alchymie'
+      meta_description: 'Fri, May 21, 11:00 AM: Fedor je dnes DevOps Architekt ve Slovenské spořitelně a tvoří platformy, které umožňují automatizovat build-deploy-test a provozovat microservices. Svou kariéru začal jako'
+      og_title: 'Fedor Pavkovček: Performance testing je tak trochu alchymie | Meetup'
       image: https://secure.meetupstatic.com/photos/event/8/1/4/600_496382068.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/278273942/
       ical:
