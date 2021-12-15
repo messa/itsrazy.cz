@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/6/e/7/4/600_474748276.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Sep 8, 5:00 PM: Hello doers,
+      meta_description: 'Wed, Sep 8, 7:00 PM CEST: Hello doers,
 
 
         The third online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.
@@ -36,7 +36,7 @@ series:
         dtstart: 2021-09-08 19:00:00+02:00
         dtend: 2021-09-08 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Aug 4, 5:00 PM: Hello doers,
+      meta_description: 'Wed, Aug 4, 7:00 PM CEST: Hello doers,
 
 
         The second online devops meetup is here and we are ready to welcome all devops enthusiasts, from Prague or elsewhere.
@@ -66,7 +66,7 @@ series:
         dtstart: 2021-08-04 19:00:00+02:00
         dtend: 2021-08-04 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jun 2, 5:00 PM: Hello doers,
+      meta_description: 'Wed, Jun 2, 7:00 PM CEST: Hello doers,
 
 
         After a long break we are back with DevOps related presentations and
@@ -123,7 +123,7 @@ series:
         dtstart: 2020-02-24 18:00:00+01:00
         dtend: 2020-02-24 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Nov 3, 5:00 PM: Hello doers,
+      meta_description: 'Wed, Nov 3, 6:00 PM CEST: Hello doers,
 
 
         The fourth online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.

@@ -7,7 +7,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/d/7/b/9/600_483715225.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Sep 21, 8:00 AM: WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers, and marketers.
+      meta_description: 'Tue, Sep 21, 10:00 AM CEST: WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers, and marketers.
 
 
         We''re'
@@ -35,7 +35,7 @@ series:
         dtstart: 2021-09-21 10:00:00+02:00
         dtend: 2021-09-23 18:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Sep 20, 7:45 AM: We are the web event of the year! The best conference for devs, UX professionals, designers, and marketers to meet up and share their experiences. We''re a rich community of'
+      meta_description: 'Fri, Sep 20, 9:45 AM CEST: We are the web event of the year! The best conference for devs, UX professionals, designers, and marketers to meet up and share their experiences. We''re a rich community of'
       og_title: WebExpo 2019 | Meetup
       image: https://secure.meetupstatic.com/photos/event/d/9/d/c/600_483715772.jpeg
       url: https://www.meetup.com/WebExpo/events/263721184/
@@ -60,7 +60,7 @@ series:
         dtstart: 2019-09-20 09:45:00+02:00
         dtend: 2019-09-22 18:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Sep 23, 7:00 PM: 2 days all about the web: 70 speakers, 2000 people from the industry and meetings IRL'
+      meta_description: 'Fri, Sep 23, 9:00 PM CEST: 2 days all about the web: 70 speakers, 2000 people from the industry and meetings IRL'
       og_title: Get professional help before your obsessions take over! | Meetup
       image: https://secure.meetupstatic.com/photos/event/d/7/b/9/600_483715225.jpeg
       url: https://www.meetup.com/WebExpo/events/232703682/
@@ -85,7 +85,7 @@ series:
         dtstart: 2016-09-23 21:00:00+02:00
         dtend: 2016-09-24 23:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Sep 23, 6:00 AM: '
+      meta_description: 'Fri, Sep 23, 8:00 AM CEST: '
       og_title: WebExpo 2016 | Meetup
       image: https://secure.meetupstatic.com/photos/event/d/7/b/9/600_483715225.jpeg
       url: https://www.meetup.com/WebExpo/events/232103291/

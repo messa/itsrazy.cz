@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Aug 4, 4:00 PM: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects, and other great things (not only) from the IT world a'
+      meta_description: 'Wed, Aug 4, 6:00 PM CEST: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects, and other great things (not only) from the IT world a'
       og_title: FSharping |> Beer | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/279609755/
@@ -30,7 +30,7 @@ series:
         dtstart: 2021-08-04 18:00:00+02:00
         dtend: 2021-08-04 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Aug 19, 4:00 PM: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects and other great things (not only) from IT world and fu'
+      meta_description: 'Wed, Aug 19, 6:00 PM CEST: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects and other great things (not only) from IT world and fu'
       og_title: FSharping |> Beer | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/271789552/
@@ -54,7 +54,7 @@ series:
         dtstart: 2020-08-19 18:00:00+02:00
         dtend: 2020-08-19 23:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Jun 5, 9:00 AM: 5. června nás čeká již třetí ročník virtuální konference fsharpConf, organizované lidmi z @fsharponline. Můžete se těšit na F# experty z celého světa. Uvidíte praktické vyu'
+      meta_description: 'Fri, Jun 5, 11:00 AM CEST: 5. června nás čeká již třetí ročník virtuální konference fsharpConf, organizované lidmi z @fsharponline. Můžete se těšit na F# experty z celého světa. Uvidíte praktické vyu'
       og_title: fsharpConf 2020 | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/0/0/b/600_459109163.jpeg
       url: https://www.meetup.com/FSharping/events/270899664/
@@ -79,7 +79,7 @@ series:
         dtstart: 2020-06-05 11:00:00+02:00
         dtend: 2020-06-05 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Feb 25, 5:00 PM: We would like to invite you to our very first FShaping Functional Programming workshop.
+      meta_description: 'Tue, Feb 25, 6:00 PM CEST: We would like to invite you to our very first FShaping Functional Programming workshop.
 
 
         ==== Basic information ====

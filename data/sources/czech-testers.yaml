@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/a/3/2/600_486662610.jpeg
   events:
   - meetupcom:
-      meta_description: 'Sat, Aug 28, 6:00 PM: Ahoj testeři,
+      meta_description: 'Sat, Aug 28, 8:00 PM CEST: Ahoj testeři,
 
         další Testerská Katovna již tuto sobotu od 20h.
 
@@ -42,7 +42,7 @@ series:
         dtstart: 2021-08-28 20:00:00+02:00
         dtend: 2021-08-28 23:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, May 21, 11:00 AM: Fedor je dnes DevOps Architekt ve Slovenské spořitelně a tvoří platformy, které umožňují automatizovat build-deploy-test a provozovat microservices. Svou kariéru začal jako'
+      meta_description: 'Fri, May 21, 1:00 PM CEST: Fedor je dnes DevOps Architekt ve Slovenské spořitelně a tvoří platformy, které umožňují automatizovat build-deploy-test a provozovat microservices. Svou kariéru začal jako'
       og_title: 'Fedor Pavkovček: Performance testing je tak trochu alchymie | Meetup'
       image: https://secure.meetupstatic.com/photos/event/8/1/4/600_496382068.jpeg
       url: https://www.meetup.com/ProfessionalTesting/events/278273942/
@@ -117,7 +117,7 @@ series:
         dtstart: 2021-04-27 18:00:00+02:00
         dtend: 2021-04-27 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Sep 29, 4:00 PM: Po delší prázdninové pauze opět proběhne setkání nejen brněnských testerů.
+      meta_description: 'Wed, Sep 29, 6:00 PM CEST: Po delší prázdninové pauze opět proběhne setkání nejen brněnských testerů.
 
 
         Akce bude online, takže se může připojit do diskuze kdokoliv.
@@ -147,7 +147,7 @@ series:
         dtstart: 2021-09-29 18:00:00+02:00
         dtend: 2021-09-29 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Dec 14, 5:00 PM: Přednáška a praktická ukázka automatizovaného E2E testování Rest API pomocí Swaggeru.
+      meta_description: 'Tue, Dec 14, 6:00 PM CEST: Přednáška a praktická ukázka automatizovaného E2E testování Rest API pomocí Swaggeru.
 
 
         - Přednáška bude o E2E testování za pomoci API a Swaggru, díky čemuž můžete ověřit kv'

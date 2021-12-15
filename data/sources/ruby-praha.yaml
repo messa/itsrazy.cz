@@ -50,7 +50,7 @@ series:
         dtstart: 2021-11-03 19:00:00+01:00
         dtend: 2021-11-03 22:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Dec 1, 6:00 PM: '
+      meta_description: 'Wed, Dec 1, 7:00 PM CEST: '
       og_title: First Wednesday Of The Month - Ruby | Meetup
       image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
       url: https://www.meetup.com/Praguerb/events/dkmktfyccqbcb/
@@ -72,7 +72,7 @@ series:
         dtstart: 2021-12-01 19:00:00+01:00
         dtend: 2021-12-01 22:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Jan 5, 6:00 PM: '
+      meta_description: 'Wed, Jan 5, 7:00 PM CEST: '
       og_title: First Wednesday Of The Month - Ruby | Meetup
       image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
       url: https://www.meetup.com/Praguerb/events/dkmktfydccbhb/
@@ -116,7 +116,7 @@ series:
         dtstart: 2021-09-01 19:00:00+02:00
         dtend: 2021-09-01 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Feb 2, 6:00 PM: '
+      meta_description: 'Wed, Feb 2, 7:00 PM CEST: '
       og_title: First Wednesday Of The Month - Ruby | Meetup
       image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
       url: https://www.meetup.com/Praguerb/events/dkmktfydcdbdb/
@@ -138,7 +138,7 @@ series:
         dtstart: 2022-02-02 19:00:00+01:00
         dtend: 2022-02-02 22:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Mar 2, 6:00 PM: '
+      meta_description: 'Wed, Mar 2, 7:00 PM CEST: '
       og_title: First Wednesday Of The Month - Ruby | Meetup
       url: https://www.meetup.com/Praguerb/events/dkmktfydcfbdb/
       ical:
@@ -160,7 +160,7 @@ series:
         dtend: 2022-03-02 22:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/9/1/7/a/600_224137242.jpeg
   - meetupcom:
-      meta_description: 'Wed, Apr 6, 5:00 PM: '
+      meta_description: 'Wed, Apr 6, 7:00 PM CEST: '
       og_title: First Wednesday Of The Month - Ruby | Meetup
       url: https://www.meetup.com/Praguerb/events/dkmktfydcgbjb/
       ical:

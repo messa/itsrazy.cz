@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/2/2/8/5/600_473768837.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Aug 3, 5:00 PM: Podíváme se na zoubek nástrojům, které časem ztratily svůj význam a dnes už jsou přežité.'
+      meta_description: 'Tue, Aug 3, 7:00 PM CEST: Podíváme se na zoubek nástrojům, které časem ztratily svůj význam a dnes už jsou přežité.'
       og_title: Jednoduše a rychle | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/3/7/600_497884663.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/279829674/
@@ -105,7 +105,7 @@ series:
         dtstart: 2021-05-04 19:00:00+02:00
         dtend: 2021-05-04 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 5, 5:00 PM: Tentokrát se podíváme na adrenalinové sporty. Hledáte nějaký netechnický koníček? Přijďte načerpat inspiraci!
+      meta_description: 'Tue, Oct 5, 7:00 PM CEST: Tentokrát se podíváme na adrenalinové sporty. Hledáte nějaký netechnický koníček? Přijďte načerpat inspiraci!
 
 
         Sledovat nás můžete jako vždy i živě na: https://zive.tv/topm'
@@ -133,7 +133,7 @@ series:
         dtstart: 2021-10-05 19:00:00+02:00
         dtend: 2021-10-05 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 2, 6:00 PM: Jak dělat produkt management pro netradiční produkty?'
+      meta_description: 'Tue, Nov 2, 7:00 PM CEST: Jak dělat produkt management pro netradiční produkty?'
       og_title: Product management | Meetup
       image: https://secure.meetupstatic.com/photos/event/a/5/8/6/600_499782374.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/281672705/
@@ -158,7 +158,7 @@ series:
         dtstart: 2021-11-02 19:00:00+01:00
         dtend: 2021-11-02 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 6:00 PM: Lze decentralizovat vlastnictví realit?'
+      meta_description: 'Tue, Dec 7, 7:00 PM CEST: Lze decentralizovat vlastnictví realit?'
       og_title: Decentrializace vlastnictví realit | Meetup
       image: https://secure.meetupstatic.com/photos/event/3/c/3/2/600_500295410.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/282160838/

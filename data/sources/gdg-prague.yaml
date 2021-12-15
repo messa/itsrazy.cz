@@ -412,7 +412,7 @@ series:
         dtstart: 2021-11-23 18:30:00+01:00
         dtend: 2021-11-23 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 5:30 PM: • How to join?
+      meta_description: 'Tue, Dec 7, 6:30 PM CEST: • How to join?
 
         Online only because of covid https://discord.gg/TnaMJMyTDw
 
@@ -449,7 +449,7 @@ series:
         dtend: 2021-12-07 20:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg
   - meetupcom:
-      meta_description: 'Tue, Dec 21, 5:30 PM: • How to join?
+      meta_description: 'Tue, Dec 21, 6:30 PM CEST: • How to join?
 
         Online only because of covid https://discord.gg/TnaMJMyTDw
 
@@ -486,7 +486,7 @@ series:
         dtend: 2021-12-21 20:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/8/3/c/5/600_500313733.jpeg
   - meetupcom:
-      meta_description: 'Tue, Jan 4, 5:30 PM: • How to join?
+      meta_description: 'Tue, Jan 4, 6:30 PM CEST: • How to join?
 
         Online only because of covid https://discord.gg/TnaMJMyTDw
 
@@ -523,7 +523,7 @@ series:
         dtstart: 2022-01-04 18:30:00+01:00
         dtend: 2022-01-04 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Jan 18, 5:30 PM: • How to join?
+      meta_description: 'Tue, Jan 18, 6:30 PM CEST: • How to join?
 
         Online only because of covid https://discord.gg/TnaMJMyTDw
 
@@ -560,7 +560,7 @@ series:
         dtstart: 2022-01-18 18:30:00+01:00
         dtend: 2022-01-18 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Feb 1, 5:30 PM: • How to join?
+      meta_description: 'Tue, Feb 1, 6:30 PM CEST: • How to join?
 
         Online only because of covid https://discord.gg/TnaMJMyTDw
 

@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/4/b/c/0/600_491719392.jpeg
   events:
   - meetupcom:
-      meta_description: 'Sun, Sep 5, 1:00 PM: Tentokrát bude setkání osobně, těšíme se na Vás!
+      meta_description: 'Sun, Sep 5, 3:00 PM CEST: Tentokrát bude setkání osobně, těšíme se na Vás!
 
         Nachystali jsme si pro Vás dvě přednášky od Petra Fifky a Marcela Veselky. Stanete se také součástí natáčení podcastu Kvali'
       og_title: 102. [pro:]TEST! - Testovací odpoledne s Kvalitním Kafem | Meetup
@@ -32,7 +32,7 @@ series:
         dtstart: 2021-09-05 15:00:00+02:00
         dtend: 2021-09-05 18:15:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jul 27, 4:00 PM: Anotace přednášky
+      meta_description: 'Tue, Jul 27, 6:00 PM CEST: Anotace přednášky
 
         Zuzana nás nebude učit dělat penetrační testy a další pokročilé úlohy z kybernetické bezpečnosti, ale bude nám vyprávět o tom, čeho si můžeme při normální'
       og_title: 101. [pro:]TEST! - Testujeme okem informační bezpečnosti se Zuzanou Pechovou | Meetup
@@ -109,7 +109,7 @@ series:
         dtstart: 2021-06-08 18:00:00+02:00
         dtend: 2021-06-08 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 26, 4:00 PM: Anotace Přednášky
+      meta_description: 'Tue, Oct 26, 6:00 PM CEST: Anotace Přednášky
 
 
         “Předpoklad místo důkazu, aneb pohled DevOpsáka na testování skrze celý software delivery chain.”
@@ -141,7 +141,7 @@ series:
         dtstart: 2021-10-26 18:00:00+02:00
         dtend: 2021-10-26 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 30, 5:00 PM: Annotation
+      meta_description: 'Tue, Nov 30, 6:00 PM CEST: Annotation
 
         Puppeteer is a node library that provides high-level API to control chrome and chromium. Puppeteer can also be used for browser automation as it has all capabili'
       og_title: 104. [pro:]TEST! – Vivek Shringi about Puppeteer | Meetup

@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/7/8/5/2/600_486990802.jpeg
   events:
   - meetupcom:
-      meta_description: 'Sat, Oct 16, 6:30 AM: This year HackPrague hackathon will ”Focus on the past to anticipate the future” 😎 There is no specific theme this year, but you can expect many interesting challenges fro'
+      meta_description: 'Sat, Oct 16, 8:30 AM CEST: This year HackPrague hackathon will ”Focus on the past to anticipate the future” 😎 There is no specific theme this year, but you can expect many interesting challenges fro'
       og_title: HackPrague 2021 hackathon | Meetup
       image: https://secure.meetupstatic.com/photos/event/b/a/8/a/600_498347754.jpeg
       url: https://www.meetup.com/HackPrague/events/280291985/
@@ -31,7 +31,7 @@ series:
         dtstart: 2021-10-16 08:30:00+02:00
         dtend: 2021-10-17 18:30:00+02:00
   - meetupcom:
-      meta_description: 'Sat, Oct 31, 6:00 AM: Last year we were building hacks to improve the life in cities with the motto “the future is already here, it’s up to us to distribute it equally”. This year we will focus '
+      meta_description: 'Sat, Oct 31, 7:00 AM CEST: Last year we were building hacks to improve the life in cities with the motto “the future is already here, it’s up to us to distribute it equally”. This year we will focus '
       og_title: HackPrague 2020 | Meetup
       image: https://secure.meetupstatic.com/photos/event/8/a/8/1/600_492455457.jpeg
       url: https://www.meetup.com/HackPrague/events/272694585/
@@ -56,7 +56,7 @@ series:
         dtstart: 2020-10-31 07:00:00+01:00
         dtend: 2020-11-01 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Sat, Oct 10, 1:00 PM: Free event in 🇨🇿 Czech language.
+      meta_description: 'Sat, Oct 10, 3:00 PM CEST: Free event in 🇨🇿 Czech language.
 
 
         Jak umělá inteligence detekuje nádory na mozku? Lze číst myšlenky pomocí elektroencefalogramu? Podívejte se s námi na propojení nejnověj'
@@ -84,7 +84,7 @@ series:
         dtstart: 2020-10-10 15:00:00+02:00
         dtend: 2020-10-10 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Feb 20, 5:00 PM: This event will be in Czech language and free registration on Eventbrite is required.
+      meta_description: 'Thu, Feb 20, 6:00 PM CEST: This event will be in Czech language and free registration on Eventbrite is required.
 
 
         LÍSTKY

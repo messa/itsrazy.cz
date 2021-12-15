@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/7/6/6/f/600_456450319.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Jul 21, 4:00 PM: Little update: We arranged small refreshments on the grill!
+      meta_description: 'Wed, Jul 21, 6:00 PM CEST: Little update: We arranged small refreshments on the grill!
 
 
         Dear friends,
@@ -36,7 +36,7 @@ series:
         dtstart: 2021-07-21 18:00:00+02:00
         dtend: 2021-07-21 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 24, 5:00 PM: The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that tradition'
+      meta_description: 'Thu, Jun 24, 7:00 PM CEST: The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that tradition'
       og_title: 'D<AI>DALOS – Post-Human Creativity: The Use of AI in Art | Meetup'
       image: https://secure.meetupstatic.com/photos/event/c/e/3/6/600_496912790.jpeg
       url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/278824055/
@@ -111,7 +111,7 @@ series:
         dtstart: 2021-05-26 18:00:00+02:00
         dtend: 2021-05-26 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Oct 14, 4:00 PM: Přednáška bude online na YouTube a v češtině!
+      meta_description: 'Thu, Oct 14, 6:00 PM CEST: Přednáška bude online na YouTube a v češtině!
 
 
         Výběr vhodného nástroje pro provoz ML modelů je jedním z kritických rozhodnutí při návrhu produkční infrastruktury. Srovnali '
@@ -139,7 +139,7 @@ series:
         dtstart: 2021-10-14 18:00:00+02:00
         dtend: 2021-10-14 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Dec 14, 5:00 PM: The talks will be live on YouTube. (Link will get displayed after you RSVP)
+      meta_description: 'Tue, Dec 14, 6:00 PM CEST: The talks will be live on YouTube. (Link will get displayed after you RSVP)
 
 
         Talk #1: How we use simple models to improve intent matching (Tomáš Vodrážka, Feedyou)

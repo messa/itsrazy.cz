@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/2/6/2/6/600_490269766.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Aug 26, 7:00 AM: Let''s chat about our design systems news, challenges, and questions with like-minded professionals.
+      meta_description: 'Wed, Aug 26, 9:00 AM CEST: Let''s chat about our design systems news, challenges, and questions with like-minded professionals.
 
 
         We can loosely discuss topics like how to approach organizational buy-i'
@@ -34,7 +34,7 @@ series:
         dtstart: 2020-08-26 09:00:00+02:00
         dtend: 2020-08-26 10:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jul 1, 5:00 PM: We are excited to announce our first online meetup ever!
+      meta_description: 'Wed, Jul 1, 7:00 PM CEST: We are excited to announce our first online meetup ever!
 
 
         YouTube stream: https://youtu.be/pKUr3CbRa3o (starting July 1st, 19:00 CEST)
@@ -67,7 +67,7 @@ series:
         dtstart: 2020-07-01 19:00:00+02:00
         dtend: 2020-07-01 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Jun 12, 6:30 AM: Let''s start this new format of informal monthly breakfasts where we chat about our design systems challenges and questions with like-minded professionals. Places are limite'
+      meta_description: 'Fri, Jun 12, 8:30 AM CEST: Let''s start this new format of informal monthly breakfasts where we chat about our design systems challenges and questions with like-minded professionals. Places are limite'
       og_title: Design Systems Breakfast – June 2020 | Meetup
       image: https://secure.meetupstatic.com/photos/event/2/3/b/0/600_490749136.jpeg
       url: https://www.meetup.com/dscc_cze/events/271158302/
@@ -92,7 +92,7 @@ series:
         dtstart: 2020-06-12 08:30:00+02:00
         dtend: 2020-06-12 10:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Mar 18, 7:30 AM: !!!
+      meta_description: 'Wed, Mar 18, 8:30 AM CEST: !!!
 
         Event was postponed to April/May, let''s see how a situation looks evolves. Follow us on Twitter (http://twitter.com/czechdsc) for more info.
 

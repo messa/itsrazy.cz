@@ -209,7 +209,7 @@ series:
         dtstart: 2021-12-02 18:00:00+01:00
         dtend: 2021-12-02 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 14, 5:00 PM: Jaké znalosti se ti vyplatí naučit už teď, abys ses vždy uplatnil/a na trhu práce? Jaké jsou výhody kurzů akreditovaných státem? Co je pro-code a jak fungují low-code platf'
+      meta_description: 'Tue, Dec 14, 6:00 PM CEST: Jaké znalosti se ti vyplatí naučit už teď, abys ses vždy uplatnil/a na trhu práce? Jaké jsou výhody kurzů akreditovaných státem? Co je pro-code a jak fungují low-code platf'
       og_title: 'Online informační schůzka: Jak nastartovat kariéru programátora od nuly? | Meetup'
       image: https://secure.meetupstatic.com/photos/event/9/3/2/5/600_500557669.jpeg
       url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/282423179/
@@ -234,7 +234,7 @@ series:
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 21, 5:00 PM: Vánoce jsou za dveřmi a více než pečení vanilkových rohlíčků tě zajímá kariéra v IT? Přihlas se na náš bezplatný online workshop, který se bude konat v úterý 21. prosince o'
+      meta_description: 'Tue, Dec 21, 6:00 PM CEST: Vánoce jsou za dveřmi a více než pečení vanilkových rohlíčků tě zajímá kariéra v IT? Přihlas se na náš bezplatný online workshop, který se bude konat v úterý 21. prosince o'
       og_title: 'Vánoční workshop: Základy programování | Meetup'
       url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/282564834/
       ical:

@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/d/f/b/5/600_471357269.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, May 19, 4:30 PM: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o tom jak s GCP začít]
+      meta_description: 'Wed, May 19, 6:30 PM CEST: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o tom jak s GCP začít]
 
 
         Proč?
@@ -38,7 +38,7 @@ series:
         dtstart: 2021-05-19 18:30:00+02:00
         dtend: 2021-05-19 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Mar 3, 5:30 PM: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o K8s]
+      meta_description: 'Wed, Mar 3, 6:30 PM CEST: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o K8s]
 
 
         Proč?
@@ -70,7 +70,7 @@ series:
         dtstart: 2021-03-03 18:30:00+01:00
         dtend: 2021-03-03 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Nov 11, 5:30 PM: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o Serverless Computing]
+      meta_description: 'Wed, Nov 11, 6:30 PM CEST: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o Serverless Computing]
 
 
         Proč?
@@ -102,7 +102,7 @@ series:
         dtstart: 2020-11-11 18:30:00+01:00
         dtend: 2020-11-11 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Oct 7, 4:30 PM: [Pojďme se potkat online a nasdílet zkušenosti o práci s daty]
+      meta_description: 'Wed, Oct 7, 6:30 PM CEST: [Pojďme se potkat online a nasdílet zkušenosti o práci s daty]
 
 
         Proč?

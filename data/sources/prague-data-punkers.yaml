@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/3/a/3/0/600_487934896.jpeg
   events:
   - meetupcom:
-      meta_description: 'Fri, Jun 25, 7:00 AM: Data Hackathon "Staň se analytikem"
+      meta_description: 'Fri, Jun 25, 9:00 AM CEST: Data Hackathon "Staň se analytikem"
 
         Registrace a další informace na https://hackathon.revolt.bi/
 
@@ -36,7 +36,7 @@ series:
         dtstart: 2021-06-25 09:00:00+02:00
         dtend: 2021-06-25 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Feb 18, 5:00 PM: Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu.
+      meta_description: 'Tue, Feb 18, 6:00 PM CEST: Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu.
 
 
         Chceme vytvořit komunitu datařů, se kterou se budeme pravide'
@@ -64,7 +64,7 @@ series:
         dtstart: 2020-02-18 18:00:00+01:00
         dtend: 2020-02-18 22:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Oct 31, 5:00 PM: Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu.
+      meta_description: 'Thu, Oct 31, 6:00 PM CEST: Data Punkers Meetup je setkání pro všechny, které zajímají moderní technologie, analytika a Big Data v cloudu.
 
 
         Chceme vytvořit komunitu datařů, se kterou se budeme pravide'

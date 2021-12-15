@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/1/9/4/4/600_496506468.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Jun 15, 10:00 AM: The future of automation is coming to you. Live, online, and free.
+      meta_description: 'Tue, Jun 15, 12:00 PM CEST: The future of automation is coming to you. Live, online, and free.
 
 
         The global UiPath Community is coming together on June 15-16, 2021 to learn, build, and connect at UiPat'
@@ -34,7 +34,7 @@ series:
         dtstart: 2021-06-15 12:00:00+02:00
         dtend: 2021-06-15 16:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 25, 1:00 PM: Hello UiPath Community!
+      meta_description: 'Thu, Jun 25, 3:00 PM CEST: Hello UiPath Community!
 
 
         New monthly global meetup coming up!
@@ -65,7 +65,7 @@ series:
         dtstart: 2020-06-25 15:00:00+02:00
         dtend: 2020-06-25 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, May 28, 1:00 PM: Hello UiPath Community!
+      meta_description: 'Thu, May 28, 3:00 PM CEST: Hello UiPath Community!
 
 
         Brand new virtual meetup coming up on how you can accelerate your implementation time with API integration!
@@ -95,7 +95,7 @@ series:
         dtstart: 2020-05-28 15:00:00+02:00
         dtend: 2020-05-28 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Fri, May 1, 2:30 PM: Hello UiPath Community,
+      meta_description: 'Fri, May 1, 4:30 PM CEST: Hello UiPath Community,
 
 
         Second most wanted virtual meetup is here: UiPath Test suite: Mobile Automation!

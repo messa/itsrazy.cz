@@ -279,7 +279,7 @@ series:
         dtend: 2021-11-11 10:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/c/5/3/600_499743155.jpeg
   - meetupcom:
-      meta_description: 'Tue, Nov 16, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/dynamicka-infrastruktura-v-consulu/
+      meta_description: 'Tue, Nov 16, 9:00 AM CEST: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/dynamicka-infrastruktura-v-consulu/
 
 
         Na co se můžete těšit:
@@ -309,7 +309,7 @@ series:
         dtstart: 2021-11-16 09:00:00+01:00
         dtend: 2021-11-16 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Nov 23, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ceph-storage-tak-trochu-jinak/
+      meta_description: 'Tue, Nov 23, 9:00 AM CEST: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ceph-storage-tak-trochu-jinak/
 
 
         Na co se můžete těšit:
@@ -339,7 +339,7 @@ series:
         dtstart: 2021-11-23 09:00:00+01:00
         dtend: 2021-11-23 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Dec 1, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ai-deep-learning-v-praxi/
+      meta_description: 'Wed, Dec 1, 9:00 AM CEST: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/ai-deep-learning-v-praxi/
 
 
         Na co se můžete těšit:
@@ -370,7 +370,7 @@ series:
         dtstart: 2021-12-01 09:00:00+01:00
         dtend: 2021-12-01 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 8:00 AM: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/enterprise-linux-8-rhelcentos-8/
+      meta_description: 'Tue, Dec 7, 9:00 AM CEST: REGISTRACE ZDE: https://www.datascript.cz/morning-talks/enterprise-linux-8-rhelcentos-8/
 
 
         Na co se můžete těšit:

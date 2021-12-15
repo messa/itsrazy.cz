@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/2/6/f/e/600_483609982.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Nov 5, 4:30 PM: Live stream link --> https://youtu.be/gexDTcZLRKk
+      meta_description: 'Thu, Nov 5, 5:30 PM CEST: Live stream link --> https://youtu.be/gexDTcZLRKk
 
         ...
 
@@ -35,7 +35,7 @@ series:
         dtstart: 2020-11-05 17:30:00+01:00
         dtend: 2020-11-05 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Oct 7, 1:00 PM: Register for free at https://www.timetospeedup.com/
+      meta_description: 'Thu, Oct 7, 3:00 PM CEST: Register for free at https://www.timetospeedup.com/
 
 
         Core Web Vitals will change how Google measures the page experience with a significant impact on your SERP position. Fo'

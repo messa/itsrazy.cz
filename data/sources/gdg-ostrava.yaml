@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
   events:
   - meetupcom:
-      meta_description: 'Fri, Nov 26, 8:00 AM: PLEASE RSVP USING THE LINK BELOW
+      meta_description: 'Fri, Nov 26, 9:00 AM CEST: PLEASE RSVP USING THE LINK BELOW
 
 
         https://gdg.community.dev/events/details/google-gdg-ostrava-presents-devfestcz-2021-powered-by-techmeetup/
@@ -37,7 +37,7 @@ series:
         dtstart: 2021-11-26 09:00:00+01:00
         dtend: 2021-11-26 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Jun 2, 4:00 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
+      meta_description: 'Wed, Jun 2, 6:00 PM CEST: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
 
 
         https://gdg.community.dev/events/details/google-gdg-ostrava-presents-cybersecurity-with-zdenek-klus-ii-cze'
@@ -65,7 +65,7 @@ series:
         dtstart: 2021-06-02 18:00:00+02:00
         dtend: 2021-06-02 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, May 26, 4:00 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
+      meta_description: 'Wed, May 26, 6:00 PM CEST: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
 
 
         https://gdg.community.dev/events/details/google-gdg-ostrava-presents-cybersecurity-with-zdenek-klus-i-czec'
@@ -93,7 +93,7 @@ series:
         dtstart: 2021-05-26 18:00:00+02:00
         dtend: 2021-05-26 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, May 18, 4:30 PM: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
+      meta_description: 'Tue, May 18, 6:30 PM CEST: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
 
 
         https://gdg.community.dev/events/details/google-gdg-ostrava-presents-io-commented-keynote-czech/

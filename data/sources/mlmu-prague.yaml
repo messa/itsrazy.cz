@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/c/2/f/a/600_455269914.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Jun 24, 5:00 PM: The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that tradition'
+      meta_description: 'Thu, Jun 24, 7:00 PM CEST: The artistic use of AI challenges some of the cornerstones of the modern Western concepts of art and creativity. The artist who works with AI blurs the lines that tradition'
       og_title: 'D<AI>DALOS – Post-Human Creativity: The Use of AI in Art | Meetup'
       image: https://secure.meetupstatic.com/photos/event/c/e/2/6/600_496912774.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/278824052/
@@ -31,7 +31,7 @@ series:
         dtstart: 2021-06-24 19:00:00+02:00
         dtend: 2021-06-24 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Jun 7, 5:30 PM: We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the opening lecture of a discu'
+      meta_description: 'Mon, Jun 7, 7:30 PM CEST: We invite you to the lecture From Automation to Intelligence: The Long History of AI by Nathan Ensmenger from the Indiana University. This is the opening lecture of a discu'
       og_title: 'D<AI>DALOS – From Automation to Intelligence: The Long History of AI | Meetup'
       image: https://secure.meetupstatic.com/photos/event/d/4/a/2/600_496614434.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/278523643/
@@ -108,7 +108,7 @@ series:
         dtstart: 2021-04-21 18:00:00+02:00
         dtend: 2021-04-21 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Oct 14, 4:00 PM: Přednáška bude online na YouTube a v češtině!
+      meta_description: 'Thu, Oct 14, 6:00 PM CEST: Přednáška bude online na YouTube a v češtině!
 
 
         Výběr vhodného nástroje pro provoz ML modelů je jedním z kritických rozhodnutí při návrhu produkční infrastruktury. Srovnali '
@@ -136,7 +136,7 @@ series:
         dtstart: 2021-10-14 18:00:00+02:00
         dtend: 2021-10-14 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Dec 14, 5:00 PM: The talks will be live on YouTube. (Link will get displayed after you RSVP)
+      meta_description: 'Tue, Dec 14, 6:00 PM CEST: The talks will be live on YouTube. (Link will get displayed after you RSVP)
 
 
         Talk #1: How we use simple models to improve intent matching (Tomáš Vodrážka, Feedyou)
