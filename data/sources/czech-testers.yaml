@@ -174,3 +174,38 @@ series:
         url: https://www.meetup.com/ProfessionalTesting/events/282376801/
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Sat, Dec 18, 8:00 PM CEST: Ahoj testeři,
+
+        další Testerská Katovna již tuto sobotu od 20h.
+
+
+        🚀 Katovna probíhá na Discordu > Katovna > STAGE
+
+
+        🚀 Odkaz na discord audio: https://discord.gg/8W2Kz5YHD7
+
+
+        �'
+      og_title: Testerská Katovna | Meetup
+      url: https://www.meetup.com/ProfessionalTesting/events/282722610/
+      ical:
+        summary: Testerská Katovna
+        description: 'CZECH TESTERS GROUP
+
+          Saturday, December 18 at 8:00 PM
+
+
+          Ahoj testeři,další Testerská Katovna již tuto sobotu od 20h. 🚀 Katovna probíhá na Discordu > Katovna > STAGE 🚀 Odkaz na discord audio:...
+
+
+          https://www.meetup.com/ProfessionalTesting/events/282722610/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282722610@meetup.com
+        url: https://www.meetup.com/ProfessionalTesting/events/282722610/
+        dtstart: 2021-12-18 20:00:00+01:00
+        dtend: 2021-12-18 22:00:00+01:00
