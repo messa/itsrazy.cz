@@ -156,7 +156,7 @@ series:
         dtstart: 2021-10-13 18:00:00+02:00
         dtend: 2021-10-13 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 26, 4:00 PM: Pokud přemýšlíš o změně kariéry a zajímá tě programování, připoj se k naší informační schůzce, kde se dozvíš všechno potřebné o rekvalifikaci do tohoto oboru.
+      meta_description: 'Tue, Oct 26, 6:00 PM CEST: Pokud přemýšlíš o změně kariéry a zajímá tě programování, připoj se k naší informační schůzce, kde se dozvíš všechno potřebné o rekvalifikaci do tohoto oboru.
 
 
         Poznáš členy'
@@ -184,7 +184,7 @@ series:
         dtend: 2021-10-26 20:00:00+02:00
       image: https://secure.meetupstatic.com/photos/event/6/c/9/e/600_499707806.jpeg
   - meetupcom:
-      meta_description: 'Thu, Dec 2, 5:00 PM: Připoj se k našemu večernímu workshopu, který bude probíhat online ve čtvrtek 2. prosince od 18 hodin. Probereme základy kódování a dozvíš se, co znamená pro-code a low-cod'
+      meta_description: 'Thu, Dec 2, 6:00 PM CEST: Připoj se k našemu večernímu workshopu, který bude probíhat online ve čtvrtek 2. prosince od 18 hodin. Probereme základy kódování a dozvíš se, co znamená pro-code a low-cod'
       og_title: 'Online workshop: Základy programování | Meetup'
       image: https://secure.meetupstatic.com/photos/event/3/1/e/9/600_500412777.jpeg
       url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/282264181/
