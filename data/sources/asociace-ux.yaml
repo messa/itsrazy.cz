@@ -364,3 +364,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/282244163/
         dtstart: 2021-12-06 18:00:00+01:00
         dtend: 2021-12-06 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Mon, Jan 10, 6:30 PM CEST: První UX Monday roku 2022 proběhne netradičně až druhé pondělí v měsíci, tedy 10. ledna. Pozornost tentokrát zaměříme na nás UXáky. Místo osobního setkání zasedneme u obraz'
+      og_title: 'UX Monday: Výsledky Humans of UX | Meetup'
+      url: https://www.meetup.com/asociace-ux/events/282994097/
+      ical:
+        summary: 'UX Monday: Výsledky Humans of UX'
+        description: 'Asociace UX
+
+          Monday, January 10 at 6:30 PM
+
+
+          První UX Monday roku 2022 proběhne netradičně až druhé pondělí v měsíci, tedy 10. ledna. Pozornost tentokrát zaměříme na nás UXáky. Místo osobního set...
+
+
+          https://www.meetup.com/asociace-ux/events/282994097/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282994097@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/282994097/
+        dtstart: 2022-01-10 18:30:00+01:00
+        dtend: 2022-01-10 20:00:00+01:00
