@@ -184,3 +184,27 @@ series:
         dtstart: 2021-11-25 16:00:00+01:00
         dtend: 2021-11-25 17:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/2/e/9/b/600_500111931.jpeg
+  - meetupcom:
+      meta_description: 'Wed, Jan 19, 5:00 PM CEST: 🌍The key of a system or application that thrives in production is not really development, but the way it is operated and supported. Although the positions and careers for '
+      og_title: 'The other side of IT: support and operations | Meetup'
+      url: https://www.meetup.com/IBM-Developer-Prague/events/283029566/
+      ical:
+        summary: 'The other side of IT: support and operations'
+        description: 'IBM Developer Czechia
+
+          Wednesday, January 19 at 5:00 PM
+
+
+          ??The key of a system or application that thrives in production is not really development, but the way it is operated and supported. Although the posit...
+
+
+          https://www.meetup.com/IBM-Developer-Prague/events/283029566/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283029566@meetup.com
+        url: https://www.meetup.com/IBM-Developer-Prague/events/283029566/
+        dtstart: 2022-01-19 17:00:00+01:00
+        dtend: 2022-01-19 19:00:00+01:00
