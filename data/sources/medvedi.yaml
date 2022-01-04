@@ -11993,3 +11993,113 @@ series:
         url: https://www.meetup.com/Medv%C4%9Bdi/events/269001570/
         dtstart: 2020-03-04 19:00:00+01:00
         dtend: 2020-03-04 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 10, 7:00 PM CEST: Ve čtvrtek 10.6. chystáme další živou Medvědárnu na Instagramu, tentokrát zaměřenou na JAVA lovers! :-)
+
+
+        Těm, kteří se chtějí v Javě naučit sami více, předáme maximum toho,'
+      og_title: Medvědárna | Meetup
+      url: https://www.meetup.com/Medv%C4%9Bdi/events/278701028/
+      ical:
+        summary: Medvědárna
+        description: 'Medvědi
+
+          Thursday, June 10 at 7:00 PM
+
+
+          Ve čtvrtek 10.6. chystáme další živou Medvědárnu na Instagramu, tentokrát zaměřenou na JAVA lovers! :-) Těm, kteří se chtějí v Javě naučit sami více, ...
+
+
+          https://www.meetup.com/Medv%C4%9Bdi/events/278701028/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278701028@meetup.com
+        url: https://www.meetup.com/Medv%C4%9Bdi/events/278701028/
+        dtstart: 2021-06-10 19:00:00+02:00
+        dtend: 2021-06-10 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Mar 4, 5:00 PM CEST: Hola hola, Medvědárna volá!
+
+
+        Pojďme si dát medvědí dýchánek on-line, chceme si s vámi zase povídat. Tentokrát o tom, jak se změnila podoba náboru IT kapacit a co na tom výv'
+      og_title: Medvědárna ONLINE | Meetup
+      url: https://www.meetup.com/Medv%C4%9Bdi/events/276710007/
+      ical:
+        summary: Medvědárna ONLINE
+        description: 'Medvědi
+
+          Thursday, March 4 at 5:00 PM
+
+
+          Hola hola, Medvědárna volá!  Pojďme si dát medvědí dýchánek on-line, chceme si s vámi zase povídat. Tentokrát o tom, jak se změnila podoba náboru IT k...
+
+
+          https://www.meetup.com/Medv%C4%9Bdi/events/276710007/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_276710007@meetup.com
+        url: https://www.meetup.com/Medv%C4%9Bdi/events/276710007/
+        dtstart: 2021-03-04 17:00:00+01:00
+        dtend: 2021-03-04 18:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, May 6, 5:00 PM CEST: Rozhodli jsme se, že zkusíme udělat první ONLINE Medvědárnu
+
+        Přenos zde: https://zoom.us/j/96688476433 (bude propojeno na FB i youtube)
+
+
+        Big Brother v IT - měřit nebo neměři'
+      og_title: Online Medvědárna | Meetup
+      url: https://www.meetup.com/Medv%C4%9Bdi/events/270291504/
+      ical:
+        summary: Online Medvědárna
+        description: 'Medvědi
+
+          Wednesday, May 6 at 5:00 PM
+
+
+          Rozhodli jsme se, že zkusíme udělat první ONLINE MedvědárnuPřenos zde:  https://zoom.us/j/96688476433 (bude propojeno na FB i youtube) Big Brother v I...
+
+
+          https://www.meetup.com/Medv%C4%9Bdi/events/270291504/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_270291504@meetup.com
+        url: https://www.meetup.com/Medv%C4%9Bdi/events/270291504/
+        dtstart: 2020-05-06 17:00:00+02:00
+        dtend: 2020-05-06 18:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Mar 4, 7:00 PM CEST: OpenAPI - dobrý přítel nejen backend vývojáře
+
+
+        Na další medvědárnu jsme pro přednášení ukecali Vlastíka Hájka :)) Vlastík je náš dlouholetý medvědí kamarád a na medvědárny '
+      og_title: Medvědárna | Meetup
+      url: https://www.meetup.com/Medv%C4%9Bdi/events/269001570/
+      ical:
+        summary: Medvědárna
+        description: 'Medvědi
+
+          Wednesday, March 4 at 7:00 PM
+
+
+          OpenAPI - dobrý přítel nejen backend vývojáře Na další medvědárnu jsme pro přednášení ukecali Vlastíka Hájka :)) Vlastík je náš dlouholetý medvědí kam...
+
+
+          https://www.meetup.com/Medv%C4%9Bdi/events/269001570/'
+        location: Vítkova 241/10 (Vítkova 241/10, Praha 8-Karlín, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_269001570@meetup.com
+        url: https://www.meetup.com/Medv%C4%9Bdi/events/269001570/
+        dtstart: 2020-03-04 19:00:00+01:00
+        dtend: 2020-03-04 20:30:00+01:00

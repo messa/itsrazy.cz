@@ -400,3 +400,111 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/281648243/
         dtstart: 2021-12-07 09:00:00+01:00
         dtend: 2021-12-07 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Jan 12, 9:00 AM CEST: Registrace na event: https://www.datascript.cz/morning-talks/kontejnery-a-zabezpeceni-microsoft-azure/
+
+
+        Zajímá Vás kontejnerizace a cloudová bezpečnost? Chcete, aby vaše ap'
+      og_title: Kontejnery a zabezpečení Microsoft Azure | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/283047343/
+      ical:
+        summary: Kontejnery a zabezpečení Microsoft Azure
+        description: 'Morning Talks
+
+          Wednesday, January 12 at 9:00 AM
+
+
+          Registrace na event: https://www.datascript.cz/morning-talks/kontejnery-a-zabezpeceni-microsoft-azure/ Zajímá Vás kontejnerizace a cloudová bezpečnost...
+
+
+          https://www.meetup.com/Morning-Talks/events/283047343/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283047343@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/283047343/
+        dtstart: 2022-01-12 09:00:00+01:00
+        dtend: 2022-01-12 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Jan 19, 9:00 AM CEST: Registrace na https://www.datascript.cz/morning-talks/aws-governance-aneb-jak-na-centralizaci-spravy-aws-uctu/
+
+
+        S rostoucí adopcí cloudových služeb od Amazonu se firmy uchy'
+      og_title: AWS Governance aneb jak na centralizaci správy AWS účtů | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/283047364/
+      ical:
+        summary: AWS Governance aneb jak na centralizaci správy AWS účtů
+        description: 'Morning Talks
+
+          Wednesday, January 19 at 9:00 AM
+
+
+          Registrace na https://www.datascript.cz/morning-talks/aws-governance-aneb-jak-na-centralizaci-spravy-aws-uctu/ S rostoucí adopcí cloudových služeb od ...
+
+
+          https://www.meetup.com/Morning-Talks/events/283047364/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283047364@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/283047364/
+        dtstart: 2022-01-19 09:00:00+01:00
+        dtend: 2022-01-19 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Jan 26, 9:00 AM CEST: Registrace na: https://www.datascript.cz/morning-talks/tradicni-nebo-agilni-rizeni-projektu/
+
+
+        V dnešní době je častým skloňovaným pojmem Agile. Agile by měl (podle některýc'
+      og_title: Tradiční nebo agilní řízení projektů? | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/283047377/
+      ical:
+        summary: Tradiční nebo agilní řízení projektů?
+        description: 'Morning Talks
+
+          Wednesday, January 26 at 9:00 AM
+
+
+          Registrace na: https://www.datascript.cz/morning-talks/tradicni-nebo-agilni-rizeni-projektu/ V dnešní době je častým skloňovaným pojmem Agile. Agile b...
+
+
+          https://www.meetup.com/Morning-Talks/events/283047377/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283047377@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/283047377/
+        dtstart: 2022-01-26 09:00:00+01:00
+        dtend: 2022-01-26 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Feb 2, 9:00 AM CEST: Registrace na https://www.datascript.cz/morning-talks/dynamicka-infrastruktura-v-consulu/
+
+
+        V měnící se infrastruktuře je težké udržovat seznam služeb a jejich instancí, nat'
+      og_title: Dynamická infrastruktura v Consulu | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/283047391/
+      ical:
+        summary: Dynamická infrastruktura v Consulu
+        description: 'Morning Talks
+
+          Wednesday, February 2 at 9:00 AM
+
+
+          Registrace na https://www.datascript.cz/morning-talks/dynamicka-infrastruktura-v-consulu/ V měnící se infrastruktuře je težké udržovat seznam služeb a...
+
+
+          https://www.meetup.com/Morning-Talks/events/283047391/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283047391@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/283047391/
+        dtstart: 2022-02-02 09:00:00+01:00
+        dtend: 2022-02-02 10:00:00+01:00
