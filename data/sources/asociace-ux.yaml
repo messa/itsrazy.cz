@@ -388,3 +388,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/282994097/
         dtstart: 2022-01-10 18:30:00+01:00
         dtend: 2022-01-10 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Jan 6, 7:00 PM CEST: Come to our New Years'' meetup for beers 🍻, UX chats 💭, and more! 🔥🚀'
+      og_title: PRAGUE UX WRITERS MEETUP Vol. 24 - January | Meetup
+      url: https://www.meetup.com/asociace-ux/events/283068224/
+      ical:
+        summary: PRAGUE UX WRITERS MEETUP Vol. 24 - January
+        description: 'Asociace UX
+
+          Thursday, January 6 at 7:00 PM
+
+
+          Come to our New Years'' meetup for beers 🍻, UX chats 💭, and more! 🔥🚀
+
+
+          https://www.meetup.com/asociace-ux/events/283068224/'
+        location: Black Bettie's Grill (Mánesova 7, Vinohrady, Praha-Praha 2, Czech Republic 120 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283068224@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/283068224/
+        dtstart: 2022-01-06 19:00:00+01:00
+        dtend: 2022-01-06 21:00:00+01:00
