@@ -528,3 +528,75 @@ series:
         url: https://www.meetup.com/typedb-prague/events/280965322/
         dtstart: 2021-12-01 18:30:00+01:00
         dtend: 2021-12-01 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Jan 11, 6:30 PM CEST: Intelligent systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform know'
+      og_title: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise | Meetup
+      url: https://www.meetup.com/typedb-prague/events/283069213/
+      ical:
+        summary: Introduction to TypeDB and TypeQL - strongly typed data for the enterprise
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, January 11 at 6:30 PM
+
+
+          Intelligent systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query la...
+
+
+          https://www.meetup.com/typedb-prague/events/283069213/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283069213@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/283069213/
+        dtstart: 2022-01-11 18:30:00+01:00
+        dtend: 2022-01-11 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Jan 13, 6:30 PM CEST: Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bodies of data on the web'
+      og_title: Comparing Semantic Web Technologies to TypeDB | Meetup
+      url: https://www.meetup.com/typedb-prague/events/283069220/
+      ical:
+        summary: Comparing Semantic Web Technologies to TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Thursday, January 13 at 6:30 PM
+
+
+          Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bod...
+
+
+          https://www.meetup.com/typedb-prague/events/283069220/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283069220@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/283069220/
+        dtstart: 2022-01-13 18:30:00+01:00
+        dtend: 2022-01-13 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Jan 18, 6:30 PM CEST: Graph databases have matured into mainstream technologies and deliver tremendous value to organisations across any industry. They are more flexible than traditional relatio'
+      og_title: Comparing Labeled Property Graphs to TypeDB | Meetup
+      url: https://www.meetup.com/typedb-prague/events/283069230/
+      ical:
+        summary: Comparing Labeled Property Graphs to TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, January 18 at 6:30 PM
+
+
+          Graph databases have matured into mainstream technologies and deliver tremendous value to organisations across any industry. They are more flexible th...
+
+
+          https://www.meetup.com/typedb-prague/events/283069230/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283069230@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/283069230/
+        dtstart: 2022-01-18 18:30:00+01:00
+        dtend: 2022-01-18 19:30:00+01:00
