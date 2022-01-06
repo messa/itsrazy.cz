@@ -168,3 +168,30 @@ series:
         url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/282546299/
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Jan 19, 6:00 PM CEST: DAIDALOS – AI as a New Frontier for Journalism: Where to Find Value in Tech-Driven Journalism
+
+
+        We invite you to the online discussion AI as a New Frontier for Journalism: W'
+      og_title: D<AI>DALOS – AI as a New Frontier for Journalism | Meetup
+      url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/283095380/
+      ical:
+        summary: D<AI>DALOS – AI as a New Frontier for Journalism
+        description: 'Machine Learning Meetup Brno
+
+          Wednesday, January 19 at 6:00 PM
+
+
+          DAIDALOS – AI as a New Frontier for Journalism: Where to Find Value in Tech-Driven Journalism We invite you to the online discussion AI as a New Front...
+
+
+          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/283095380/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_283095380@meetup.com
+        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/283095380/
+        dtstart: 2022-01-19 18:00:00+01:00
+        dtend: 2022-01-19 20:00:00+01:00

@@ -165,3 +165,30 @@ series:
         url: https://www.meetup.com/Prague-Machine-Learning/events/282546297/
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Jan 19, 6:00 PM CEST: DAIDALOS – AI as a New Frontier for Journalism: Where to Find Value in Tech-Driven Journalism
+
+
+        We invite you to the online discussion AI as a New Frontier for Journalism: W'
+      og_title: D<AI>DALOS – AI as a New Frontier for Journalism | Meetup
+      url: https://www.meetup.com/Prague-Machine-Learning/events/283095372/
+      ical:
+        summary: D<AI>DALOS – AI as a New Frontier for Journalism
+        description: 'Machine Learning Meetup Prague
+
+          Wednesday, January 19 at 6:00 PM
+
+
+          DAIDALOS – AI as a New Frontier for Journalism: Where to Find Value in Tech-Driven Journalism We invite you to the online discussion AI as a New Front...
+
+
+          https://www.meetup.com/Prague-Machine-Learning/events/283095372/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283095372@meetup.com
+        url: https://www.meetup.com/Prague-Machine-Learning/events/283095372/
+        dtstart: 2022-01-19 18:00:00+01:00
+        dtend: 2022-01-19 20:00:00+01:00
