@@ -199,14 +199,14 @@ series:
 
           Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat ...\n
 
-          https://www.meetup.com/frontendisti/events/mbjhpsydcfbmb/'
+          https://www.meetup.com/frontendisti/events/283183947/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_mbjhpsydcfbmb@meetup.com
-        url: https://www.meetup.com/frontendisti/events/mbjhpsydcfbmb/
+        url: https://www.meetup.com/frontendisti/events/283183947/
         dtstart: 2022-03-09 19:00:00+01:00
         dtend: 2022-03-09 21:00:00+01:00
   - meetupcom:

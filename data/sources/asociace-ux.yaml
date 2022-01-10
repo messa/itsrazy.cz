@@ -412,3 +412,30 @@ series:
         url: https://www.meetup.com/asociace-ux/events/283068224/
         dtstart: 2022-01-06 19:00:00+01:00
         dtend: 2022-01-06 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Jan 20, 6:00 PM CEST: Let''s discuss UX-related books!
+
+
+        Don''t forget to show us the UX books you''ve recently read, so we can better give reviews and inspire the others. And feel free not to only '
+      og_title: UX Readers Online edition in January | Meetup
+      url: https://www.meetup.com/asociace-ux/events/283098990/
+      ical:
+        summary: UX Readers Online edition in January
+        description: 'Asociace UX
+
+          Thursday, January 20 at 6:00 PM
+
+
+          Let''s discuss UX-related books! Don''t forget to show us the UX books you''ve recently read, so we can better give reviews and inspire the others. And f...
+
+
+          https://www.meetup.com/asociace-ux/events/283098990/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283098990@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/283098990/
+        dtstart: 2022-01-20 18:00:00+01:00
+        dtend: 2022-01-20 20:00:00+01:00
