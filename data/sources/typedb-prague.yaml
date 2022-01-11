@@ -600,3 +600,51 @@ series:
         url: https://www.meetup.com/typedb-prague/events/283069230/
         dtstart: 2022-01-18 18:30:00+01:00
         dtend: 2022-01-18 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Jan 20, 6:30 PM CEST: Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However, relational datab'
+      og_title: Beyond SQL | Comparing SQL to TypeQL | Meetup
+      url: https://www.meetup.com/typedb-prague/events/283199787/
+      ical:
+        summary: Beyond SQL | Comparing SQL to TypeQL
+        description: 'TypeDB Prague Engineers
+
+          Thursday, January 20 at 6:30 PM
+
+
+          Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. How...
+
+
+          https://www.meetup.com/typedb-prague/events/283199787/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283199787@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/283199787/
+        dtstart: 2022-01-20 18:30:00+01:00
+        dtend: 2022-01-20 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Jan 25, 6:30 PM CEST: Computational biology has revolutionised biomedicine. The volume of data it is generating is growing exponentially. This requires tools that enable computational and non-co'
+      og_title: Enabling the Computational Future of Biology | Meetup
+      url: https://www.meetup.com/typedb-prague/events/283199811/
+      ical:
+        summary: Enabling the Computational Future of Biology
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, January 25 at 6:30 PM
+
+
+          Computational biology has revolutionised biomedicine. The volume of data it is generating is growing exponentially. This requires tools that enable co...
+
+
+          https://www.meetup.com/typedb-prague/events/283199811/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283199811@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/283199811/
+        dtstart: 2022-01-25 18:30:00+01:00
+        dtend: 2022-01-25 19:30:00+01:00

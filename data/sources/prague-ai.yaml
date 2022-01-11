@@ -207,7 +207,7 @@ series:
         dtend: 2021-11-16 18:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/1/d/5/e/600_500167518.jpeg
   - meetupcom:
-      meta_description: 'Wed, Dec 1, 9:00 AM: Machine-Learning can help every organisation solve the most challenging analytical problems, but complex systems and skills gaps can prevent organisations from exploiting i'
+      meta_description: 'Wed, Dec 1, 10:00 AM CEST: Machine-Learning can help every organisation solve the most challenging analytical problems, but complex systems and skills gaps can prevent organisations from exploiting i'
       og_title: Accelerating Machine-Learning with Snowflake and H2O.ai | Meetup
       image: https://secure.meetupstatic.com/photos/event/7/2/d/f/600_500129407.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/281995999/
@@ -260,7 +260,7 @@ series:
         dtstart: 2021-11-18 19:00:00+01:00
         dtend: 2021-11-18 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Dec 2, 3:00 PM: The possibilities of AI in the production process seem to be almost limitless, from autonomous driving to secure payment transactions. Especially in the manufacturing indus'
+      meta_description: 'Thu, Dec 2, 4:00 PM CEST: The possibilities of AI in the production process seem to be almost limitless, from autonomous driving to secure payment transactions. Especially in the manufacturing indus'
       og_title: AI-Driven Manufacturing  | Meetup
       image: https://secure.meetupstatic.com/photos/event/a/1/c/6/600_500261414.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282116019/
