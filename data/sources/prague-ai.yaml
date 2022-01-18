@@ -338,3 +338,33 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282654578/
         dtstart: 2022-01-11 11:00:00+01:00
         dtend: 2022-01-11 12:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Jan 19, 5:00 PM CEST: Register here: https://bit.ly/3IcQR0y
+
+
+        ***
+
+
+        Core business processes in today’s digital world rely on documents and unstructured or semi-structured data that contain valuabl'
+      og_title: 'Virtual Panel: Improve Business Processes with AI Automated Workflows | Meetup'
+      url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/283335581/
+      ical:
+        summary: 'Virtual Panel: Improve Business Processes with AI Automated Workflows'
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Wednesday, January 19 at 5:00 PM
+
+
+          Register here: https://bit.ly/3IcQR0y  *** Core business processes in today’s digital world rely on documents and unstructured or semi-structured data...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/283335581/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283335581@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/283335581/
+        dtstart: 2022-01-19 17:00:00+01:00
+        dtend: 2022-01-19 18:00:00+01:00
