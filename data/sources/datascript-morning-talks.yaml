@@ -535,3 +535,29 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/283047401/
         dtstart: 2022-02-09 09:00:00+01:00
         dtend: 2022-02-09 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Feb 15, 9:00 AM CEST: Registrace na https://www.datascript.cz/morning-talks/prometheus-pro-logging-metering-a-profiling/
+
+
+        Neustále rostoucí nároky na rychlost a objem nasazovaných služeb se odrá'
+      og_title: Prometheus pro logging, metering a profiling | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/283047413/
+      ical:
+        summary: Prometheus pro logging, metering a profiling
+        description: 'Morning Talks
+
+          Tuesday, February 15 at 9:00 AM
+
+
+          Registrace na https://www.datascript.cz/morning-talks/prometheus-pro-logging-metering-a-profiling/ Neustále rostoucí nároky na rychlost a objem nasazo...\n
+
+          https://www.meetup.com/Morning-Talks/events/283047413/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283047413@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/283047413/
+        dtstart: 2022-02-15 09:00:00+01:00
+        dtend: 2022-02-15 10:00:00+01:00
