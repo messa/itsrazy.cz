@@ -192,3 +192,32 @@ series:
         url: https://www.meetup.com/Prague-Machine-Learning/events/283095372/
         dtstart: 2022-01-19 18:00:00+01:00
         dtend: 2022-01-19 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Jan 27, 6:00 PM CEST: Talk #1: Lhotse: a speech data representation library for the modern deep learning ecosystem (Piotr Żelasko, Meaning)
+
+
+        Abstract
+
+        Speech data is notoriously difficult to work'
+      og_title: 'MLMU Online #18: Voice processing revolution: The future is now! | Meetup'
+      url: https://www.meetup.com/Prague-Machine-Learning/events/283360069/
+      ical:
+        summary: 'MLMU Online #18: Voice processing revolution: The future is now!'
+        description: 'Machine Learning Meetup Prague
+
+          Thursday, January 27 at 6:00 PM
+
+
+          Talk #1: Lhotse: a speech data representation library for the modern deep learning ecosystem (Piotr Żelasko, Meaning) AbstractSpeech data is notorious...
+
+
+          https://www.meetup.com/Prague-Machine-Learning/events/283360069/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283360069@meetup.com
+        url: https://www.meetup.com/Prague-Machine-Learning/events/283360069/
+        dtstart: 2022-01-27 18:00:00+01:00
+        dtend: 2022-01-27 20:00:00+01:00
