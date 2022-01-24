@@ -130,18 +130,25 @@ series:
         dtstart: 2021-05-29 10:00:00+02:00
         dtend: 2021-05-29 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Feb 9, 7:00 PM CEST: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
-      og_title: Meetup Frontedisti.cz | Meetup
+      meta_description: 'Wed, Feb 9, 6:00 PM CEST: První letošní sraz Frontendistů - tentokrát na téma testování!
+
+
+        Program:
+
+        1. Martin Krištof - Heureka
+
+        Jak zrychlit CI/CD a jak poznat, že změna CSS nezpůsobila nežádoucí změ'
+      og_title: Testování - Frontedisti.cz LIVE | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsydcdbmb/
       ical:
-        summary: Meetup Frontedisti.cz
+        summary: Testování - Frontedisti.cz LIVE
         description: 'Frontendisti.cz
 
-          Wednesday, February 9 at 7:00 PM
+          Wednesday, February 9 at 6:00 PM
 
 
-          Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat ...
+          První letošní sraz Frontendistů - tentokrát na téma testování! Program:1. Martin Krištof - HeurekaJak zrychlit CI/CD a jak poznat, že změna CSS nezpůs...
 
 
           https://www.meetup.com/frontendisti/events/283113425/'
@@ -152,8 +159,8 @@ series:
         status: CONFIRMED
         uid: event_mbjhpsydcdbmb@meetup.com
         url: https://www.meetup.com/frontendisti/events/283113425/
-        dtstart: 2022-02-09 19:00:00+01:00
-        dtend: 2022-02-09 21:00:00+01:00
+        dtstart: 2022-02-09 18:00:00+01:00
+        dtend: 2022-02-09 20:00:00+01:00
   - meetupcom:
       meta_description: 'Wed, Nov 10, 5:30 PM: Online stream for meetup from Pipedrive in Prague. This time mainly in English:
 
