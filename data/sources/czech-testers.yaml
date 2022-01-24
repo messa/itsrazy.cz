@@ -209,3 +209,31 @@ series:
         url: https://www.meetup.com/ProfessionalTesting/events/282722610/
         dtstart: 2021-12-18 20:00:00+01:00
         dtend: 2021-12-18 22:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Feb 22, 6:00 PM CEST: Test proces nebo management testů je již dnes poměrně známá věc ale
+
+        v průběhu času přechází kontinuální transformací. Vezmeme-li v potaz fakt, že
+
+        aktuálně se vývoj softwaru'
+      og_title: 'online: QA Brno - Jak řídit testy efektivněji se správným nástrojem | Meetup'
+      url: https://www.meetup.com/ProfessionalTesting/events/283194770/
+      ical:
+        summary: 'online: QA Brno - Jak řídit testy efektivněji se správným nástrojem'
+        description: 'CZECH TESTERS GROUP
+
+          Tuesday, February 22 at 6:00 PM
+
+
+          Test proces nebo management testů je již dnes poměrně známá věc alev průběhu času přechází kontinuální transformací. Vezmeme-li v potaz fakt, žeaktuál...
+
+
+          https://www.meetup.com/ProfessionalTesting/events/283194770/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283194770@meetup.com
+        url: https://www.meetup.com/ProfessionalTesting/events/283194770/
+        dtstart: 2022-02-22 18:00:00+01:00
+        dtend: 2022-02-22 20:00:00+01:00

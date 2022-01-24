@@ -648,3 +648,51 @@ series:
         url: https://www.meetup.com/typedb-prague/events/283199811/
         dtstart: 2022-01-25 18:30:00+01:00
         dtend: 2022-01-25 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Feb 1, 6:30 PM CEST: Applications running on production have much higher requirements. Not only do they need to be correct, they also need to be "always-on", handle a much bigger user load, and'
+      og_title: Scaling TypeDB for the Enterprise | TypeDB Cluster | Meetup
+      url: https://www.meetup.com/typedb-prague/events/283458655/
+      ical:
+        summary: Scaling TypeDB for the Enterprise | TypeDB Cluster
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, February 1 at 6:30 PM
+
+
+          Applications running on production have much higher requirements. Not only do they need to be correct, they also need to be "always-on", handle a much...
+
+
+          https://www.meetup.com/typedb-prague/events/283458655/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283458655@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/283458655/
+        dtstart: 2022-02-01 18:30:00+01:00
+        dtend: 2022-02-01 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Feb 3, 6:30 PM CEST: Geminos has created a low-code digital transformation platform that combines causal and knowledge modeling. It uses TypeDB as its internal repository. Initial projects are '
+      og_title: Combining Causal and Knowledge Modeling for Digital Transformation | Meetup
+      url: https://www.meetup.com/typedb-prague/events/283462378/
+      ical:
+        summary: Combining Causal and Knowledge Modeling for Digital Transformation
+        description: 'TypeDB Prague Engineers
+
+          Thursday, February 3 at 6:30 PM
+
+
+          Geminos has created a low-code digital transformation platform that combines causal and knowledge modeling. It uses TypeDB as its internal repository....
+
+
+          https://www.meetup.com/typedb-prague/events/283462378/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283462378@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/283462378/
+        dtstart: 2022-02-03 18:30:00+01:00
+        dtend: 2022-02-03 19:30:00+01:00
