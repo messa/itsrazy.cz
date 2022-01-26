@@ -696,3 +696,50 @@ series:
         url: https://www.meetup.com/typedb-prague/events/283462378/
         dtstart: 2022-02-03 18:30:00+01:00
         dtend: 2022-02-03 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Feb 8, 6:30 PM CEST: Suppose your application wants to talk to a TypeDB Database, but you aren''t using Java, Python or NodeJS (our official drivers), Julia, Go or C# (our community developed or'
+      og_title: How to Build a TypeDB Client | Meetup
+      url: https://www.meetup.com/typedb-prague/events/283499868/
+      ical:
+        summary: How to Build a TypeDB Client
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, February 8 at 6:30 PM
+
+
+          Suppose your application wants to talk to a TypeDB Database, but you aren''t using Java, Python or NodeJS (our official drivers), Julia, Go or C# (our ...
+
+
+          https://www.meetup.com/typedb-prague/events/283499868/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283499868@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/283499868/
+        dtstart: 2022-02-08 18:30:00+01:00
+        dtend: 2022-02-08 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Feb 10, 6:30 PM CEST: Knowledge of cyber threats is a key focus in cyber security. TypeDB Data - CTI is an open source knowledge graph to store and manage such knowledge. It enables CTI professi'
+      og_title: Building a Cyber Threat Intelligence Knowledge Graph with TypeDB | Meetup
+      url: https://www.meetup.com/typedb-prague/events/283505250/
+      ical:
+        summary: Building a Cyber Threat Intelligence Knowledge Graph with TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Thursday, February 10 at 6:30 PM
+
+          \nKnowledge of cyber threats is a key focus in cyber security. TypeDB Data - CTI is an open source knowledge graph to store and manage such knowledge. I...
+
+
+          https://www.meetup.com/typedb-prague/events/283505250/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283505250@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/283505250/
+        dtstart: 2022-02-10 18:30:00+01:00
+        dtend: 2022-02-10 19:30:00+01:00
