@@ -561,3 +561,30 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/283047413/
         dtstart: 2022-02-15 09:00:00+01:00
         dtend: 2022-02-15 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Feb 16, 9:00 AM CEST: Registrace na https://www.datascript.cz/morning-talks/jak-ridit-agilni-projekty-a-byt-agilni-firma-pomoci-frameworku-safe/
+
+
+        Agilní řízení projektů není jen o tom, že děláme'
+      og_title: Jak řídit agilní projekty a být agilní firma pomocí frameworku SAFe | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/283047421/
+      ical:
+        summary: Jak řídit agilní projekty a být agilní firma pomocí frameworku SAFe
+        description: 'Morning Talks
+
+          Wednesday, February 16 at 9:00 AM
+
+
+          Registrace na https://www.datascript.cz/morning-talks/jak-ridit-agilni-projekty-a-byt-agilni-firma-pomoci-frameworku-safe/ Agilní řízení projektů není...
+
+
+          https://www.meetup.com/Morning-Talks/events/283047421/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283047421@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/283047421/
+        dtstart: 2022-02-16 09:00:00+01:00
+        dtend: 2022-02-16 10:00:00+01:00
