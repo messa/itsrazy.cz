@@ -105,3 +105,27 @@ series:
         url: https://www.meetup.com/ysoft-th/events/270218334/
         dtstart: 2020-05-11 17:30:00+02:00
         dtend: 2020-05-11 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Feb 15, 6:00 PM CEST: Mnozí lidé používají tyto termíny zcela zaměnitelně. A není divu - všechny se dají použít k označení onoho okýnka s bílým textem na černém pozadí, do kterého píšete příkazy'
+      og_title: Terminály, shelly a konzole | Meetup
+      url: https://www.meetup.com/ysoft-th/events/283522925/
+      ical:
+        summary: Terminály, shelly a konzole
+        description: 'Y Soft: Technology Hour
+
+          Tuesday, February 15 at 6:00 PM
+
+
+          Mnozí lidé používají tyto termíny zcela zaměnitelně. A není divu - všechny se dají použít k označení onoho okýnka s bílým textem na černém pozadí, do ...
+
+
+          https://www.meetup.com/ysoft-th/events/283522925/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283522925@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/283522925/
+        dtstart: 2022-02-15 18:00:00+01:00
+        dtend: 2022-02-15 20:00:00+01:00
