@@ -182,3 +182,29 @@ series:
         url: https://www.meetup.com/TopMonks-Caffe/events/282160838/
         dtstart: 2021-12-07 19:00:00+01:00
         dtend: 2021-12-07 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Feb 1, 7:00 PM CEST: Akce proběhne online a sledovat nás můžete na: https://zive.tv/topmonks-caffe/
+
+
+        Po skončení přednášek i tentokrát otevřeme Zoom na osobní dotazy a after party.'
+      og_title: Deno - A modern runtime for JavaScript and TypeScript | Meetup
+      url: https://www.meetup.com/TopMonks-Caffe/events/283522738/
+      ical:
+        summary: Deno - A modern runtime for JavaScript and TypeScript
+        description: 'TopMonks Caffè
+
+          Tuesday, February 1 at 7:00 PM
+
+
+          Akce proběhne online a sledovat nás můžete na: https://zive.tv/topmonks-caffe/ Po skončení přednášek i tentokrát otevřeme Zoom na osobní dotazy a afte...\n
+
+          https://www.meetup.com/TopMonks-Caffe/events/283522738/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283522738@meetup.com
+        url: https://www.meetup.com/TopMonks-Caffe/events/283522738/
+        dtstart: 2022-02-01 19:00:00+01:00
+        dtend: 2022-02-01 21:00:00+01:00
