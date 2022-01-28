@@ -372,7 +372,7 @@ series:
       meta_description: 'Tue, Feb 22, 6:30 PM CEST: Get out and get social in 2022 : come out and discuss JS together!
 
         Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that a'
-      og_title: '2022 #2 Client-side Databases | Meetup'
+      og_title: '2022 #2 E2E testing web applications | Meetup'
       image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
       url: https://www.meetup.com/praguejs/events/267847695/
       ical_raw:
@@ -422,7 +422,7 @@ series:
       - END:VEVENT
       - END:VCALENDAR
       ical:
-        summary: '2022 #2 Client-side Databases'
+        summary: '2022 #2 E2E testing web applications'
         description: 'PragueJS
 
           Tuesday, February 22 at 6:30 PM
