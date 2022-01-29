@@ -439,3 +439,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/283098990/
         dtstart: 2022-01-20 18:00:00+01:00
         dtend: 2022-01-20 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Mon, Feb 7, 6:30 PM CEST: Sejde se takhle právník, UXák a copywriter… Ne, to není vtip, ale realita, se kterou jste se možná už také setkali. O tom, že najít v takovém případě společnou řeč fakt nen'
+      og_title: 'UX Monday: UX versus Právo | Meetup'
+      url: https://www.meetup.com/asociace-ux/events/283567346/
+      ical:
+        summary: 'UX Monday: UX versus Právo'
+        description: 'Asociace UX
+
+          Monday, February 7 at 6:30 PM
+
+
+          Sejde se takhle právník, UXák a copywriter… Ne, to není vtip, ale realita, se kterou jste se možná už také setkali. O tom, že najít v takovém případě ...
+
+
+          https://www.meetup.com/asociace-ux/events/283567346/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283567346@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/283567346/
+        dtstart: 2022-02-07 18:30:00+01:00
+        dtend: 2022-02-07 20:00:00+01:00
