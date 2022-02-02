@@ -588,3 +588,30 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/283047421/
         dtstart: 2022-02-16 09:00:00+01:00
         dtend: 2022-02-16 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Feb 23, 9:00 AM CEST: Registrace na https://www.datascript.cz/morning-talks/jak-objevit-analyzovat-a-zabezpecit-vase-api-kdekoliv/
+
+
+        Nové trendy v provozu aplikací vedené především kontejnerizací'
+      og_title: Jak objevit, analyzovat a zabezpečit Vaše API kdekoliv | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/283047453/
+      ical:
+        summary: Jak objevit, analyzovat a zabezpečit Vaše API kdekoliv
+        description: 'Morning Talks
+
+          Wednesday, February 23 at 9:00 AM
+
+
+          Registrace na https://www.datascript.cz/morning-talks/jak-objevit-analyzovat-a-zabezpecit-vase-api-kdekoliv/ Nové trendy v provozu aplikací vedené pře...
+
+
+          https://www.meetup.com/Morning-Talks/events/283047453/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283047453@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/283047453/
+        dtstart: 2022-02-23 09:00:00+01:00
+        dtend: 2022-02-23 10:00:00+01:00
