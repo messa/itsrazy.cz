@@ -743,3 +743,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/283505250/
         dtstart: 2022-02-10 18:30:00+01:00
         dtend: 2022-02-10 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Feb 15, 7:00 PM CEST: AI offers an enormous potential in terms of improving the effectiveness and efficiency of robots. In recent years, data-driven AI has achieved remarkable success in special'
+      og_title: Open World Robotics | Meetup
+      url: https://www.meetup.com/typedb-prague/events/283524269/
+      ical:
+        summary: Open World Robotics
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, February 15 at 7:00 PM
+
+
+          AI offers an enormous potential in terms of improving the effectiveness and efficiency of robots. In recent years, data-driven AI has achieved remarka...
+
+
+          https://www.meetup.com/typedb-prague/events/283524269/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283524269@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/283524269/
+        dtstart: 2022-02-15 19:00:00+01:00
+        dtend: 2022-02-15 20:00:00+01:00
