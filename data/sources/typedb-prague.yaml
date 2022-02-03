@@ -767,3 +767,26 @@ series:
         url: https://www.meetup.com/typedb-prague/events/283524269/
         dtstart: 2022-02-15 19:00:00+01:00
         dtend: 2022-02-15 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Feb 17, 6:30 PM CEST: In this webinar we use TypeDB to open a window on the Pandora Papers, a massive ''data tsunami'' based on 11.9 million leaked source documents obtained by the International C'
+      og_title: Pandora Paper Leaks With TypeDB | Meetup
+      url: https://www.meetup.com/typedb-prague/events/283546081/
+      ical:
+        summary: Pandora Paper Leaks With TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Thursday, February 17 at 6:30 PM
+
+          \nIn this webinar we use TypeDB to open a window on the Pandora Papers, a massive ''data tsunami'' based on 11.9 million leaked source documents obtained ...
+
+
+          https://www.meetup.com/typedb-prague/events/283546081/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283546081@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/283546081/
+        dtstart: 2022-02-17 18:30:00+01:00
+        dtend: 2022-02-17 19:30:00+01:00

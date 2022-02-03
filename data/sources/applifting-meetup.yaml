@@ -206,3 +206,27 @@ series:
         url: https://www.meetup.com/Applifting-meetup-1/events/283625028/
         dtstart: 2022-02-15 18:30:00+01:00
         dtend: 2022-02-15 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Feb 22, 6:00 PM CEST: 💡 Interested in everything about the modern web? Do you want to know what criteria it should meet and what tools can help you with that? Then don''t miss the meetup on the '
+      og_title: 'FE Crew Talk: The Present and Future of the Modern Web | Meetup'
+      url: https://www.meetup.com/Applifting-meetup-1/events/283681829/
+      ical:
+        summary: 'FE Crew Talk: The Present and Future of the Modern Web'
+        description: 'Applifting meetup
+
+          Tuesday, February 22 at 6:00 PM
+
+
+          💡 Interested in everything about the modern web? Do you want to know what criteria it should meet and what tools can help you with that? Then don''t mi...
+
+
+          https://www.meetup.com/Applifting-meetup-1/events/283681829/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283681829@meetup.com
+        url: https://www.meetup.com/Applifting-meetup-1/events/283681829/
+        dtstart: 2022-02-22 18:00:00+01:00
+        dtend: 2022-02-22 20:00:00+01:00
