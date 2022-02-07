@@ -1,8 +1,8 @@
 series:
   meetupcom:
     url: https://www.meetup.com/Applifting-meetup-1/
-    meta_description: 'Vyrábíme webové a mobilní aplikace pro iOS i Android. Na backendu vyvíjíme převážně v Node.js a Ruby on Rails, na frontendu v Reactu a Angularu.Chceme s komunitou sdílet naše zkušenosti a dozvědět se '
-    og_title: Applifting meetup (Prague, Czech Republic)
+    meta_description: Vyrábíme webové a mobilní aplikace pro iOS, Android i Flutter. Na backendu vyvíjíme převážně v Node.js a Pythonu, na frontendu v Reactu.Chceme s komunitou sdílet naše zkušenosti a dozvědět se také zaj
+    og_title: Applifting Crew Talk (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/1/7/d/3/600_493506099.jpeg
   events:
   - meetupcom:
@@ -164,7 +164,7 @@ series:
       url: https://www.meetup.com/Applifting-meetup-1/events/281354506/
       ical:
         summary: 'Backend meetup: Architektura, mýty o OOP a těžký život backenďáka'
-        description: 'Applifting meetup
+        description: 'Applifting Crew Talk
 
           Tuesday, October 26 at 6:00 PM
 
@@ -188,7 +188,7 @@ series:
       url: https://www.meetup.com/Applifting-meetup-1/events/283625028/
       ical:
         summary: 'Product Crew Talk: Can your idea become a success?'
-        description: 'Applifting meetup
+        description: 'Applifting Crew Talk
 
           Tuesday, February 15 at 6:30 PM
 
@@ -212,7 +212,7 @@ series:
       url: https://www.meetup.com/Applifting-meetup-1/events/283681829/
       ical:
         summary: 'FE Crew Talk: The Present and Future of the Modern Web'
-        description: 'Applifting meetup
+        description: 'Applifting Crew Talk
 
           Tuesday, February 22 at 6:00 PM
 
