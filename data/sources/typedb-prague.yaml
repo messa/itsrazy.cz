@@ -790,3 +790,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/283546081/
         dtstart: 2022-02-17 18:30:00+01:00
         dtend: 2022-02-17 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Feb 22, 6:30 PM CEST: Heterogenous data holds significant inherent context. We would like our machine learning models to understand this context, and utilise this ancillary but critical informat'
+      og_title: Strongly Typed Data for Machine Learning | Meetup
+      url: https://www.meetup.com/typedb-prague/events/283547118/
+      ical:
+        summary: Strongly Typed Data for Machine Learning
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, February 22 at 6:30 PM
+
+
+          Heterogenous data holds significant inherent context. We would like our machine learning models to understand this context, and utilise this ancillary...
+
+
+          https://www.meetup.com/typedb-prague/events/283547118/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283547118@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/283547118/
+        dtstart: 2022-02-22 18:30:00+01:00
+        dtend: 2022-02-22 19:30:00+01:00
