@@ -349,3 +349,107 @@ series:
         url: https://www.meetup.com/czskppug/events/283764651/
         dtstart: 2022-05-12 17:00:00+02:00
         dtend: 2022-05-12 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Mar 10, 5:00 PM CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
+
+        Čas zachováme. Lokalitu upřesním dle při'
+      og_title: CZSK PPUG Meetup u piva | Meetup
+      url: https://www.meetup.com/czskppug/events/mdhkssydcfbnb/
+      ical:
+        summary: CZSK PPUG Meetup u piva
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, March 10 at 5:00 PM
+
+
+          Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.Čas zachováme. Loka...
+
+
+          https://www.meetup.com/czskppug/events/283764636/'
+        location: Microsoft (Vyskočilova 1461/2a, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_mdhkssydcfbnb@meetup.com
+        url: https://www.meetup.com/czskppug/events/283764636/
+        dtstart: 2022-03-10 17:00:00+01:00
+        dtend: 2022-03-10 19:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Apr 14, 5:00 PM CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
+
+        Čas zachováme. Lokalitu upřesním dle při'
+      og_title: CZSK PPUG Meetup u piva | Meetup
+      url: https://www.meetup.com/czskppug/events/mdhkssydcgbsb/
+      ical:
+        summary: CZSK PPUG Meetup u piva
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, April 14 at 5:00 PM
+
+
+          Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.Čas zachováme. Loka...
+
+
+          https://www.meetup.com/czskppug/events/283764644/'
+        location: Microsoft (Vyskočilova 1461/2a, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_mdhkssydcgbsb@meetup.com
+        url: https://www.meetup.com/czskppug/events/283764644/
+        dtstart: 2022-04-14 17:00:00+02:00
+        dtend: 2022-04-14 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, May 12, 5:00 PM CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
+
+        Čas zachováme. Lokalitu upřesním dle při'
+      og_title: CZSK PPUG Meetup u piva | Meetup
+      url: https://www.meetup.com/czskppug/events/mdhkssydchbqb/
+      ical:
+        summary: CZSK PPUG Meetup u piva
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, May 12 at 5:00 PM
+
+
+          Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.Čas zachováme. Loka...
+
+
+          https://www.meetup.com/czskppug/events/283764651/'
+        location: Microsoft (Vyskočilova 1461/2a, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_mdhkssydchbqb@meetup.com
+        url: https://www.meetup.com/czskppug/events/283764651/
+        dtstart: 2022-05-12 17:00:00+02:00
+        dtend: 2022-05-12 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 9, 5:00 PM CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
+
+        Čas zachováme. Lokalitu upřesním dle při'
+      og_title: CZSK PPUG Meetup u piva | Meetup
+      url: https://www.meetup.com/czskppug/events/mdhkssydcjbmb/
+      ical:
+        summary: CZSK PPUG Meetup u piva
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, June 9 at 5:00 PM
+
+
+          Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.Čas zachováme. Loka...
+
+
+          https://www.meetup.com/czskppug/events/283764654/'
+        location: Microsoft (Vyskočilova 1461/2a, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_mdhkssydcjbmb@meetup.com
+        url: https://www.meetup.com/czskppug/events/283764654/
+        dtstart: 2022-06-09 17:00:00+02:00
+        dtend: 2022-06-09 19:00:00+02:00

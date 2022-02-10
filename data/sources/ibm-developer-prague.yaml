@@ -208,3 +208,27 @@ series:
         url: https://www.meetup.com/IBM-Developer-Prague/events/283029566/
         dtstart: 2022-01-19 17:00:00+01:00
         dtend: 2022-01-19 19:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Feb 17, 6:00 PM CEST: 🌍By some estimates, 50 billion devices, appliances, and systems will be connected by 2020. Traditional systems cannot support the volume, speed, and complexity of data bei'
+      og_title: IBM Developer & MongoDB Present:Incite Insights from Real Time Data with MongoDB | Meetup
+      url: https://www.meetup.com/IBM-Developer-Prague/events/283887745/
+      ical:
+        summary: IBM Developer & MongoDB Present:Incite Insights from Real Time Data with MongoDB
+        description: 'IBM Developer Czechia
+
+          Thursday, February 17 at 6:00 PM
+
+
+          ??By some estimates, 50 billion devices, appliances, and systems will be connected by 2020. Traditional systems cannot support the volume, speed, and c...
+
+
+          https://www.meetup.com/IBM-Developer-Prague/events/283887745/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283887745@meetup.com
+        url: https://www.meetup.com/IBM-Developer-Prague/events/283887745/
+        dtstart: 2022-02-17 18:00:00+01:00
+        dtend: 2022-02-17 20:00:00+01:00
