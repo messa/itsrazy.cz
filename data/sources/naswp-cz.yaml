@@ -217,7 +217,7 @@ series:
         dtstart: 2022-01-26 18:30:00+01:00
         dtend: 2022-01-26 21:30:00+01:00
   - meetupcom:
-      meta_description: 'Sat, Feb 26, 10:00 AM CEST: Již po deváté pro vás připravujeme největší WordPress konferenci v ČR.
+      meta_description: 'Sat, Feb 26, 9:15 AM CEST: Již po deváté pro vás připravujeme největší WordPress konferenci v ČR.
 
         Rádi se opět uvidíme se všemi, kterým WordPress přirostl k srdci.
 
@@ -229,7 +229,8 @@ series:
         summary: WordCamp Praha 2022
         description: 'NášWP WordPress komunita
 
-          Saturday, February 26 at 10:00 AM\n
+          Saturday, February 26 at 9:15 AM
+
 
           Již po deváté pro vás připravujeme největší WordPress konferenci v ČR.Rádi se opět uvidíme se všemi, kterým WordPress přirostl k srdci.A je jedno, jes...
 
@@ -242,5 +243,5 @@ series:
         status: CONFIRMED
         uid: event_282169930@meetup.com
         url: https://www.meetup.com/naswp-cz/events/282169930/
-        dtstart: 2022-02-26 10:00:00+01:00
+        dtstart: 2022-02-26 09:15:00+01:00
         dtend: 2022-02-26 18:00:00+01:00
