@@ -107,3 +107,27 @@ series:
         url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/277995118/
         dtstart: 2021-05-19 18:00:00+02:00
         dtend: 2021-05-19 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Mar 2, 6:00 PM CEST: Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve středu 2. března 2022. Opencafé je pro ty, kteří chtějí něčím zajímavý'
+      og_title: Agilní Open Café Praha – 2.3.2022 | Meetup
+      url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/283977245/
+      ical:
+        summary: Agilní Open Café Praha – 2.3.2022
+        description: 'Agilni Open Cafe Praha
+
+          Wednesday, March 2 at 6:00 PM
+
+
+          Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve středu 2. března 2022. Opencafé je pro ty, kteří...
+
+
+          https://www.meetup.com/Agilni-Open-Cafe-Praha/events/283977245/'
+        location: Café Záhorský (Eliášova 279, Praha 6-Bubeneč, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283977245@meetup.com
+        url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/283977245/
+        dtstart: 2022-03-02 18:00:00+01:00
+        dtend: 2022-03-02 20:00:00+01:00
