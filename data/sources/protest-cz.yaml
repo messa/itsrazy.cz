@@ -191,3 +191,33 @@ series:
         url: https://www.meetup.com/protest_cz/events/283227886/
         dtstart: 2022-01-25 18:00:00+01:00
         dtend: 2022-01-25 19:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Mar 1, 6:00 PM CEST: **Anotace přednášky:**
+
+
+        Jak se hledá tester? Jak se hledá dobrý tester? To je téma dalšího panelové diskuse na [pro:]TEST!u.
+
+
+        Online se setkáme s následujícími kolegyněmi a'
+      og_title: 106. [pro:]TEST! Jak se hledá tester | Meetup
+      url: https://www.meetup.com/protest_cz/events/284148042/
+      ical:
+        summary: 106. [pro:]TEST! Jak se hledá tester
+        description: '[pro:]TEST!
+
+          Tuesday, March 1 at 6:00 PM
+
+
+          **Anotace přednášky:** Jak se hledá tester? Jak se hledá dobrý tester? To je téma dalšího panelové diskuse na TEST!u. Online se setkáme s následujícím...
+
+
+          https://www.meetup.com/protest_cz/events/284148042/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284148042@meetup.com
+        url: https://www.meetup.com/protest_cz/events/284148042/
+        dtstart: 2022-03-01 18:00:00+01:00
+        dtend: 2022-03-01 19:00:00+01:00
