@@ -208,3 +208,32 @@ series:
         url: https://www.meetup.com/TopMonks-Caffe/events/283522738/
         dtstart: 2022-02-01 19:00:00+01:00
         dtend: 2022-02-01 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Mar 1, 7:00 PM CEST: Tentokrát se potkáme osobně u pivka a dýmky v Loft N8.
+
+
+        Skywalk systems a Parallel Garden - Teplo, Bitcoin, Stévie
+
+        Využití generovaného tepla z těžby kryptoměn nebo serverů'
+      og_title: Pěstování květin s pomocí kryptoměn | Meetup
+      url: https://www.meetup.com/TopMonks-Caffe/events/284177540/
+      ical:
+        summary: Pěstování květin s pomocí kryptoměn
+        description: 'TopMonks Caffè
+
+          Tuesday, March 1 at 7:00 PM
+
+
+          Tentokrát se potkáme osobně u pivka a dýmky v Loft N8.  Skywalk systems a Parallel Garden - Teplo, Bitcoin, Stévie Využití generovaného tepla z těžby ...
+
+
+          https://www.meetup.com/TopMonks-Caffe/events/284177540/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284177540@meetup.com
+        url: https://www.meetup.com/TopMonks-Caffe/events/284177540/
+        dtstart: 2022-03-01 19:00:00+01:00
+        dtend: 2022-03-01 21:00:00+01:00
