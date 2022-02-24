@@ -194,29 +194,34 @@ series:
         dtstart: 2021-11-10 18:30:00+01:00
         dtend: 2021-11-10 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Mar 9, 7:00 PM CEST: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
-      og_title: Meetup Frontedisti.cz | Meetup
+      meta_description: 'Wed, Mar 9, 6:00 PM CEST: Dost bylo pouze online meetupů.
+
+        **Tento bude opět hybridní.**
+
+
+        Dorazit můžete **NAŽIVO** do Brna do kanceláři SUPERKODERS. ALe pokud je to od vás do Brna daleko, připojte s'
+      og_title: Designové nástroje a spolupráce s front-end vývojáři | Frontedisti.cz LIVE | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsydcfbmb/
       ical:
-        summary: Meetup Frontedisti.cz
+        summary: Designové nástroje a spolupráce s front-end vývojáři | Frontedisti.cz LIVE
         description: 'Frontendisti.cz
 
-          Wednesday, March 9 at 7:00 PM
+          Wednesday, March 9 at 6:00 PM
 
 
-          Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat ...\n
+          Dost bylo pouze online meetupů.**Tento bude opět hybridní.** Dorazit můžete **NAŽIVO** do Brna do kanceláři SUPERKODERS. ALe pokud je to od vás do Brn...\n
 
           https://www.meetup.com/frontendisti/events/283183947/'
-        location: Online event
+        location: SUPERKODERS (Hněvkovského 30/65, Brno-jih-Komárov, Czech Republic 617 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_mbjhpsydcfbmb@meetup.com
         url: https://www.meetup.com/frontendisti/events/283183947/
-        dtstart: 2022-03-09 19:00:00+01:00
-        dtend: 2022-03-09 21:00:00+01:00
+        dtstart: 2022-03-09 18:00:00+01:00
+        dtend: 2022-03-09 20:00:00+01:00
   - meetupcom:
       meta_description: 'Wed, Apr 13, 7:00 PM CEST: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
       og_title: Meetup Frontedisti.cz | Meetup
