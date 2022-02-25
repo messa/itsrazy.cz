@@ -132,3 +132,30 @@ series:
         url: https://www.meetup.com/Brno-Java-Meetup/events/281669937/
         dtstart: 2021-11-04 18:30:00+01:00
         dtend: 2021-11-04 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Mar 17, 6:30 PM CEST: Anebo raději When Java has to Go?
+
+
+        [Jakub](https://github.com/coufalja) s [Peterem](https://www.linkedin.com/in/peter-siman-31042658/?originalSubdomain=cz) pracují pro Jamf'
+      og_title: Od Javy ke Go | Meetup
+      url: https://www.meetup.com/Brno-Java-Meetup/events/284243439/
+      ical:
+        summary: Od Javy ke Go
+        description: 'Brno Java Meetup
+
+          Thursday, March 17 at 6:30 PM
+
+
+          Anebo raději When Java has to Go? (https://github.com/coufalja) s (https://www.linkedin.com/in/peter-siman-31042658/?originalSubdomain=cz) pracují pro...
+
+
+          https://www.meetup.com/Brno-Java-Meetup/events/284243439/'
+        location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_284243439@meetup.com
+        url: https://www.meetup.com/Brno-Java-Meetup/events/284243439/
+        dtstart: 2022-03-17 18:30:00+01:00
+        dtend: 2022-03-17 20:30:00+01:00

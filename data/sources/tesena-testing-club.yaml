@@ -382,3 +382,30 @@ series:
         url: https://www.meetup.com/Tesena-testing-club/events/282713360/
         dtstart: 2022-02-10 10:00:00+01:00
         dtend: 2022-02-10 11:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Mar 3, 10:30 AM CEST: * **Webinar content**
+
+
+        Current testing approaches are slowing down development and are unsustainable in the long term. We have long believed that test automation was the so'
+      og_title: Autonomous Visual Regression Testing  | Meetup
+      url: https://www.meetup.com/Tesena-testing-club/events/284244041/
+      ical:
+        summary: 'Autonomous Visual Regression Testing '
+        description: 'Tesena Testing Club
+
+          Thursday, March 3 at 10:30 AM
+
+
+          * **Webinar content** Current testing approaches are slowing down development and are unsustainable in the long term. We have long believed that test ...
+
+
+          https://www.meetup.com/Tesena-testing-club/events/284244041/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284244041@meetup.com
+        url: https://www.meetup.com/Tesena-testing-club/events/284244041/
+        dtstart: 2022-03-03 10:30:00+01:00
+        dtend: 2022-03-03 11:30:00+01:00
