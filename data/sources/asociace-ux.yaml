@@ -490,3 +490,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/283616386/
         dtstart: 2022-02-03 19:00:00+01:00
         dtend: 2022-02-03 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Mon, Mar 7, 6:30 PM CEST: Přemýšleli jste někdy, jak se designuje tramvaj nebo nemocniční postel? Jaké uživatelské potřeby je třeba vzít v potaz? A jestli u nich probíhá nějaké testování použitelnos'
+      og_title: 'UX Monday: Průmyslový design & UX s Ivanem Dlabačem | Meetup'
+      url: https://www.meetup.com/asociace-ux/events/284305350/
+      ical:
+        summary: 'UX Monday: Průmyslový design & UX s Ivanem Dlabačem'
+        description: 'Asociace UX
+
+          Monday, March 7 at 6:30 PM
+
+
+          Přemýšleli jste někdy, jak se designuje tramvaj nebo nemocniční postel? Jaké uživatelské potřeby je třeba vzít v potaz? A jestli u nich probíhá nějaké...
+
+
+          https://www.meetup.com/asociace-ux/events/284305350/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284305350@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/284305350/
+        dtstart: 2022-03-07 18:30:00+01:00
+        dtend: 2022-03-07 20:00:00+01:00
