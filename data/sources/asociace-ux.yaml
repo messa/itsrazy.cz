@@ -514,3 +514,30 @@ series:
         url: https://www.meetup.com/asociace-ux/events/284305350/
         dtstart: 2022-03-07 18:30:00+01:00
         dtend: 2022-03-07 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Mar 3, 7:00 PM CEST: Interested in UX writing? Want to hear from UX writers and designers about how they work together?
+
+
+        Join Prague UX Writers for our 26th meetup! 🍻'
+      og_title: PRAGUE UX WRITERS MEETUP Vol. 26 - March | Meetup
+      url: https://www.meetup.com/asociace-ux/events/284311234/
+      ical:
+        summary: PRAGUE UX WRITERS MEETUP Vol. 26 - March
+        description: 'Asociace UX
+
+          Thursday, March 3 at 7:00 PM
+
+
+          Interested in UX writing? Want to hear from UX writers and designers about how they work together? Join Prague UX Writers for our 26th meetup! 🍻
+
+
+          https://www.meetup.com/asociace-ux/events/284311234/'
+        location: Sad Man's Tongue Bar & Bistro (Konviktská 7, Staré Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284311234@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/284311234/
+        dtstart: 2022-03-03 19:00:00+01:00
+        dtend: 2022-03-03 20:30:00+01:00

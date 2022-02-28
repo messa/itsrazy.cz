@@ -814,3 +814,78 @@ series:
         url: https://www.meetup.com/typedb-prague/events/283547118/
         dtstart: 2022-02-22 18:30:00+01:00
         dtend: 2022-02-22 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Mar 8, 6:30 PM CEST: Intelligent systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform know'
+      og_title: Introduction to TypeDB and TypeQL | Strongly Typed Data for the Enterprise | Meetup
+      url: https://www.meetup.com/typedb-prague/events/284314093/
+      ical:
+        summary: Introduction to TypeDB and TypeQL | Strongly Typed Data for the Enterprise
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, March 8 at 6:30 PM
+
+
+          Intelligent systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query la...
+
+
+          https://www.meetup.com/typedb-prague/events/284314093/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284314093@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/284314093/
+        dtstart: 2022-03-08 18:30:00+01:00
+        dtend: 2022-03-08 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Mar 10, 6:30 PM CEST: Graph databases have matured into mainstream technologies and deliver tremendous value to organisations across any industry. They are more flexible than traditional relatio'
+      og_title: ' Graph Databases vs TypeDB | What You Can''t do with Graphs | Meetup'
+      url: https://www.meetup.com/typedb-prague/events/284314118/
+      ical:
+        summary: ' Graph Databases vs TypeDB | What You Can''t do with Graphs'
+        description: 'TypeDB Prague Engineers
+
+          Thursday, March 10 at 6:30 PM
+
+
+          Graph databases have matured into mainstream technologies and deliver tremendous value to organisations across any industry. They are more flexible th...
+
+
+          https://www.meetup.com/typedb-prague/events/284314118/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284314118@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/284314118/
+        dtstart: 2022-03-10 18:30:00+01:00
+        dtend: 2022-03-10 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Mar 15, 6:30 PM CEST: How might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine?
+
+
+        We''ll visit the key ideas behind actors, and then walk through how we'
+      og_title: Reasoner, Meet Actors | TypeDB's Native Reasoning Engine | Meetup
+      url: https://www.meetup.com/typedb-prague/events/284314816/
+      ical:
+        summary: Reasoner, Meet Actors | TypeDB's Native Reasoning Engine
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, March 15 at 6:30 PM
+
+
+          How might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine? We''ll visit the key ideas behind actors, and the...
+
+
+          https://www.meetup.com/typedb-prague/events/284314816/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284314816@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/284314816/
+        dtstart: 2022-03-15 18:30:00+01:00
+        dtend: 2022-03-15 19:30:00+01:00
