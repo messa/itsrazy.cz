@@ -615,3 +615,116 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/283047453/
         dtstart: 2022-02-23 09:00:00+01:00
         dtend: 2022-02-23 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Mar 9, 9:00 AM CEST: **Prosím Vás, registrujte se přímo na stránkách Datascriptu:** https://www.datascript.cz/morning-talks/novinky-v-zabbix-60-lts/
+
+
+        Zabbix je vyspělá monitorovací platforma, k'
+      og_title: NOVINKY V ZABBIX 6.0 LTS | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/284327555/
+      ical:
+        summary: NOVINKY V ZABBIX 6.0 LTS
+        description: 'Morning Talks
+
+          Wednesday, March 9 at 9:00 AM
+
+
+          **Prosím Vás, registrujte se přímo na stránkách Datascriptu:** https://www.datascript.cz/morning-talks/novinky-v-zabbix-60-lts/ Zabbix je vyspělá moni...
+
+
+          https://www.meetup.com/Morning-Talks/events/284327555/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284327555@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/284327555/
+        dtstart: 2022-03-09 09:00:00+01:00
+        dtend: 2022-03-09 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Mar 23, 9:00 AM CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/it-bezpecnost-v-cloudu/
+
+
+        S rozšířením cloudového světa je potřeba adekv'
+      og_title: IT BEZPEČNOST V CLOUDU | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/284327564/
+      ical:
+        summary: IT BEZPEČNOST V CLOUDU
+        description: 'Morning Talks
+
+          Wednesday, March 23 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/it-bezpecnost-v-cloudu/ S rozšířením cloudového sv...
+
+
+          https://www.meetup.com/Morning-Talks/events/284327564/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284327564@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/284327564/
+        dtstart: 2022-03-23 09:00:00+01:00
+        dtend: 2022-03-23 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Mar 30, 9:00 AM CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/rest-is-best-nebo-za-trest/
+
+
+        V dnešní době se rozmohl takový nešvar naz'
+      og_title: REST IS BEST, NEBO ZA TREST? | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/284327573/
+      ical:
+        summary: REST IS BEST, NEBO ZA TREST?
+        description: 'Morning Talks
+
+          Wednesday, March 30 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/rest-is-best-nebo-za-trest/ V dnešní době se rozmo...
+
+
+          https://www.meetup.com/Morning-Talks/events/284327573/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284327573@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/284327573/
+        dtstart: 2022-03-30 09:00:00+02:00
+        dtend: 2022-03-30 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 6, 9:00 AM CEST: Prosíme Vás o registraci přímo na stránkách Datascriptu:
+
+        https://www.datascript.cz/morning-talks/terraform-a-packer-jednotna-sprava-vasich-cloudu/
+
+
+        Terraform a packer jsou '
+      og_title: TERRAFORM A PACKER - JEDNOTNÁ SPRÁVA VAŠICH CLOUDŮ | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/284327581/
+      ical:
+        summary: TERRAFORM A PACKER - JEDNOTNÁ SPRÁVA VAŠICH CLOUDŮ
+        description: 'Morning Talks
+
+          Wednesday, April 6 at 9:00 AM
+
+
+          Prosíme Vás o registraci přímo na stránkách Datascriptu:https://www.datascript.cz/morning-talks/terraform-a-packer-jednotna-sprava-vasich-cloudu/ Terr...
+
+          \nhttps://www.meetup.com/Morning-Talks/events/284327581/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284327581@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/284327581/
+        dtstart: 2022-04-06 09:00:00+02:00
+        dtend: 2022-04-06 10:00:00+02:00
