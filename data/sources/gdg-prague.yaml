@@ -775,3 +775,39 @@ series:
         url: https://www.meetup.com/GDGPrague/events/xqcsqsydcgbqb/
         dtstart: 2022-04-12 18:30:00+02:00
         dtend: 2022-04-12 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Apr 26, 6:30 PM CEST: • How to join?
+
+        Online only because of covid https://discord.gg/TnaMJMyTDw
+
+
+        • What we''ll do
+
+        https://sites.google.com/site/garagepragueone/home
+
+
+        http://gdg-garage.github.io/
+
+        '
+      og_title: GDG Garage Prague One | Meetup
+      url: https://www.meetup.com/GDGPrague/events/xqcsqsydcgbjc/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Tuesday, April 26 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/GDGPrague/events/xqcsqsydcgbjc/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_xqcsqsydcgbjc@meetup.com
+        url: https://www.meetup.com/GDGPrague/events/xqcsqsydcgbjc/
+        dtstart: 2022-04-26 18:30:00+02:00
+        dtend: 2022-04-26 20:30:00+02:00
