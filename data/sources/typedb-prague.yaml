@@ -815,17 +815,17 @@ series:
         dtstart: 2022-02-22 18:30:00+01:00
         dtend: 2022-02-22 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 8, 6:30 PM CEST: Intelligent systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query language to perform know'
-      og_title: Introduction to TypeDB and TypeQL | Strongly Typed Data for the Enterprise | Meetup
+      meta_description: 'Tue, Mar 8, 6:30 PM CEST: TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems, using TypeQL as its '
+      og_title: Introduction to TypeDB and TypeQL | A Strongly-Typed Database | Meetup
       url: https://www.meetup.com/typedb-prague/events/284314093/
       ical:
-        summary: Introduction to TypeDB and TypeQL | Strongly Typed Data for the Enterprise
+        summary: Introduction to TypeDB and TypeQL | A Strongly-Typed Database
         description: 'TypeDB Prague Engineers
 
           Tuesday, March 8 at 6:30 PM
 
 
-          Intelligent systems process knowledge that is far too complex for current databases. They require an expressive data model and an intelligent query la...
+          TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems...
 
 
           https://www.meetup.com/typedb-prague/events/284314093/'
@@ -839,17 +839,20 @@ series:
         dtstart: 2022-03-08 18:30:00+01:00
         dtend: 2022-03-08 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Mar 10, 6:30 PM CEST: Graph databases have matured into mainstream technologies and deliver tremendous value to organisations across any industry. They are more flexible than traditional relatio'
-      og_title: ' Graph Databases vs TypeDB | What You Can''t do with Graphs | Meetup'
+      meta_description: 'Thu, Mar 10, 6:30 PM CEST: Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistency in your database.
+
+
+        In this talk, we d'
+      og_title: ' Graph Databases vs TypeDB | What You Can''t do With Graphs | Meetup'
       url: https://www.meetup.com/typedb-prague/events/284314118/
       ical:
-        summary: ' Graph Databases vs TypeDB | What You Can''t do with Graphs'
+        summary: ' Graph Databases vs TypeDB | What You Can''t do With Graphs'
         description: 'TypeDB Prague Engineers
 
           Thursday, March 10 at 6:30 PM
 
 
-          Graph databases have matured into mainstream technologies and deliver tremendous value to organisations across any industry. They are more flexible th...
+          Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistency in your databas...
 
 
           https://www.meetup.com/typedb-prague/events/284314118/'
