@@ -281,7 +281,7 @@ series:
         dtstart: 2021-11-30 10:00:00+01:00
         dtend: 2021-11-30 11:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 10:00 AM CEST: Současné přístupy k testovaní zdržují vývoj a jsou dlouhodobě neudržitelné. Automatizovaní testů bylo dlouho tím, co to mělo vyřešit. Nestalo se.
+      meta_description: 'Tue, Dec 7, 10:00 AM CET: Současné přístupy k testovaní zdržují vývoj a jsou dlouhodobě neudržitelné. Automatizovaní testů bylo dlouho tím, co to mělo vyřešit. Nestalo se.
 
 
         Automatizace je dnes stan'
@@ -334,7 +334,7 @@ series:
         dtstart: 2021-11-24 17:30:00+01:00
         dtend: 2021-11-24 18:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 14, 3:00 PM CEST: It is impossible to imagine software development without UI tests. Despite technological progress, the automation of UI tests is still considered too complex to function co'
+      meta_description: 'Tue, Dec 14, 3:00 PM CET: It is impossible to imagine software development without UI tests. Despite technological progress, the automation of UI tests is still considered too complex to function co'
       og_title: Modern Challenges in UI Testing and How to Solve Them | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/5/0/2/600_484037666.jpeg
       url: https://www.meetup.com/Tesena-testing-club/events/281564834/
