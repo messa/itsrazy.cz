@@ -183,7 +183,7 @@ series:
         dtstart: 2021-10-26 18:00:00+02:00
         dtend: 2021-10-26 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Feb 15, 6:30 PM CEST: 💡 Do you have an idea for a business but don''t know how to ensure its validity and viability? Want to make sure it has a chance of success? Wondering how to get relevant f'
+      meta_description: 'Tue, Feb 15, 6:30 PM CET: 💡 Do you have an idea for a business but don''t know how to ensure its validity and viability? Want to make sure it has a chance of success? Wondering how to get relevant f'
       og_title: 'Product Crew Talk: Can your idea become a success? | Meetup'
       url: https://www.meetup.com/Applifting-meetup-1/events/283625028/
       ical:
@@ -207,7 +207,7 @@ series:
         dtstart: 2022-02-15 18:30:00+01:00
         dtend: 2022-02-15 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Feb 22, 6:00 PM CEST: 💡 Interested in everything about the modern web? Do you want to know what criteria it should meet and what tools can help you with that? Then don''t miss the meetup on the '
+      meta_description: 'Tue, Feb 22, 6:00 PM CET: 💡 Interested in everything about the modern web? Do you want to know what criteria it should meet and what tools can help you with that? Then don''t miss the meetup on the '
       og_title: 'FE Crew Talk: The Present and Future of the Modern Web | Meetup'
       url: https://www.meetup.com/Applifting-meetup-1/events/283681829/
       ical:

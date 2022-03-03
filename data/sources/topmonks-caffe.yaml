@@ -133,7 +133,7 @@ series:
         dtstart: 2021-10-05 19:00:00+02:00
         dtend: 2021-10-05 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 2, 7:00 PM CEST: Jak dělat produkt management pro netradiční produkty?'
+      meta_description: 'Tue, Nov 2, 7:00 PM CET: Jak dělat produkt management pro netradiční produkty?'
       og_title: Product management | Meetup
       image: https://secure.meetupstatic.com/photos/event/a/5/8/6/600_499782374.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/281672705/
@@ -158,7 +158,7 @@ series:
         dtstart: 2021-11-02 19:00:00+01:00
         dtend: 2021-11-02 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 7:00 PM CEST: Lze decentralizovat vlastnictví realit?'
+      meta_description: 'Tue, Dec 7, 7:00 PM CET: Lze decentralizovat vlastnictví realit?'
       og_title: Decentrializace vlastnictví realit | Meetup
       image: https://secure.meetupstatic.com/photos/event/3/c/3/2/600_500295410.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/282160838/
@@ -183,7 +183,7 @@ series:
         dtstart: 2021-12-07 19:00:00+01:00
         dtend: 2021-12-07 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Feb 1, 7:00 PM CEST: Akce proběhne online a sledovat nás můžete na: https://zive.tv/topmonks-caffe/
+      meta_description: 'Tue, Feb 1, 7:00 PM CET: Akce proběhne online a sledovat nás můžete na: https://zive.tv/topmonks-caffe/
 
 
         Po skončení přednášek i tentokrát otevřeme Zoom na osobní dotazy a after party.'
@@ -209,7 +209,7 @@ series:
         dtstart: 2022-02-01 19:00:00+01:00
         dtend: 2022-02-01 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 1, 7:00 PM CEST: Tentokrát se potkáme osobně u pivka a dýmky v Loft N8.
+      meta_description: 'Tue, Mar 1, 7:00 PM CET: Tentokrát se potkáme osobně u pivka a dýmky v Loft N8.
 
 
         Skywalk systems a Parallel Garden - Teplo, Bitcoin, Stévie

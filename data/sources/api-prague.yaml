@@ -34,7 +34,7 @@ series:
         dtstart: 2021-09-16 18:00:00+02:00
         dtend: 2021-09-16 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Nov 8, 4:00 PM CEST: Integrate APIs with Superface in 3 lines of code. Your applications will self-integrate (and maintain the integrations) autonomously, without any proxies and gateways betwe'
+      meta_description: 'Mon, Nov 8, 4:00 PM CET: Integrate APIs with Superface in 3 lines of code. Your applications will self-integrate (and maintain the integrations) autonomously, without any proxies and gateways betwe'
       og_title: APIs without the Pain 🚀 Superface Intro Webinar | Meetup
       image: https://secure.meetupstatic.com/photos/event/b/1/9/6/600_499785462.jpeg
       url: https://www.meetup.com/api-prague/events/281693311/

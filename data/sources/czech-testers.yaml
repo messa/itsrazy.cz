@@ -147,7 +147,7 @@ series:
         dtstart: 2021-09-29 18:00:00+02:00
         dtend: 2021-09-29 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Dec 14, 6:00 PM CEST: Přednáška a praktická ukázka automatizovaného E2E testování Rest API pomocí Swaggeru.
+      meta_description: 'Tue, Dec 14, 6:00 PM CET: Přednáška a praktická ukázka automatizovaného E2E testování Rest API pomocí Swaggeru.
 
 
         - Přednáška bude o E2E testování za pomoci API a Swaggru, díky čemuž můžete ověřit kv'
@@ -175,7 +175,7 @@ series:
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Sat, Dec 18, 8:00 PM CEST: Ahoj testeři,
+      meta_description: 'Sat, Dec 18, 8:00 PM CET: Ahoj testeři,
 
         další Testerská Katovna již tuto sobotu od 20h.
 
@@ -210,7 +210,7 @@ series:
         dtstart: 2021-12-18 20:00:00+01:00
         dtend: 2021-12-18 22:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Feb 22, 6:00 PM CEST: Test proces nebo management testů je již dnes poměrně známá věc ale
+      meta_description: 'Tue, Feb 22, 6:00 PM CET: Test proces nebo management testů je již dnes poměrně známá věc ale
 
         v průběhu času přechází kontinuální transformací. Vezmeme-li v potaz fakt, že
 

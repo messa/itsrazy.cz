@@ -440,7 +440,7 @@ series:
         dtstart: 2022-01-20 18:00:00+01:00
         dtend: 2022-01-20 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Mon, Feb 7, 6:30 PM CEST: Sejde se takhle právník, UXák a copywriter… Ne, to není vtip, ale realita, se kterou jste se možná už také setkali. O tom, že najít v takovém případě společnou řeč fakt nen'
+      meta_description: 'Mon, Feb 7, 6:30 PM CET: Sejde se takhle právník, UXák a copywriter… Ne, to není vtip, ale realita, se kterou jste se možná už také setkali. O tom, že najít v takovém případě společnou řeč fakt nen'
       og_title: 'UX Monday: UX versus Právo | Meetup'
       url: https://www.meetup.com/asociace-ux/events/283567346/
       ical:
@@ -491,7 +491,7 @@ series:
         dtstart: 2022-02-03 19:00:00+01:00
         dtend: 2022-02-03 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Mon, Mar 7, 6:30 PM CEST: Přemýšleli jste někdy, jak se designuje tramvaj nebo nemocniční postel? Jaké uživatelské potřeby je třeba vzít v potaz? A jestli u nich probíhá nějaké testování použitelnos'
+      meta_description: 'Mon, Mar 7, 6:30 PM CET: Přemýšleli jste někdy, jak se designuje tramvaj nebo nemocniční postel? Jaké uživatelské potřeby je třeba vzít v potaz? A jestli u nich probíhá nějaké testování použitelnos'
       og_title: 'UX Monday: Průmyslový design & UX s Ivanem Dlabačem | Meetup'
       url: https://www.meetup.com/asociace-ux/events/284305350/
       ical:
@@ -515,7 +515,7 @@ series:
         dtstart: 2022-03-07 18:30:00+01:00
         dtend: 2022-03-07 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Mar 3, 7:00 PM CEST: Interested in UX writing? Want to hear from UX writers and designers about how they work together?
+      meta_description: 'Thu, Mar 3, 7:00 PM CET: Interested in UX writing? Want to hear from UX writers and designers about how they work together?
 
 
         Join Prague UX Writers for our 26th meetup! 🍻'

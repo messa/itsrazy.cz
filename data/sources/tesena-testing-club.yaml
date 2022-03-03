@@ -359,7 +359,7 @@ series:
         dtstart: 2021-12-14 15:00:00+01:00
         dtend: 2021-12-14 16:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Feb 10, 10:00 AM CEST: V dnešní době je už poměrně těžké se kontejnerům vyhýbat, protože jsou jednoduše super! Ukážeme si několik běžných situací od spuštění aplikace v kontejneru přes tvorbu vla'
+      meta_description: 'Thu, Feb 10, 10:00 AM CET: V dnešní době je už poměrně těžké se kontejnerům vyhýbat, protože jsou jednoduše super! Ukážeme si několik běžných situací od spuštění aplikace v kontejneru přes tvorbu vla'
       og_title: Kontejnery jsou samozřejmost! | Meetup
       url: https://www.meetup.com/Tesena-testing-club/events/282713360/
       ical:
@@ -383,7 +383,7 @@ series:
         dtstart: 2022-02-10 10:00:00+01:00
         dtend: 2022-02-10 11:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Mar 3, 10:30 AM CEST: * **Webinar content**
+      meta_description: 'Thu, Mar 3, 10:30 AM CET: * **Webinar content**
 
 
         Current testing approaches are slowing down development and are unsustainable in the long term. We have long believed that test automation was the so'

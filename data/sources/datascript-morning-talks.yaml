@@ -589,7 +589,7 @@ series:
         dtstart: 2022-02-16 09:00:00+01:00
         dtend: 2022-02-16 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Feb 23, 9:00 AM CEST: Registrace na https://www.datascript.cz/morning-talks/jak-objevit-analyzovat-a-zabezpecit-vase-api-kdekoliv/
+      meta_description: 'Wed, Feb 23, 9:00 AM CET: Registrace na https://www.datascript.cz/morning-talks/jak-objevit-analyzovat-a-zabezpecit-vase-api-kdekoliv/
 
 
         Nové trendy v provozu aplikací vedené především kontejnerizací'
@@ -616,7 +616,7 @@ series:
         dtstart: 2022-02-23 09:00:00+01:00
         dtend: 2022-02-23 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Mar 9, 9:00 AM CEST: **Prosím Vás, registrujte se přímo na stránkách Datascriptu:** https://www.datascript.cz/morning-talks/novinky-v-zabbix-60-lts/
+      meta_description: 'Wed, Mar 9, 9:00 AM CET: **Prosím Vás, registrujte se přímo na stránkách Datascriptu:** https://www.datascript.cz/morning-talks/novinky-v-zabbix-60-lts/
 
 
         Zabbix je vyspělá monitorovací platforma, k'
@@ -643,7 +643,7 @@ series:
         dtstart: 2022-03-09 09:00:00+01:00
         dtend: 2022-03-09 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Mar 23, 9:00 AM CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+      meta_description: 'Wed, Mar 23, 9:00 AM CET: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
 
         https://www.datascript.cz/morning-talks/it-bezpecnost-v-cloudu/
 

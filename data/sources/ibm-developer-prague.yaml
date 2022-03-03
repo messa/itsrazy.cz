@@ -160,7 +160,7 @@ series:
         dtstart: 2021-10-18 12:00:00+02:00
         dtend: 2021-10-20 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Nov 25, 4:00 PM CEST: 🌍Today everyone is talking about cloud-native services and you might ask yourself what does it really means? Why is it so popular? One of the major cloud-native services a'
+      meta_description: 'Thu, Nov 25, 4:00 PM CET: 🌍Today everyone is talking about cloud-native services and you might ask yourself what does it really means? Why is it so popular? One of the major cloud-native services a'
       og_title: Microservices and CloudNative Architecture:Key Use Cases and practical solutions | Meetup
       url: https://www.meetup.com/IBM-Developer-Prague/events/281975947/
       ical:
@@ -185,7 +185,7 @@ series:
         dtend: 2021-11-25 17:00:00+01:00
       image: https://secure.meetupstatic.com/photos/event/2/e/9/b/600_500111931.jpeg
   - meetupcom:
-      meta_description: 'Wed, Jan 19, 5:00 PM CEST: 🌍The key of a system or application that thrives in production is not really development, but the way it is operated and supported. Although the positions and careers for '
+      meta_description: 'Wed, Jan 19, 5:00 PM CET: 🌍The key of a system or application that thrives in production is not really development, but the way it is operated and supported. Although the positions and careers for '
       og_title: 'The other side of IT: support and operations | Meetup'
       url: https://www.meetup.com/IBM-Developer-Prague/events/283029566/
       ical:
@@ -209,7 +209,7 @@ series:
         dtstart: 2022-01-19 17:00:00+01:00
         dtend: 2022-01-19 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Feb 17, 6:00 PM CEST: 🌍By some estimates, 50 billion devices, appliances, and systems will be connected by 2020. Traditional systems cannot support the volume, speed, and complexity of data bei'
+      meta_description: 'Thu, Feb 17, 6:00 PM CET: 🌍By some estimates, 50 billion devices, appliances, and systems will be connected by 2020. Traditional systems cannot support the volume, speed, and complexity of data bei'
       og_title: IBM Developer & MongoDB Present:Incite Insights from Real Time Data with MongoDB | Meetup
       url: https://www.meetup.com/IBM-Developer-Prague/events/283887745/
       ical:

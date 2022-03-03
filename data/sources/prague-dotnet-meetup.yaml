@@ -56,7 +56,7 @@ series:
         dtstart: 2021-04-22 17:30:00+02:00
         dtend: 2021-04-22 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Feb 24, 6:00 PM CEST: Data Science and Artificial Intelligence are fascinating areas of computing. Microsoft is betting a lot on these new technologies, but we are also aware that data scientist'
+      meta_description: 'Mon, Feb 24, 6:00 PM CET: Data Science and Artificial Intelligence are fascinating areas of computing. Microsoft is betting a lot on these new technologies, but we are also aware that data scientist'
       og_title: Taking Advantage of AI Easily with Azure Cognitive Services - Laurent Bugnion | Meetup
       image: https://secure.meetupstatic.com/photos/event/2/e/0/f/600_488711791.jpeg
       url: https://www.meetup.com/Prague-NET-Meetup/events/268424627/
@@ -81,7 +81,7 @@ series:
         dtstart: 2020-02-24 18:00:00+01:00
         dtend: 2020-02-24 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Feb 5, 6:00 PM CEST: Presentation will be in English
+      meta_description: 'Wed, Feb 5, 6:00 PM CET: Presentation will be in English
 
 
         Karel Zikmund - Async demystified

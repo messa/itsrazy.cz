@@ -38,7 +38,7 @@ series:
         dtstart: 2021-05-19 18:30:00+02:00
         dtend: 2021-05-19 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Mar 3, 6:30 PM CEST: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o K8s]
+      meta_description: 'Wed, Mar 3, 6:30 PM CET: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o K8s]
 
 
         Proč?
@@ -70,7 +70,7 @@ series:
         dtstart: 2021-03-03 18:30:00+01:00
         dtend: 2021-03-03 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Nov 11, 6:30 PM CEST: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o Serverless Computing]
+      meta_description: 'Wed, Nov 11, 6:30 PM CET: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o Serverless Computing]
 
 
         Proč?

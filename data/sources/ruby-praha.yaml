@@ -138,7 +138,7 @@ series:
         dtstart: 2022-02-02 19:00:00+01:00
         dtend: 2022-02-02 22:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Mar 2, 7:00 PM CEST: '
+      meta_description: 'Wed, Mar 2, 7:00 PM CET: '
       og_title: First Wednesday Of The Month - Ruby | Meetup
       url: https://www.meetup.com/Praguerb/events/dkmktfydcfbdb/
       ical:
@@ -223,3 +223,24 @@ series:
         url: https://www.meetup.com/Praguerb/events/dkmktfydcjbcb/
         dtstart: 2022-06-01 19:00:00+02:00
         dtend: 2022-06-01 22:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Jul 6, 7:00 PM CEST: '
+      og_title: First Wednesday Of The Month - Ruby | Meetup
+      url: https://www.meetup.com/Praguerb/events/dkmktfydckbjb/
+      ical:
+        summary: First Wednesday Of The Month - Ruby
+        description: 'Prague.rb / CSRUG
+
+          Wednesday, July 6 at 7:00 PM
+
+
+          https://www.meetup.com/Praguerb/events/dkmktfydckbjb/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_dkmktfydckbjb@meetup.com
+        url: https://www.meetup.com/Praguerb/events/dkmktfydckbjb/
+        dtstart: 2022-07-06 19:00:00+02:00
+        dtend: 2022-07-06 22:00:00+02:00

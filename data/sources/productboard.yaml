@@ -165,7 +165,7 @@ series:
         dtstart: 2021-10-20 18:00:00+02:00
         dtend: 2021-10-20 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Dec 1, 6:00 PM CEST: Stay home, stay safe, but stay connected to the community! 🙌
+      meta_description: 'Wed, Dec 1, 6:00 PM CET: Stay home, stay safe, but stay connected to the community! 🙌
 
 
         Join us for our next online meetup. Please register via Eventbrite:
@@ -195,7 +195,7 @@ series:
         dtend: 2021-12-01 19:30:00+01:00
       image: https://secure.meetupstatic.com/photos/event/6/f/3/6/600_500428470.jpeg
   - meetupcom:
-      meta_description: 'Wed, Feb 9, 6:00 PM CEST: Stay home, stay safe, but stay connected to the community! 🙌
+      meta_description: 'Wed, Feb 9, 6:00 PM CET: Stay home, stay safe, but stay connected to the community! 🙌
 
         Join us for our next online meetup. We’ll be talking Backend and have put together an awesome program for you '
       og_title: 'Backend Meetup #2 | Meetup'

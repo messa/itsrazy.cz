@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
   events:
   - meetupcom:
-      meta_description: 'Fri, Nov 26, 9:00 AM CEST: PLEASE RSVP USING THE LINK BELOW
+      meta_description: 'Fri, Nov 26, 9:00 AM CET: PLEASE RSVP USING THE LINK BELOW
 
 
         https://gdg.community.dev/events/details/google-gdg-ostrava-presents-devfestcz-2021-powered-by-techmeetup/
@@ -124,7 +124,7 @@ series:
         dtstart: 2021-05-18 18:30:00+02:00
         dtend: 2021-05-18 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Mar 2, 10:00 AM CEST: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
+      meta_description: 'Wed, Mar 2, 10:00 AM CET: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
 
 
         https://gdg.community.dev/events/details/google-gdg-ostrava-presents-mezinarodni-tyden-zen-international-w'

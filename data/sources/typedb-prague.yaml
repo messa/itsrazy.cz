@@ -791,7 +791,7 @@ series:
         dtstart: 2022-02-17 18:30:00+01:00
         dtend: 2022-02-17 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Feb 22, 6:30 PM CEST: Heterogenous data holds significant inherent context. We would like our machine learning models to understand this context, and utilise this ancillary but critical informat'
+      meta_description: 'Tue, Feb 22, 6:30 PM CET: Heterogenous data holds significant inherent context. We would like our machine learning models to understand this context, and utilise this ancillary but critical informat'
       og_title: Strongly Typed Data for Machine Learning | Meetup
       url: https://www.meetup.com/typedb-prague/events/283547118/
       ical:
@@ -815,7 +815,7 @@ series:
         dtstart: 2022-02-22 18:30:00+01:00
         dtend: 2022-02-22 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 8, 6:30 PM CEST: TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems, using TypeQL as its '
+      meta_description: 'Tue, Mar 8, 6:30 PM CET: TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems, using TypeQL as its '
       og_title: Introduction to TypeDB and TypeQL | A Strongly-Typed Database | Meetup
       url: https://www.meetup.com/typedb-prague/events/284314093/
       ical:
@@ -839,7 +839,7 @@ series:
         dtstart: 2022-03-08 18:30:00+01:00
         dtend: 2022-03-08 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Mar 10, 6:30 PM CEST: Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistency in your database.
+      meta_description: 'Thu, Mar 10, 6:30 PM CET: Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistency in your database.
 
 
         In this talk, we d'
@@ -866,7 +866,7 @@ series:
         dtstart: 2022-03-10 18:30:00+01:00
         dtend: 2022-03-10 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 15, 6:30 PM CEST: How might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine?
+      meta_description: 'Tue, Mar 15, 6:30 PM CET: How might we utilise an actor-based execution model to build a powerful yet elegant reasoning engine?
 
 
         We''ll visit the key ideas behind actors, and then walk through how we'
@@ -893,7 +893,7 @@ series:
         dtstart: 2022-03-15 18:30:00+01:00
         dtend: 2022-03-15 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 22, 6:30 PM CEST: Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bodies of data on the web'
+      meta_description: 'Tue, Mar 22, 6:30 PM CET: Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bodies of data on the web'
       og_title: Comparing Semantic Web Technologies to TypeDB | Meetup
       url: https://www.meetup.com/typedb-prague/events/284332665/
       ical:

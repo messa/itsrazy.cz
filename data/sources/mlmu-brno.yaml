@@ -139,7 +139,7 @@ series:
         dtstart: 2021-10-14 18:00:00+02:00
         dtend: 2021-10-14 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Dec 14, 6:00 PM CEST: The talks will be live on YouTube. (Link will get displayed after you RSVP)
+      meta_description: 'Tue, Dec 14, 6:00 PM CET: The talks will be live on YouTube. (Link will get displayed after you RSVP)
 
 
         Talk #1: How we use simple models to improve intent matching (Tomáš Vodrážka, Feedyou)
@@ -169,7 +169,7 @@ series:
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Jan 19, 6:00 PM CEST: DAIDALOS – AI as a New Frontier for Journalism: Where to Find Value in Tech-Driven Journalism
+      meta_description: 'Wed, Jan 19, 6:00 PM CET: DAIDALOS – AI as a New Frontier for Journalism: Where to Find Value in Tech-Driven Journalism
 
 
         We invite you to the online discussion AI as a New Frontier for Journalism: W'
@@ -196,7 +196,7 @@ series:
         dtstart: 2022-01-19 18:00:00+01:00
         dtend: 2022-01-19 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Jan 27, 6:00 PM CEST: Talk #1: Lhotse: a speech data representation library for the modern deep learning ecosystem (Piotr Żelasko, Meaning)
+      meta_description: 'Thu, Jan 27, 6:00 PM CET: Talk #1: Lhotse: a speech data representation library for the modern deep learning ecosystem (Piotr Żelasko, Meaning)
 
 
         Abstract

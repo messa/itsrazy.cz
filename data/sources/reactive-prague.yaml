@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/6/d/c/1/600_490888097.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Mar 2, 7:00 PM CEST: WHAT CAN YOU LOOK FORWARD TO:
+      meta_description: 'Tue, Mar 2, 7:00 PM CET: WHAT CAN YOU LOOK FORWARD TO:
 
 
         JAKUB KOPRIVA
@@ -46,7 +46,7 @@ series:
         dtstart: 2021-03-02 19:00:00+01:00
         dtend: 2021-03-02 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 1, 7:00 PM CEST: WHAT CAN YOU LOOK FORWARD TO:
+      meta_description: 'Tue, Dec 1, 7:00 PM CET: WHAT CAN YOU LOOK FORWARD TO:
 
 
         𝗠𝗜𝗟𝗢𝗦 𝗕𝗥𝗢𝗨𝗟𝗜𝗞
@@ -88,7 +88,7 @@ series:
         dtstart: 2020-12-01 19:00:00+01:00
         dtend: 2020-12-01 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Nov 10, 7:00 PM CEST: Link to connect
+      meta_description: 'Tue, Nov 10, 7:00 PM CET: Link to connect
 
         👉 https://bit.ly/join_the_webinar_here
 

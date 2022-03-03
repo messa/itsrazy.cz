@@ -79,7 +79,7 @@ series:
         dtstart: 2020-06-05 11:00:00+02:00
         dtend: 2020-06-05 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Feb 25, 6:00 PM CEST: We would like to invite you to our very first FShaping Functional Programming workshop.
+      meta_description: 'Tue, Feb 25, 6:00 PM CET: We would like to invite you to our very first FShaping Functional Programming workshop.
 
 
         ==== Basic information ====

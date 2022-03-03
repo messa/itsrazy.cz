@@ -230,7 +230,7 @@ series:
         dtstart: 2022-01-13 17:00:00+01:00
         dtend: 2022-01-13 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Feb 10, 5:00 PM CEST: Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám to někde reálně běží, p'
+      meta_description: 'Thu, Feb 10, 5:00 PM CET: Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám to někde reálně běží, p'
       og_title: '[ONLINE] CZSK PPUG Setkání a povídání | Meetup'
       url: https://www.meetup.com/czskppug/events/sgvgrsydcdbnb/
       ical:
@@ -350,7 +350,7 @@ series:
         dtstart: 2022-05-12 17:00:00+02:00
         dtend: 2022-05-12 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Mar 10, 5:00 PM CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
+      meta_description: 'Thu, Mar 10, 5:00 PM CET: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
 
         Čas zachováme. Lokalitu upřesním dle při'
       og_title: CZSK PPUG Meetup u piva | Meetup

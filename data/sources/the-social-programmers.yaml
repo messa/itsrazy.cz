@@ -105,7 +105,7 @@ series:
         dtstart: 2021-10-27 18:30:00+02:00
         dtend: 2021-10-27 21:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Nov 18, 7:00 PM CEST: Coding Session
+      meta_description: 'Thu, Nov 18, 7:00 PM CET: Coding Session
 
 
         Let''s have a beer and code together and build something interesting. Work on your own project or join in on the group project or just get advise, grab a lap'
@@ -133,7 +133,7 @@ series:
         dtstart: 2021-11-18 19:00:00+01:00
         dtend: 2021-11-18 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 25, 7:00 PM CEST: Coding Session
+      meta_description: 'Thu, Nov 25, 7:00 PM CET: Coding Session
 
 
         Let''s have a beer and code together and build something interesting. Work on your own project or join in on the group project or just get advise, grab a lap'

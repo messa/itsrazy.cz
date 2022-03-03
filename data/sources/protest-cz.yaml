@@ -141,7 +141,7 @@ series:
         dtstart: 2021-10-26 18:00:00+02:00
         dtend: 2021-10-26 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 30, 6:00 PM CEST: Annotation
+      meta_description: 'Tue, Nov 30, 6:00 PM CET: Annotation
 
         Puppeteer is a node library that provides high-level API to control chrome and chromium. Puppeteer can also be used for browser automation as it has all capabili'
       og_title: 104. [pro:]TEST! – Vivek Shringi about Puppeteer | Meetup
@@ -167,7 +167,7 @@ series:
         dtstart: 2021-11-30 18:00:00+01:00
         dtend: 2021-11-30 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Jan 25, 6:00 PM CEST: Jednou možná přijde čas, kdy se i vaše QA oddělení stane úzkým hrdlem vývoje.
+      meta_description: 'Tue, Jan 25, 6:00 PM CET: Jednou možná přijde čas, kdy se i vaše QA oddělení stane úzkým hrdlem vývoje.
 
         A jak z toho následně ven, obzvlášť v době, kdy najít dobrého testera na trhu práce je značně '
       og_title: 105. [pro:]TEST! – Libor Šimo o teorii omezení | Meetup
@@ -192,7 +192,7 @@ series:
         dtstart: 2022-01-25 18:00:00+01:00
         dtend: 2022-01-25 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 1, 6:00 PM CEST: **Anotace přednášky:**
+      meta_description: 'Tue, Mar 1, 6:00 PM CET: **Anotace přednášky:**
 
 
         Jak se hledá tester? Jak se hledá dobrý tester? To je téma dalšího panelové diskuse na [pro:]TEST!u.

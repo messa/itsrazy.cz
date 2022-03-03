@@ -37,7 +37,7 @@ series:
         dtstart: 2021-10-20 18:00:00+02:00
         dtend: 2021-10-20 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jan 13, 6:00 PM CEST: We would like to invite you for the first online AWS CZSK User Group Meetup organized together with Amazon and AWS User Group Slovakia.
+      meta_description: 'Wed, Jan 13, 6:00 PM CET: We would like to invite you for the first online AWS CZSK User Group Meetup organized together with Amazon and AWS User Group Slovakia.
 
 
         Due to the fact that we can not mee'
@@ -65,7 +65,7 @@ series:
         dtstart: 2021-01-13 18:00:00+01:00
         dtend: 2021-01-13 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Dec 11, 6:00 PM CEST: We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT.
+      meta_description: 'Wed, Dec 11, 6:00 PM CET: We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT.
 
 
         There will be two speakers with the following presentations:

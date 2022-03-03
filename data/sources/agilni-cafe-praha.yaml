@@ -108,7 +108,7 @@ series:
         dtstart: 2021-05-19 18:00:00+02:00
         dtend: 2021-05-19 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Mar 2, 6:00 PM CEST: Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve středu 2. března 2022. Opencafé je pro ty, kteří chtějí něčím zajímavý'
+      meta_description: 'Wed, Mar 2, 6:00 PM CET: Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve středu 2. března 2022. Opencafé je pro ty, kteří chtějí něčím zajímavý'
       og_title: Agilní Open Café Praha – 2.3.2022 | Meetup
       url: https://www.meetup.com/Agilni-Open-Cafe-Praha/events/283977245/
       ical:

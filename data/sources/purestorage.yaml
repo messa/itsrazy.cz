@@ -162,7 +162,7 @@ series:
         dtstart: 2021-11-11 18:00:00+01:00
         dtend: 2021-11-11 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Dec 9, 6:00 PM CEST: PURE has landed in Prague 2 years ago and what a journey has been since then. We have proven that we are a strong company even through most difficult of times, a company th'
+      meta_description: 'Thu, Dec 9, 6:00 PM CET: PURE has landed in Prague 2 years ago and what a journey has been since then. We have proven that we are a strong company even through most difficult of times, a company th'
       og_title: 'Story of PURE in Prague || Chapter Two: Hacking the Future of Data | Meetup'
       image: https://secure.meetupstatic.com/photos/event/a/7/8/600_500162680.jpeg
       url: https://www.meetup.com/Pure-Storage-Talks/events/282039970/
@@ -187,7 +187,7 @@ series:
         dtstart: 2021-12-09 18:00:00+01:00
         dtend: 2021-12-09 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Mar 10, 6:00 PM CEST: Doing threat modeling is one of the main requirements for almost any organization. Most of the teams are doing it wrong, and as an award, they receive a false sense of secu'
+      meta_description: 'Thu, Mar 10, 6:00 PM CET: Doing threat modeling is one of the main requirements for almost any organization. Most of the teams are doing it wrong, and as an award, they receive a false sense of secu'
       og_title: Agile Visual Threat Modeling (Against a Beer Tap Infrastructure) | Meetup
       url: https://www.meetup.com/Pure-Storage-Talks/events/283991609/
       ical:

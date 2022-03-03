@@ -30,7 +30,7 @@ series:
         dtstart: 2021-09-23 18:00:00+02:00
         dtend: 2021-09-23 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Dec 9, 5:30 PM CEST: Xmas is coming, so what about some Apache Spark, AI and data winter party? If you join our 6th Spark+AI meetup, you can have it all! This time we prepared 3 interesting tal'
+      meta_description: 'Mon, Dec 9, 5:30 PM CET: Xmas is coming, so what about some Apache Spark, AI and data winter party? If you join our 6th Spark+AI meetup, you can have it all! This time we prepared 3 interesting tal'
       og_title: 6th Spark+AI Prague Group Meetup + WINTER DATA PARTY! | Meetup
       image: https://secure.meetupstatic.com/photos/event/d/d/5/a/600_487016666.jpeg
       url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/266632322/

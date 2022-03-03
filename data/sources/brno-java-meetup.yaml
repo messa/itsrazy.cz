@@ -105,7 +105,7 @@ series:
         dtstart: 2020-04-23 15:30:00+02:00
         dtend: 2020-04-23 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Nov 4, 6:30 PM CEST: Brno Java MeetUp je po více než roce zpátky. Děkujeme všem, co vyplnili dotazník. Dle výsledků celkem jednoznačně zvítězilo téma “JVM a Kubernetes”.
+      meta_description: 'Thu, Nov 4, 6:30 PM CET: Brno Java MeetUp je po více než roce zpátky. Děkujeme všem, co vyplnili dotazník. Dle výsledků celkem jednoznačně zvítězilo téma “JVM a Kubernetes”.
 
 
         Praktickou přednášku n'
@@ -133,7 +133,7 @@ series:
         dtstart: 2021-11-04 18:30:00+01:00
         dtend: 2021-11-04 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Mar 17, 6:30 PM CEST: Anebo raději When Java has to Go?
+      meta_description: 'Thu, Mar 17, 6:30 PM CET: Anebo raději When Java has to Go?
 
 
         [Jakub](https://github.com/coufalja) s [Peterem](https://www.linkedin.com/in/peter-siman-31042658/?originalSubdomain=cz) pracují pro Jamf'

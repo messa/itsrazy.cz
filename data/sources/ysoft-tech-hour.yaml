@@ -106,7 +106,7 @@ series:
         dtstart: 2020-05-11 17:30:00+02:00
         dtend: 2020-05-11 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Feb 15, 6:00 PM CEST: Mnozí lidé používají tyto termíny zcela zaměnitelně. A není divu - všechny se dají použít k označení onoho okýnka s bílým textem na černém pozadí, do kterého píšete příkazy'
+      meta_description: 'Tue, Feb 15, 6:00 PM CET: Mnozí lidé používají tyto termíny zcela zaměnitelně. A není divu - všechny se dají použít k označení onoho okýnka s bílým textem na černém pozadí, do kterého píšete příkazy'
       og_title: Terminály, shelly a konzole | Meetup
       url: https://www.meetup.com/ysoft-th/events/283522925/
       ical:
