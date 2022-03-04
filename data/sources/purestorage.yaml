@@ -187,17 +187,20 @@ series:
         dtstart: 2021-12-09 18:00:00+01:00
         dtend: 2021-12-09 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Mar 10, 6:00 PM CET: Doing threat modeling is one of the main requirements for almost any organization. Most of the teams are doing it wrong, and as an award, they receive a false sense of secu'
+      meta_description: 'Thu, Apr 7, 6:00 PM CEST: **Update**: Due to the situation in Ukraine, the event was moved to April 7th, we still look forward to seeing you there!
+
+
+        Doing threat modeling is one of the main requirem'
       og_title: Agile Visual Threat Modeling (Against a Beer Tap Infrastructure) | Meetup
       url: https://www.meetup.com/Pure-Storage-Talks/events/283991609/
       ical:
         summary: Agile Visual Threat Modeling (Against a Beer Tap Infrastructure)
         description: 'Pure Storage Talks
 
-          Thursday, March 10 at 6:00 PM
+          Thursday, April 7 at 6:00 PM
 
 
-          Doing threat modeling is one of the main requirements for almost any organization. Most of the teams are doing it wrong, and as an award, they receive...
+          **Update**: Due to the situation in Ukraine, the event was moved to April 7th, we still look forward to seeing you there! Doing threat modeling is one...
 
 
           https://www.meetup.com/Pure-Storage-Talks/events/283991609/'
@@ -208,5 +211,5 @@ series:
         status: CONFIRMED
         uid: event_283991609@meetup.com
         url: https://www.meetup.com/Pure-Storage-Talks/events/283991609/
-        dtstart: 2022-03-10 18:00:00+01:00
-        dtend: 2022-03-10 19:30:00+01:00
+        dtstart: 2022-04-07 18:00:00+02:00
+        dtend: 2022-04-07 19:30:00+02:00
