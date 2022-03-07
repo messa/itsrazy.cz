@@ -368,3 +368,27 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/283335581/
         dtstart: 2022-01-19 17:00:00+01:00
         dtend: 2022-01-19 18:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Apr 7, 11:00 AM CEST: Suntory, one of the world’s leading Food and Beverage companies, is using H2O.ai to expand their use of Data Science and Machine Learning, resulting in a considerable impro'
+      og_title: 'Customer Story: A Leading Soft Drinks Company saves Millions of £ with H2O.ai | Meetup'
+      url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/284461723/
+      ical:
+        summary: 'Customer Story: A Leading Soft Drinks Company saves Millions of £ with H2O.ai'
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Thursday, April 7 at 11:00 AM
+
+
+          Suntory, one of the world’s leading Food and Beverage companies, is using H2O.ai to expand their use of Data Science and Machine Learning, resulting i...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/284461723/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284461723@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/284461723/
+        dtstart: 2022-04-07 11:00:00+02:00
+        dtend: 2022-04-07 12:00:00+02:00
