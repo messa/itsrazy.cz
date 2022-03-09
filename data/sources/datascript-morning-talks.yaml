@@ -728,3 +728,32 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/284327581/
         dtstart: 2022-04-06 09:00:00+02:00
         dtend: 2022-04-06 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 13, 9:00 AM CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/kubernetes-nasazeni-cloud-native-aplikaci/
+
+
+        Provoz aplikací v kontejner'
+      og_title: KUBERNETES - NASAZENÍ CLOUD NATIVE APLIKACÍ | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/284327588/
+      ical:
+        summary: KUBERNETES - NASAZENÍ CLOUD NATIVE APLIKACÍ
+        description: 'Morning Talks
+
+          Wednesday, April 13 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/kubernetes-nasazeni-cloud-native-aplikaci/ Provoz ...
+
+
+          https://www.meetup.com/Morning-Talks/events/284327588/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284327588@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/284327588/
+        dtstart: 2022-04-13 09:00:00+02:00
+        dtend: 2022-04-13 10:00:00+02:00
