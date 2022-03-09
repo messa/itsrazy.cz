@@ -237,3 +237,27 @@ series:
         url: https://www.meetup.com/ProfessionalTesting/events/283194770/
         dtstart: 2022-02-22 18:00:00+01:00
         dtend: 2022-02-22 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Mar 29, 6:00 PM CEST: Automatické end-to-end testy často naráží na problém externích systémů, které nejsou pod kontrolou, například takový katastr nemovitostí. Všechny možnosti nakonec vedou k t'
+      og_title: 'online: QA Brno - Automatické end-to-end testy s emulací externích systémů | Meetup'
+      url: https://www.meetup.com/ProfessionalTesting/events/284503079/
+      ical:
+        summary: 'online: QA Brno - Automatické end-to-end testy s emulací externích systémů'
+        description: 'CZECH TESTERS GROUP
+
+          Tuesday, March 29 at 6:00 PM
+
+
+          Automatické end-to-end testy často naráží na problém externích systémů, které nejsou pod kontrolou, například takový katastr nemovitostí. Všechny možn...
+
+
+          https://www.meetup.com/ProfessionalTesting/events/284503079/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284503079@meetup.com
+        url: https://www.meetup.com/ProfessionalTesting/events/284503079/
+        dtstart: 2022-03-29 18:00:00+02:00
+        dtend: 2022-03-29 20:00:00+02:00
