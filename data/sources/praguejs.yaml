@@ -441,3 +441,29 @@ series:
         url: https://www.meetup.com/praguejs/events/267847695/
         dtstart: 2022-02-22 18:30:00+01:00
         dtend: 2022-02-22 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Mar 29, 6:30 PM CEST: Get out and get social in 2022 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that a'
+      og_title: '2022 #3 Headless CMS | Meetup'
+      url: https://www.meetup.com/praguejs/events/284378266/
+      ical:
+        summary: '2022 #3 Headless CMS'
+        description: 'PragueJS
+
+          Tuesday, March 29 at 6:30 PM
+
+
+          Get out and get social in 2022 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse r...
+
+
+          https://www.meetup.com/praguejs/events/284378266/'
+        location: Paralelní Polis (Dělnická 475, Praha 7-Holešovice, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284378266@meetup.com
+        url: https://www.meetup.com/praguejs/events/284378266/
+        dtstart: 2022-03-29 18:30:00+02:00
+        dtend: 2022-03-29 20:30:00+02:00
