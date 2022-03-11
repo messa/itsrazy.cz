@@ -916,3 +916,54 @@ series:
         url: https://www.meetup.com/typedb-prague/events/284332665/
         dtstart: 2022-03-22 18:30:00+01:00
         dtend: 2022-03-22 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Mar 29, 6:30 PM CEST: In this TypeDB Academy, we start by gaining an understanding of the fundamental components of TypeDB''s type system and what makes it unique.
+
+
+        We will see how we can downloa'
+      og_title: TypeDB Academy - Getting Started with Schema Design | Meetup
+      url: https://www.meetup.com/typedb-prague/events/284548229/
+      ical:
+        summary: TypeDB Academy - Getting Started with Schema Design
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, March 29 at 6:30 PM
+
+
+          In this TypeDB Academy, we start by gaining an understanding of the fundamental components of TypeDB''s type system and what makes it unique. We will s...
+
+
+          https://www.meetup.com/typedb-prague/events/284548229/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284548229@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/284548229/
+        dtstart: 2022-03-29 18:30:00+02:00
+        dtend: 2022-03-29 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Mar 31, 6:30 PM CEST: Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However, relational datab'
+      og_title: Beyond SQL | Comparing SQL to TypeQL | Meetup
+      url: https://www.meetup.com/typedb-prague/events/284550334/
+      ical:
+        summary: Beyond SQL | Comparing SQL to TypeQL
+        description: 'TypeDB Prague Engineers
+
+          Thursday, March 31 at 6:30 PM
+
+
+          Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. How...
+
+
+          https://www.meetup.com/typedb-prague/events/284550334/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284550334@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/284550334/
+        dtstart: 2022-03-31 18:30:00+02:00
+        dtend: 2022-03-31 19:30:00+02:00
