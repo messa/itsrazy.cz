@@ -1,5 +1,7 @@
 series:
   id: pyvo-praha
+  meetupcom:
+    url: https://www.meetup.com/Pyvo-Prague-Python-Meetup/
   events:
   - id: praha-pyvo-2021-09
     url: https://pyvo.cz/praha-pyvo/2021-09/
