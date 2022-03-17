@@ -145,3 +145,26 @@ series:
         url: https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/283742294/
         dtstart: 2022-02-16 19:00:00+01:00
         dtend: 2022-02-16 23:59:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Jul 20, 7:00 PM CEST: We will meet for an informal chat about Python, programming, and more. Details will be added.'
+      og_title: 'Pyvo Prague # | Meetup'
+      url: https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/bcxlssydckbbc/
+      ical:
+        summary: 'Pyvo Prague #'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, July 20 at 7:00 PM
+
+          \nWe will meet for an informal chat about Python, programming, and more. Details will be added.
+
+
+          https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/bcxlssydckbbc/'
+        location: Prague (, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_bcxlssydckbbc@meetup.com
+        url: https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/bcxlssydckbbc/
+        dtstart: 2022-07-20 19:00:00+02:00
+        dtend: 2022-07-20 23:59:00+02:00

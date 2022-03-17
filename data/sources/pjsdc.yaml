@@ -305,3 +305,27 @@ series:
         url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/284524478/
         dtstart: 2022-03-22 18:00:00+01:00
         dtend: 2022-03-22 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Apr 12, 6:00 PM CEST: Nenech si utéct příležitost! Vyzkoušej si kódování pod vedením zkušených mentorů. Seznámíš se základy JavaScriptu. Navíc získáš představu o tom, jak probíhá výuka v bootcam'
+      og_title: 'VELIKONOČNÍ ONLINE WORKSHOP: Základy programování | Meetup'
+      url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/284662295/
+      ical:
+        summary: 'VELIKONOČNÍ ONLINE WORKSHOP: Základy programování'
+        description: 'Become a software developer from 0
+
+          Tuesday, April 12 at 6:00 PM
+
+
+          Nenech si utéct příležitost! Vyzkoušej si kódování pod vedením zkušených mentorů. Seznámíš se základy JavaScriptu. Navíc získáš představu o tom, jak p...
+
+
+          https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/284662295/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284662295@meetup.com
+        url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/284662295/
+        dtstart: 2022-04-12 18:00:00+02:00
+        dtend: 2022-04-12 21:00:00+02:00
