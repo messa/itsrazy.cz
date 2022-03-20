@@ -210,3 +210,32 @@ series:
         url: https://www.meetup.com/Prague-DevOps-Meetup/events/283816817/
         dtstart: 2022-03-02 19:00:00+01:00
         dtend: 2022-03-02 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 6, 7:00 PM CEST: Hello doers,
+
+
+        The seventh online and the first this year DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.
+
+        The structure o'
+      og_title: Prague DevOps meetup online (April 2022) | Meetup
+      url: https://www.meetup.com/Prague-DevOps-Meetup/events/283816829/
+      ical:
+        summary: Prague DevOps meetup online (April 2022)
+        description: 'Prague DevOps Meetup
+
+          Wednesday, April 6 at 7:00 PM
+
+
+          Hello doers, The seventh online and the first this year DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsew...
+
+
+          https://www.meetup.com/Prague-DevOps-Meetup/events/283816829/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283816829@meetup.com
+        url: https://www.meetup.com/Prague-DevOps-Meetup/events/283816829/
+        dtstart: 2022-04-06 19:00:00+02:00
+        dtend: 2022-04-06 21:00:00+02:00
