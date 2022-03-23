@@ -757,3 +757,32 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/284327588/
         dtstart: 2022-04-13 09:00:00+02:00
         dtend: 2022-04-13 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Apr 19, 9:00 AM CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/uvod-do-linuxu-zakladni-overview/
+
+
+        Linux se dlouhodobě osvědčuje jako s'
+      og_title: ÚVOD DO LINUXU - ZÁKLADNÍ OVERVIEW | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/284327593/
+      ical:
+        summary: ÚVOD DO LINUXU - ZÁKLADNÍ OVERVIEW
+        description: 'Morning Talks
+
+          Tuesday, April 19 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/uvod-do-linuxu-zakladni-overview/ Linux se dlouhod...
+
+
+          https://www.meetup.com/Morning-Talks/events/284327593/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284327593@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/284327593/
+        dtstart: 2022-04-19 09:00:00+02:00
+        dtend: 2022-04-19 10:00:00+02:00
