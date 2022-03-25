@@ -967,3 +967,58 @@ series:
         url: https://www.meetup.com/typedb-prague/events/284550334/
         dtstart: 2022-03-31 18:30:00+02:00
         dtend: 2022-03-31 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Apr 5, 6:30 PM CEST: Join the TypeDB community to learn how we think about data modelling, and how TypeDB''s expressivity allows you to model your domain based on logical and object-oriented pri'
+      og_title: TypeDB Academy | Modelling Principles | Meetup
+      url: https://www.meetup.com/typedb-prague/events/284821443/
+      ical:
+        summary: TypeDB Academy | Modelling Principles
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, April 5 at 6:30 PM
+
+
+          Join the TypeDB community to learn how we think about data modelling, and how TypeDB''s expressivity allows you to model your domain based on logical a...
+
+
+          https://www.meetup.com/typedb-prague/events/284821443/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284821443@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/284821443/
+        dtstart: 2022-04-05 18:30:00+02:00
+        dtend: 2022-04-05 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 6, 6:30 PM CEST: Build your skills and learn how TypeDB''s native inference engine works.
+
+
+        Good for:
+
+        \- Beginners to TypeDB and TypeQL
+
+        \- Those who have been using TypeDB and want a refreshe'
+      og_title: TypeDB Academy | Inference with Rules | Meetup
+      url: https://www.meetup.com/typedb-prague/events/284827466/
+      ical:
+        summary: TypeDB Academy | Inference with Rules
+        description: 'TypeDB Prague Engineers
+
+          Wednesday, April 6 at 6:30 PM
+
+
+          Build your skills and learn how TypeDB''s native inference engine works. Good for:\\- Beginners to TypeDB and TypeQL\\- Those who have been using TypeDB ...
+
+
+          https://www.meetup.com/typedb-prague/events/284827466/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284827466@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/284827466/
+        dtstart: 2022-04-06 18:30:00+02:00
+        dtend: 2022-04-06 19:30:00+02:00

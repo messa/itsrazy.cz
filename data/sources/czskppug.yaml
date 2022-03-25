@@ -453,3 +453,29 @@ series:
         url: https://www.meetup.com/czskppug/events/283764654/
         dtstart: 2022-06-09 17:00:00+02:00
         dtend: 2022-06-09 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jul 14, 5:00 PM CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
+
+        Čas zachováme. Lokalitu upřesním dle při'
+      og_title: CZSK PPUG Meetup u piva | Meetup
+      url: https://www.meetup.com/czskppug/events/mdhkssydckbsb/
+      ical:
+        summary: CZSK PPUG Meetup u piva
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, July 14 at 5:00 PM
+
+
+          Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.Čas zachováme. Loka...
+
+
+          https://www.meetup.com/czskppug/events/mdhkssydckbsb/'
+        location: Microsoft (Vyskočilova 1461/2a, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_mdhkssydckbsb@meetup.com
+        url: https://www.meetup.com/czskppug/events/mdhkssydckbsb/
+        dtstart: 2022-07-14 17:00:00+02:00
+        dtend: 2022-07-14 19:00:00+02:00

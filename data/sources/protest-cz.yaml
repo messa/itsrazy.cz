@@ -221,3 +221,31 @@ series:
         url: https://www.meetup.com/protest_cz/events/284148042/
         dtstart: 2022-03-01 18:00:00+01:00
         dtend: 2022-03-01 19:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Mar 29, 6:00 PM CEST: Chcete si vyzkoušet, jak jako team umíte komunikovat a spolupracovat při řešení krizové situace? Přijďte si vyzkoušet simulaci **Raven13**.
+
+        **Co vás čeká?**
+
+        Simulace bude p'
+      og_title: 107. [pro:]TEST! meetup - Zachraňte životy! Kooperativní hra. | Meetup
+      url: https://www.meetup.com/protest_cz/events/284821963/
+      ical:
+        summary: 107. [pro:]TEST! meetup - Zachraňte životy! Kooperativní hra.
+        description: '[pro:]TEST!
+
+          Tuesday, March 29 at 6:00 PM
+
+
+          Chcete si vyzkoušet, jak jako team umíte komunikovat a spolupracovat při řešení krizové situace? Přijďte si vyzkoušet simulaci **Raven13**.**Co vás če...
+
+
+          https://www.meetup.com/protest_cz/events/284821963/'
+        location: Na Florenci 2116/15 (Na Florenci 2116/15, Florenc, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284821963@meetup.com
+        url: https://www.meetup.com/protest_cz/events/284821963/
+        dtstart: 2022-03-29 18:00:00+02:00
+        dtend: 2022-03-29 20:30:00+02:00
