@@ -409,3 +409,30 @@ series:
         url: https://www.meetup.com/Tesena-testing-club/events/284244041/
         dtstart: 2022-03-03 10:30:00+01:00
         dtend: 2022-03-03 11:30:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 6, 3:30 PM CEST: **Obsah webináře**
+
+
+        Řešíte při testování často data v databázích? Neustále spouštěním SQL dotazů kontrolujete, zda jsou nahraná data v pořádku, nebo je musíte porovnávat me'
+      og_title: (CZ) Automatizované testování databází v RobotFW | Meetup
+      url: https://www.meetup.com/Tesena-testing-club/events/284776716/
+      ical:
+        summary: (CZ) Automatizované testování databází v RobotFW
+        description: 'Tesena Testing Club
+
+          Wednesday, April 6 at 3:30 PM
+
+
+          **Obsah webináře** Řešíte při testování často data v databázích? Neustále spouštěním SQL dotazů kontrolujete, zda jsou nahraná data v pořádku, nebo je...
+
+
+          https://www.meetup.com/Tesena-testing-club/events/284776716/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284776716@meetup.com
+        url: https://www.meetup.com/Tesena-testing-club/events/284776716/
+        dtstart: 2022-04-06 15:30:00+02:00
+        dtend: 2022-04-06 16:30:00+02:00
