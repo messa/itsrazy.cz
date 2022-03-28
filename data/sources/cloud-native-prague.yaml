@@ -111,3 +111,34 @@ series:
         url: https://www.meetup.com/Cloud-Native-Prague/events/274535019/
         dtstart: 2020-11-24 18:00:00+01:00
         dtend: 2020-11-24 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 27, 9:00 AM CEST: **Budování udržitelných ekosystémů pro Cloud Native software**
+
+
+        Formát: Virtuální konference - Bevy platforma
+
+        Termín: 27. - 28.4.2022 od 9:00 do 16:00
+
+        Každý den **dva track'
+      og_title: Kubernetes Community Days 2022 Czech & Slovak | virtual | Meetup
+      url: https://www.meetup.com/Cloud-Native-Prague/events/284904998/
+      ical:
+        summary: Kubernetes Community Days 2022 Czech & Slovak | virtual
+        description: 'Cloud Native Prague
+
+          Wednesday, April 27 at 9:00 AM
+
+
+          **Budování udržitelných ekosystémů pro Cloud Native software** Formát: Virtuální konference - Bevy platformaTermín: 27. - 28.4.2022 od 9:00 do 16:00Ka...
+
+
+          https://www.meetup.com/Cloud-Native-Prague/events/284904998/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284904998@meetup.com
+        url: https://www.meetup.com/Cloud-Native-Prague/events/284904998/
+        dtstart: 2022-04-27 09:00:00+02:00
+        dtend: 2022-04-28 17:00:00+02:00

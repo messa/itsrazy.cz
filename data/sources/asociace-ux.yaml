@@ -541,3 +541,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/284311234/
         dtstart: 2022-03-03 19:00:00+01:00
         dtend: 2022-03-03 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Mon, Apr 4, 6:00 PM CEST: Výzkum “naplánovaný” ze dne na den. Akční kroky do druhého dne. Reálná pomoc koncovému uživateli od třetího dne. Trocha adrenalinu. Vyjednávání s policií. Rychlé změny. Pár'
+      og_title: 'UX Monday: Výzkum s lidmi prchajícími před válkou | Meetup'
+      url: https://www.meetup.com/asociace-ux/events/284902627/
+      ical:
+        summary: 'UX Monday: Výzkum s lidmi prchajícími před válkou'
+        description: 'Asociace UX
+
+          Monday, April 4 at 6:00 PM
+
+
+          Výzkum “naplánovaný” ze dne na den. Akční kroky do druhého dne. Reálná pomoc koncovému uživateli od třetího dne. Trocha adrenalinu. Vyjednávání s poli...
+
+
+          https://www.meetup.com/asociace-ux/events/284902627/'
+        location: Na Valentince 5 (Na Valentince 5, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284902627@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/284902627/
+        dtstart: 2022-04-04 18:00:00+02:00
+        dtend: 2022-04-04 19:30:00+02:00
