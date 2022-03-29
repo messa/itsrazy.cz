@@ -192,14 +192,14 @@ series:
         dtstart: 2022-01-25 18:00:00+01:00
         dtend: 2022-01-25 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 1, 6:00 PM CET: **Anotace přednášky:**
+      meta_description: 'Tue, Mar 1, 6:00 PM  CET: **Anotace přednášky:**
 
 
         Jak se hledá tester? Jak se hledá dobrý tester? To je téma dalšího panelové diskuse na [pro:]TEST!u.
 
 
         Online se setkáme s následujícími kolegyněmi a'
-      og_title: 106. [pro:]TEST! Jak se hledá tester | Meetup
+      og_title: 106. [pro:]TEST! Jak se hledá tester, Tue, Mar 1, 2022, 6:00 PM   | Meetup
       url: https://www.meetup.com/protest_cz/events/284148042/
       ical:
         summary: 106. [pro:]TEST! Jak se hledá tester
@@ -222,12 +222,12 @@ series:
         dtstart: 2022-03-01 18:00:00+01:00
         dtend: 2022-03-01 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 29, 6:00 PM CEST: Chcete si vyzkoušet, jak jako team umíte komunikovat a spolupracovat při řešení krizové situace? Přijďte si vyzkoušet simulaci **Raven13**.
+      meta_description: 'Tue, Mar 29, 6:00 PM  CEST: Chcete si vyzkoušet, jak jako team umíte komunikovat a spolupracovat při řešení krizové situace? Přijďte si vyzkoušet simulaci **Raven13**.
 
         **Co vás čeká?**
 
         Simulace bude p'
-      og_title: 107. [pro:]TEST! meetup - Zachraňte životy! Kooperativní hra. | Meetup
+      og_title: 107. [pro:]TEST! meetup - Zachraňte životy! Kooperativní hra., Tue, Mar 29, 2022, 6:00 PM   | Meetup
       url: https://www.meetup.com/protest_cz/events/284821963/
       ical:
         summary: 107. [pro:]TEST! meetup - Zachraňte životy! Kooperativní hra.

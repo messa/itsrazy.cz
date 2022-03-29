@@ -210,12 +210,12 @@ series:
         dtstart: 2021-12-18 20:00:00+01:00
         dtend: 2021-12-18 22:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Feb 22, 6:00 PM CET: Test proces nebo management testů je již dnes poměrně známá věc ale
+      meta_description: 'Tue, Feb 22, 6:00 PM  CET: Test proces nebo management testů je již dnes poměrně známá věc ale
 
         v průběhu času přechází kontinuální transformací. Vezmeme-li v potaz fakt, že
 
         aktuálně se vývoj softwaru'
-      og_title: 'online: QA Brno - Jak řídit testy efektivněji se správným nástrojem | Meetup'
+      og_title: 'online: QA Brno - Jak řídit testy efektivněji se správným nástrojem, Tue, Feb 22, 2022, 6:00 PM   | Meetup'
       url: https://www.meetup.com/ProfessionalTesting/events/283194770/
       ical:
         summary: 'online: QA Brno - Jak řídit testy efektivněji se správným nástrojem'
@@ -238,8 +238,8 @@ series:
         dtstart: 2022-02-22 18:00:00+01:00
         dtend: 2022-02-22 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 29, 6:00 PM CEST: Automatické end-to-end testy často naráží na problém externích systémů, které nejsou pod kontrolou, například takový katastr nemovitostí. Všechny možnosti nakonec vedou k t'
-      og_title: 'online: QA Brno - Automatické end-to-end testy s emulací externích systémů | Meetup'
+      meta_description: 'Tue, Mar 29, 6:00 PM  CEST: Automatické end-to-end testy často naráží na problém externích systémů, které nejsou pod kontrolou, například takový katastr nemovitostí. Všechny možnosti nakonec vedou k t'
+      og_title: 'online: QA Brno - Automatické end-to-end testy s emulací externích systémů, Tue, Mar 29, 2022, 6:00 PM   | Meetup'
       url: https://www.meetup.com/ProfessionalTesting/events/284503079/
       ical:
         summary: 'online: QA Brno - Automatické end-to-end testy s emulací externích systémů'

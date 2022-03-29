@@ -339,14 +339,14 @@ series:
         dtstart: 2022-01-11 11:00:00+01:00
         dtend: 2022-01-11 12:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Jan 19, 5:00 PM CET: Register here: https://bit.ly/3IcQR0y
+      meta_description: 'Wed, Jan 19, 5:00 PM  CET: Register here: https://bit.ly/3IcQR0y
 
 
         ***
 
 
         Core business processes in today’s digital world rely on documents and unstructured or semi-structured data that contain valuabl'
-      og_title: 'Virtual Panel: Improve Business Processes with AI Automated Workflows | Meetup'
+      og_title: 'Virtual Panel: Improve Business Processes with AI Automated Workflows, Wed, Jan 19, 2022, 5:00 PM   | Meetup'
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/283335581/
       ical:
         summary: 'Virtual Panel: Improve Business Processes with AI Automated Workflows'
@@ -369,8 +369,8 @@ series:
         dtstart: 2022-01-19 17:00:00+01:00
         dtend: 2022-01-19 18:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Apr 7, 11:00 AM CEST: Suntory, one of the world’s leading Food and Beverage companies, is using H2O.ai to expand their use of Data Science and Machine Learning, resulting in a considerable impro'
-      og_title: 'Customer Story: A Leading Soft Drinks Company saves Millions of £ with H2O.ai | Meetup'
+      meta_description: 'Thu, Apr 7, 11:00 AM  CEST: Suntory, one of the world’s leading Food and Beverage companies, is using H2O.ai to expand their use of Data Science and Machine Learning, resulting in a considerable impro'
+      og_title: 'Customer Story: A Leading Soft Drinks Company saves Millions of £ with H2O.ai, Thu, Apr 7, 2022, 11:00 AM   | Meetup'
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/284461723/
       ical:
         summary: 'Customer Story: A Leading Soft Drinks Company saves Millions of £ with H2O.ai'

@@ -223,12 +223,12 @@ series:
         dtstart: 2022-01-26 18:30:00+01:00
         dtend: 2022-01-26 21:30:00+01:00
   - meetupcom:
-      meta_description: 'Sat, Feb 26, 9:15 AM CET: Již po deváté pro vás připravujeme největší WordPress konferenci v ČR.
+      meta_description: 'Sat, Feb 26, 9:15 AM  CET: Již po deváté pro vás připravujeme největší WordPress konferenci v ČR.
 
         Rádi se opět uvidíme se všemi, kterým WordPress přirostl k srdci.
 
         A je jedno, jestli se v něm teprve '
-      og_title: WordCamp Praha 2022 | Meetup
+      og_title: WordCamp Praha 2022, Sat, Feb 26, 2022, 9:15 AM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/5/7/e/0/600_500302496.jpeg
       url: https://www.meetup.com/naswp-cz/events/282169930/
       ical:
@@ -252,8 +252,8 @@ series:
         dtstart: 2022-02-26 09:15:00+01:00
         dtend: 2022-02-26 18:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Mar 30, 6:30 PM CEST: Netradiční WP Pivo v Hopinu bez přednášek - pojďme navázat na úspěšnost živých sekcí na WordCamp Praha 2022 a prodiskutovat to, co jsme nestihli. **Záznam nebude** \- co bu'
-      og_title: 'WordPress Pivo LIVE #9 | Meetup'
+      meta_description: 'Wed, Mar 30, 6:30 PM  CEST: Netradiční WP Pivo v Hopinu bez přednášek - pojďme navázat na úspěšnost živých sekcí na WordCamp Praha 2022 a prodiskutovat to, co jsme nestihli. **Záznam nebude** \- co bu'
+      og_title: 'WordPress Pivo LIVE #9, Wed, Mar 30, 2022, 6:30 PM   | Meetup'
       url: https://www.meetup.com/naswp-cz/events/284676876/
       ical:
         summary: 'WordPress Pivo LIVE #9'

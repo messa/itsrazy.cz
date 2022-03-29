@@ -893,8 +893,8 @@ series:
         dtstart: 2022-03-15 18:30:00+01:00
         dtend: 2022-03-15 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 22, 6:30 PM CET: Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bodies of data on the web'
-      og_title: Comparing Semantic Web Technologies to TypeDB | Meetup
+      meta_description: 'Tue, Mar 22, 6:30 PM  CET: Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bodies of data on the web'
+      og_title: Comparing Semantic Web Technologies to TypeDB, Tue, Mar 22, 2022, 6:30 PM   | Meetup
       url: https://www.meetup.com/typedb-prague/events/284332665/
       ical:
         summary: Comparing Semantic Web Technologies to TypeDB
@@ -917,11 +917,11 @@ series:
         dtstart: 2022-03-22 18:30:00+01:00
         dtend: 2022-03-22 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 29, 6:30 PM CEST: In this TypeDB Academy, we start by gaining an understanding of the fundamental components of TypeDB''s type system and what makes it unique.
+      meta_description: 'Tue, Mar 29, 6:30 PM  CEST: In this TypeDB Academy, we start by gaining an understanding of the fundamental components of TypeDB''s type system and what makes it unique.
 
 
         We will see how we can downloa'
-      og_title: TypeDB Academy - Getting Started with Schema Design | Meetup
+      og_title: TypeDB Academy - Getting Started with Schema Design, Tue, Mar 29, 2022, 6:30 PM   | Meetup
       url: https://www.meetup.com/typedb-prague/events/284548229/
       ical:
         summary: TypeDB Academy - Getting Started with Schema Design
@@ -944,8 +944,8 @@ series:
         dtstart: 2022-03-29 18:30:00+02:00
         dtend: 2022-03-29 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Mar 31, 6:30 PM CEST: Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However, relational datab'
-      og_title: Beyond SQL | Comparing SQL to TypeQL | Meetup
+      meta_description: 'Thu, Mar 31, 6:30 PM  CEST: Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However, relational datab'
+      og_title: Beyond SQL | Comparing SQL to TypeQL, Thu, Mar 31, 2022, 6:30 PM   | Meetup
       url: https://www.meetup.com/typedb-prague/events/284550334/
       ical:
         summary: Beyond SQL | Comparing SQL to TypeQL
@@ -968,8 +968,8 @@ series:
         dtstart: 2022-03-31 18:30:00+02:00
         dtend: 2022-03-31 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Apr 5, 6:30 PM CEST: Join the TypeDB community to learn how we think about data modelling, and how TypeDB''s expressivity allows you to model your domain based on logical and object-oriented pri'
-      og_title: TypeDB Academy | Modelling Principles | Meetup
+      meta_description: 'Tue, Apr 5, 6:30 PM  CEST: Join the TypeDB community to learn how we think about data modelling, and how TypeDB''s expressivity allows you to model your domain based on logical and object-oriented pri'
+      og_title: TypeDB Academy | Modelling Principles, Tue, Apr 5, 2022, 6:30 PM   | Meetup
       url: https://www.meetup.com/typedb-prague/events/284821443/
       ical:
         summary: TypeDB Academy | Modelling Principles
@@ -992,7 +992,7 @@ series:
         dtstart: 2022-04-05 18:30:00+02:00
         dtend: 2022-04-05 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Apr 6, 6:30 PM CEST: Build your skills and learn how TypeDB''s native inference engine works.
+      meta_description: 'Wed, Apr 6, 6:30 PM  CEST: Build your skills and learn how TypeDB''s native inference engine works.
 
 
         Good for:
@@ -1000,7 +1000,7 @@ series:
         \- Beginners to TypeDB and TypeQL
 
         \- Those who have been using TypeDB and want a refreshe'
-      og_title: TypeDB Academy | Inference with Rules | Meetup
+      og_title: TypeDB Academy | Inference with Rules, Wed, Apr 6, 2022, 6:30 PM   | Meetup
       url: https://www.meetup.com/typedb-prague/events/284827466/
       ical:
         summary: TypeDB Academy | Inference with Rules

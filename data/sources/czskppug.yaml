@@ -350,10 +350,10 @@ series:
         dtstart: 2022-05-12 17:00:00+02:00
         dtend: 2022-05-12 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Mar 24, 5:00 PM CET: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
+      meta_description: 'Thu, Mar 24, 5:00 PM  CET: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
 
         Čas zachováme. Lokalitu upřesním dle při'
-      og_title: '!!Zmena - CZSK PPUG Meetup u piva | Meetup'
+      og_title: '!!Zmena - CZSK PPUG Meetup u piva, Thu, Mar 24, 2022, 5:00 PM   | Meetup'
       url: https://www.meetup.com/czskppug/events/mdhkssydcfbnb/
       ical:
         summary: '!!Zmena - CZSK PPUG Meetup u piva'
@@ -376,10 +376,10 @@ series:
         dtstart: 2022-03-24 17:00:00+01:00
         dtend: 2022-03-24 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Apr 14, 5:00 PM CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
+      meta_description: 'Thu, Apr 14, 5:00 PM  CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
 
         Čas zachováme. Lokalitu upřesním dle při'
-      og_title: CZSK PPUG Meetup u piva | Meetup
+      og_title: CZSK PPUG Meetup u piva, Thu, Apr 14, 2022, 5:00 PM   | Meetup
       url: https://www.meetup.com/czskppug/events/mdhkssydcgbsb/
       ical:
         summary: CZSK PPUG Meetup u piva
@@ -402,10 +402,10 @@ series:
         dtstart: 2022-04-14 17:00:00+02:00
         dtend: 2022-04-14 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, May 12, 5:00 PM CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
+      meta_description: 'Thu, May 12, 5:00 PM  CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
 
         Čas zachováme. Lokalitu upřesním dle při'
-      og_title: CZSK PPUG Meetup u piva | Meetup
+      og_title: CZSK PPUG Meetup u piva, Thu, May 12, 2022, 5:00 PM   | Meetup
       url: https://www.meetup.com/czskppug/events/mdhkssydchbqb/
       ical:
         summary: CZSK PPUG Meetup u piva
@@ -428,10 +428,10 @@ series:
         dtstart: 2022-05-12 17:00:00+02:00
         dtend: 2022-05-12 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 9, 5:00 PM CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
+      meta_description: 'Thu, Jun 9, 5:00 PM  CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
 
         Čas zachováme. Lokalitu upřesním dle při'
-      og_title: CZSK PPUG Meetup u piva | Meetup
+      og_title: CZSK PPUG Meetup u piva, Thu, Jun 9, 2022, 5:00 PM   | Meetup
       url: https://www.meetup.com/czskppug/events/mdhkssydcjbmb/
       ical:
         summary: CZSK PPUG Meetup u piva
@@ -454,10 +454,10 @@ series:
         dtstart: 2022-06-09 17:00:00+02:00
         dtend: 2022-06-09 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jul 14, 5:00 PM CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
+      meta_description: 'Thu, Jul 14, 5:00 PM  CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
 
         Čas zachováme. Lokalitu upřesním dle při'
-      og_title: CZSK PPUG Meetup u piva | Meetup
+      og_title: CZSK PPUG Meetup u piva, Thu, Jul 14, 2022, 5:00 PM   | Meetup
       url: https://www.meetup.com/czskppug/events/mdhkssydckbsb/
       ical:
         summary: CZSK PPUG Meetup u piva

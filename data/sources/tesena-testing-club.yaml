@@ -383,11 +383,11 @@ series:
         dtstart: 2022-02-10 10:00:00+01:00
         dtend: 2022-02-10 11:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Mar 3, 10:30 AM CET: * **Webinar content**
+      meta_description: 'Thu, Mar 3, 10:30 AM  CET: * **Webinar content**
 
 
         Current testing approaches are slowing down development and are unsustainable in the long term. We have long believed that test automation was the so'
-      og_title: Autonomous Visual Regression Testing  | Meetup
+      og_title: Autonomous Visual Regression Testing , Thu, Mar 3, 2022, 10:30 AM   | Meetup
       url: https://www.meetup.com/Tesena-testing-club/events/284244041/
       ical:
         summary: 'Autonomous Visual Regression Testing '
@@ -410,11 +410,11 @@ series:
         dtstart: 2022-03-03 10:30:00+01:00
         dtend: 2022-03-03 11:30:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Apr 6, 3:30 PM CEST: **Obsah webináře**
+      meta_description: 'Wed, Apr 6, 3:30 PM  CEST: **Obsah webináře**
 
 
         Řešíte při testování často data v databázích? Neustále spouštěním SQL dotazů kontrolujete, zda jsou nahraná data v pořádku, nebo je musíte porovnávat me'
-      og_title: (CZ) Automatizované testování databází v RobotFW | Meetup
+      og_title: (CZ) Automatizované testování databází v RobotFW, Wed, Apr 6, 2022, 3:30 PM   | Meetup
       url: https://www.meetup.com/Tesena-testing-club/events/284776716/
       ical:
         summary: (CZ) Automatizované testování databází v RobotFW

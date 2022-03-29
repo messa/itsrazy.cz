@@ -6,7 +6,7 @@ series:
     image: https://secure.meetupstatic.com/photos/event/6/d/c/1/600_490888097.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Mar 2, 7:00 PM CET: WHAT CAN YOU LOOK FORWARD TO:
+      meta_description: 'Tue, Mar 2, 7:00 PM  CET: WHAT CAN YOU LOOK FORWARD TO:
 
 
         JAKUB KOPRIVA
@@ -22,7 +22,7 @@ series:
         TALK ABSTRACT
 
         Typescript is very useful'
-      og_title: Reactive Online Meetup|Frontend Skill-up | Meetup
+      og_title: Reactive Online Meetup|Frontend Skill-up, Tue, Mar 2, 2021, 7:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/7/3/c/c/600_494849644.jpeg
       url: https://www.meetup.com/ReactiveMeetupsPrague/events/276503080/
       ical:
@@ -46,7 +46,7 @@ series:
         dtstart: 2021-03-02 19:00:00+01:00
         dtend: 2021-03-02 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 1, 7:00 PM CET: WHAT CAN YOU LOOK FORWARD TO:
+      meta_description: 'Tue, Dec 1, 7:00 PM  CET: WHAT CAN YOU LOOK FORWARD TO:
 
 
         𝗠𝗜𝗟𝗢𝗦 𝗕𝗥𝗢𝗨𝗟𝗜𝗞
@@ -64,7 +64,7 @@ series:
         𝗧𝗔𝗟𝗞 𝗔𝗕𝗦𝗧𝗥𝗔𝗖𝗧
 
         Introduction to Barclays Prague Techn'
-      og_title: Reactive Online Meetup|Painless App Coding with GraphQL | Meetup
+      og_title: Reactive Online Meetup|Painless App Coding with GraphQL, Tue, Dec 1, 2020, 7:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/a/c/4/b/600_493604107.jpeg
       url: https://www.meetup.com/ReactiveMeetupsPrague/events/274690980/
       ical:
@@ -88,7 +88,7 @@ series:
         dtstart: 2020-12-01 19:00:00+01:00
         dtend: 2020-12-01 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Nov 10, 7:00 PM CET: Link to connect
+      meta_description: 'Tue, Nov 10, 7:00 PM  CET: Link to connect
 
         👉 https://bit.ly/join_the_webinar_here
 
@@ -105,7 +105,7 @@ series:
         Running custom neural networks in a browser
 
         �'
-      og_title: Reactive Online Meetup|How to Design Complex Async Apps | Meetup
+      og_title: Reactive Online Meetup|How to Design Complex Async Apps, Tue, Nov 10, 2020, 7:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/5/d/f/0/600_493284048.jpeg
       url: https://www.meetup.com/ReactiveMeetupsPrague/events/274261647/
       ical:
@@ -129,11 +129,11 @@ series:
         dtstart: 2020-11-10 19:00:00+01:00
         dtend: 2020-11-10 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Sep 15, 7:00 PM CEST: Let''s explore the topic of GraphQL this time!
+      meta_description: 'Tue, Sep 15, 7:00 PM  CEST: Let''s explore the topic of GraphQL this time!
 
 
         Please connect for another exciting Reactive Online Meetup 𝗻𝗲𝘅𝘁 𝗧𝘂𝗲𝘀𝗱𝗮𝘆, 𝗦𝗘𝗣𝗧𝗘𝗠𝗕𝗘𝗥 𝟭𝟱, 𝗮𝘁 𝟳 𝗽𝗺 𝗖�'
-      og_title: '#9 Reactive Online Meetups|GraphQL experience | Meetup'
+      og_title: '#9 Reactive Online Meetups|GraphQL experience, Tue, Sep 15, 2020, 7:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/5/d/d/d/600_492144029.jpeg
       url: https://www.meetup.com/ReactiveMeetupsPrague/events/273005403/
       ical:

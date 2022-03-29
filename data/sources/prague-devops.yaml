@@ -153,13 +153,13 @@ series:
         dtstart: 2021-11-03 18:00:00+01:00
         dtend: 2021-11-03 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Feb 2, 7:00 PM CET: Hello doers,
+      meta_description: 'Wed, Feb 2, 7:00 PM  CET: Hello doers,
 
 
         The fifth online and the first this year DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.
 
         The structure of '
-      og_title: Prague DevOps meetup online (February 2022) | Meetup
+      og_title: Prague DevOps meetup online (February 2022), Wed, Feb 2, 2022, 7:00 PM   | Meetup
       url: https://www.meetup.com/Prague-DevOps-Meetup/events/283152511/
       ical:
         summary: Prague DevOps meetup online (February 2022)
@@ -211,13 +211,13 @@ series:
         dtstart: 2022-03-02 19:00:00+01:00
         dtend: 2022-03-02 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Apr 6, 7:00 PM CEST: Hello doers,
+      meta_description: 'Wed, Apr 6, 7:00 PM  CEST: Hello doers,
 
 
         The first hybrid and the second this year DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.
 
         The structure of'
-      og_title: Prague DevOps meetup online (April 2022) | Meetup
+      og_title: Prague DevOps meetup online (April 2022), Wed, Apr 6, 2022, 7:00 PM   | Meetup
       url: https://www.meetup.com/Prague-DevOps-Meetup/events/283816829/
       ical:
         summary: Prague DevOps meetup online (April 2022)

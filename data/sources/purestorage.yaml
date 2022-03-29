@@ -162,8 +162,8 @@ series:
         dtstart: 2021-11-11 18:00:00+01:00
         dtend: 2021-11-11 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Dec 9, 6:00 PM CET: PURE has landed in Prague 2 years ago and what a journey has been since then. We have proven that we are a strong company even through most difficult of times, a company th'
-      og_title: 'Story of PURE in Prague || Chapter Two: Hacking the Future of Data | Meetup'
+      meta_description: 'Thu, Dec 9, 6:00 PM  CET: PURE has landed in Prague 2 years ago and what a journey has been since then. We have proven that we are a strong company even through most difficult of times, a company th'
+      og_title: 'Story of PURE in Prague || Chapter Two: Hacking the Future of Data, Thu, Dec 9, 2021, 6:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/a/7/8/600_500162680.jpeg
       url: https://www.meetup.com/Pure-Storage-Talks/events/282039970/
       ical:
@@ -187,11 +187,11 @@ series:
         dtstart: 2021-12-09 18:00:00+01:00
         dtend: 2021-12-09 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Apr 7, 6:00 PM CEST: **Update**: Due to the situation in Ukraine, the event was moved to April 7th, we still look forward to seeing you there!
+      meta_description: 'Thu, Apr 7, 6:00 PM  CEST: **Update**: Due to the situation in Ukraine, the event was moved to April 7th, we still look forward to seeing you there!
 
 
         Doing threat modeling is one of the main requirem'
-      og_title: Agile Visual Threat Modeling (Against a Beer Tap Infrastructure) | Meetup
+      og_title: Agile Visual Threat Modeling (Against a Beer Tap Infrastructure), Thu, Apr 7, 2022, 6:00 PM   | Meetup
       url: https://www.meetup.com/Pure-Storage-Talks/events/283991609/
       ical:
         summary: Agile Visual Threat Modeling (Against a Beer Tap Infrastructure)

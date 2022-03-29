@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/8/0/3/9/600_494792825.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, May 18, 6:00 PM CEST: Cloud-Native Prague #16 is here! Come join us online, share experiences and discuss successes and fuck-ups. It was a great last time, so prepare some drink and connect with'
-      og_title: 'Cloud Native Prague Meetup #16 | Meetup'
+      meta_description: 'Tue, May 18, 6:00 PM  CEST: Cloud-Native Prague #16 is here! Come join us online, share experiences and discuss successes and fuck-ups. It was a great last time, so prepare some drink and connect with'
+      og_title: 'Cloud Native Prague Meetup #16, Tue, May 18, 2021, 6:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/3/8/0/e/600_496154350.jpeg
       url: https://www.meetup.com/Cloud-Native-Prague/events/278042296/
       ical:
@@ -112,7 +112,7 @@ series:
         dtstart: 2020-11-24 18:00:00+01:00
         dtend: 2020-11-24 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Apr 27, 9:00 AM CEST: **Budování udržitelných ekosystémů pro Cloud Native software**
+      meta_description: 'Wed, Apr 27, 9:00 AM  CEST: **Budování udržitelných ekosystémů pro Cloud Native software**
 
 
         Formát: Virtuální konference - Bevy platforma
@@ -120,7 +120,7 @@ series:
         Termín: 27. - 28.4.2022 od 9:00 do 16:00
 
         Každý den **dva track'
-      og_title: Kubernetes Community Days 2022 Czech & Slovak | virtual | Meetup
+      og_title: Kubernetes Community Days 2022 Czech & Slovak | virtual, Wed, Apr 27, 2022, 9:00 AM   | Meetup
       url: https://www.meetup.com/Cloud-Native-Prague/events/284904998/
       ical:
         summary: Kubernetes Community Days 2022 Czech & Slovak | virtual

@@ -643,13 +643,13 @@ series:
         dtstart: 2022-03-09 09:00:00+01:00
         dtend: 2022-03-09 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Mar 23, 9:00 AM CET: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+      meta_description: 'Wed, Mar 23, 9:00 AM  CET: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
 
         https://www.datascript.cz/morning-talks/it-bezpecnost-v-cloudu/
 
 
         S rozšířením cloudového světa je potřeba adekv'
-      og_title: IT BEZPEČNOST V CLOUDU | Meetup
+      og_title: IT BEZPEČNOST V CLOUDU, Wed, Mar 23, 2022, 9:00 AM   | Meetup
       url: https://www.meetup.com/Morning-Talks/events/284327564/
       ical:
         summary: IT BEZPEČNOST V CLOUDU
@@ -672,13 +672,13 @@ series:
         dtstart: 2022-03-23 09:00:00+01:00
         dtend: 2022-03-23 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Mar 30, 9:00 AM CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+      meta_description: 'Wed, Mar 30, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
 
         https://www.datascript.cz/morning-talks/rest-is-best-nebo-za-trest/
 
 
         V dnešní době se rozmohl takový nešvar naz'
-      og_title: REST IS BEST, NEBO ZA TREST? | Meetup
+      og_title: REST IS BEST, NEBO ZA TREST?, Wed, Mar 30, 2022, 9:00 AM   | Meetup
       url: https://www.meetup.com/Morning-Talks/events/284327573/
       ical:
         summary: REST IS BEST, NEBO ZA TREST?
@@ -701,13 +701,13 @@ series:
         dtstart: 2022-03-30 09:00:00+02:00
         dtend: 2022-03-30 10:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Apr 6, 9:00 AM CEST: Prosíme Vás o registraci přímo na stránkách Datascriptu:
+      meta_description: 'Wed, Apr 6, 9:00 AM  CEST: Prosíme Vás o registraci přímo na stránkách Datascriptu:
 
         https://www.datascript.cz/morning-talks/terraform-a-packer-jednotna-sprava-vasich-cloudu/
 
 
         Terraform a packer jsou '
-      og_title: TERRAFORM A PACKER - JEDNOTNÁ SPRÁVA VAŠICH CLOUDŮ | Meetup
+      og_title: TERRAFORM A PACKER - JEDNOTNÁ SPRÁVA VAŠICH CLOUDŮ, Wed, Apr 6, 2022, 9:00 AM   | Meetup
       url: https://www.meetup.com/Morning-Talks/events/284327581/
       ical:
         summary: TERRAFORM A PACKER - JEDNOTNÁ SPRÁVA VAŠICH CLOUDŮ
@@ -729,13 +729,13 @@ series:
         dtstart: 2022-04-06 09:00:00+02:00
         dtend: 2022-04-06 10:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Apr 13, 9:00 AM CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+      meta_description: 'Wed, Apr 13, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
 
         https://www.datascript.cz/morning-talks/kubernetes-nasazeni-cloud-native-aplikaci/
 
 
         Provoz aplikací v kontejner'
-      og_title: KUBERNETES - NASAZENÍ CLOUD NATIVE APLIKACÍ | Meetup
+      og_title: KUBERNETES - NASAZENÍ CLOUD NATIVE APLIKACÍ, Wed, Apr 13, 2022, 9:00 AM   | Meetup
       url: https://www.meetup.com/Morning-Talks/events/284327588/
       ical:
         summary: KUBERNETES - NASAZENÍ CLOUD NATIVE APLIKACÍ
@@ -758,13 +758,13 @@ series:
         dtstart: 2022-04-13 09:00:00+02:00
         dtend: 2022-04-13 10:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Apr 19, 9:00 AM CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+      meta_description: 'Tue, Apr 19, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
 
         https://www.datascript.cz/morning-talks/uvod-do-linuxu-zakladni-overview/
 
 
         Linux se dlouhodobě osvědčuje jako s'
-      og_title: ÚVOD DO LINUXU - ZÁKLADNÍ OVERVIEW | Meetup
+      og_title: ÚVOD DO LINUXU - ZÁKLADNÍ OVERVIEW, Tue, Apr 19, 2022, 9:00 AM   | Meetup
       url: https://www.meetup.com/Morning-Talks/events/284327593/
       ical:
         summary: ÚVOD DO LINUXU - ZÁKLADNÍ OVERVIEW

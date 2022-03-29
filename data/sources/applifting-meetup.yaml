@@ -131,10 +131,10 @@ series:
         dtstart: 2021-10-12 18:30:00+02:00
         dtend: 2021-10-12 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Oct 20, 4:00 PM CEST: O čem budeme mluvit?
+      meta_description: 'Wed, Oct 20, 4:00 PM  CEST: O čem budeme mluvit?
 
         Vyplatí se vašemu produktu či službě BankID? Jaké možnosti bankovní identita nabízí a proč byste ji neměli ignorovat? Na tyto a další otázky bude prost'
-      og_title: 'Seminář BankID pro firmy: Vše, co potřebujete vědět před integrací BankID | Meetup'
+      og_title: 'Seminář BankID pro firmy: Vše, co potřebujete vědět před integrací BankID, Wed, Oct 20, 2021, 4:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/3/8/a/d/600_499334509.jpeg
       url: https://www.meetup.com/Applifting-meetup-1/events/281290839/
       ical:
@@ -158,8 +158,8 @@ series:
         dtstart: 2021-10-20 16:00:00+02:00
         dtend: 2021-10-20 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 26, 6:00 PM CEST: Žijete backendem nebo o něm uvažujete? Pak vás moc rádi uvidíme na našem online tematickém meetupu online ( který ale proběhne konečně i naživo). Na co se můžete těšit? Pop'
-      og_title: 'Backend meetup: Architektura, mýty o OOP a těžký život backenďáka | Meetup'
+      meta_description: 'Tue, Oct 26, 6:00 PM  CEST: Žijete backendem nebo o něm uvažujete? Pak vás moc rádi uvidíme na našem online tematickém meetupu online ( který ale proběhne konečně i naživo). Na co se můžete těšit? Pop'
+      og_title: 'Backend meetup: Architektura, mýty o OOP a těžký život backenďáka, Tue, Oct 26, 2021, 6:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/9/a/6/d/600_499419533.jpeg
       url: https://www.meetup.com/Applifting-meetup-1/events/281354506/
       ical:
@@ -183,8 +183,8 @@ series:
         dtstart: 2021-10-26 18:00:00+02:00
         dtend: 2021-10-26 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Feb 15, 6:30 PM CET: 💡 Do you have an idea for a business but don''t know how to ensure its validity and viability? Want to make sure it has a chance of success? Wondering how to get relevant f'
-      og_title: 'Product Crew Talk: Can your idea become a success? | Meetup'
+      meta_description: 'Tue, Feb 15, 6:30 PM  CET: 💡 Do you have an idea for a business but don''t know how to ensure its validity and viability? Want to make sure it has a chance of success? Wondering how to get relevant f'
+      og_title: 'Product Crew Talk: Can your idea become a success?, Tue, Feb 15, 2022, 6:30 PM   | Meetup'
       url: https://www.meetup.com/Applifting-meetup-1/events/283625028/
       ical:
         summary: 'Product Crew Talk: Can your idea become a success?'
@@ -207,8 +207,8 @@ series:
         dtstart: 2022-02-15 18:30:00+01:00
         dtend: 2022-02-15 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Feb 22, 6:00 PM CET: 💡 Interested in everything about the modern web? Do you want to know what criteria it should meet and what tools can help you with that? Then don''t miss the meetup on the '
-      og_title: 'FE Crew Talk: The Present and Future of the Modern Web | Meetup'
+      meta_description: 'Tue, Feb 22, 6:00 PM  CET: 💡 Interested in everything about the modern web? Do you want to know what criteria it should meet and what tools can help you with that? Then don''t miss the meetup on the '
+      og_title: 'FE Crew Talk: The Present and Future of the Modern Web, Tue, Feb 22, 2022, 6:00 PM   | Meetup'
       url: https://www.meetup.com/Applifting-meetup-1/events/283681829/
       ical:
         summary: 'FE Crew Talk: The Present and Future of the Modern Web'

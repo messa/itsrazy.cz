@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/b/3/7/a/600_478005946.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Sep 23, 6:00 PM CEST: Je tady první post-covidový Spark+AI Prague Meetup! Už 23.9. se sejdeme v prvním patře kanceláří DataSentics na adrese Washingtonova 17 a pobavíme se na téma AI-Driven pers'
-      og_title: Spark+AI Prague Meetup 2021 | After-Covid Reunion | Meetup
+      meta_description: 'Thu, Sep 23, 6:00 PM  CEST: Je tady první post-covidový Spark+AI Prague Meetup! Už 23.9. se sejdeme v prvním patře kanceláří DataSentics na adrese Washingtonova 17 a pobavíme se na téma AI-Driven pers'
+      og_title: Spark+AI Prague Meetup 2021 | After-Covid Reunion, Thu, Sep 23, 2021, 6:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/a/6/1/d/600_498822525.jpeg
       url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/280768705/
       ical:
@@ -30,8 +30,8 @@ series:
         dtstart: 2021-09-23 18:00:00+02:00
         dtend: 2021-09-23 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Dec 9, 5:30 PM CET: Xmas is coming, so what about some Apache Spark, AI and data winter party? If you join our 6th Spark+AI meetup, you can have it all! This time we prepared 3 interesting tal'
-      og_title: 6th Spark+AI Prague Group Meetup + WINTER DATA PARTY! | Meetup
+      meta_description: 'Mon, Dec 9, 5:30 PM  CET: Xmas is coming, so what about some Apache Spark, AI and data winter party? If you join our 6th Spark+AI meetup, you can have it all! This time we prepared 3 interesting tal'
+      og_title: 6th Spark+AI Prague Group Meetup + WINTER DATA PARTY!, Mon, Dec 9, 2019, 5:30 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/d/d/5/a/600_487016666.jpeg
       url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/266632322/
       ical:
@@ -55,11 +55,11 @@ series:
         dtstart: 2019-12-09 17:30:00+01:00
         dtend: 2019-12-09 22:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Oct 8, 6:00 PM CEST: We are back after the summer with another Spark+AI Prague Meetup. Join us for the Spark + AI use case from Mall.cz and a technical talk introducing Spark streaming.
+      meta_description: 'Tue, Oct 8, 6:00 PM  CEST: We are back after the summer with another Spark+AI Prague Meetup. Join us for the Spark + AI use case from Mall.cz and a technical talk introducing Spark streaming.
 
 
         The pr'
-      og_title: Spark+AI Prague Meetup back after the summer! | Meetup
+      og_title: Spark+AI Prague Meetup back after the summer!, Tue, Oct 8, 2019, 6:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/b/3/7/a/600_478005946.jpeg
       url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/265088292/
       ical:
@@ -83,8 +83,8 @@ series:
         dtstart: 2019-10-08 18:00:00+02:00
         dtend: 2019-10-08 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Jun 17, 5:30 PM CEST: Summer is nearly here and it''s time for our next Spark+AI Prague meetup! What can you expect this time? David Vrba from Socialbakers will be having a talk about UDFs in Spa'
-      og_title: 4th Spark+AI Prague Group Meetup | Meetup
+      meta_description: 'Mon, Jun 17, 5:30 PM  CEST: Summer is nearly here and it''s time for our next Spark+AI Prague meetup! What can you expect this time? David Vrba from Socialbakers will be having a talk about UDFs in Spa'
+      og_title: 4th Spark+AI Prague Group Meetup, Mon, Jun 17, 2019, 5:30 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/3/8/8/f/600_481694479.jpeg
       url: https://www.meetup.com/Spark-AI-Prague-Meetup/events/261799133/
       ical:

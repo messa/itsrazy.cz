@@ -209,13 +209,13 @@ series:
         dtstart: 2022-02-01 19:00:00+01:00
         dtend: 2022-02-01 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 1, 7:00 PM CET: Tentokrát se potkáme osobně u pivka a dýmky v Loft N8.
+      meta_description: 'Tue, Mar 1, 7:00 PM  CET: Tentokrát se potkáme osobně u pivka a dýmky v Loft N8.
 
 
         Skywalk systems a Parallel Garden - Teplo, Bitcoin, Stévie
 
         Využití generovaného tepla z těžby kryptoměn nebo serverů'
-      og_title: Pěstování květin s pomocí kryptoměn | Meetup
+      og_title: Pěstování květin s pomocí kryptoměn, Tue, Mar 1, 2022, 7:00 PM   | Meetup
       url: https://www.meetup.com/TopMonks-Caffe/events/284177540/
       ical:
         summary: Pěstování květin s pomocí kryptoměn
@@ -237,3 +237,27 @@ series:
         url: https://www.meetup.com/TopMonks-Caffe/events/284177540/
         dtstart: 2022-03-01 19:00:00+01:00
         dtend: 2022-03-01 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Apr 5, 7:00 PM  CEST: Potkáme se osobně u pivka a dýmky v Loft N8 a tentokrát si budeme povídat s Jirkou Píšou a Gabrielou Jičínskou o kompletní změně kariéry. Přijďte si poslechnout jaká byla j'
+      og_title: Změna kariéry, Tue, Apr 5, 2022, 7:00 PM   | Meetup
+      url: https://www.meetup.com/TopMonks-Caffe/events/284921450/
+      ical:
+        summary: Změna kariéry
+        description: 'TopMonks Caffè
+
+          Tuesday, April 5 at 7:00 PM
+
+
+          Potkáme se osobně u pivka a dýmky v Loft N8 a tentokrát si budeme povídat s Jirkou Píšou a Gabrielou Jičínskou o kompletní změně kariéry. Přijďte si p...
+
+
+          https://www.meetup.com/TopMonks-Caffe/events/284921450/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284921450@meetup.com
+        url: https://www.meetup.com/TopMonks-Caffe/events/284921450/
+        dtstart: 2022-04-05 19:00:00+02:00
+        dtend: 2022-04-05 21:00:00+02:00

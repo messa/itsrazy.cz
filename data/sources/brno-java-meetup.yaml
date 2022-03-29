@@ -6,8 +6,8 @@ series:
     image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Sep 24, 7:00 PM CEST: Kubernetes se velice rychle stal nejrozšířenější platformou pro provozování stateless aplikací. Stále více uživatelů dnes na Kubernetes přesouvá dokonce i své stateful apli'
-      og_title: Stateful aplikace na Kubernetes pomocí operátor patternu (online) | Meetup
+      meta_description: 'Thu, Sep 24, 7:00 PM  CEST: Kubernetes se velice rychle stal nejrozšířenější platformou pro provozování stateless aplikací. Stále více uživatelů dnes na Kubernetes přesouvá dokonce i své stateful apli'
+      og_title: Stateful aplikace na Kubernetes pomocí operátor patternu (online), Thu, Sep 24, 2020, 7:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/6/4/f/600_492410767.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/273090874/
       ical:
@@ -31,8 +31,8 @@ series:
         dtstart: 2020-09-24 19:00:00+02:00
         dtend: 2020-09-24 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, May 21, 3:30 PM CEST: Hostem následujícího on-line meetupu bude Andrey Pechkurov (https://twitter.com/andreypechkurov). Se svým týmem postavil time-series databázi a bude mluvit o výzvách, které'
-      og_title: 'Embedded Time Series Storage: A Cookbook (online) | Meetup'
+      meta_description: 'Thu, May 21, 3:30 PM  CEST: Hostem následujícího on-line meetupu bude Andrey Pechkurov (https://twitter.com/andreypechkurov). Se svým týmem postavil time-series databázi a bude mluvit o výzvách, které'
+      og_title: 'Embedded Time Series Storage: A Cookbook (online), Thu, May 21, 2020, 3:30 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/270671333/
       ical:
@@ -105,11 +105,11 @@ series:
         dtstart: 2020-04-23 15:30:00+02:00
         dtend: 2020-04-23 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Nov 4, 6:30 PM CET: Brno Java MeetUp je po více než roce zpátky. Děkujeme všem, co vyplnili dotazník. Dle výsledků celkem jednoznačně zvítězilo téma “JVM a Kubernetes”.
+      meta_description: 'Thu, Nov 4, 6:30 PM  CET: Brno Java MeetUp je po více než roce zpátky. Děkujeme všem, co vyplnili dotazník. Dle výsledků celkem jednoznačně zvítězilo téma “JVM a Kubernetes”.
 
 
         Praktickou přednášku n'
-      og_title: JVM a Kubernetes | Meetup
+      og_title: JVM a Kubernetes, Thu, Nov 4, 2021, 6:30 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/4/d/7/600_499765815.jpeg
       url: https://www.meetup.com/Brno-Java-Meetup/events/281669937/
       ical:
@@ -133,11 +133,11 @@ series:
         dtstart: 2021-11-04 18:30:00+01:00
         dtend: 2021-11-04 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Mar 17, 6:30 PM CET: Anebo raději When Java has to Go?
+      meta_description: 'Thu, Mar 17, 6:30 PM  CET: Anebo raději When Java has to Go?
 
 
         [Jakub](https://github.com/coufalja) s [Peterem](https://www.linkedin.com/in/peter-siman-31042658/?originalSubdomain=cz) pracují pro Jamf'
-      og_title: Na cestě od Javy ke Go | Meetup
+      og_title: Na cestě od Javy ke Go, Thu, Mar 17, 2022, 6:30 PM   | Meetup
       url: https://www.meetup.com/Brno-Java-Meetup/events/284243439/
       ical:
         summary: Na cestě od Javy ke Go

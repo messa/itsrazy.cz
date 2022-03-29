@@ -108,11 +108,11 @@ series:
         dtstart: 2021-04-21 18:00:00+02:00
         dtend: 2021-04-21 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Oct 14, 6:00 PM CEST: Přednáška bude online na YouTube a v češtině!
+      meta_description: 'Thu, Oct 14, 6:00 PM  CEST: Přednáška bude online na YouTube a v češtině!
 
 
         Výběr vhodného nástroje pro provoz ML modelů je jedním z kritických rozhodnutí při návrhu produkční infrastruktury. Srovnali '
-      og_title: 'MLMU Online#16: Kvantitativní porovnání platforem pro produkční provoz ML modelů | Meetup'
+      og_title: 'MLMU Online#16: Kvantitativní porovnání platforem pro produkční provoz ML modelů, Thu, Oct 14, 2021, 6:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/4/1/2/6/600_499336678.jpeg
       url: https://www.meetup.com/Prague-Machine-Learning/events/281293818/
       ical:
@@ -136,14 +136,14 @@ series:
         dtstart: 2021-10-14 18:00:00+02:00
         dtend: 2021-10-14 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Dec 14, 6:00 PM CET: The talks will be live on YouTube. (Link will get displayed after you RSVP)
+      meta_description: 'Tue, Dec 14, 6:00 PM  CET: The talks will be live on YouTube. (Link will get displayed after you RSVP)
 
 
         Talk #1: How we use simple models to improve intent matching (Tomáš Vodrážka, Feedyou)
 
 
         Abstrac'
-      og_title: 'MLMU Online #17: Building Chatbots in Practice and Lessons Learned | Meetup'
+      og_title: 'MLMU Online #17: Building Chatbots in Practice and Lessons Learned, Tue, Dec 14, 2021, 6:00 PM   | Meetup'
       url: https://www.meetup.com/Prague-Machine-Learning/events/282546297/
       ical:
         summary: 'MLMU Online #17: Building Chatbots in Practice and Lessons Learned'
@@ -166,11 +166,11 @@ series:
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Jan 19, 6:00 PM CET: DAIDALOS – AI as a New Frontier for Journalism: Where to Find Value in Tech-Driven Journalism
+      meta_description: 'Wed, Jan 19, 6:00 PM  CET: DAIDALOS – AI as a New Frontier for Journalism: Where to Find Value in Tech-Driven Journalism
 
 
         We invite you to the online discussion AI as a New Frontier for Journalism: W'
-      og_title: D<AI>DALOS – AI as a New Frontier for Journalism | Meetup
+      og_title: D<AI>DALOS – AI as a New Frontier for Journalism, Wed, Jan 19, 2022, 6:00 PM   | Meetup
       url: https://www.meetup.com/Prague-Machine-Learning/events/283095372/
       ical:
         summary: D<AI>DALOS – AI as a New Frontier for Journalism
@@ -193,13 +193,13 @@ series:
         dtstart: 2022-01-19 18:00:00+01:00
         dtend: 2022-01-19 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Jan 27, 6:00 PM CET: Talk #1: Lhotse: a speech data representation library for the modern deep learning ecosystem (Piotr Żelasko, Meaning)
+      meta_description: 'Thu, Jan 27, 6:00 PM  CET: Talk #1: Lhotse: a speech data representation library for the modern deep learning ecosystem (Piotr Żelasko, Meaning)
 
 
         Abstract
 
         Speech data is notoriously difficult to work'
-      og_title: 'MLMU Online #18: Voice processing revolution: The future is now! | Meetup'
+      og_title: 'MLMU Online #18: Voice processing revolution: The future is now!, Thu, Jan 27, 2022, 6:00 PM   | Meetup'
       url: https://www.meetup.com/Prague-Machine-Learning/events/283360069/
       ical:
         summary: 'MLMU Online #18: Voice processing revolution: The future is now!'

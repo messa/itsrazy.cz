@@ -133,11 +133,11 @@ series:
         dtstart: 2021-11-18 19:00:00+01:00
         dtend: 2021-11-18 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Nov 25, 7:00 PM CET: Coding Session
+      meta_description: 'Thu, Nov 25, 7:00 PM  CET: Coding Session
 
 
         Let''s have a beer and code together and build something interesting. Work on your own project or join in on the group project or just get advise, grab a lap'
-      og_title: Coding session V6 | Meetup
+      og_title: Coding session V6, Thu, Nov 25, 2021, 7:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/6/8/d/600_498986253.jpeg
       url: https://www.meetup.com/the-social-programers/events/282255318/
       ical:
@@ -161,11 +161,11 @@ series:
         dtstart: 2021-11-25 19:00:00+01:00
         dtend: 2021-11-25 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Mar 31, 7:00 PM CEST: Coding Session
+      meta_description: 'Thu, Mar 31, 7:00 PM  CEST: Coding Session
 
 
         Let''s have a drink and code together and build something interesting. Work on your own project or join in on the group project or just get advise, grab a la'
-      og_title: Coding session V7 | Meetup
+      og_title: Coding session V7, Thu, Mar 31, 2022, 7:00 PM   | Meetup
       url: https://www.meetup.com/the-social-programers/events/284822397/
       ical:
         summary: Coding session V7
