@@ -230,3 +230,27 @@ series:
         url: https://www.meetup.com/Applifting-meetup-1/events/283681829/
         dtstart: 2022-02-22 18:00:00+01:00
         dtend: 2022-02-22 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Apr 12, 6:00 PM  CEST: Does your heart beat to the rhythm of iOS? Then don''t miss our next Crew Talk. You can look forward to a panel discussion of three iOS experts: Michal Svěrák from Appliftin'
+      og_title: 'iOS Crew Talk: How juniors become seniors and other secrets of iOS team mgmt, Tue, Apr 12, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/Applifting-meetup-1/events/284781337/
+      ical:
+        summary: 'iOS Crew Talk: How juniors become seniors and other secrets of iOS team mgmt'
+        description: 'Applifting Crew Talk
+
+          Tuesday, April 12 at 6:00 PM
+
+
+          Does your heart beat to the rhythm of iOS? Then don''t miss our next Crew Talk. You can look forward to a panel discussion of three iOS experts: Michal...
+
+
+          https://www.meetup.com/Applifting-meetup-1/events/284781337/'
+        location: Applifting Meetup Space (Rohanské nábřeží, 670/19, Praha, AL\, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284781337@meetup.com
+        url: https://www.meetup.com/Applifting-meetup-1/events/284781337/
+        dtstart: 2022-04-12 18:00:00+02:00
+        dtend: 2022-04-12 21:00:00+02:00

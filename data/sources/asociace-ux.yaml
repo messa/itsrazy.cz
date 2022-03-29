@@ -543,10 +543,10 @@ series:
         dtend: 2022-03-03 20:30:00+01:00
   - meetupcom:
       meta_description: 'Mon, Apr 4, 6:00 PM  CEST: Výzkum “naplánovaný” ze dne na den. Akční kroky do druhého dne. Reálná pomoc koncovému uživateli od třetího dne. Trocha adrenalinu. Vyjednávání s policií. Rychlé změny. Pár'
-      og_title: 'UX Monday: Výzkum s lidmi prchajícími před válkou, Mon, Apr 4, 2022, 6:00 PM   | Meetup'
+      og_title: 'UX Monday: Rozhovory o práci s lidmi prchajícími před válkou, Mon, Apr 4, 2022, 6:00 PM   | Meetup'
       url: https://www.meetup.com/asociace-ux/events/284902627/
       ical:
-        summary: 'UX Monday: Výzkum s lidmi prchajícími před válkou'
+        summary: 'UX Monday: Rozhovory o práci s lidmi prchajícími před válkou'
         description: 'Asociace UX
 
           Monday, April 4 at 6:00 PM
