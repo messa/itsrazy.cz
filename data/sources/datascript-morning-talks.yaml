@@ -786,3 +786,32 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/284327593/
         dtstart: 2022-04-19 09:00:00+02:00
         dtend: 2022-04-19 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Apr 26, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/jak-objevit-analyzovat-a-zabezpecit-vase-api-kdekoliv/
+
+
+        Nové trendy v p'
+      og_title: JAK OBJEVIT, ANALYZOVAT A ZABEZPEČIT VAŠE API KDEKOLIV, Tue, Apr 26, 2022, 9:00 AM   | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/284327602/
+      ical:
+        summary: JAK OBJEVIT, ANALYZOVAT A ZABEZPEČIT VAŠE API KDEKOLIV
+        description: 'Morning Talks
+
+          Tuesday, April 26 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/jak-objevit-analyzovat-a-zabezpecit-vase-api-kdeko...
+
+
+          https://www.meetup.com/Morning-Talks/events/284327602/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284327602@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/284327602/
+        dtstart: 2022-04-26 09:00:00+02:00
+        dtend: 2022-04-26 10:00:00+02:00
