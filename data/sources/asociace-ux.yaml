@@ -543,10 +543,10 @@ series:
         dtend: 2022-03-03 20:30:00+01:00
   - meetupcom:
       meta_description: 'Mon, Apr 4, 6:00 PM  CEST: Výzkum “naplánovaný” ze dne na den. Akční kroky do druhého dne. Reálná pomoc koncovému uživateli od třetího dne. Trocha adrenalinu. Vyjednávání s policií. Rychlé změny. Pár'
-      og_title: 'UX Monday: Rozhovory o práci s lidmi prchajícími před válkou, Mon, Apr 4, 2022, 6:00 PM   | Meetup'
+      og_title: 'UX Monday: Lidé prchající před válkou, Mon, Apr 4, 2022, 6:00 PM   | Meetup'
       url: https://www.meetup.com/asociace-ux/events/284902627/
       ical:
-        summary: 'UX Monday: Rozhovory o práci s lidmi prchajícími před válkou'
+        summary: 'UX Monday: Lidé prchající před válkou'
         description: 'Asociace UX
 
           Monday, April 4 at 6:00 PM
@@ -565,3 +565,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/284902627/
         dtstart: 2022-04-04 18:00:00+02:00
         dtend: 2022-04-04 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Apr 7, 7:00 PM  CEST: Interested in UX writing? Want to hear from UX writers and designers about how they work together? Do you have any UX writing topics you want to discuss or a portfolio you '
+      og_title: PRAGUE UX WRITERS MEETUP Vol. 27 - April, Thu, Apr 7, 2022, 7:00 PM   | Meetup
+      url: https://www.meetup.com/asociace-ux/events/284956047/
+      ical:
+        summary: PRAGUE UX WRITERS MEETUP Vol. 27 - April
+        description: 'Asociace UX
+
+          Thursday, April 7 at 7:00 PM
+
+
+          Interested in UX writing? Want to hear from UX writers and designers about how they work together? Do you have any UX writing topics you want to discu...
+
+
+          https://www.meetup.com/asociace-ux/events/284956047/'
+        location: Sad Man's Tongue Bar & Bistro (Konviktská 7, Staré Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284956047@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/284956047/
+        dtstart: 2022-04-07 19:00:00+02:00
+        dtend: 2022-04-07 20:30:00+02:00
