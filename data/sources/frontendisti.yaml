@@ -223,27 +223,27 @@ series:
         dtstart: 2022-03-09 18:00:00+01:00
         dtend: 2022-03-09 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Apr 13, 7:00 PM  CEST: Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat z Brna a z Prahy. Každ'
-      og_title: Meetup Frontedisti.cz, Wed, Apr 13, 2022, 7:00 PM   | Meetup
+      meta_description: 'Wed, Apr 13, 6:30 PM  CEST: V polovině dubna se uvidíme na oblíbeném stanovišti pražských Frontendistům, tedy v Pipedrive. Můžete se těšit na 3-4 přednášky. Jednotícím tématem bude tentokrát rychlost '
+      og_title: Performance meetup (Pipedrive, Praha), Wed, Apr 13, 2022, 6:30 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsydcgbrb/
       ical:
-        summary: Meetup Frontedisti.cz
+        summary: Performance meetup (Pipedrive, Praha)
         description: 'Frontendisti.cz
 
-          Wednesday, April 13 at 7:00 PM
+          Wednesday, April 13 at 6:30 PM
 
 
-          Po online streamech a konferenci bychom podzim 2021 rádi zvládali jako kombinaci meetupu s online streamem. Hybridní akce budeme střídavě organizovat ...
+          V polovině dubna se uvidíme na oblíbeném stanovišti pražských Frontendistům, tedy v Pipedrive. Můžete se těšit na 3-4 přednášky. Jednotícím tématem bu...
 
 
           https://www.meetup.com/frontendisti/events/284018997/'
-        location: Online event
+        location: Pipedrive (Pernerova 697/35, Karlín, Praha-Praha 8, Czech Republic 186 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_mbjhpsydcgbrb@meetup.com
         url: https://www.meetup.com/frontendisti/events/284018997/
-        dtstart: 2022-04-13 19:00:00+02:00
-        dtend: 2022-04-13 21:00:00+02:00
+        dtstart: 2022-04-13 18:30:00+02:00
+        dtend: 2022-04-13 20:30:00+02:00
