@@ -80,8 +80,8 @@ series:
         dtstart: 2021-10-14 18:30:00+02:00
         dtend: 2021-10-14 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Oct 27, 6:30 PM CEST: Let''s have a beer and code together and build something interesting. Work on your own project or join in on the group project.'
-      og_title: Coding session V4 | Meetup
+      meta_description: 'Wed, Oct 27, 6:30 PM  CEST: Let''s have a beer and code together and build something interesting. Work on your own project or join in on the group project.'
+      og_title: Coding session V4, Wed, Oct 27, 2021, 6:30 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/6/8/d/600_498986253.jpeg
       url: https://www.meetup.com/the-social-programers/events/281669240/
       ical:
@@ -105,11 +105,11 @@ series:
         dtstart: 2021-10-27 18:30:00+02:00
         dtend: 2021-10-27 21:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Nov 18, 7:00 PM CET: Coding Session
+      meta_description: 'Thu, Nov 18, 7:00 PM  CET: Coding Session
 
 
         Let''s have a beer and code together and build something interesting. Work on your own project or join in on the group project or just get advise, grab a lap'
-      og_title: Coding session V5 | Meetup
+      og_title: Coding session V5, Thu, Nov 18, 2021, 7:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/6/8/d/600_498986253.jpeg
       url: https://www.meetup.com/the-social-programers/events/282078876/
       ical:

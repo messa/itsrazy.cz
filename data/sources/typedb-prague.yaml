@@ -1046,3 +1046,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/284941876/
         dtstart: 2022-04-26 18:30:00+02:00
         dtend: 2022-04-26 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Apr 28, 6:30 PM  CEST: Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However, relational datab'
+      og_title: Beyond SQL | Comparing SQL to TypeQL, Thu, Apr 28, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/284941868/
+      ical:
+        summary: Beyond SQL | Comparing SQL to TypeQL
+        description: 'TypeDB Prague Engineers
+
+          Thursday, April 28 at 6:30 PM
+
+
+          Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. How...
+
+
+          https://www.meetup.com/typedb-prague/events/284941868/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284941868@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/284941868/
+        dtstart: 2022-04-28 18:30:00+02:00
+        dtend: 2022-04-28 19:30:00+02:00
