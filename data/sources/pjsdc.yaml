@@ -329,3 +329,30 @@ series:
         url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/284662295/
         dtstart: 2022-04-12 18:00:00+02:00
         dtend: 2022-04-12 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 20, 6:00 PM  CEST: Jaké znalosti se ti vyplatí naučit už teď, abys ses vždy uplatnil/a na trhu práce? Jaké jsou výhody kurzů akreditovaných státem?
+
+
+        Připoj se k naší online události, zjisti v'
+      og_title: 'Online informační schůzka: Jak nastartovat kariéru v IT od nuly?, Wed, Apr 20, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/284995455/
+      ical:
+        summary: 'Online informační schůzka: Jak nastartovat kariéru v IT od nuly?'
+        description: 'Become a software developer from 0
+
+          Wednesday, April 20 at 6:00 PM
+
+
+          Jaké znalosti se ti vyplatí naučit už teď, abys ses vždy uplatnil/a na trhu práce? Jaké jsou výhody kurzů akreditovaných státem? Připoj se k naší onli...
+
+
+          https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/284995455/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284995455@meetup.com
+        url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/284995455/
+        dtstart: 2022-04-20 18:00:00+02:00
+        dtend: 2022-04-20 20:00:00+02:00
