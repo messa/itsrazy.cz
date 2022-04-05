@@ -436,3 +436,33 @@ series:
         url: https://www.meetup.com/Tesena-testing-club/events/284776716/
         dtstart: 2022-04-06 15:30:00+02:00
         dtend: 2022-04-06 16:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 3, 10:30 AM  CEST: **Webinar content**
+
+
+        In this webinar, Tal will present the ISTQB® Agile Tester course and the main takeaways you can get from taking the course.
+
+
+        ISTQB® Agile Tester is a 2'
+      og_title: (EN) A Peek Into the ISTQB® Agile Tester, Tue, May 3, 2022, 10:30 AM   | Meetup
+      url: https://www.meetup.com/Tesena-testing-club/events/284776814/
+      ical:
+        summary: (EN) A Peek Into the ISTQB® Agile Tester
+        description: 'Tesena Testing Club
+
+          Tuesday, May 3 at 10:30 AM
+
+
+          **Webinar content** In this webinar, Tal will present the ISTQB® Agile Tester course and the main takeaways you can get from taking the course. ISTQB®...
+
+
+          https://www.meetup.com/Tesena-testing-club/events/284776814/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284776814@meetup.com
+        url: https://www.meetup.com/Tesena-testing-club/events/284776814/
+        dtstart: 2022-05-03 10:30:00+02:00
+        dtend: 2022-05-03 11:30:00+02:00

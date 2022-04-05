@@ -187,3 +187,30 @@ series:
         url: https://www.meetup.com/the-social-programers/events/284822397/
         dtstart: 2022-03-31 19:00:00+02:00
         dtend: 2022-03-31 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Apr 7, 7:30 PM  CEST: Coding Session
+
+
+        Let''s have a drink and code together and build something interesting. Work on your own project or join in on the group project or just get advise, grab a la'
+      og_title: Coding session V8, Thu, Apr 7, 2022, 7:30 PM   | Meetup
+      url: https://www.meetup.com/the-social-programers/events/285079354/
+      ical:
+        summary: Coding session V8
+        description: 'The Social Programmers
+
+          Thursday, April 7 at 7:30 PM
+
+
+          Coding Session Let''s have a drink and code together and build something interesting. Work on your own project or join in on the group project or just ...
+
+
+          https://www.meetup.com/the-social-programers/events/285079354/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285079354@meetup.com
+        url: https://www.meetup.com/the-social-programers/events/285079354/
+        dtstart: 2022-04-07 19:30:00+02:00
+        dtend: 2022-04-07 21:30:00+02:00

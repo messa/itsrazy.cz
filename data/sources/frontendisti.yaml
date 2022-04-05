@@ -223,7 +223,7 @@ series:
         dtstart: 2022-03-09 18:00:00+01:00
         dtend: 2022-03-09 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Apr 13, 6:30 PM  CEST: V polovině dubna se uvidíme na oblíbeném stanovišti pražských Frontendistům, tedy v Pipedrive. Můžete se těšit na 3-4 přednášky. Jednotícím tématem bude tentokrát rychlost '
+      meta_description: 'Wed, Apr 13, 6:30 PM  CEST: One of the things that web developers struggle with is web performance. Web performance is related to the speed at which web content is displayed on the client-side. This c'
       og_title: Performance meetup (Pipedrive, Praha), Wed, Apr 13, 2022, 6:30 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsydcgbrb/
@@ -234,7 +234,7 @@ series:
           Wednesday, April 13 at 6:30 PM
 
 
-          V polovině dubna se uvidíme na oblíbeném stanovišti pražských Frontendistům, tedy v Pipedrive. Můžete se těšit na 3-4 přednášky. Jednotícím tématem bu...
+          One of the things that web developers struggle with is web performance. Web performance is related to the speed at which web content is displayed on t...
 
 
           https://www.meetup.com/frontendisti/events/284018997/'

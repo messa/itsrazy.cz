@@ -158,8 +158,8 @@ series:
         dtstart: 2021-11-02 19:00:00+01:00
         dtend: 2021-11-02 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Dec 7, 7:00 PM CET: Lze decentralizovat vlastnictví realit?'
-      og_title: Decentrializace vlastnictví realit | Meetup
+      meta_description: 'Tue, Dec 7, 7:00 PM  CET: Lze decentralizovat vlastnictví realit?'
+      og_title: Decentrializace vlastnictví realit, Tue, Dec 7, 2021, 7:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/3/c/3/2/600_500295410.jpeg
       url: https://www.meetup.com/TopMonks-Caffe/events/282160838/
       ical:
@@ -183,11 +183,11 @@ series:
         dtstart: 2021-12-07 19:00:00+01:00
         dtend: 2021-12-07 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Feb 1, 7:00 PM CET: Akce proběhne online a sledovat nás můžete na: https://zive.tv/topmonks-caffe/
+      meta_description: 'Tue, Feb 1, 7:00 PM  CET: Akce proběhne online a sledovat nás můžete na: https://zive.tv/topmonks-caffe/
 
 
         Po skončení přednášek i tentokrát otevřeme Zoom na osobní dotazy a after party.'
-      og_title: Deno - A modern runtime for JavaScript and TypeScript | Meetup
+      og_title: Deno - A modern runtime for JavaScript and TypeScript, Tue, Feb 1, 2022, 7:00 PM   | Meetup
       url: https://www.meetup.com/TopMonks-Caffe/events/283522738/
       ical:
         summary: Deno - A modern runtime for JavaScript and TypeScript

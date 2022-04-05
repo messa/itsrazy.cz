@@ -30,8 +30,8 @@ series:
         dtstart: 2021-09-08 17:00:00+02:00
         dtend: 2021-09-08 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Sep 14, 6:00 PM CEST: GraphQL is already far on the adoption curve. It is slowly becoming mainstream, and we start seeing new products being built primarily on GraphQL instead of REST. Most comp'
-      og_title: 'Backend Meetup: GraphQL at Scale | Meetup'
+      meta_description: 'Tue, Sep 14, 6:00 PM  CEST: GraphQL is already far on the adoption curve. It is slowly becoming mainstream, and we start seeing new products being built primarily on GraphQL instead of REST. Most comp'
+      og_title: 'Backend Meetup: GraphQL at Scale, Tue, Sep 14, 2021, 6:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/8/c/0/6/600_498395846.jpeg
       url: https://www.meetup.com/pipedrive-talks-prague/events/280151778/
       ical:
@@ -105,8 +105,8 @@ series:
         dtstart: 2020-02-25 07:30:00+01:00
         dtend: 2020-02-25 09:30:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Oct 19, 6:00 PM CEST: If you want to succeed as a product-led company, you must ensure your teams are `empowered` enough to do the best work they can. As Marty Cagan famously wrote: "Great teams'
-      og_title: 'Product Meetup: Empowered Product Teams | Meetup'
+      meta_description: 'Tue, Oct 19, 6:00 PM  CEST: If you want to succeed as a product-led company, you must ensure your teams are `empowered` enough to do the best work they can. As Marty Cagan famously wrote: "Great teams'
+      og_title: 'Product Meetup: Empowered Product Teams, Tue, Oct 19, 2021, 6:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/6/5/7/0/600_499105968.jpeg
       url: https://www.meetup.com/pipedrive-talks-prague/events/280939384/
       ical:
