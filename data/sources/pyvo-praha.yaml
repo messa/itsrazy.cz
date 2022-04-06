@@ -43,21 +43,21 @@ series:
         dtstart: 2022-03-16 19:00:00+01:00
         dtend: 2022-03-16 23:59:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Apr 20, 7:00 PM  CEST: We will meet for an informal chat about Python, programming, and more. Details will be added.'
-      og_title: 'Pyvo Prague #, Wed, Apr 20, 2022, 7:00 PM   | Meetup'
+      meta_description: 'Wed, Apr 20, 7:00 PM  CEST: This Pyvo will bring us to the amazing world of 3D printing and how it channels Python on the firmware level. Then we will move on to the super important topic for all of u'
+      og_title: 'Pyvo Prague #131 - coding 3D printer FW & tech junior community, Wed, Apr 20, 2022, 7:00 PM   | Meetup'
       url: https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/bcxlssydcgbbc/
       ical:
-        summary: 'Pyvo Prague #'
+        summary: 'Pyvo Prague #131 - coding 3D printer FW & tech junior community'
         description: 'Pyvo: Prague Python Meetup
 
           Wednesday, April 20 at 7:00 PM
 
 
-          We will meet for an informal chat about Python, programming, and more. Details will be added.
+          This Pyvo will bring us to the amazing world of 3D printing and how it channels Python on the firmware level. Then we will move on to the super import...
 
 
           https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/284675566/'
-        location: Prague (, Prague, Czech Republic)
+        location: Kavárna Liberál (Heřmanova 6, Praha 7-Holešovice, Czech Republic 170 00)
         geo:
           lat: 50.08
           lon: 14.43
