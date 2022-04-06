@@ -440,8 +440,8 @@ series:
         dtstart: 2022-01-20 18:00:00+01:00
         dtend: 2022-01-20 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Mon, Feb 7, 6:30 PM CET: Sejde se takhle právník, UXák a copywriter… Ne, to není vtip, ale realita, se kterou jste se možná už také setkali. O tom, že najít v takovém případě společnou řeč fakt nen'
-      og_title: 'UX Monday: UX versus Právo | Meetup'
+      meta_description: 'Mon, Feb 7, 6:30 PM  CET: Sejde se takhle právník, UXák a copywriter… Ne, to není vtip, ale realita, se kterou jste se možná už také setkali. O tom, že najít v takovém případě společnou řeč fakt nen'
+      og_title: 'UX Monday: UX versus Právo, Mon, Feb 7, 2022, 6:30 PM   | Meetup'
       url: https://www.meetup.com/asociace-ux/events/283567346/
       ical:
         summary: 'UX Monday: UX versus Právo'
@@ -515,11 +515,11 @@ series:
         dtstart: 2022-03-07 18:30:00+01:00
         dtend: 2022-03-07 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Mar 3, 7:00 PM CET: Interested in UX writing? Want to hear from UX writers and designers about how they work together?
+      meta_description: 'Thu, Mar 3, 7:00 PM  CET: Interested in UX writing? Want to hear from UX writers and designers about how they work together?
 
 
         Join Prague UX Writers for our 26th meetup! 🍻'
-      og_title: PRAGUE UX WRITERS MEETUP Vol. 26 - March | Meetup
+      og_title: PRAGUE UX WRITERS MEETUP Vol. 26 - March, Thu, Mar 3, 2022, 7:00 PM   | Meetup
       url: https://www.meetup.com/asociace-ux/events/284311234/
       ical:
         summary: PRAGUE UX WRITERS MEETUP Vol. 26 - March
