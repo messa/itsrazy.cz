@@ -285,11 +285,11 @@ series:
         dtstart: 2021-12-02 16:00:00+01:00
         dtend: 2021-12-02 17:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Dec 2, 7:00 PM CET: Hello Maker,
+      meta_description: 'Thu, Dec 2, 7:00 PM  CET: Hello Maker,
 
 
         Join us on December 2nd for our next live event on LinkedIn, Twitter, and YouTube. This time I will be discussing Wave apps development and deployment for the'
-      og_title: 'Make with H2O: Getting Started with Wave for the Wildfire Challenge | Meetup'
+      og_title: 'Make with H2O: Getting Started with Wave for the Wildfire Challenge, Thu, Dec 2, 2021, 7:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/d/1/d/600_500523357.jpeg
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282378254/
       ical:
@@ -313,10 +313,10 @@ series:
         dtstart: 2021-12-02 19:00:00+01:00
         dtend: 2021-12-02 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Jan 11, 11:00 AM CET: Despite the clear value potential of AI, many business stakeholders are frustrated with the slow pace of taking AI projects from proof of concept to actual implementation.
+      meta_description: 'Tue, Jan 11, 11:00 AM  CET: Despite the clear value potential of AI, many business stakeholders are frustrated with the slow pace of taking AI projects from proof of concept to actual implementation.
 
         '
-      og_title: Elevating your AI Projects from PoC to Production at Speed | Meetup
+      og_title: Elevating your AI Projects from PoC to Production at Speed, Tue, Jan 11, 2022, 11:00 AM   | Meetup
       url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282654578/
       ical:
         summary: Elevating your AI Projects from PoC to Production at Speed
