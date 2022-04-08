@@ -103,14 +103,14 @@ series:
           \nWe will meet for an informal chat about Python, programming, and more. Details will be added.
 
 
-          https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/bcxlssydcjbtb/'
+          https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/285151921/'
         location: Prague (, Prague, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_bcxlssydcjbtb@meetup.com
-        url: https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/bcxlssydcjbtb/
+        url: https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/285151921/
         dtstart: 2022-06-15 19:00:00+02:00
         dtend: 2022-06-15 23:59:00+02:00
   - meetupcom:

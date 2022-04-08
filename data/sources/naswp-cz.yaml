@@ -275,3 +275,32 @@ series:
         url: https://www.meetup.com/naswp-cz/events/284676876/
         dtstart: 2022-03-30 18:30:00+02:00
         dtend: 2022-03-30 21:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 27, 7:00 PM  CEST: První od loňska. S kým se uvidíme?
+
+
+        Tradiční sraz místní WordPressové komunity - poslední středa v měsíci. Tentokrát bez přednášky, protože jsme se dlouho neviděli naživo.
+
+        '
+      og_title: 'WordPress pivo Praha #32 - naživo!, Wed, Apr 27, 2022, 7:00 PM   | Meetup'
+      url: https://www.meetup.com/naswp-cz/events/285149611/
+      ical:
+        summary: 'WordPress pivo Praha #32 - naživo!'
+        description: 'NášWP WordPress komunita
+
+          Wednesday, April 27 at 7:00 PM
+
+
+          První od loňska. S kým se uvidíme? Tradiční sraz místní WordPressové komunity - poslední středa v měsíci. Tentokrát bez přednášky, protože jsme se dlo...
+
+
+          https://www.meetup.com/naswp-cz/events/285149611/'
+        location: Café Lajka (U Akademie 366/11, Praha 7-Bubeneč, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285149611@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/285149611/
+        dtstart: 2022-04-27 19:00:00+02:00
+        dtend: 2022-04-27 22:00:00+02:00
