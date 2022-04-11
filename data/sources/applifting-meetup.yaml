@@ -231,7 +231,12 @@ series:
         dtstart: 2022-02-22 18:00:00+01:00
         dtend: 2022-02-22 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Apr 12, 6:00 PM  CEST: Does your heart beat to the rhythm of iOS? Then don''t miss our next Crew Talk. You can look forward to a panel discussion of three iOS experts: Michal Svěrák from Appliftin'
+      meta_description: 'Tue, Apr 12, 6:00 PM  CEST: Does your heart beat to the rhythm of iOS?
+
+        Then don''t miss our next Crew Talk.
+
+
+        You can look forward to a panel discussion of three iOS experts: Michal Svěrák from Applifti'
       og_title: 'iOS Crew Talk: How juniors become seniors and other secrets of iOS team mgmt, Tue, Apr 12, 2022, 6:00 PM   | Meetup'
       url: https://www.meetup.com/Applifting-meetup-1/events/284781337/
       ical:
@@ -241,7 +246,7 @@ series:
           Tuesday, April 12 at 6:00 PM
 
 
-          Does your heart beat to the rhythm of iOS? Then don''t miss our next Crew Talk. You can look forward to a panel discussion of three iOS experts: Michal...
+          Does your heart beat to the rhythm of iOS? Then don''t miss our next Crew Talk.  You can look forward to a panel discussion of three iOS experts: Micha...
 
 
           https://www.meetup.com/Applifting-meetup-1/events/284781337/'
