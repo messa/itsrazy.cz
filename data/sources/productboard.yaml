@@ -220,3 +220,30 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/283627281/
         dtstart: 2022-02-09 18:00:00+01:00
         dtend: 2022-02-09 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 20, 6:00 PM  CEST: Get inspiration from people who have found their voice and propelled their careers in leadership roles in the software engineering industry.
+
+
+        **Join us for our in-person** '
+      og_title: Engineering Leadership Meetup, Wed, Apr 20, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/productboard-meetups/events/285226408/
+      ical:
+        summary: Engineering Leadership Meetup
+        description: 'Productboard Meetups
+
+          Wednesday, April 20 at 6:00 PM
+
+
+          Get inspiration from people who have found their voice and propelled their careers in leadership roles in the software engineering industry. **Join us...
+
+
+          https://www.meetup.com/productboard-meetups/events/285226408/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285226408@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/285226408/
+        dtstart: 2022-04-20 18:00:00+02:00
+        dtend: 2022-04-20 22:00:00+02:00
