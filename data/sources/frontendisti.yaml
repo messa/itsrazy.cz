@@ -56,8 +56,8 @@ series:
         dtstart: 2021-11-10 18:00:00+01:00
         dtend: 2021-11-10 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Dec 8, 6:00 PM CEST: Blíží konec roku a s ním vánoční setkání Frontendisti.cz. Situace kolem koronaviru v ČR nám sice nedovolí uspořádat tradiční offline sraz. My vám ale ukážeme, že si naše sp'
-      og_title: Vánoční sraz Frontendisti.cz | Meetup
+      meta_description: 'Wed, Dec 8, 6:00 PM  CET: Blíží konec roku a s ním vánoční setkání Frontendisti.cz. Situace kolem koronaviru v ČR nám sice nedovolí uspořádat tradiční offline sraz. My vám ale ukážeme, že si naše sp'
+      og_title: Vánoční sraz Frontendisti.cz, Wed, Dec 8, 2021, 6:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/9/4/1/600_500538753.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsyccqblb/
       ical:
@@ -130,7 +130,7 @@ series:
         dtstart: 2021-05-29 10:00:00+02:00
         dtend: 2021-05-29 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Feb 9, 6:00 PM CET: První letošní sraz Frontendistů - tentokrát na téma testování!
+      meta_description: 'Wed, Feb 9, 6:00 PM  CET: První letošní sraz Frontendistů - tentokrát na téma testování!
 
 
         Online stream naleznete na youtube https://www.youtube.com/watch?v=7ipac1_L_8w
@@ -139,7 +139,7 @@ series:
         Program:
 
         1. Martin Krištof -'
-      og_title: Testování - Frontedisti.cz LIVE | Meetup
+      og_title: Testování - Frontedisti.cz LIVE, Wed, Feb 9, 2022, 6:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
       url: https://www.meetup.com/frontendisti/events/mbjhpsydcdbmb/
       ical:
