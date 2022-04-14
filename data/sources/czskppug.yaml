@@ -376,23 +376,21 @@ series:
         dtstart: 2022-03-24 17:00:00+01:00
         dtend: 2022-03-24 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Apr 14, 5:00 PM  CEST: Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.
-
-        Čas zachováme. Lokalitu upřesním dle při'
-      og_title: CZSK PPUG Meetup u piva, Thu, Apr 14, 2022, 5:00 PM   | Meetup
+      meta_description: 'Thu, Apr 14, 5:00 PM  CEST: Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám to někde reálně běží, p'
+      og_title: '[ONLINE] CZSK PPUG Setkání a povídání, Thu, Apr 14, 2022, 5:00 PM   | Meetup'
       url: https://www.meetup.com/czskppug/events/mdhkssydcgbsb/
       ical:
-        summary: CZSK PPUG Meetup u piva
+        summary: '[ONLINE] CZSK PPUG Setkání a povídání'
         description: 'Czech and Slovak Power Platform User Group
 
           Thursday, April 14 at 5:00 PM
 
 
-          Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.Čas zachováme. Loka...
+          Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám t...
 
 
           https://www.meetup.com/czskppug/events/283764644/'
-        location: Microsoft (Vyskočilova 1461/2a, Prague, Czech Republic)
+        location: Online event
         geo:
           lat: 50.08
           lon: 14.43
