@@ -247,3 +247,30 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/285226408/
         dtstart: 2022-04-20 18:00:00+02:00
         dtend: 2022-04-20 22:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Apr 21, 6:00 PM  CEST: **Productboard Kotlin Meetup in Prague is back again.**
+
+
+        Join us for our in person and online meetup at Productboard HQ! We’re excited to host **our first Kotlin Meetup** *'
+      og_title: Kotlin Meetup, Thu, Apr 21, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/productboard-meetups/events/285314031/
+      ical:
+        summary: Kotlin Meetup
+        description: 'Productboard Meetups
+
+          Thursday, April 21 at 6:00 PM
+
+
+          **Productboard Kotlin Meetup in Prague is back again.** Join us for our in person and online meetup at Productboard HQ! We’re excited to host **our fi...
+
+
+          https://www.meetup.com/productboard-meetups/events/285314031/'
+        location: Boudníkova (Boudníkova, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285314031@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/285314031/
+        dtstart: 2022-04-21 18:00:00+02:00
+        dtend: 2022-04-21 20:00:00+02:00
