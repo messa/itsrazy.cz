@@ -589,3 +589,30 @@ series:
         url: https://www.meetup.com/asociace-ux/events/284956047/
         dtstart: 2022-04-07 19:00:00+02:00
         dtend: 2022-04-07 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 27, 4:30 PM  CEST: Hey designers! Let''s catch the first warm afternoons this year and meet somewhere outdoors :)
+
+
+        UX dinner is a meeting of the UX community in Brno. You can expect an informa'
+      og_title: UX Picnic Brno in April, Wed, Apr 27, 2022, 4:30 PM   | Meetup
+      url: https://www.meetup.com/asociace-ux/events/285352665/
+      ical:
+        summary: UX Picnic Brno in April
+        description: 'Asociace UX
+
+          Wednesday, April 27 at 4:30 PM
+
+
+          Hey designers! Let''s catch the first warm afternoons this year and meet somewhere outdoors :) UX dinner is a meeting of the UX community in Brno. You ...
+
+
+          https://www.meetup.com/asociace-ux/events/285352665/'
+        location: Sady Osvobození (, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285352665@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/285352665/
+        dtstart: 2022-04-27 16:30:00+02:00
+        dtend: 2022-04-27 19:30:00+02:00
