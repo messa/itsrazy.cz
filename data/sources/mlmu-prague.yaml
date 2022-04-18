@@ -221,3 +221,30 @@ series:
         url: https://www.meetup.com/Prague-Machine-Learning/events/283360069/
         dtstart: 2022-01-27 18:00:00+01:00
         dtend: 2022-01-27 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Apr 19, 4:00 PM  CEST: # D\DALOS – The Role of AI in Achieving the Sustainable Development Goals
+
+
+        We invite you to the online discussion "The Role of AI in Achieving the Sustainable Development G'
+      og_title: D<AI>DALOS – Role of AI in Achieving The Sustainable Development Goals, Tue, Apr 19, 2022, 4:00 PM   | Meetup
+      url: https://www.meetup.com/Prague-Machine-Learning/events/285343992/
+      ical:
+        summary: D<AI>DALOS – Role of AI in Achieving The Sustainable Development Goals
+        description: 'Machine Learning Meetup Prague
+
+          Tuesday, April 19 at 4:00 PM
+
+
+          # D\\<AI>DALOS – The Role of AI in Achieving the Sustainable Development Goals We invite you to the online discussion "The Role of AI in Achieving the ...
+
+
+          https://www.meetup.com/Prague-Machine-Learning/events/285343992/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285343992@meetup.com
+        url: https://www.meetup.com/Prague-Machine-Learning/events/285343992/
+        dtstart: 2022-04-19 16:00:00+02:00
+        dtend: 2022-04-19 18:00:00+02:00
