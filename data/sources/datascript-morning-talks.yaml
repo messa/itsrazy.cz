@@ -844,3 +844,61 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/284327603/
         dtstart: 2022-04-27 09:00:00+02:00
         dtend: 2022-04-27 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, May 4, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/modelovani-datovych-toku-nejen-pro-business-analytiky/
+
+
+        **Na co se může'
+      og_title: Modelování datových toků (nejen) pro business analytiky, Wed, May 4, 2022, 9:00 AM   | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/285390211/
+      ical:
+        summary: Modelování datových toků (nejen) pro business analytiky
+        description: 'Morning Talks
+
+          Wednesday, May 4 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/modelovani-datovych-toku-nejen-pro-business-analyt...
+
+
+          https://www.meetup.com/Morning-Talks/events/285390211/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285390211@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/285390211/
+        dtstart: 2022-05-04 09:00:00+02:00
+        dtend: 2022-05-04 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, May 5, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/jak-vytvaret-system-na-zakladech-domenoveho-navrhu/
+
+
+        **Na co se můžete '
+      og_title: Jak vytvářet systém na základech doménového návrhu, Thu, May 5, 2022, 9:00 AM   | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/285390349/
+      ical:
+        summary: Jak vytvářet systém na základech doménového návrhu
+        description: 'Morning Talks
+
+          Thursday, May 5 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/jak-vytvaret-system-na-zakladech-domenoveho-navrhu...
+
+
+          https://www.meetup.com/Morning-Talks/events/285390349/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285390349@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/285390349/
+        dtstart: 2022-05-05 09:00:00+02:00
+        dtend: 2022-05-05 10:00:00+02:00

@@ -258,8 +258,8 @@ series:
         dtstart: 2021-12-21 18:00:00+01:00
         dtend: 2021-12-21 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Mar 16, 6:00 PM CET: Ještě jsi nikdy nekódoval/a? Změň to! Zúčastni se bezplatného online workshopu, kde tě zkušení mentoři provedou základy programování a seznámí tě také s low-code platformam'
-      og_title: 'Online workshop: Základy programování | Meetup'
+      meta_description: 'Wed, Mar 16, 6:00 PM  CET: Ještě jsi nikdy nekódoval/a? Změň to! Zúčastni se bezplatného online workshopu, kde tě zkušení mentoři provedou základy programování a seznámí tě také s low-code platformam'
+      og_title: 'Online workshop: Základy programování, Wed, Mar 16, 2022, 6:00 PM   | Meetup'
       url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/284524471/
       ical:
         summary: 'Online workshop: Základy programování'
