@@ -1070,3 +1070,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/284941868/
         dtstart: 2022-04-28 18:30:00+02:00
         dtend: 2022-04-28 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 3, 6:30 PM  CEST: TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems, using TypeQL as its '
+      og_title: Introduction to TypeDB and TypeQL | A Strongly-Typed Database, Tue, May 3, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/285434938/
+      ical:
+        summary: Introduction to TypeDB and TypeQL | A Strongly-Typed Database
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, May 3 at 6:30 PM
+
+
+          TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems...
+
+
+          https://www.meetup.com/typedb-prague/events/285434938/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285434938@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/285434938/
+        dtstart: 2022-05-03 18:30:00+02:00
+        dtend: 2022-05-03 19:30:00+02:00
