@@ -247,3 +247,26 @@ series:
         url: https://www.meetup.com/frontendisti/events/284018997/
         dtstart: 2022-04-13 18:30:00+02:00
         dtend: 2022-04-13 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, May 11, 6:00 PM  CEST: Užijte si s námi další **hybridní meetup v Brně.** Tentokrát **naživo** v prostorách **Czechitas.** A pokud to do Brna máte daleko, spojte se s námi **online** (youtube.com'
+      og_title: 'CSS kam se podíváš... a křest knihy "CSS: moderní layout" | Frontendisti.cz LIVE, Wed, May 11, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/frontendisti/events/285413505/
+      ical:
+        summary: 'CSS kam se podíváš... a křest knihy "CSS: moderní layout" | Frontendisti.cz LIVE'
+        description: 'Frontendisti.cz
+
+          Wednesday, May 11 at 6:00 PM
+
+
+          Užijte si s námi další **hybridní meetup v Brně.** Tentokrát **naživo** v prostorách **Czechitas.** A pokud to do Brna máte daleko, spojte se s námi *...\n
+
+          https://www.meetup.com/frontendisti/events/285413505/'
+        location: CTP Czechitas House (Škrobárenská 511/3, Brno-jih, Czech Republic 617 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285413505@meetup.com
+        url: https://www.meetup.com/frontendisti/events/285413505/
+        dtstart: 2022-05-11 18:00:00+02:00
+        dtend: 2022-05-11 20:00:00+02:00

@@ -1,7 +1,7 @@
 series:
   meetupcom:
     url: https://www.meetup.com/Prague-AWS-Meetup/
-    meta_description: == Prague AWS User Group ==The goal of Prague AWS User Group is to bring together expert AWS users, developers, operations engineers, etc to promote sharing of knowledge and learning. We want to discu
+    meta_description: == Prague AWS User Group == The goal of Prague AWS User Group is to bring together expert AWS users, developers, operations engineers, etc to promote sharing of knowledge and learning. We want to disc
     og_title: Prague AWS User Group (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/6/7/a/0/600_485066528.jpeg
   events:
