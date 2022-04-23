@@ -274,3 +274,112 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/285314031/
         dtstart: 2022-04-21 18:00:00+02:00
         dtend: 2022-04-21 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 3, 6:00 PM  CEST: To kick off the month of May, we decided to host another Frontend meetup! 🚀
+
+
+        **Join us for our next meetup. Please register via Eventbrite:**
+
+        [https://www.eventbrite.com/e'
+      og_title: 'Frontend Meetup #4, Tue, May 3, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/productboard-meetups/events/285459370/
+      ical:
+        summary: 'Frontend Meetup #4'
+        description: 'Productboard Meetups
+
+          Tuesday, May 3 at 6:00 PM
+
+
+          To kick off the month of May, we decided to host another Frontend meetup! 🚀 **Join us for our next meetup. Please register via Eventbrite:**(https://w...
+
+
+          https://www.meetup.com/productboard-meetups/events/285459370/'
+        location: Boudníkova 3 (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285459370@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/285459370/
+        dtstart: 2022-05-03 18:00:00+02:00
+        dtend: 2022-05-03 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, May 4, 6:00 PM  CEST: Productboard Meetups are back in Brno! And they will be better than ever!
+
+
+        📍Join us for our next meetup. Please register via Eventbrite:
+
+        [https://www.eventbrite.com/e/engi'
+      og_title: 'Engineering Leadership Meetup #3 | Brno, Wed, May 4, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/productboard-meetups/events/285459588/
+      ical:
+        summary: 'Engineering Leadership Meetup #3 | Brno'
+        description: 'Productboard Meetups
+
+          Wednesday, May 4 at 6:00 PM
+
+
+          Productboard Meetups are back in Brno! And they will be better than ever! 📍Join us for our next meetup. Please register via Eventbrite:(https://www.ev...
+
+
+          https://www.meetup.com/productboard-meetups/events/285459588/'
+        location: Impact Hub Brno (Cyrilská 7, Brno-střed-Trnitá, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285459588@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/285459588/
+        dtstart: 2022-05-04 18:00:00+02:00
+        dtend: 2022-05-04 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, May 11, 6:00 PM  CEST: During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new event space (in person) as'
+      og_title: 'Machine Learning Meetup #1, Wed, May 11, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/productboard-meetups/events/285460118/
+      ical:
+        summary: 'Machine Learning Meetup #1'
+        description: 'Productboard Meetups
+
+          Wednesday, May 11 at 6:00 PM
+
+
+          During the pandemic, we moved into new offices, which have already been named Best Startup Office of the Year. We are excited to show you our new even...
+
+
+          https://www.meetup.com/productboard-meetups/events/285460118/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285460118@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/285460118/
+        dtstart: 2022-05-11 18:00:00+02:00
+        dtend: 2022-05-11 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 24, 6:00 PM  CEST: Get inspired by people who have stepped up, found their voice, and propelled their careers in leadership roles in the software engineering industry.
+
+
+        **📍Join us in person '
+      og_title: 'Engineering Leadership Meetup #4, Tue, May 24, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/productboard-meetups/events/285460279/
+      ical:
+        summary: 'Engineering Leadership Meetup #4'
+        description: 'Productboard Meetups
+
+          Tuesday, May 24 at 6:00 PM
+
+
+          Get inspired by people who have stepped up, found their voice, and propelled their careers in leadership roles in the software engineering industry. *...
+
+
+          https://www.meetup.com/productboard-meetups/events/285460279/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285460279@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/285460279/
+        dtstart: 2022-05-24 18:00:00+02:00
+        dtend: 2022-05-24 21:00:00+02:00
