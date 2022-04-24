@@ -640,3 +640,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/285416490/
         dtstart: 2022-05-05 19:00:00+02:00
         dtend: 2022-05-05 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, May 2, 6:00 PM  CEST: Naštěstí už není pravdou, že se UX design a související disciplíny v České republice skoro nikde formálně nevyučují. Navazujeme tedy na dlouholetou spolupráci akademické sf'
+      og_title: '🎓 UX Monday Speciál: Formální vzdělávání UX specialistů v ČR, Mon, May 2, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/asociace-ux/events/285467847/
+      ical:
+        summary: '🎓 UX Monday Speciál: Formální vzdělávání UX specialistů v ČR'
+        description: 'Asociace UX
+
+          Monday, May 2 at 6:00 PM
+
+
+          Naštěstí už není pravdou, že se UX design a související disciplíny v České republice skoro nikde formálně nevyučují. Navazujeme tedy na dlouholetou sp...
+
+
+          https://www.meetup.com/asociace-ux/events/285467847/'
+        location: Na Valentince 5 (Na Valentince 5, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285467847@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/285467847/
+        dtstart: 2022-05-02 18:00:00+02:00
+        dtend: 2022-05-02 20:00:00+02:00
