@@ -1118,3 +1118,30 @@ series:
         url: https://www.meetup.com/typedb-prague/events/285435900/
         dtstart: 2022-05-05 18:30:00+02:00
         dtend: 2022-05-05 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 10, 6:30 PM  CEST: In this TypeDB Academy, we start by gaining an understanding of the fundamental components of TypeDB''s type system and what makes it unique.
+
+
+        We will see how we can downloa'
+      og_title: TypeDB Academy - Getting Started with Schema Design, Tue, May 10, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/285438290/
+      ical:
+        summary: TypeDB Academy - Getting Started with Schema Design
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, May 10 at 6:30 PM
+
+
+          In this TypeDB Academy, we start by gaining an understanding of the fundamental components of TypeDB''s type system and what makes it unique. We will s...
+
+
+          https://www.meetup.com/typedb-prague/events/285438290/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285438290@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/285438290/
+        dtstart: 2022-05-10 18:30:00+02:00
+        dtend: 2022-05-10 19:30:00+02:00
