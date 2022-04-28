@@ -265,17 +265,17 @@ series:
         dtstart: 2022-04-05 19:00:00+02:00
         dtend: 2022-04-05 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, May 3, 7:00 PM  CEST: Další TopMonks Caffé bude mít nosné téma ze světa crypta a hlavním řečníkem bude Lumír Mrkva.'
-      og_title: Satisfying degens in dotsama, Tue, May 3, 2022, 7:00 PM   | Meetup
+      meta_description: 'Tue, May 3, 7:00 PM  CEST: Další TopMonks Caffé bude mít nosné téma ze světa crypta a to konkrétně decentrilizované finance. Povídat bude Lumír Mrkva a Dušan Kovačič.'
+      og_title: Decentralised finances, Tue, May 3, 2022, 7:00 PM   | Meetup
       url: https://www.meetup.com/TopMonks-Caffe/events/285524034/
       ical:
-        summary: Satisfying degens in dotsama
+        summary: Decentralised finances
         description: 'TopMonks Caffè
 
           Tuesday, May 3 at 7:00 PM
 
 
-          Další TopMonks Caffé bude mít nosné téma ze světa crypta a hlavním řečníkem bude Lumír Mrkva.
+          Další TopMonks Caffé bude mít nosné téma ze světa crypta a to konkrétně decentrilizované finance. Povídat bude Lumír Mrkva a Dušan Kovačič.
 
 
           https://www.meetup.com/TopMonks-Caffe/events/285524034/'
