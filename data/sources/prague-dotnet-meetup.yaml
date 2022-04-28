@@ -9,7 +9,7 @@ series:
       meta_description: 'Thu, Sep 9, 5:30 PM  CEST: GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the power to ask for exactly w'
       og_title: GraphQL in .NET, Thu, Sep 9, 2021, 5:30 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/c/0/600_498541216.jpeg
-      url: https://www.meetup.com/Prague-NET-Meetup/events/280482935/
+      url: https://www.meetup.com/prague-net-meetup/events/280482935/
       ical:
         summary: GraphQL in .NET
         description: 'Dotnet Days Meetup
@@ -34,7 +34,7 @@ series:
       meta_description: 'Thu, Apr 22, 5:30 PM  CEST: OAuth has been around for more than 10 years now, and has become the standard protocol for token-based security. Like every popular technology that has been growing with it'
       og_title: 'Dominick Baier: OAuth - The good Parts, Thu, Apr 22, 2021, 5:30 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/9/c/9/4/600_495580084.jpeg
-      url: https://www.meetup.com/Prague-NET-Meetup/events/277417529/
+      url: https://www.meetup.com/prague-net-meetup/events/277417529/
       ical:
         summary: 'Dominick Baier: OAuth - The good Parts'
         description: 'Dotnet Days Meetup
@@ -59,7 +59,7 @@ series:
       meta_description: 'Mon, Feb 24, 6:00 PM  CET: Data Science and Artificial Intelligence are fascinating areas of computing. Microsoft is betting a lot on these new technologies, but we are also aware that data scientist'
       og_title: Taking Advantage of AI Easily with Azure Cognitive Services - Laurent Bugnion, Mon, Feb 24, 2020, 6:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/2/e/0/f/600_488711791.jpeg
-      url: https://www.meetup.com/Prague-NET-Meetup/events/268424627/
+      url: https://www.meetup.com/prague-net-meetup/events/268424627/
       ical:
         summary: Taking Advantage of AI Easily with Azure Cognitive Services - Laurent Bugnion
         description: 'Dotnet Days Meetup
@@ -93,7 +93,7 @@ series:
         Bio: https://sess'
       og_title: .Net evening, Wed, Feb 5, 2020, 6:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/d/9/600_498541241.jpeg
-      url: https://www.meetup.com/Prague-NET-Meetup/events/268323465/
+      url: https://www.meetup.com/prague-net-meetup/events/268323465/
       ical:
         summary: .Net evening
         description: 'Dotnet Days Meetup

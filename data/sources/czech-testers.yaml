@@ -153,7 +153,7 @@ series:
         - Přednáška bude o E2E testování za pomoci API a Swaggru, díky čemuž můžete ověřit kv'
       og_title: 'online: QA Brno - Automatizované E2E testování API pomocí Swaggeru, Tue, Dec 14, 2021, 6:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/9/8/7/600_500522439.jpeg
-      url: https://www.meetup.com/ProfessionalTesting/events/282376801/
+      url: https://www.meetup.com/professionaltesting/events/282376801/
       ical:
         summary: 'online: QA Brno - Automatizované E2E testování API pomocí Swaggeru'
         description: 'CZECH TESTERS GROUP
@@ -188,7 +188,7 @@ series:
 
         �'
       og_title: Testerská Katovna, Sat, Dec 18, 2021, 8:00 PM   | Meetup
-      url: https://www.meetup.com/ProfessionalTesting/events/282722610/
+      url: https://www.meetup.com/professionaltesting/events/282722610/
       ical:
         summary: Testerská Katovna
         description: 'CZECH TESTERS GROUP
@@ -216,7 +216,7 @@ series:
 
         aktuálně se vývoj softwaru'
       og_title: 'online: QA Brno - Jak řídit testy efektivněji se správným nástrojem, Tue, Feb 22, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/ProfessionalTesting/events/283194770/
+      url: https://www.meetup.com/professionaltesting/events/283194770/
       ical:
         summary: 'online: QA Brno - Jak řídit testy efektivněji se správným nástrojem'
         description: 'CZECH TESTERS GROUP
@@ -240,7 +240,7 @@ series:
   - meetupcom:
       meta_description: 'Tue, Mar 29, 6:00 PM  CEST: Automatické end-to-end testy často naráží na problém externích systémů, které nejsou pod kontrolou, například takový katastr nemovitostí. Všechny možnosti nakonec vedou k t'
       og_title: 'online: QA Brno - Automatické end-to-end testy s emulací externích systémů, Tue, Mar 29, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/ProfessionalTesting/events/284503079/
+      url: https://www.meetup.com/professionaltesting/events/284503079/
       ical:
         summary: 'online: QA Brno - Automatické end-to-end testy s emulací externích systémů'
         description: 'CZECH TESTERS GROUP

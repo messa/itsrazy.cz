@@ -9,7 +9,7 @@ series:
       meta_description: 'Tue, May 18, 6:00 PM  CEST: Cloud-Native Prague #16 is here! Come join us online, share experiences and discuss successes and fuck-ups. It was a great last time, so prepare some drink and connect with'
       og_title: 'Cloud Native Prague Meetup #16, Tue, May 18, 2021, 6:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/3/8/0/e/600_496154350.jpeg
-      url: https://www.meetup.com/Cloud-Native-Prague/events/278042296/
+      url: https://www.meetup.com/cloud-native-prague/events/278042296/
       ical:
         summary: 'Cloud Native Prague Meetup #16'
         description: 'Cloud Native Prague
@@ -31,12 +31,12 @@ series:
         dtstart: 2021-05-18 18:00:00+02:00
         dtend: 2021-05-18 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Mar 2, 6:00 PM CET: Hey Cloud-natives,
+      meta_description: 'Tue, Mar 2, 6:00 PM  CET: Hey Cloud-natives,
 
         we are happy to announce another meetup with amazing talks. We will meet online, so there is no reason to change because of the stain on your old and bel'
-      og_title: 'Cloud Native Prague Meetup #15 | Meetup'
+      og_title: 'Cloud Native Prague Meetup #15, Tue, Mar 2, 2021, 6:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/a/5/e/c/600_494802476.jpeg
-      url: https://www.meetup.com/Cloud-Native-Prague/events/276422404/
+      url: https://www.meetup.com/cloud-native-prague/events/276422404/
       ical:
         summary: 'Cloud Native Prague Meetup #15'
         description: 'Cloud Native Prague
@@ -58,12 +58,12 @@ series:
         dtstart: 2021-03-02 18:00:00+01:00
         dtend: 2021-03-02 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Jan 28, 6:00 PM CET: Hi Cloud-natives,
+      meta_description: 'Thu, Jan 28, 6:00 PM  CET: Hi Cloud-natives,
 
         we hope you are safe and sound because winter is coming. We managed to prepare some exciting agenda for another online meetup - believe us or not - number'
-      og_title: 'Cloud Native Prague Meetup #14 | Meetup'
+      og_title: 'Cloud Native Prague Meetup #14, Thu, Jan 28, 2021, 6:00 PM   | Meetup'
       image: https://secure.meetupstatic.com/photos/event/5/a/2/0/600_494483072.jpeg
-      url: https://www.meetup.com/Cloud-Native-Prague/events/275827515/
+      url: https://www.meetup.com/cloud-native-prague/events/275827515/
       ical:
         summary: 'Cloud Native Prague Meetup #14'
         description: 'Cloud Native Prague
@@ -121,7 +121,7 @@ series:
 
         Každý den **dva track'
       og_title: Kubernetes Community Days 2022 Czech & Slovak | virtual, Wed, Apr 27, 2022, 9:00 AM   | Meetup
-      url: https://www.meetup.com/Cloud-Native-Prague/events/284904998/
+      url: https://www.meetup.com/cloud-native-prague/events/284904998/
       ical:
         summary: Kubernetes Community Days 2022 Czech & Slovak | virtual
         description: 'Cloud Native Prague

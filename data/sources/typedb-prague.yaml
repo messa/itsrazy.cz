@@ -1095,7 +1095,7 @@ series:
         dtstart: 2022-05-03 18:30:00+02:00
         dtend: 2022-05-03 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, May 5, 6:30 PM  CEST: Knowledge of cyber threats is a key focus in cyber security. [TypeDB - CTI](https://github.com/typedb-osi/typedb-cti) is an open source knowledge graph to store and manage '
+      meta_description: 'Thu, May 5, 6:30 PM  CEST: Knowledge of cyber threats is a key focus in cyber security. [TypeDB CTI](https://github.com/typedb-osi/typedb-data-cti) is an open source knowledge graph to store and mana'
       og_title: Building a Cyber Threat Intelligence Knowledge Graph, Thu, May 5, 2022, 6:30 PM   | Meetup
       url: https://www.meetup.com/typedb-prague/events/285435900/
       ical:
@@ -1105,7 +1105,7 @@ series:
           Thursday, May 5 at 6:30 PM
 
 
-          Knowledge of cyber threats is a key focus in cyber security. (https://github.com/typedb-osi/typedb-cti) is an open source knowledge graph to store and...
+          Knowledge of cyber threats is a key focus in cyber security. (https://github.com/typedb-osi/typedb-data-cti) is an open source knowledge graph to stor...
 
 
           https://www.meetup.com/typedb-prague/events/285435900/'
@@ -1145,3 +1145,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/285438290/
         dtstart: 2022-05-10 18:30:00+02:00
         dtend: 2022-05-10 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, May 12, 6:30 PM  CEST: Join the TypeDB community to learn how we think about data modelling, and how TypeDB''s expressivity allows you to model your domain based on logical and object-oriented pri'
+      og_title: TypeDB Academy | Modelling Principles, Thu, May 12, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/285564562/
+      ical:
+        summary: TypeDB Academy | Modelling Principles
+        description: 'TypeDB Prague Engineers
+
+          Thursday, May 12 at 6:30 PM
+
+
+          Join the TypeDB community to learn how we think about data modelling, and how TypeDB''s expressivity allows you to model your domain based on logical a...
+
+
+          https://www.meetup.com/typedb-prague/events/285564562/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285564562@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/285564562/
+        dtstart: 2022-05-12 18:30:00+02:00
+        dtend: 2022-05-12 19:30:00+02:00
