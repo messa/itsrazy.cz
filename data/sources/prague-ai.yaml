@@ -499,3 +499,110 @@ series:
         url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282378254/
         dtstart: 2021-12-02 19:00:00+01:00
         dtend: 2021-12-02 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Apr 7, 11:00 AM  CEST: Suntory, one of the world’s leading Food and Beverage companies, is using H2O.ai to expand their use of Data Science and Machine Learning, resulting in a considerable impro'
+      og_title: 'Customer Story: A Leading Soft Drinks Company saves Millions of £ with H2O.ai, Thu, Apr 7, 2022, 11:00 AM   | Meetup'
+      url: https://www.meetup.com/prague-artificial-intelligence-deep-learning/events/284461723/
+      ical:
+        summary: 'Customer Story: A Leading Soft Drinks Company saves Millions of £ with H2O.ai'
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Thursday, April 7 at 11:00 AM
+
+
+          Suntory, one of the world’s leading Food and Beverage companies, is using H2O.ai to expand their use of Data Science and Machine Learning, resulting i...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/284461723/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284461723@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/284461723/
+        dtstart: 2022-04-07 11:00:00+02:00
+        dtend: 2022-04-07 12:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Jan 19, 5:00 PM  CET: Register here: https://bit.ly/3IcQR0y
+
+
+        ***
+
+
+        Core business processes in today’s digital world rely on documents and unstructured or semi-structured data that contain valuabl'
+      og_title: 'Virtual Panel: Improve Business Processes with AI Automated Workflows, Wed, Jan 19, 2022, 5:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-artificial-intelligence-deep-learning/events/283335581/
+      ical:
+        summary: 'Virtual Panel: Improve Business Processes with AI Automated Workflows'
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Wednesday, January 19 at 5:00 PM
+
+
+          Register here: https://bit.ly/3IcQR0y  *** Core business processes in today’s digital world rely on documents and unstructured or semi-structured data...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/283335581/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283335581@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/283335581/
+        dtstart: 2022-01-19 17:00:00+01:00
+        dtend: 2022-01-19 18:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Jan 11, 11:00 AM  CET: Despite the clear value potential of AI, many business stakeholders are frustrated with the slow pace of taking AI projects from proof of concept to actual implementation.
+
+        '
+      og_title: Elevating your AI Projects from PoC to Production at Speed, Tue, Jan 11, 2022, 11:00 AM   | Meetup
+      url: https://www.meetup.com/prague-artificial-intelligence-deep-learning/events/282654578/
+      ical:
+        summary: Elevating your AI Projects from PoC to Production at Speed
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Tuesday, January 11 at 11:00 AM
+
+
+          Despite the clear value potential of AI, many business stakeholders are frustrated with the slow pace of taking AI projects from proof of concept to a...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282654578/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282654578@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282654578/
+        dtstart: 2022-01-11 11:00:00+01:00
+        dtend: 2022-01-11 12:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Dec 2, 7:00 PM  CET: Hello Maker,
+
+
+        Join us on December 2nd for our next live event on LinkedIn, Twitter, and YouTube. This time I will be discussing Wave apps development and deployment for the'
+      og_title: 'Make with H2O: Getting Started with Wave for the Wildfire Challenge, Thu, Dec 2, 2021, 7:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-artificial-intelligence-deep-learning/events/282378254/
+      ical:
+        summary: 'Make with H2O: Getting Started with Wave for the Wildfire Challenge'
+        description: 'Prague Artificial Intelligence & Deep Learning
+
+          Thursday, December 2 at 7:00 PM
+
+
+          Hello Maker, Join us on December 2nd for our next live event on LinkedIn, Twitter, and YouTube. This time I will be discussing Wave apps development a...
+
+
+          https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282378254/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282378254@meetup.com
+        url: https://www.meetup.com/Prague-Artificial-Intelligence-Deep-Learning/events/282378254/
+        dtstart: 2021-12-02 19:00:00+01:00
+        dtend: 2021-12-02 20:00:00+01:00
