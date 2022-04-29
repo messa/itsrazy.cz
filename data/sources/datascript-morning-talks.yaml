@@ -960,3 +960,148 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/285390483/
         dtstart: 2022-05-25 09:00:00+02:00
         dtend: 2022-05-25 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, May 4, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/modelovani-datovych-toku-nejen-pro-business-analytiky/
+
+
+        **Na co se může'
+      og_title: Modelování datových toků (nejen) pro business analytiky, Wed, May 4, 2022, 9:00 AM   | Meetup
+      url: https://www.meetup.com/morning-talks/events/285390211/
+      ical:
+        summary: Modelování datových toků (nejen) pro business analytiky
+        description: 'Morning Talks
+
+          Wednesday, May 4 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/modelovani-datovych-toku-nejen-pro-business-analyt...
+
+
+          https://www.meetup.com/Morning-Talks/events/285390211/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285390211@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/285390211/
+        dtstart: 2022-05-04 09:00:00+02:00
+        dtend: 2022-05-04 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, May 5, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/jak-vytvaret-system-na-zakladech-domenoveho-navrhu/
+
+
+        **Na co se můžete '
+      og_title: Jak vytvářet systém na základech doménového návrhu, Thu, May 5, 2022, 9:00 AM   | Meetup
+      url: https://www.meetup.com/morning-talks/events/285390349/
+      ical:
+        summary: Jak vytvářet systém na základech doménového návrhu
+        description: 'Morning Talks
+
+          Thursday, May 5 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/jak-vytvaret-system-na-zakladech-domenoveho-navrhu...
+
+
+          https://www.meetup.com/Morning-Talks/events/285390349/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285390349@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/285390349/
+        dtstart: 2022-05-05 09:00:00+02:00
+        dtend: 2022-05-05 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, May 18, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/cicd-end-to-end-reseni-pro-on-premise-aplikace/
+
+
+        **Na co se můžete těši'
+      og_title: 'CI/CD: end-to-end řešení pro on premise aplikace, Wed, May 18, 2022, 9:00 AM   | Meetup'
+      url: https://www.meetup.com/morning-talks/events/285390416/
+      ical:
+        summary: 'CI/CD: end-to-end řešení pro on premise aplikace'
+        description: 'Morning Talks
+
+          Wednesday, May 18 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/cicd-end-to-end-reseni-pro-on-premise-aplikace/ **...
+
+
+          https://www.meetup.com/Morning-Talks/events/285390416/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285390416@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/285390416/
+        dtstart: 2022-05-18 09:00:00+02:00
+        dtend: 2022-05-18 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, May 25, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/aws-governance-aneb-jak-na-centralizaci-spravy-aws-uctu/
+
+
+        **Na co se mů'
+      og_title: AWS Governance aneb jak na centralizaci správy AWS účtů, Wed, May 25, 2022, 9:00 AM   | Meetup
+      url: https://www.meetup.com/morning-talks/events/285390483/
+      ical:
+        summary: AWS Governance aneb jak na centralizaci správy AWS účtů
+        description: 'Morning Talks
+
+          Wednesday, May 25 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/aws-governance-aneb-jak-na-centralizaci-spravy-aws...
+
+
+          https://www.meetup.com/Morning-Talks/events/285390483/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285390483@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/285390483/
+        dtstart: 2022-05-25 09:00:00+02:00
+        dtend: 2022-05-25 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 27, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/microservices-patterny-a-jejich-pouziti-v-praxi/
+
+
+        Uděláme si menší výle'
+      og_title: MICROSERVICES PATTERNY A JEJICH POUŽÍTÍ V PRAXI, Wed, Apr 27, 2022, 9:00 AM   | Meetup
+      url: https://www.meetup.com/morning-talks/events/284327603/
+      ical:
+        summary: MICROSERVICES PATTERNY A JEJICH POUŽÍTÍ V PRAXI
+        description: 'Morning Talks
+
+          Wednesday, April 27 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/microservices-patterny-a-jejich-pouziti-v-praxi/ U...
+
+
+          https://www.meetup.com/Morning-Talks/events/284327603/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284327603@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/284327603/
+        dtstart: 2022-04-27 09:00:00+02:00
+        dtend: 2022-04-27 10:00:00+02:00
