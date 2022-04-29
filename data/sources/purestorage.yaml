@@ -417,3 +417,105 @@ series:
         url: https://www.meetup.com/Pure-Storage-Talks/events/281246298/
         dtstart: 2021-10-11 08:00:00+02:00
         dtend: 2021-10-11 18:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Apr 7, 6:00 PM  CEST: **Update**: Due to the situation in Ukraine, the event was moved to April 7th, we still look forward to seeing you there!
+
+
+        Doing threat modeling is one of the main requirem'
+      og_title: Agile Visual Threat Modeling (Against a Beer Tap Infrastructure), Thu, Apr 7, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/Pure-Storage-Talks/events/283991609/
+      ical:
+        summary: Agile Visual Threat Modeling (Against a Beer Tap Infrastructure)
+        description: 'Pure Storage Talks
+
+          Thursday, April 7 at 6:00 PM
+
+
+          **Update**: Due to the situation in Ukraine, the event was moved to April 7th, we still look forward to seeing you there! Doing threat modeling is one...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/283991609/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283991609@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/283991609/
+        dtstart: 2022-04-07 18:00:00+02:00
+        dtend: 2022-04-07 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Dec 9, 6:00 PM  CET: PURE has landed in Prague 2 years ago and what a journey has been since then. We have proven that we are a strong company even through most difficult of times, a company th'
+      og_title: 'Story of PURE in Prague || Chapter Two: Hacking the Future of Data, Thu, Dec 9, 2021, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/Pure-Storage-Talks/events/282039970/
+      ical:
+        summary: 'Story of PURE in Prague || Chapter Two: Hacking the Future of Data'
+        description: 'Pure Storage Talks
+
+          Thursday, December 9 at 6:00 PM
+
+
+          PURE has landed in Prague 2 years ago and what a journey has been since then. We have proven that we are a strong company even through most difficult ...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/282039970/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282039970@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/282039970/
+        dtstart: 2021-12-09 18:00:00+01:00
+        dtend: 2021-12-09 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Nov 11, 6:00 PM  CET: 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐭𝐚𝐥𝐤: although there is an endless number of technical questions you can be asked during an interview, there are some common patterns that come up ver'
+      og_title: How to Nail Your Next Technical Interview, Thu, Nov 11, 2021, 6:00 PM   | Meetup
+      url: https://www.meetup.com/Pure-Storage-Talks/events/281401178/
+      ical:
+        summary: How to Nail Your Next Technical Interview
+        description: 'Pure Storage Talks
+
+          Thursday, November 11 at 6:00 PM
+
+
+          𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐭𝐚𝐥𝐤: although there is an endless number of technical questions you can be asked during an interview, there are some common patterns that c...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/281401178/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281401178@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/281401178/
+        dtstart: 2021-11-11 18:00:00+01:00
+        dtend: 2021-11-11 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Mon, Oct 11, 8:00 AM  CEST: Innovation. A buzzword for some, daily bread for us.
+
+
+        It started with an innovative idea of two brilliant minds, and since then the innovative mindset has become deeply roo'
+      og_title: Pure Storage @ Innovation Week, Mon, Oct 11, 2021, 8:00 AM   | Meetup
+      url: https://www.meetup.com/Pure-Storage-Talks/events/281246298/
+      ical:
+        summary: Pure Storage @ Innovation Week
+        description: 'Pure Storage Talks
+
+          Monday, October 11 at 8:00 AM
+
+
+          Innovation. A buzzword for some, daily bread for us. It started with an innovative idea of two brilliant minds, and since then the innovative mindset ...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/281246298/'
+        location: Cubex Centrum Praha spol. s r. o. (Na Strži 2097/63, Praha 4-Nusle, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281246298@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/281246298/
+        dtstart: 2021-10-11 08:00:00+02:00
+        dtend: 2021-10-11 18:00:00+02:00
