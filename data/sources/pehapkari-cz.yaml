@@ -1,0 +1,34 @@
+series:
+  meetupcom:
+    url: https://www.meetup.com/pražske-srazy-přatel-php-pehapkari-cz/
+    meta_description: PHP nás baví. PHP nás živí. PHP oživuje naše projekty. Podporujeme online a offline aktivity kolem PHP. Setkání, školení nebo jen zajít na pivo a popovídat si o technologiích. V online světě nás najde
+    og_title: Pražské srazy přátel PHP - Pehapkari.cz (Prague, Czech Republic)
+    image: https://secure.meetupstatic.com/photos/event/8/b/e/5/600_503615813.jpeg
+  events:
+  - meetupcom:
+      meta_description: 'Thu, May 19, 6:00 PM  CEST: Zveme vás na 48. setkání PHP vývojářů do Prahy 9 - Hloubětína, kde sídlí partner květnového setkání, společnost Cortex.
+
+
+        Mimo dalších zajímavých přednášek a networkingu můž'
+      og_title: 48. sraz přátel PHP v Cortex v Praze, Thu, May 19, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/285475940/
+      ical:
+        summary: 48. sraz přátel PHP v Cortex v Praze
+        description: 'Pražské srazy přátel PHP - Pehapkari.cz
+
+          Thursday, May 19 at 6:00 PM
+
+
+          Zveme vás na 48. setkání PHP vývojářů do Prahy 9 - Hloubětína, kde sídlí partner květnového setkání, společnost Cortex. Mimo dalších zajímavých předná...
+
+
+          https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/285475940/'
+        location: Cortex, a.s. (U Elektry 974, Praha 9, Czech Republic 190 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285475940@meetup.com
+        url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/285475940/
+        dtstart: 2022-05-19 18:00:00+02:00
+        dtend: 2022-05-19 22:00:00+02:00
