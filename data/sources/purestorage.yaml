@@ -519,3 +519,29 @@ series:
         url: https://www.meetup.com/Pure-Storage-Talks/events/281246298/
         dtstart: 2021-10-11 08:00:00+02:00
         dtend: 2021-10-11 18:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 2, 6:00 PM  CEST: **IMPORTANT! This is a hybrid event.**
+
+        **Take just a minute to register [here](https://docs.google.com/forms/d/e/1FAIpQLSfrjEd73wmXPJwdfuOx_7V3PmoXvzuCwDD81cByUmfiLMV8eg/vi'
+      og_title: Can You Land a Job in Tech without a CS Degree?, Thu, Jun 2, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/Pure-Storage-Talks/events/285674292/
+      ical:
+        summary: Can You Land a Job in Tech without a CS Degree?
+        description: 'Pure Storage Talks
+
+          Thursday, June 2 at 6:00 PM
+
+
+          **IMPORTANT! This is a hybrid event.****Take just a minute to register (https://docs.google.com/forms/d/e/1FAIpQLSfrjEd73wmXPJwdfuOx_7V3PmoXvzuCwDD81c...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/285674292/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285674292@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/285674292/
+        dtstart: 2022-06-02 18:00:00+02:00
+        dtend: 2022-06-02 19:30:00+02:00

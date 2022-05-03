@@ -383,3 +383,33 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/285460279/
         dtstart: 2022-05-24 18:00:00+02:00
         dtend: 2022-05-24 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 31, 6:00 PM  CEST: **Go Meetup in Prague is back again!**
+
+
+        ## About this event
+
+
+        Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **our first Go Meetup** *'
+      og_title: 'Go Meetup #7 | Prague, Tue, May 31, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/productboard-meetups/events/285496125/
+      ical:
+        summary: 'Go Meetup #7 | Prague'
+        description: 'Productboard Meetups
+
+          Tuesday, May 31 at 6:00 PM
+
+
+          **Go Meetup in Prague is back again!** ## About this event Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **our...
+
+
+          https://www.meetup.com/productboard-meetups/events/285496125/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285496125@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/285496125/
+        dtstart: 2022-05-31 18:00:00+02:00
+        dtend: 2022-05-31 21:00:00+02:00

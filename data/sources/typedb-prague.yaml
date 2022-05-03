@@ -1169,3 +1169,34 @@ series:
         url: https://www.meetup.com/typedb-prague/events/285564562/
         dtstart: 2022-05-12 18:30:00+02:00
         dtend: 2022-05-12 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 17, 6:30 PM  CEST: Build your skills and learn how TypeDB''s native inference engine works.
+
+
+        Good for:
+
+        \- Beginners to TypeDB and TypeQL
+
+        \- Those who have been using TypeDB and want a refreshe'
+      og_title: TypeDB Academy | Inference with Rules, Tue, May 17, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/285565422/
+      ical:
+        summary: TypeDB Academy | Inference with Rules
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, May 17 at 6:30 PM
+
+
+          Build your skills and learn how TypeDB''s native inference engine works. Good for:\\- Beginners to TypeDB and TypeQL\\- Those who have been using TypeDB ...
+
+
+          https://www.meetup.com/typedb-prague/events/285565422/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285565422@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/285565422/
+        dtstart: 2022-05-17 18:30:00+02:00
+        dtend: 2022-05-17 19:30:00+02:00
