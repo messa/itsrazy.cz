@@ -1395,3 +1395,34 @@ series:
         url: https://www.meetup.com/Morning-Talks/events/284327603/
         dtstart: 2022-04-27 09:00:00+02:00
         dtend: 2022-04-27 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Jun 1, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/elastic-stack-observability-a-vyhledavani/
+
+
+        **Na co se můžete těšit:**
+
+        '
+      og_title: Elastic Stack - observability a vyhledávání, Wed, Jun 1, 2022, 9:00 AM   | Meetup
+      url: https://www.meetup.com/Morning-Talks/events/285390556/
+      ical:
+        summary: Elastic Stack - observability a vyhledávání
+        description: 'Morning Talks
+
+          Wednesday, June 1 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/elastic-stack-observability-a-vyhledavani/ **Na co...
+
+
+          https://www.meetup.com/Morning-Talks/events/285390556/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285390556@meetup.com
+        url: https://www.meetup.com/Morning-Talks/events/285390556/
+        dtstart: 2022-06-01 09:00:00+02:00
+        dtend: 2022-06-01 10:00:00+02:00
