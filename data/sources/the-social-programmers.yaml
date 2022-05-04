@@ -268,3 +268,30 @@ series:
         url: https://www.meetup.com/the-social-programers/events/285365084/
         dtstart: 2022-04-21 19:00:00+02:00
         dtend: 2022-04-21 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, May 5, 7:00 PM  CEST: Coding Session
+
+
+        Let''s have a drink and code together and build something interesting. Work on your own project or join in on the group project or just get advise, grab a la'
+      og_title: Coding session V10, Thu, May 5, 2022, 7:00 PM   | Meetup
+      url: https://www.meetup.com/the-social-programers/events/285692669/
+      ical:
+        summary: Coding session V10
+        description: 'The Social Programmers
+
+          Thursday, May 5 at 7:00 PM
+
+
+          Coding Session Let''s have a drink and code together and build something interesting. Work on your own project or join in on the group project or just ...
+
+
+          https://www.meetup.com/the-social-programers/events/285692669/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285692669@meetup.com
+        url: https://www.meetup.com/the-social-programers/events/285692669/
+        dtstart: 2022-05-05 19:00:00+02:00
+        dtend: 2022-05-05 21:00:00+02:00

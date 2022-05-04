@@ -8,7 +8,7 @@ series:
   events:
   - id: 20220615frontend
     url: https://www.eventbrite.com/e/frontend-meetup-5-tickets-332768057217
-    title: Frontend Meetup #5
+    title: Frontend Meetup
     date: 2022-06-15
     venue:
       name: ProductBoard HQ
