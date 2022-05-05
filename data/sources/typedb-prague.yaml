@@ -1200,3 +1200,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/285565422/
         dtstart: 2022-05-17 18:30:00+02:00
         dtend: 2022-05-17 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 24, 6:30 PM  CEST: Computational biology has revolutionised biomedicine. The volume of data it is generating is growing exponentially. This requires tools that enable computational and non-co'
+      og_title: Enabling the Computational Future of Biology, Tue, May 24, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/285588258/
+      ical:
+        summary: Enabling the Computational Future of Biology
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, May 24 at 6:30 PM
+
+
+          Computational biology has revolutionised biomedicine. The volume of data it is generating is growing exponentially. This requires tools that enable co...
+
+
+          https://www.meetup.com/typedb-prague/events/285588258/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285588258@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/285588258/
+        dtstart: 2022-05-24 18:30:00+02:00
+        dtend: 2022-05-24 19:30:00+02:00

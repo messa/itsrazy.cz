@@ -394,10 +394,9 @@ series:
       meta_description: 'Tue, May 31, 6:00 PM  CEST: **Go Meetup in Prague is back again!**
 
 
-        ## About this event
+        **About this event:**
 
-
-        Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **our first Go Meetup** *'
+        Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **our first Go Meetup** '
       og_title: 'Go Meetup #7 | Prague, Tue, May 31, 2022, 6:00 PM   | Meetup'
       url: https://www.meetup.com/productboard-meetups/events/285496125/
       ical:
@@ -407,7 +406,7 @@ series:
           Tuesday, May 31 at 6:00 PM
 
 
-          **Go Meetup in Prague is back again!** ## About this event Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **our...
+          **Go Meetup in Prague is back again!** **About this event:** Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **o...
 
 
           https://www.meetup.com/productboard-meetups/events/285496125/'
