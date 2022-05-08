@@ -1,7 +1,7 @@
 series:
   meetupcom:
     url: https://www.meetup.com/praguejs/events/
-    meta_description: Upcoming events for PragueJS in Prague, Czech Republic. A Meetup group with over 2011 Members.
+    meta_description: Upcoming events for PragueJS in Prague, Czech Republic. A Meetup group with over 2012 Members.
     og_title: Upcoming events | PragueJS (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
   events:
