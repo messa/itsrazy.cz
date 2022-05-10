@@ -43,7 +43,7 @@ series:
   - meetupcom:
       meta_description: 'Tue, May 10, 6:00 PM  CEST: It''s here! The **STRV Academy: Frontend** kicks off on May 10. Join us for **eight weeks** filled with expert knowledge and loads of fun. Learn the best practices to naviga'
       og_title: 'STRV Academy: Frontend, Tue, May 10, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/STRV-Meetups/events/285056833/
+      url: https://www.meetup.com/strv-meetups/events/285056833/
       ical:
         summary: 'STRV Academy: Frontend'
         description: 'STRV Meetups
@@ -70,7 +70,7 @@ series:
 
         STRV’s Backend team is the backbone of every project. It’s not only about developing the backend but '
       og_title: 'STRV Academy: Backend, Thu, Jun 9, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/STRV-Meetups/events/285436855/
+      url: https://www.meetup.com/strv-meetups/events/285436855/
       ical:
         summary: 'STRV Academy: Backend'
         description: 'STRV Meetups

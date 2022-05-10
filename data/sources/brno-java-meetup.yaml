@@ -9,7 +9,7 @@ series:
       meta_description: 'Thu, Sep 24, 7:00 PM  CEST: Kubernetes se velice rychle stal nejrozšířenější platformou pro provozování stateless aplikací. Stále více uživatelů dnes na Kubernetes přesouvá dokonce i své stateful apli'
       og_title: Stateful aplikace na Kubernetes pomocí operátor patternu (online), Thu, Sep 24, 2020, 7:00 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/c/6/4/f/600_492410767.jpeg
-      url: https://www.meetup.com/Brno-Java-Meetup/events/273090874/
+      url: https://www.meetup.com/brno-java-meetup/events/273090874/
       ical:
         summary: Stateful aplikace na Kubernetes pomocí operátor patternu (online)
         description: 'Brno Java Meetup
@@ -111,7 +111,7 @@ series:
         Praktickou přednášku n'
       og_title: JVM a Kubernetes, Thu, Nov 4, 2021, 6:30 PM   | Meetup
       image: https://secure.meetupstatic.com/photos/event/6/4/d/7/600_499765815.jpeg
-      url: https://www.meetup.com/Brno-Java-Meetup/events/281669937/
+      url: https://www.meetup.com/brno-java-meetup/events/281669937/
       ical:
         summary: JVM a Kubernetes
         description: 'Brno Java Meetup
@@ -258,7 +258,7 @@ series:
   - meetupcom:
       meta_description: 'Thu, May 5, 6:30 PM  CEST: Microservice architektura je principiálně distribuovaný systém se všemi výhodami i těžkostmi. Martin Štefanko ([https://twitter.com/xstefank](https://twitter.com/xstefank))'
       og_title: Transakce v microservice architekturách, Thu, May 5, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/Brno-Java-Meetup/events/285414870/
+      url: https://www.meetup.com/brno-java-meetup/events/285414870/
       ical:
         summary: Transakce v microservice architekturách
         description: 'Brno Java Meetup
@@ -284,7 +284,7 @@ series:
 
         [Jakub](https://github.com/coufalja) s [Peterem](https://www.linkedin.com/in/peter-siman-31042658/?originalSubdomain=cz) pracují pro Jamf'
       og_title: Na cestě od Javy ke Go, Thu, Mar 17, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/Brno-Java-Meetup/events/284243439/
+      url: https://www.meetup.com/brno-java-meetup/events/284243439/
       ical:
         summary: Na cestě od Javy ke Go
         description: 'Brno Java Meetup

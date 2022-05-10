@@ -10,7 +10,7 @@ series:
 
         We will talk about O'
       og_title: Cybersecurity Meetup , Thu, Jun 9, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/MSD-IT-Meet-Ups/events/285392625/
+      url: https://www.meetup.com/msd-it-meet-ups/events/285392625/
       ical:
         summary: 'Cybersecurity Meetup '
         description: 'MSD IT Meet Ups
@@ -35,7 +35,7 @@ series:
 
         This meetup is made especially for '
       og_title: Hacktoberfest 2020 at MSD- create your first pull request, Tue, Oct 6, 2020, 6:00 PM   | Meetup
-      url: https://www.meetup.com/MSD-IT-Meet-Ups/events/273587090/
+      url: https://www.meetup.com/msd-it-meet-ups/events/273587090/
       ical:
         summary: Hacktoberfest 2020 at MSD- create your first pull request
         description: 'MSD IT Meet Ups
@@ -58,7 +58,7 @@ series:
   - meetupcom:
       meta_description: 'Tue, Jun 21, 6:00 PM  CEST: Come to our meetup to learn how we create enterprise-grade, human-centric AI solutions. We will cover topics such as Deep Learning for digital pathology, Natural Language P'
       og_title: Machine Learning Open House, Tue, Jun 21, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/MSD-IT-Meet-Ups/events/285416336/
+      url: https://www.meetup.com/msd-it-meet-ups/events/285416336/
       ical:
         summary: Machine Learning Open House
         description: 'MSD IT Meet Ups
@@ -79,3 +79,27 @@ series:
         url: https://www.meetup.com/MSD-IT-Meet-Ups/events/285416336/
         dtstart: 2022-06-21 18:00:00+02:00
         dtend: 2022-06-21 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 16, 6:00 PM  CEST: Come to our DevOps meetup, even with different background, and let´s talk about how we deliver Software in our company. We will discuss Agile Planning, Continuous Integrati'
+      og_title: MSD DevOps Meetup, Thu, Jun 16, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/msd-it-meet-ups/events/285819476/
+      ical:
+        summary: MSD DevOps Meetup
+        description: 'MSD IT Meet Ups
+
+          Thursday, June 16 at 6:00 PM
+
+
+          Come to our DevOps meetup, even with different background, and let´s talk about how we deliver Software in our company. We will discuss Agile Planning...
+
+
+          https://www.meetup.com/MSD-IT-Meet-Ups/events/285819476/'
+        location: MSD building FIVE (Na Valentince 504, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285819476@meetup.com
+        url: https://www.meetup.com/MSD-IT-Meet-Ups/events/285819476/
+        dtstart: 2022-06-16 18:00:00+02:00
+        dtend: 2022-06-16 21:00:00+02:00

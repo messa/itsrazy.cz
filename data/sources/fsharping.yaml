@@ -318,7 +318,7 @@ series:
   - meetupcom:
       meta_description: 'Wed, Aug 4, 6:00 PM  CEST: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects, and other great things (not only) from the IT world a'
       og_title: FSharping |> Beer, Wed, Aug 4, 2021, 6:00 PM   | Meetup
-      url: https://www.meetup.com/FSharping/events/279609755/
+      url: https://www.meetup.com/fsharping/events/279609755/
       ical:
         summary: FSharping |> Beer
         description: 'FSharping
@@ -341,7 +341,7 @@ series:
   - meetupcom:
       meta_description: 'Wed, Aug 19, 6:00 PM  CEST: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects and other great things (not only) from IT world and fu'
       og_title: FSharping |> Beer, Wed, Aug 19, 2020, 6:00 PM   | Meetup
-      url: https://www.meetup.com/FSharping/events/271789552/
+      url: https://www.meetup.com/fsharping/events/271789552/
       ical:
         summary: FSharping |> Beer
         description: 'FSharping
@@ -364,7 +364,7 @@ series:
   - meetupcom:
       meta_description: 'Fri, Jun 5, 11:00 AM  CEST: 5. června nás čeká již třetí ročník virtuální konference fsharpConf, organizované lidmi z @fsharponline. Můžete se těšit na F# experty z celého světa. Uvidíte praktické vyu'
       og_title: fsharpConf 2020, Fri, Jun 5, 2020, 11:00 AM   | Meetup
-      url: https://www.meetup.com/FSharping/events/270899664/
+      url: https://www.meetup.com/fsharping/events/270899664/
       ical:
         summary: fsharpConf 2020
         description: 'FSharping
@@ -396,7 +396,7 @@ series:
 
         We will start at 18:0'
       og_title: 'Josef Starýchfojtů: Advanced FP in F# (Workshop), Tue, Feb 25, 2020, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/FSharping/events/268054108/
+      url: https://www.meetup.com/fsharping/events/268054108/
       ical:
         summary: 'Josef Starýchfojtů: Advanced FP in F# (Workshop)'
         description: 'FSharping
