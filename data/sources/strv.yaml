@@ -583,3 +583,108 @@ series:
         url: https://www.meetup.com/STRV-Meetups/events/285056833/
         dtstart: 2022-05-10 18:00:00+02:00
         dtend: 2022-05-10 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 24, 7:00 PM  CEST: **👉 [PLEASE MAKE SURE TO GRAB A TICKET HERE](https://www.eventbrite.com/e/strv-web3-meetup-tickets-338869065497?aff=meetup) 👈**
+
+
+        We’re excited to be launching STRV Web3 M'
+      og_title: STRV Web3 Meetup, Tue, May 24, 2022, 7:00 PM   | Meetup
+      url: https://www.meetup.com/strv-meetups/events/285858747/
+      ical:
+        summary: STRV Web3 Meetup
+        description: 'STRV Meetups
+
+          Tuesday, May 24 at 7:00 PM
+
+
+          **👉 (https://www.eventbrite.com/e/strv-web3-meetup-tickets-338869065497?aff=meetup) 👈** We’re excited to be launching STRV Web3 Meetups — monthly pane...
+
+
+          https://www.meetup.com/STRV-Meetups/events/285858747/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285858747@meetup.com
+        url: https://www.meetup.com/STRV-Meetups/events/285858747/
+        dtstart: 2022-05-24 19:00:00+02:00
+        dtend: 2022-05-24 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 9, 6:00 PM  CEST: 🔥[Sign up on our website]( https://www.strv.com/academy/backend ) 🔥
+
+
+        STRV’s Backend team is the backbone of every project. It’s not only about developing the backend but '
+      og_title: 'STRV Academy: Backend, Thu, Jun 9, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/strv-meetups/events/285436855/
+      ical:
+        summary: 'STRV Academy: Backend'
+        description: 'STRV Meetups
+
+          Thursday, June 9 at 6:00 PM
+
+
+          🔥( https://www.strv.com/academy/backend ) 🔥 STRV’s Backend team is the backbone of every project. It’s not only about developing the backend but about...
+
+
+          https://www.meetup.com/STRV-Meetups/events/285436855/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285436855@meetup.com
+        url: https://www.meetup.com/STRV-Meetups/events/285436855/
+        dtstart: 2022-06-09 18:00:00+02:00
+        dtend: 2022-06-09 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Jul 12, 6:00 PM  CEST: **[PLEASE MAKE SURE TO APPLY ON OUR WEBSITE]( https://www.strv.com/academy/becoming-an-ios-engineer), THIS IS NOT A PUBLIC EVENT**
+
+
+        The STRV iOS team is big on sharing what'
+      og_title: 'STRV Academy: Becoming an iOS Engineer, Tue, Jul 12, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/strv-meetups/events/285859234/
+      ical:
+        summary: 'STRV Academy: Becoming an iOS Engineer'
+        description: 'STRV Meetups
+
+          Tuesday, July 12 at 6:00 PM
+
+
+          **( https://www.strv.com/academy/becoming-an-ios-engineer), THIS IS NOT A PUBLIC EVENT** The STRV iOS team is big on sharing what we know, something w...
+
+
+          https://www.meetup.com/STRV-Meetups/events/285859234/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285859234@meetup.com
+        url: https://www.meetup.com/STRV-Meetups/events/285859234/
+        dtstart: 2022-07-12 18:00:00+02:00
+        dtend: 2022-07-12 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 10, 6:00 PM  CEST: It''s here! The **STRV Academy: Frontend** kicks off on May 10. Join us for **eight weeks** filled with expert knowledge and loads of fun. Learn the best practices to naviga'
+      og_title: 'STRV Academy: Frontend, Tue, May 10, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/strv-meetups/events/285056833/
+      ical:
+        summary: 'STRV Academy: Frontend'
+        description: 'STRV Meetups
+
+          Tuesday, May 10 at 6:00 PM
+
+
+          It''s here! The **STRV Academy: Frontend** kicks off on May 10. Join us for **eight weeks** filled with expert knowledge and loads of fun. Learn the be...
+
+
+          https://www.meetup.com/STRV-Meetups/events/285056833/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285056833@meetup.com
+        url: https://www.meetup.com/STRV-Meetups/events/285056833/
+        dtstart: 2022-05-10 18:00:00+02:00
+        dtend: 2022-05-10 21:00:00+02:00
