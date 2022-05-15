@@ -1181,3 +1181,56 @@ series:
         url: https://www.meetup.com/Pure-Storage-Talks/events/283991609/
         dtstart: 2022-04-07 18:00:00+02:00
         dtend: 2022-04-07 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 2, 6:00 PM  CEST: **IMPORTANT! This is a hybrid event.**
+
+        **Take just a minute to register [here](https://docs.google.com/forms/d/e/1FAIpQLSfrjEd73wmXPJwdfuOx_7V3PmoXvzuCwDD81cByUmfiLMV8eg/vi'
+      og_title: Can You Land a Job in Tech without a CS Degree?, Thu, Jun 2, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/pure-storage-talks/events/285674292/
+      ical:
+        summary: Can You Land a Job in Tech without a CS Degree?
+        description: 'Pure Storage Talks
+
+          Thursday, June 2 at 6:00 PM
+
+
+          **IMPORTANT! This is a hybrid event.****Take just a minute to register (https://docs.google.com/forms/d/e/1FAIpQLSfrjEd73wmXPJwdfuOx_7V3PmoXvzuCwDD81c...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/285674292/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285674292@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/285674292/
+        dtstart: 2022-06-02 18:00:00+02:00
+        dtend: 2022-06-02 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Apr 7, 6:00 PM  CEST: **Update**: Due to the situation in Ukraine, the event was moved to April 7th, we still look forward to seeing you there!
+
+
+        Doing threat modeling is one of the main requirem'
+      og_title: Agile Visual Threat Modeling (Against a Beer Tap Infrastructure), Thu, Apr 7, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/pure-storage-talks/events/283991609/
+      ical:
+        summary: Agile Visual Threat Modeling (Against a Beer Tap Infrastructure)
+        description: 'Pure Storage Talks
+
+          Thursday, April 7 at 6:00 PM
+
+
+          **Update**: Due to the situation in Ukraine, the event was moved to April 7th, we still look forward to seeing you there! Doing threat modeling is one...
+
+
+          https://www.meetup.com/Pure-Storage-Talks/events/283991609/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283991609@meetup.com
+        url: https://www.meetup.com/Pure-Storage-Talks/events/283991609/
+        dtstart: 2022-04-07 18:00:00+02:00
+        dtend: 2022-04-07 19:30:00+02:00
