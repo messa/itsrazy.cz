@@ -1248,3 +1248,75 @@ series:
         url: https://www.meetup.com/typedb-prague/events/286110500/
         dtstart: 2022-06-07 18:30:00+02:00
         dtend: 2022-06-07 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 9, 6:30 PM  CEST: [Graph databases](https://docs.vaticle.com/docs/comparisons/graph-databases-and-typedb) have matured into mainstream technologies, used across any industry powering mission'
+      og_title: ' Graph Databases vs TypeDB | What You Can''t do With Graphs, Thu, Jun 9, 2022, 6:30 PM   | Meetup'
+      url: https://www.meetup.com/typedb-prague/events/286110971/
+      ical:
+        summary: ' Graph Databases vs TypeDB | What You Can''t do With Graphs'
+        description: 'TypeDB Prague Engineers
+
+          Thursday, June 9 at 6:30 PM
+
+
+          (https://docs.vaticle.com/docs/comparisons/graph-databases-and-typedb) have matured into mainstream technologies, used across any industry powering mi...
+
+
+          https://www.meetup.com/typedb-prague/events/286110971/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286110971@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286110971/
+        dtstart: 2022-06-09 18:30:00+02:00
+        dtend: 2022-06-09 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Jun 14, 6:30 PM  CEST: TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems, using TypeQL as its '
+      og_title: Introduction to TypeDB and TypeQL | A Strongly-Typed Database, Tue, Jun 14, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/286111477/
+      ical:
+        summary: Introduction to TypeDB and TypeQL | A Strongly-Typed Database
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, June 14 at 6:30 PM
+
+
+          TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems...
+
+
+          https://www.meetup.com/typedb-prague/events/286111477/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286111477@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286111477/
+        dtstart: 2022-06-14 18:30:00+02:00
+        dtend: 2022-06-14 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 16, 6:30 PM  CEST: Join the [TypeDB community](https://docs.vaticle.com/docs/general/quickstart) to learn how we think about data modelling, and how TypeDB''s expressivity allows you to model '
+      og_title: TypeDB Academy | Modelling Principles, Thu, Jun 16, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/286113208/
+      ical:
+        summary: TypeDB Academy | Modelling Principles
+        description: 'TypeDB Prague Engineers
+
+          Thursday, June 16 at 6:30 PM
+
+
+          Join the (https://docs.vaticle.com/docs/general/quickstart) to learn how we think about data modelling, and how TypeDB''s expressivity allows you to mo...
+
+
+          https://www.meetup.com/typedb-prague/events/286113208/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286113208@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286113208/
+        dtstart: 2022-06-16 18:30:00+02:00
+        dtend: 2022-06-16 19:30:00+02:00
