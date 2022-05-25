@@ -4944,3 +4944,108 @@ series:
         url: https://www.meetup.com/Prague-NET-Meetup/events/268323465/
         dtstart: 2020-02-05 18:00:00+01:00
         dtend: 2020-02-05 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Sep 9, 5:30 PM  CEST: GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the power to ask for exactly w'
+      og_title: GraphQL in .NET, Thu, Sep 9, 2021, 5:30 PM   | Meetup
+      url: https://www.meetup.com/prague-net-meetup/events/280482935/
+      ical:
+        summary: GraphQL in .NET
+        description: 'Dotnet Days Meetup
+
+          Thursday, September 9 at 5:30 PM
+
+
+          GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the powe...
+
+
+          https://www.meetup.com/Prague-NET-Meetup/events/280482935/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280482935@meetup.com
+        url: https://www.meetup.com/Prague-NET-Meetup/events/280482935/
+        dtstart: 2021-09-09 17:30:00+02:00
+        dtend: 2021-09-09 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Apr 22, 5:30 PM  CEST: OAuth has been around for more than 10 years now, and has become the standard protocol for token-based security. Like every popular technology that has been growing with it'
+      og_title: 'Dominick Baier: OAuth - The good Parts, Thu, Apr 22, 2021, 5:30 PM   | Meetup'
+      url: https://www.meetup.com/prague-net-meetup/events/277417529/
+      ical:
+        summary: 'Dominick Baier: OAuth - The good Parts'
+        description: 'Dotnet Days Meetup
+
+          Thursday, April 22 at 5:30 PM
+
+
+          OAuth has been around for more than 10 years now, and has become the standard protocol for token-based security. Like every popular technology that ha...
+
+
+          https://www.meetup.com/Prague-NET-Meetup/events/277417529/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_277417529@meetup.com
+        url: https://www.meetup.com/Prague-NET-Meetup/events/277417529/
+        dtstart: 2021-04-22 17:30:00+02:00
+        dtend: 2021-04-22 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Feb 24, 6:00 PM  CET: Data Science and Artificial Intelligence are fascinating areas of computing. Microsoft is betting a lot on these new technologies, but we are also aware that data scientist'
+      og_title: Taking Advantage of AI Easily with Azure Cognitive Services - Laurent Bugnion, Mon, Feb 24, 2020, 6:00 PM   | Meetup
+      url: https://www.meetup.com/prague-net-meetup/events/268424627/
+      ical:
+        summary: Taking Advantage of AI Easily with Azure Cognitive Services - Laurent Bugnion
+        description: 'Dotnet Days Meetup
+
+          Monday, February 24 at 6:00 PM
+
+
+          Data Science and Artificial Intelligence are fascinating areas of computing. Microsoft is betting a lot on these new technologies, but we are also awa...
+
+
+          https://www.meetup.com/Prague-NET-Meetup/events/268424627/'
+        location: WorkLounge Karlín (Pernerova 51, Praha 8-Karlín, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_268424627@meetup.com
+        url: https://www.meetup.com/Prague-NET-Meetup/events/268424627/
+        dtstart: 2020-02-24 18:00:00+01:00
+        dtend: 2020-02-24 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Feb 5, 6:00 PM  CET: Presentation will be in English
+
+
+        Karel Zikmund - Async demystified
+
+        Abstract: https://sessionize.com/s/karel-zikmund/async_demystified/24175
+
+        Length: 60 min
+
+        Bio: https://sess'
+      og_title: .Net evening, Wed, Feb 5, 2020, 6:00 PM   | Meetup
+      url: https://www.meetup.com/prague-net-meetup/events/268323465/
+      ical:
+        summary: .Net evening
+        description: 'Dotnet Days Meetup
+
+          Wednesday, February 5 at 6:00 PM
+
+
+          Presentation will be in English Karel Zikmund - Async demystifiedAbstract: https://sessionize.com/s/karel-zikmund/async_demystified/24175Length: 60 mi...
+
+
+          https://www.meetup.com/Prague-NET-Meetup/events/268323465/'
+        location: Microsoft (Vyskočilova 1561/4a, Praha 4, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_268323465@meetup.com
+        url: https://www.meetup.com/Prague-NET-Meetup/events/268323465/
+        dtstart: 2020-02-05 18:00:00+01:00
+        dtend: 2020-02-05 20:00:00+01:00
