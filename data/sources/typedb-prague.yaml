@@ -1,7 +1,7 @@
 series:
   meetupcom:
     url: https://www.meetup.com/typedb-prague/
-    meta_description: 👋👋 Welcome to the Vaticle Community.This group gathers TypeDB Users and explorers to share valuable experiences and knowledge. You’ll find events on techniques for knowledge engineering, representat
+    meta_description: 👋👋 Welcome to the **[Vaticle](www.vaticle.com)** Community!This group gathers TypeDB Users and explorers to share valuable experiences and knowledge. You’ll find events on techniques for knowledge e
     og_title: TypeDB Prague Engineers (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/7/1/c/9/600_481769129.jpeg
   events:
