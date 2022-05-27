@@ -3856,3 +3856,57 @@ series:
         url: https://www.meetup.com/WebExpo/events/267898993/
         dtstart: 2021-09-21 10:00:00+02:00
         dtend: 2021-09-23 18:00:00+02:00
+  - meetupcom:
+      meta_description: 'Fri, Jun 10, 10:00 AM  CEST: WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers, and marketers.
+
+
+        We''re'
+      og_title: WebExpo 2022, Fri, Jun 10, 2022, 10:00 AM   | Meetup
+      url: https://www.meetup.com/webexpo/events/285984047/
+      ical:
+        summary: WebExpo 2022
+        description: 'WebExpo
+
+          Friday, June 10 at 10:00 AM
+
+
+          WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers,...
+
+
+          https://www.meetup.com/WebExpo/events/285984047/'
+        location: Palace Lucerna (Vodičkova 704/36, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285984047@meetup.com
+        url: https://www.meetup.com/WebExpo/events/285984047/
+        dtstart: 2022-06-10 10:00:00+02:00
+        dtend: 2022-06-12 18:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Sep 21, 10:00 AM  CEST: WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers, and marketers.
+
+
+        We''re'
+      og_title: WebExpo 2021, Tue, Sep 21, 2021, 10:00 AM   | Meetup
+      url: https://www.meetup.com/webexpo/events/267898993/
+      ical:
+        summary: WebExpo 2021
+        description: 'WebExpo
+
+          Tuesday, September 21 at 10:00 AM
+
+
+          WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers,...
+
+
+          https://www.meetup.com/WebExpo/events/267898993/'
+        location: Palace Lucerna (Vodičkova 704/36, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_267898993@meetup.com
+        url: https://www.meetup.com/WebExpo/events/267898993/
+        dtstart: 2021-09-21 10:00:00+02:00
+        dtend: 2021-09-23 18:00:00+02:00
