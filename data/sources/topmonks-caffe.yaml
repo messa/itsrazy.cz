@@ -5953,3 +5953,109 @@ series:
         url: https://www.meetup.com/TopMonks-Caffe/events/283522738/
         dtstart: 2022-02-01 19:00:00+01:00
         dtend: 2022-02-01 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, May 3, 7:00 PM  CEST: Další TopMonks Caffé bude mít nosné téma ze světa crypta a to konkrétně decentrilizované finance. Povídat bude Lumír Mrkva a Dušan Kovačič.'
+      og_title: Decentralised finances, Tue, May 3, 2022, 7:00 PM   | Meetup
+      url: https://www.meetup.com/topmonks-caffe/events/285524034/
+      ical:
+        summary: Decentralised finances
+        description: 'TopMonks Caffè
+
+          Tuesday, May 3 at 7:00 PM
+
+
+          Další TopMonks Caffé bude mít nosné téma ze světa crypta a to konkrétně decentrilizované finance. Povídat bude Lumír Mrkva a Dušan Kovačič.
+
+
+          https://www.meetup.com/TopMonks-Caffe/events/285524034/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285524034@meetup.com
+        url: https://www.meetup.com/TopMonks-Caffe/events/285524034/
+        dtstart: 2022-05-03 19:00:00+02:00
+        dtend: 2022-05-03 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Apr 5, 7:00 PM  CEST: Potkáme se osobně u pivka a dýmky v Loft N8.
+
+
+        Svůj příběh o změně kariéry nám prozradí Gabriela Jičínská, Jirka Píša, Phuc Nguyen a Holdy-Kurth Mouyabi. Přijďte si poslechn'
+      og_title: Změna kariéry, Tue, Apr 5, 2022, 7:00 PM   | Meetup
+      url: https://www.meetup.com/topmonks-caffe/events/284921450/
+      ical:
+        summary: Změna kariéry
+        description: 'TopMonks Caffè
+
+          Tuesday, April 5 at 7:00 PM
+
+
+          Potkáme se osobně u pivka a dýmky v Loft N8. Svůj příběh o změně kariéry nám prozradí Gabriela Jičínská, Jirka Píša, Phuc Nguyen a Holdy-Kurth Mouyabi...
+
+
+          https://www.meetup.com/TopMonks-Caffe/events/284921450/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284921450@meetup.com
+        url: https://www.meetup.com/TopMonks-Caffe/events/284921450/
+        dtstart: 2022-04-05 19:00:00+02:00
+        dtend: 2022-04-05 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Mar 1, 7:00 PM  CET: Tentokrát se potkáme osobně u pivka a dýmky v Loft N8.
+
+
+        Skywalk systems a Parallel Garden - Teplo, Bitcoin, Stévie
+
+        Využití generovaného tepla z těžby kryptoměn nebo serverů'
+      og_title: Pěstování květin s pomocí kryptoměn, Tue, Mar 1, 2022, 7:00 PM   | Meetup
+      url: https://www.meetup.com/topmonks-caffe/events/284177540/
+      ical:
+        summary: Pěstování květin s pomocí kryptoměn
+        description: 'TopMonks Caffè
+
+          Tuesday, March 1 at 7:00 PM
+
+
+          Tentokrát se potkáme osobně u pivka a dýmky v Loft N8.  Skywalk systems a Parallel Garden - Teplo, Bitcoin, Stévie Využití generovaného tepla z těžby ...
+
+
+          https://www.meetup.com/TopMonks-Caffe/events/284177540/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284177540@meetup.com
+        url: https://www.meetup.com/TopMonks-Caffe/events/284177540/
+        dtstart: 2022-03-01 19:00:00+01:00
+        dtend: 2022-03-01 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Feb 1, 7:00 PM  CET: Akce proběhne online a sledovat nás můžete na: https://zive.tv/topmonks-caffe/
+
+
+        Po skončení přednášek i tentokrát otevřeme Zoom na osobní dotazy a after party.'
+      og_title: Deno - A modern runtime for JavaScript and TypeScript, Tue, Feb 1, 2022, 7:00 PM   | Meetup
+      url: https://www.meetup.com/topmonks-caffe/events/283522738/
+      ical:
+        summary: Deno - A modern runtime for JavaScript and TypeScript
+        description: 'TopMonks Caffè
+
+          Tuesday, February 1 at 7:00 PM
+
+
+          Akce proběhne online a sledovat nás můžete na: https://zive.tv/topmonks-caffe/ Po skončení přednášek i tentokrát otevřeme Zoom na osobní dotazy a afte...\n
+
+          https://www.meetup.com/TopMonks-Caffe/events/283522738/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283522738@meetup.com
+        url: https://www.meetup.com/TopMonks-Caffe/events/283522738/
+        dtstart: 2022-02-01 19:00:00+01:00
+        dtend: 2022-02-01 21:00:00+01:00
