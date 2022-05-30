@@ -5759,3 +5759,51 @@ series:
         url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/285433878/
         dtstart: 2022-04-27 18:00:00+02:00
         dtend: 2022-04-27 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 2, 7:00 PM  CEST: Zúčastni se bezplatného online workshopu, kde tě zkušení mentoři provedou základy vývoje aplikací pomocí no-code platformy Salesforce, která zažívá boom ve světě informační'
+      og_title: 'ONLINE WORKSHOP: Základy no-code vývoje, Thu, Jun 2, 2022, 7:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-junior-software-developer-course/events/286154258/
+      ical:
+        summary: 'ONLINE WORKSHOP: Základy no-code vývoje'
+        description: 'Become a software developer from 0
+
+          Thursday, June 2 at 7:00 PM
+
+
+          Zúčastni se bezplatného online workshopu, kde tě zkušení mentoři provedou základy vývoje aplikací pomocí no-code platformy Salesforce, která zažívá bo...
+
+
+          https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/286154258/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286154258@meetup.com
+        url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/286154258/
+        dtstart: 2022-06-02 19:00:00+02:00
+        dtend: 2022-06-02 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Apr 27, 6:00 PM  CEST: Podle časopisu Forbes patří obchodní administrátoři a analytici mezi deset nejrychleji rostoucích pracovních pozic na síti LinkedIn. Chceš-li mít jistou budoucnost a kariér'
+      og_title: 'ONLINE WORKSHOP: Základy no-code vývoje, Wed, Apr 27, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-junior-software-developer-course/events/285433878/
+      ical:
+        summary: 'ONLINE WORKSHOP: Základy no-code vývoje'
+        description: 'Become a software developer from 0
+
+          Wednesday, April 27 at 6:00 PM
+
+
+          Podle časopisu Forbes patří obchodní administrátoři a analytici mezi deset nejrychleji rostoucích pracovních pozic na síti LinkedIn. Chceš-li mít jist...
+
+
+          https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/285433878/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285433878@meetup.com
+        url: https://www.meetup.com/Prague-Junior-Software-Developer-Course/events/285433878/
+        dtstart: 2022-04-27 18:00:00+02:00
+        dtend: 2022-04-27 21:00:00+02:00
