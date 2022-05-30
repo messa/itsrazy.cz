@@ -6567,3 +6567,51 @@ series:
         url: https://www.meetup.com/Prague-NET-Meetup/events/280482935/
         dtstart: 2021-09-09 17:30:00+02:00
         dtend: 2021-09-09 19:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Jun 8, 6:00 PM  CEST: **Blazor** is a new SPA framework you might have heard about. Let''s share some experience from using it in a few enterprise applications, one of them 2 years in production.'
+      og_title: Blazor - frontend framework for backend developers?, Wed, Jun 8, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/prague-net-meetup/events/286236089/
+      ical:
+        summary: Blazor - frontend framework for backend developers?
+        description: 'Dotnet Days Meetup
+
+          Wednesday, June 8 at 6:00 PM
+
+
+          **Blazor** is a new SPA framework you might have heard about. Let''s share some experience from using it in a few enterprise applications, one of them ...
+
+
+          https://www.meetup.com/Prague-NET-Meetup/events/286236089/'
+        location: Impact Hub Praha D10 (Drtinova 557/10, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286236089@meetup.com
+        url: https://www.meetup.com/Prague-NET-Meetup/events/286236089/
+        dtstart: 2022-06-08 18:00:00+02:00
+        dtend: 2022-06-08 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Sep 9, 5:30 PM  CEST: GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the power to ask for exactly w'
+      og_title: GraphQL in .NET, Thu, Sep 9, 2021, 5:30 PM   | Meetup
+      url: https://www.meetup.com/prague-net-meetup/events/280482935/
+      ical:
+        summary: GraphQL in .NET
+        description: 'Dotnet Days Meetup
+
+          Thursday, September 9 at 5:30 PM
+
+
+          GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the powe...
+
+
+          https://www.meetup.com/Prague-NET-Meetup/events/280482935/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280482935@meetup.com
+        url: https://www.meetup.com/Prague-NET-Meetup/events/280482935/
+        dtstart: 2021-09-09 17:30:00+02:00
+        dtend: 2021-09-09 19:00:00+02:00
