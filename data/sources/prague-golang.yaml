@@ -3353,3 +3353,114 @@ series:
         url: https://www.meetup.com/Prague-Golang-Meetup/events/278200916/
         dtstart: 2021-06-23 18:00:00+02:00
         dtend: 2021-06-23 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, May 31, 6:00 PM  CEST: Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **our first Golang Meetup** **of 2022**!
+
+
+        **🚨 Please [register via Eventbrite](https:'
+      og_title: 'Go Meetup in Prague #7, Tue, May 31, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-golang-meetup/events/285491798/
+      ical:
+        summary: 'Go Meetup in Prague #7'
+        description: 'Prague Golang Meetup
+
+          Tuesday, May 31 at 6:00 PM
+
+
+          Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **our first Golang Meetup** **of 2022**! **🚨 Please (https://www...
+
+
+          https://www.meetup.com/Prague-Golang-Meetup/events/285491798/'
+        location: Productboard s.r.o. (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285491798@meetup.com
+        url: https://www.meetup.com/Prague-Golang-Meetup/events/285491798/
+        dtstart: 2022-05-31 18:00:00+02:00
+        dtend: 2022-05-31 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Jun 23, 6:00 PM  CEST: In the Golang Prague Meetup #6 we will focus on the process of learning Go and programming languages in general.
+
+
+        We are joined by a fantastic guest Jon Calhoun. Jon is a f'
+      og_title: 'Golang Prague #6 with Jon Calhoun - Learning Go, Wed, Jun 23, 2021, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-golang-meetup/events/278200916/
+      ical:
+        summary: 'Golang Prague #6 with Jon Calhoun - Learning Go'
+        description: 'Prague Golang Meetup
+
+          Wednesday, June 23 at 6:00 PM
+
+
+          In the Golang Prague Meetup #6 we will focus on the process of learning Go and programming languages in general. We are joined by a fantastic guest Jo...
+
+
+          https://www.meetup.com/Prague-Golang-Meetup/events/278200916/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278200916@meetup.com
+        url: https://www.meetup.com/Prague-Golang-Meetup/events/278200916/
+        dtstart: 2021-06-23 18:00:00+02:00
+        dtend: 2021-06-23 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Mar 24, 6:00 PM  CET: Golang Prague #5 with Bill Kennedy
+
+
+        This month we are joined by Bill Kennedy who will be sharing on Go Module Engineering Decisions.
+
+
+        In this talk Bill will describe what h'
+      og_title: 'Golang Prague #5 with Bill Kennedy, Wed, Mar 24, 2021, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-golang-meetup/events/276557475/
+      ical:
+        summary: 'Golang Prague #5 with Bill Kennedy'
+        description: 'Prague Golang Meetup
+
+          Wednesday, March 24 at 6:00 PM
+
+
+          Golang Prague #5 with Bill Kennedy This month we are joined by Bill Kennedy who will be sharing on Go Module Engineering Decisions. In this talk Bill ...
+
+
+          https://www.meetup.com/Prague-Golang-Meetup/events/276557475/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_276557475@meetup.com
+        url: https://www.meetup.com/Prague-Golang-Meetup/events/276557475/
+        dtstart: 2021-03-24 18:00:00+01:00
+        dtend: 2021-03-24 19:00:00+01:00
+  - meetupcom:
+      meta_description: 'Wed, Sep 4, 6:00 PM  CEST: Tom Rue - Saga Patterns
+
+
+        SessionM built a platform that enables loyalty enhanced stored value cards, this makes it so that company''s such as Starbucks can have all purchase'
+      og_title: 'Golang Prague #4, Wed, Sep 4, 2019, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-golang-meetup/events/263611817/
+      ical:
+        summary: 'Golang Prague #4'
+        description: 'Prague Golang Meetup
+
+          Wednesday, September 4 at 6:00 PM
+
+
+          Tom Rue - Saga Patterns SessionM built a platform that enables loyalty enhanced stored value cards, this makes it so that company''s such as Starbucks ...
+
+
+          https://www.meetup.com/Prague-Golang-Meetup/events/263611817/'
+        location: SessionM (Pernerova 149/35, 186 00 Karlín, Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_263611817@meetup.com
+        url: https://www.meetup.com/Prague-Golang-Meetup/events/263611817/
+        dtstart: 2019-09-04 18:00:00+02:00
+        dtend: 2019-09-04 21:00:00+02:00
