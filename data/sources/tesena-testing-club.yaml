@@ -6379,3 +6379,64 @@ series:
         url: https://www.meetup.com/tesena-testing-club/events/285124272/
         dtstart: 2022-05-26 10:00:00+02:00
         dtend: 2022-05-26 11:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 16, 11:00 AM  CEST: * **Webinar content**
+
+
+        Have you ever wondered how to speed up your automation tests? Or whether waiting for elements to load on a webpage should be your concern? This webin'
+      og_title: '(EN) Selenium vs Browser: Battle of Tools in Robot Framework, Thu, Jun 16, 2022, 11:00 AM   | Meetup'
+      url: https://www.meetup.com/tesena-testing-club/events/285124311/
+      ical:
+        summary: '(EN) Selenium vs Browser: Battle of Tools in Robot Framework'
+        description: 'Tesena Testing Club
+
+          Thursday, June 16 at 11:00 AM
+
+
+          * **Webinar content** Have you ever wondered how to speed up your automation tests? Or whether waiting for elements to load on a webpage should be you...
+
+
+          https://www.meetup.com/tesena-testing-club/events/285124311/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285124311@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/285124311/
+        dtstart: 2022-06-16 11:00:00+02:00
+        dtend: 2022-06-16 12:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, May 26, 10:00 AM  CEST: **Obsah webináře:**
+
+
+        * **7 funkčních oblastí (od tvorby po reporting)**
+
+        * **4 vybrané plug-iny pro test management v Jira**
+
+        * **V čem který vyniká a na co si dát pozor?**
+
+
+        '
+      og_title: (CZ) Jira a Test management, Thu, May 26, 2022, 10:00 AM   | Meetup
+      url: https://www.meetup.com/tesena-testing-club/events/285124272/
+      ical:
+        summary: (CZ) Jira a Test management
+        description: 'Tesena Testing Club
+
+          Thursday, May 26 at 10:00 AM
+
+
+          **Obsah webináře:** * **7 funkčních oblastí (od tvorby po reporting)*** **4 vybrané plug-iny pro test management v Jira*** **V čem který vyniká a na c...
+
+
+          https://www.meetup.com/tesena-testing-club/events/285124272/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285124272@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/285124272/
+        dtstart: 2022-05-26 10:00:00+02:00
+        dtend: 2022-05-26 11:30:00+02:00
