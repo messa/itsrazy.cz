@@ -1,7 +1,7 @@
 series:
   id: pyvo-praha
   meetupcom:
-    url: https://www.meetup.com/Pyvo-Prague-Python-Meetup/
+    url: https://www.meetup.com/pyvo-prague-python-meetup/
     meta_description: Regular Czech Python meetup in Prague, Czech Republic. Python language culture, web development, deployment, and other current topics. We meet every third Wednesday each month for more than 10 years.
     og_title: 'Pyvo: Prague Python Meetup (Prague, Czech Republic)'
     image: https://secure.meetupstatic.com/photos/event/8/0/c/c/600_458372972.jpeg

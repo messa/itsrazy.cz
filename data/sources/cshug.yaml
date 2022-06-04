@@ -1,7 +1,7 @@
 series:
   id: cshug
   meetupcom:
-    url: https://www.meetup.com/CS-HUG/
+    url: https://www.meetup.com/cs-hug/
     meta_description: We are the official Big Data Meetup in Prague. Since 2015, we’ve invited experts and tech evangelists to deliver sessions every month on various topics within the big data domain, from success (and fa
     og_title: 'HUG: Big Data Meetup Prague (Prague, Czech Republic)'
     image: https://secure.meetupstatic.com/photos/event/1/7/3/600_489120371.jpeg

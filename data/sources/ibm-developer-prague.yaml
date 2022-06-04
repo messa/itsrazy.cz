@@ -1,6 +1,6 @@
 series:
   meetupcom:
-    url: https://www.meetup.com/IBM-Developer-Prague/
+    url: https://www.meetup.com/ibm-developer-prague/
     meta_description: Join us if you are interested in cloud computing, cognitive technology, Kubernetes and containers, IoT, Blockchain or open source software development.
     og_title: IBM Developer Czechia (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/e/1/9/2/600_490377746.jpeg

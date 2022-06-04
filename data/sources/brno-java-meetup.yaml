@@ -1,6 +1,6 @@
 series:
   meetupcom:
-    url: https://www.meetup.com/Brno-Java-Meetup/
+    url: https://www.meetup.com/brno-java-meetup/
     meta_description: Chceme sdílet zkušenosti napříč tématy, které zajímají týmy pracující kolem Javy:• Java ekosystém (Java core, JVM, Tooling, Frameworky)• Jazyky nad JVM (Kotlin, Scala..)• DevOps (CI, Cloud Native)• Da
     og_title: Brno Java Meetup (Brno, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/e/9/e/0/600_449879872.jpeg
