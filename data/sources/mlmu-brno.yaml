@@ -158,14 +158,14 @@ series:
           The talks will be live on YouTube. (Link will get displayed after you RSVP) Talk #1: How we use simple models to improve intent matching (Tomáš Vodráž...
 
 
-          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/282546299/'
+          https://www.meetup.com/machine-learning-meetup-brno/events/282546299/'
         location: Online event
         geo:
           lat: 49.2
           lon: 16.61
         status: CONFIRMED
         uid: event_282546299@meetup.com
-        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/282546299/
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/282546299/
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
   - meetupcom:
@@ -185,14 +185,14 @@ series:
           DAIDALOS – AI as a New Frontier for Journalism: Where to Find Value in Tech-Driven Journalism We invite you to the online discussion AI as a New Front...
 
 
-          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/283095380/'
+          https://www.meetup.com/machine-learning-meetup-brno/events/283095380/'
         location: Online event
         geo:
           lat: 49.2
           lon: 16.61
         status: CONFIRMED
         uid: event_283095380@meetup.com
-        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/283095380/
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/283095380/
         dtstart: 2022-01-19 18:00:00+01:00
         dtend: 2022-01-19 20:00:00+01:00
   - meetupcom:
@@ -214,14 +214,14 @@ series:
           Talk #1: Lhotse: a speech data representation library for the modern deep learning ecosystem (Piotr Żelasko, Meaning) AbstractSpeech data is notorious...
 
 
-          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/283360072/'
+          https://www.meetup.com/machine-learning-meetup-brno/events/283360072/'
         location: Online event
         geo:
           lat: 49.2
           lon: 16.61
         status: CONFIRMED
         uid: event_283360072@meetup.com
-        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/283360072/
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/283360072/
         dtstart: 2022-01-27 18:00:00+01:00
         dtend: 2022-01-27 20:00:00+01:00
   - meetupcom:
@@ -241,14 +241,14 @@ series:
           # DAIDALOS – The Role of AI in Achieving the Sustainable Development Goals We invite you to the online discussion "The Role of AI in Achieving the Sus...
 
 
-          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/285343994/'
+          https://www.meetup.com/machine-learning-meetup-brno/events/285343994/'
         location: Online event
         geo:
           lat: 49.2
           lon: 16.61
         status: CONFIRMED
         uid: event_285343994@meetup.com
-        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/285343994/
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/285343994/
         dtstart: 2022-04-19 16:00:00+02:00
         dtend: 2022-04-19 18:00:00+02:00
   - meetupcom:

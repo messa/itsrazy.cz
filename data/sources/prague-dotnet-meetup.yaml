@@ -20,14 +20,14 @@ series:
           GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the powe...
 
 
-          https://www.meetup.com/Prague-NET-Meetup/events/280482935/'
+          https://www.meetup.com/prague-net-meetup/events/280482935/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_280482935@meetup.com
-        url: https://www.meetup.com/Prague-NET-Meetup/events/280482935/
+        url: https://www.meetup.com/prague-net-meetup/events/280482935/
         dtstart: 2021-09-09 17:30:00+02:00
         dtend: 2021-09-09 19:00:00+02:00
   - meetupcom:
@@ -6533,14 +6533,14 @@ series:
           **Blazor** is a new SPA framework you might have heard about. Let''s share some experience from using it in a few enterprise applications, one of them ...
 
 
-          https://www.meetup.com/Prague-NET-Meetup/events/286236089/'
+          https://www.meetup.com/prague-net-meetup/events/286236089/'
         location: Impact Hub Praha D10 (Drtinova 557/10, Praha 5-Smíchov, Czech Republic 150 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_286236089@meetup.com
-        url: https://www.meetup.com/Prague-NET-Meetup/events/286236089/
+        url: https://www.meetup.com/prague-net-meetup/events/286236089/
         dtstart: 2022-06-08 18:00:00+02:00
         dtend: 2022-06-08 20:00:00+02:00
   - meetupcom:

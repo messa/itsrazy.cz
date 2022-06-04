@@ -81,14 +81,14 @@ series:
           🔥( https://www.strv.com/academy/backend ) 🔥 STRV’s Backend team is the backbone of every project. It’s not only about developing the backend but about...
 
 
-          https://www.meetup.com/STRV-Meetups/events/285436855/'
+          https://www.meetup.com/strv-meetups/events/285436855/'
         location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285436855@meetup.com
-        url: https://www.meetup.com/STRV-Meetups/events/285436855/
+        url: https://www.meetup.com/strv-meetups/events/285436855/
         dtstart: 2022-06-09 18:00:00+02:00
         dtend: 2022-06-09 20:00:00+02:00
   - meetupcom:
@@ -390,14 +390,14 @@ series:
           **👉 (https://www.eventbrite.com/e/strv-web3-meetup-tickets-338869065497?aff=meetup) 👈** We’re excited to be launching STRV Web3 Meetups — monthly pane...
 
 
-          https://www.meetup.com/STRV-Meetups/events/285858747/'
+          https://www.meetup.com/strv-meetups/events/285858747/'
         location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285858747@meetup.com
-        url: https://www.meetup.com/STRV-Meetups/events/285858747/
+        url: https://www.meetup.com/strv-meetups/events/285858747/
         dtstart: 2022-05-24 19:00:00+02:00
         dtend: 2022-05-24 21:00:00+02:00
   - meetupcom:
@@ -444,14 +444,14 @@ series:
           **( https://www.strv.com/academy/becoming-an-ios-engineer), THIS IS NOT A PUBLIC EVENT** The STRV iOS team is big on sharing what we know, something w...
 
 
-          https://www.meetup.com/STRV-Meetups/events/285859234/'
+          https://www.meetup.com/strv-meetups/events/285859234/'
         location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285859234@meetup.com
-        url: https://www.meetup.com/STRV-Meetups/events/285859234/
+        url: https://www.meetup.com/strv-meetups/events/285859234/
         dtstart: 2022-07-12 18:00:00+02:00
         dtend: 2022-07-12 20:00:00+02:00
   - meetupcom:

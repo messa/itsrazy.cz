@@ -151,14 +151,14 @@ series:
           𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐭𝐚𝐥𝐤: although there is an endless number of technical questions you can be asked during an interview, there are some common patterns that c...
 
 
-          https://www.meetup.com/Pure-Storage-Talks/events/281401178/'
+          https://www.meetup.com/pure-storage-talks/events/281401178/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_281401178@meetup.com
-        url: https://www.meetup.com/Pure-Storage-Talks/events/281401178/
+        url: https://www.meetup.com/pure-storage-talks/events/281401178/
         dtstart: 2021-11-11 18:00:00+01:00
         dtend: 2021-11-11 19:30:00+01:00
   - meetupcom:
@@ -176,14 +176,14 @@ series:
           PURE has landed in Prague 2 years ago and what a journey has been since then. We have proven that we are a strong company even through most difficult ...
 
 
-          https://www.meetup.com/Pure-Storage-Talks/events/282039970/'
+          https://www.meetup.com/pure-storage-talks/events/282039970/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_282039970@meetup.com
-        url: https://www.meetup.com/Pure-Storage-Talks/events/282039970/
+        url: https://www.meetup.com/pure-storage-talks/events/282039970/
         dtstart: 2021-12-09 18:00:00+01:00
         dtend: 2021-12-09 19:30:00+01:00
   - meetupcom:
@@ -203,14 +203,14 @@ series:
           **Update**: Due to the situation in Ukraine, the event was moved to April 7th, we still look forward to seeing you there! Doing threat modeling is one...
 
 
-          https://www.meetup.com/Pure-Storage-Talks/events/283991609/'
+          https://www.meetup.com/pure-storage-talks/events/283991609/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_283991609@meetup.com
-        url: https://www.meetup.com/Pure-Storage-Talks/events/283991609/
+        url: https://www.meetup.com/pure-storage-talks/events/283991609/
         dtstart: 2022-04-07 18:00:00+02:00
         dtend: 2022-04-07 19:30:00+02:00
   - meetupcom:
@@ -535,14 +535,14 @@ series:
           **IMPORTANT! This is a hybrid event.****Take just a minute to register (https://docs.google.com/forms/d/e/1FAIpQLSfrjEd73wmXPJwdfuOx_7V3PmoXvzuCwDD81c...
 
 
-          https://www.meetup.com/Pure-Storage-Talks/events/285674292/'
+          https://www.meetup.com/pure-storage-talks/events/285674292/'
         location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285674292@meetup.com
-        url: https://www.meetup.com/Pure-Storage-Talks/events/285674292/
+        url: https://www.meetup.com/pure-storage-talks/events/285674292/
         dtstart: 2022-06-02 18:00:00+02:00
         dtend: 2022-06-02 19:30:00+02:00
   - meetupcom:
