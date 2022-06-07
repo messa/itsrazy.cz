@@ -519,3 +519,29 @@ series:
         url: https://www.meetup.com/praguejs/events/285600611/
         dtstart: 2022-05-31 18:30:00+02:00
         dtend: 2022-05-31 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Jun 29, 6:30 PM  CEST: Get out and get social in 2022 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that a'
+      og_title: '2022 #6 Local First, Wed, Jun 29, 2022, 6:30 PM   | Meetup'
+      url: https://www.meetup.com/praguejs/events/285600682/
+      ical:
+        summary: '2022 #6 Local First'
+        description: 'PragueJS
+
+          Wednesday, June 29 at 6:30 PM
+
+
+          Get out and get social in 2022 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse r...
+
+
+          https://www.meetup.com/praguejs/events/285600682/'
+        location: Kulturní centrum Klubovna (, Praha-Praha 6, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285600682@meetup.com
+        url: https://www.meetup.com/praguejs/events/285600682/
+        dtstart: 2022-06-29 18:30:00+02:00
+        dtend: 2022-06-29 20:30:00+02:00
