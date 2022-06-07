@@ -14311,3 +14311,39 @@ series:
         url: https://www.meetup.com/gdgprague/events/285698390/
         dtstart: 2022-05-24 18:30:00+02:00
         dtend: 2022-05-24 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Aug 2, 6:30 PM  CEST: • How to join?
+
+        Online only because of covid https://discord.gg/TnaMJMyTDw
+
+
+        • What we''ll do
+
+        https://sites.google.com/site/garagepragueone/home
+
+
+        http://gdg-garage.github.io/
+
+        '
+      og_title: GDG Garage Prague One, Tue, Aug 2, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/gdgprague/events/xqcsqsydclbdb/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Tuesday, August 2 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/gdgprague/events/xqcsqsydclbdb/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_xqcsqsydclbdb@meetup.com
+        url: https://www.meetup.com/gdgprague/events/xqcsqsydclbdb/
+        dtstart: 2022-08-02 18:30:00+02:00
+        dtend: 2022-08-02 20:30:00+02:00

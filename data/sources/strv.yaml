@@ -6559,3 +6559,30 @@ series:
         url: https://www.meetup.com/strv-meetups/events/285858747/
         dtstart: 2022-05-24 19:00:00+02:00
         dtend: 2022-05-24 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Jun 15, 7:00 PM  CEST: **💥 [MAKE SURE TO GRAB A TICKET HERE](https://www.eventbrite.com/e/strv-web3-meetup-vol-2-tickets-359472159907?aff=meetup) 💥**
+
+
+        Join this month’s royal edition of our STR'
+      og_title: STRV Web3 Meetup Vol. 2, Wed, Jun 15, 2022, 7:00 PM   | Meetup
+      url: https://www.meetup.com/strv-meetups/events/286417910/
+      ical:
+        summary: STRV Web3 Meetup Vol. 2
+        description: 'STRV Meetups
+
+          Wednesday, June 15 at 7:00 PM
+
+
+          **💥 (https://www.eventbrite.com/e/strv-web3-meetup-vol-2-tickets-359472159907?aff=meetup) 💥** Join this month’s royal edition of our STRV Web3 Meetups...
+
+
+          https://www.meetup.com/strv-meetups/events/286417910/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286417910@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/286417910/
+        dtstart: 2022-06-15 19:00:00+02:00
+        dtend: 2022-06-15 22:00:00+02:00

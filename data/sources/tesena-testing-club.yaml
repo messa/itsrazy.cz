@@ -6562,3 +6562,37 @@ series:
         url: https://www.meetup.com/tesena-testing-club/events/285124272/
         dtstart: 2022-05-26 10:00:00+02:00
         dtend: 2022-05-26 11:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Jun 21, 8:30 PM  CEST: O čom to bude:
+
+
+        * Pokec s expertom na cypress.io Filipom Fricom
+
+        * Čo prináša nová verzia 10 - máme sa tešiť alebo báť?
+
+        * Ďalšie novinky zo sveta cypress testingu
+
+
+        Link na m'
+      og_title: '(SK) 🇸🇰 Pokec s Filipom Hricom: Cypress 10 - tešiť sa alebo báť?, Tue, Jun 21, 2022, 8:30 PM   | Meetup'
+      url: https://www.meetup.com/tesena-testing-club/events/286425204/
+      ical:
+        summary: '(SK) 🇸🇰 Pokec s Filipom Hricom: Cypress 10 - tešiť sa alebo báť?'
+        description: 'Tesena Testing Club
+
+          Tuesday, June 21 at 8:30 PM
+
+
+          O čom to bude: * Pokec s expertom na cypress.io Filipom Fricom* Čo prináša nová verzia 10 - máme sa tešiť alebo báť?* Ďalšie novinky zo sveta cypress ...
+
+
+          https://www.meetup.com/tesena-testing-club/events/286425204/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286425204@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/286425204/
+        dtstart: 2022-06-21 20:30:00+02:00
+        dtend: 2022-06-21 22:30:00+02:00

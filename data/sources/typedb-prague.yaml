@@ -1320,3 +1320,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/286113208/
         dtstart: 2022-06-16 18:30:00+02:00
         dtend: 2022-06-16 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Jun 21, 6:30 PM  CEST: In this [TypeDB Academy](https://docs.vaticle.com/docs/general/quickstart), we start by gaining an understanding of the fundamental components of TypeDB''s type system and w'
+      og_title: TypeDB Academy - Getting Started with Schema Design, Tue, Jun 21, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/286113510/
+      ical:
+        summary: TypeDB Academy - Getting Started with Schema Design
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, June 21 at 6:30 PM
+
+
+          In this (https://docs.vaticle.com/docs/general/quickstart), we start by gaining an understanding of the fundamental components of TypeDB''s type system...
+
+
+          https://www.meetup.com/typedb-prague/events/286113510/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286113510@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286113510/
+        dtstart: 2022-06-21 18:30:00+02:00
+        dtend: 2022-06-21 19:30:00+02:00
