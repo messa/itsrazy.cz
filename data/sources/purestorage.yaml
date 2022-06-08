@@ -4399,3 +4399,27 @@ series:
         url: https://www.meetup.com/pure-storage-talks/events/281401178/
         dtstart: 2021-11-11 18:00:00+01:00
         dtend: 2021-11-11 19:30:00+01:00
+  - meetupcom:
+      meta_description: 'Thu, Jun 16, 6:00 PM  CEST: You are welcome to join us for the next Pure Storage Meet Up that will touch the topic of **Optimizing Go**. We’ll walk you through the basic tools Go has to offer for anal'
+      og_title: Optimizing Go Meet Up, Thu, Jun 16, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/pure-storage-talks/events/286435658/
+      ical:
+        summary: Optimizing Go Meet Up
+        description: 'Pure Storage Talks
+
+          Thursday, June 16 at 6:00 PM
+
+
+          You are welcome to join us for the next Pure Storage Meet Up that will touch the topic of **Optimizing Go**. We’ll walk you through the basic tools Go...
+
+
+          https://www.meetup.com/pure-storage-talks/events/286435658/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286435658@meetup.com
+        url: https://www.meetup.com/pure-storage-talks/events/286435658/
+        dtstart: 2022-06-16 18:00:00+02:00
+        dtend: 2022-06-16 19:30:00+02:00
