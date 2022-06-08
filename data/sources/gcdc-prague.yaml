@@ -6,17 +6,10 @@ series:
     image: https://secure.meetupstatic.com/photos/event/d/f/b/5/600_471357269.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, May 19, 6:30 PM  CEST: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o tom jak s GCP začít]
-
-
-        Proč?
-
-        ======
-
-        Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme př'
-      og_title: Cloud Talks vol.7 {Jak začít s GCP}, Wed, May 19, 2021, 6:30 PM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/7/6/7/0/600_495210320.jpeg
-      url: https://www.meetup.com/gcdc-prague/events/276944440/
+      url: https://www.meetup.com/login/
       ical:
         summary: Cloud Talks vol.7 {Jak začít s GCP}
         description: 'Google Cloud Developer Community Prague
@@ -38,17 +31,10 @@ series:
         dtstart: 2021-05-19 18:30:00+02:00
         dtend: 2021-05-19 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Mar 3, 6:30 PM  CET: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o K8s]
-
-
-        Proč?
-
-        ======
-
-        Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme příležitost k setk'
-      og_title: Cloud Talks vol.6 {Kubernetes}, Wed, Mar 3, 2021, 6:30 PM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/b/f/3/600_490519443.jpeg
-      url: https://www.meetup.com/gcdc-prague/events/274666372/
+      url: https://www.meetup.com/login/
       ical:
         summary: Cloud Talks vol.6 {Kubernetes}
         description: 'Google Cloud Developer Community Prague
@@ -70,17 +56,10 @@ series:
         dtstart: 2021-03-03 18:30:00+01:00
         dtend: 2021-03-03 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Nov 11, 6:30 PM  CET: [Pojďme se potkat online přes Google Meet a nasdílet zkušenosti o Serverless Computing]
-
-
-        Proč?
-
-        ======
-
-        Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme p'
-      og_title: Cloud Talks vol.5 {Serverless Computing}, Wed, Nov 11, 2020, 6:30 PM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/b/f/3/600_490519443.jpeg
-      url: https://www.meetup.com/gcdc-prague/events/273622225/
+      url: https://www.meetup.com/login/
       ical:
         summary: Cloud Talks vol.5 {Serverless Computing}
         description: 'Google Cloud Developer Community Prague
@@ -102,17 +81,10 @@ series:
         dtstart: 2020-11-11 18:30:00+01:00
         dtend: 2020-11-11 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Oct 7, 6:30 PM  CEST: [Pojďme se potkat online a nasdílet zkušenosti o práci s daty]
-
-
-        Proč?
-
-        ======
-
-        Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme příležitost k setkávání na'
-      og_title: Cloud Talks vol.4 {Data}, Wed, Oct 7, 2020, 6:30 PM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/4/b/f/3/600_490519443.jpeg
-      url: https://www.meetup.com/gcdc-prague/events/272110257/
+      url: https://www.meetup.com/login/
       ical:
         summary: Cloud Talks vol.4 {Data}
         description: 'Google Cloud Developer Community Prague

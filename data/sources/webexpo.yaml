@@ -7,13 +7,10 @@ series:
     image: https://secure.meetupstatic.com/photos/event/d/7/b/9/600_483715225.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, Sep 21, 10:00 AM  CEST: WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers, and marketers.
-
-
-        We''re'
-      og_title: WebExpo 2021, Tue, Sep 21, 2021, 10:00 AM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/b/3/d/d/600_497506045.jpeg
-      url: https://www.meetup.com/webexpo/events/267898993/
+      url: https://www.meetup.com/login/
       ical:
         summary: WebExpo 2021
         description: 'WebExpo

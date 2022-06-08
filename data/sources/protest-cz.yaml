@@ -141,12 +141,10 @@ series:
         dtstart: 2021-10-26 18:00:00+02:00
         dtend: 2021-10-26 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Nov 30, 6:00 PM  CET: Annotation
-
-        Puppeteer is a node library that provides high-level API to control chrome and chromium. Puppeteer can also be used for browser automation as it has all capabili'
-      og_title: 104. [pro:]TEST! – Vivek Shringi about Puppeteer, Tue, Nov 30, 2021, 6:00 PM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/b/b/0/e/600_500267886.jpeg
-      url: https://www.meetup.com/protest_cz/events/282124529/
+      url: https://www.meetup.com/login/
       ical:
         summary: 104. [pro:]TEST! – Vivek Shringi about Puppeteer
         description: '[pro:]TEST!
@@ -167,11 +165,9 @@ series:
         dtstart: 2021-11-30 18:00:00+01:00
         dtend: 2021-11-30 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Jan 25, 6:00 PM  CET: Jednou možná přijde čas, kdy se i vaše QA oddělení stane úzkým hrdlem vývoje.
-
-        A jak z toho následně ven, obzvlášť v době, kdy najít dobrého testera na trhu práce je značně '
-      og_title: 105. [pro:]TEST! – Libor Šimo o teorii omezení, Tue, Jan 25, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/protest_cz/events/283227886/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 105. [pro:]TEST! – Libor Šimo o teorii omezení
         description: '[pro:]TEST!
@@ -192,15 +188,9 @@ series:
         dtstart: 2022-01-25 18:00:00+01:00
         dtend: 2022-01-25 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 1, 6:00 PM  CET: **Anotace přednášky:**
-
-
-        Jak se hledá tester? Jak se hledá dobrý tester? To je téma dalšího panelové diskuse na [pro:]TEST!u.
-
-
-        Online se setkáme s následujícími kolegyněmi a'
-      og_title: 106. [pro:]TEST! Jak se hledá tester, Tue, Mar 1, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/protest_cz/events/284148042/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 106. [pro:]TEST! Jak se hledá tester
         description: '[pro:]TEST!
@@ -222,13 +212,9 @@ series:
         dtstart: 2022-03-01 18:00:00+01:00
         dtend: 2022-03-01 19:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Mar 29, 6:00 PM  CEST: Chcete si vyzkoušet, jak jako team umíte komunikovat a spolupracovat při řešení krizové situace? Přijďte si vyzkoušet simulaci **Raven13**.
-
-        **Co vás čeká?**
-
-        Simulace bude p'
-      og_title: 107. [pro:]TEST! meetup - Zachraňte životy! Kooperativní hra., Tue, Mar 29, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/protest_cz/events/284821963/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 107. [pro:]TEST! meetup - Zachraňte životy! Kooperativní hra.
         description: '[pro:]TEST!

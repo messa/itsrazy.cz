@@ -61604,12 +61604,9 @@ series:
         dtstart: 2020-03-04 19:00:00+01:00
         dtend: 2020-03-04 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Jun 10, 7:00 PM  CEST: Ve čtvrtek 10.6. chystáme další živou Medvědárnu na Instagramu, tentokrát zaměřenou na JAVA lovers! :-)
-
-
-        Těm, kteří se chtějí v Javě naučit sami více, předáme maximum toho,'
-      og_title: Medvědárna, Thu, Jun 10, 2021, 7:00 PM   | Meetup
-      url: https://www.meetup.com/medvědi/events/278701028/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Medvědárna
         description: 'Medvědi
@@ -61631,12 +61628,9 @@ series:
         dtstart: 2021-06-10 19:00:00+02:00
         dtend: 2021-06-10 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Mar 4, 5:00 PM  CET: Hola hola, Medvědárna volá!
-
-
-        Pojďme si dát medvědí dýchánek on-line, chceme si s vámi zase povídat. Tentokrát o tom, jak se změnila podoba náboru IT kapacit a co na tom výv'
-      og_title: Medvědárna ONLINE, Thu, Mar 4, 2021, 5:00 PM   | Meetup
-      url: https://www.meetup.com/medvědi/events/276710007/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Medvědárna ONLINE
         description: 'Medvědi
@@ -61658,14 +61652,9 @@ series:
         dtstart: 2021-03-04 17:00:00+01:00
         dtend: 2021-03-04 18:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, May 6, 5:00 PM  CEST: Rozhodli jsme se, že zkusíme udělat první ONLINE Medvědárnu
-
-        Přenos zde: https://zoom.us/j/96688476433 (bude propojeno na FB i youtube)
-
-
-        Big Brother v IT - měřit nebo neměři'
-      og_title: Online Medvědárna, Wed, May 6, 2020, 5:00 PM   | Meetup
-      url: https://www.meetup.com/medvědi/events/270291504/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Online Medvědárna
         description: 'Medvědi
@@ -61687,12 +61676,9 @@ series:
         dtstart: 2020-05-06 17:00:00+02:00
         dtend: 2020-05-06 18:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Mar 4, 7:00 PM  CET: OpenAPI - dobrý přítel nejen backend vývojáře
-
-
-        Na další medvědárnu jsme pro přednášení ukecali Vlastíka Hájka :)) Vlastík je náš dlouholetý medvědí kamarád a na medvědárny '
-      og_title: Medvědárna, Wed, Mar 4, 2020, 7:00 PM   | Meetup
-      url: https://www.meetup.com/medvědi/events/269001570/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Medvědárna
         description: 'Medvědi

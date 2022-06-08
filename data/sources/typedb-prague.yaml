@@ -1225,9 +1225,9 @@ series:
         dtstart: 2022-05-24 18:30:00+02:00
         dtend: 2022-05-24 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jun 7, 6:30 PM  CEST: Applications running on production have much higher requirements. Not only do they need to be correct, they also need to be "always-on", handle a much bigger user load, and'
-      og_title: Building a Distributed Database With the Raft Replication Algorithm, Tue, Jun 7, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/typedb-prague/events/286110500/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Building a Distributed Database With the Raft Replication Algorithm
         description: 'TypeDB Prague Engineers

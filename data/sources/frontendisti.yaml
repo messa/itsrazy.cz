@@ -130,18 +130,10 @@ series:
         dtstart: 2021-05-29 10:00:00+02:00
         dtend: 2021-05-29 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Feb 9, 6:00 PM  CET: První letošní sraz Frontendistů - tentokrát na téma testování!
-
-
-        Online stream naleznete na youtube https://www.youtube.com/watch?v=7ipac1_L_8w
-
-
-        Program:
-
-        1. Martin Krištof -'
-      og_title: Testování - Frontedisti.cz LIVE, Wed, Feb 9, 2022, 6:00 PM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
-      url: https://www.meetup.com/frontendisti/events/mbjhpsydcdbmb/
+      url: https://www.meetup.com/login/
       ical:
         summary: Testování - Frontedisti.cz LIVE
         description: 'Frontendisti.cz
@@ -194,15 +186,10 @@ series:
         dtstart: 2021-11-10 18:30:00+01:00
         dtend: 2021-11-10 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Mar 9, 6:00 PM  CET: Dost bylo pouze online meetupů.
-
-        **Tento bude opět hybridní.**
-
-
-        Dorazit můžete **NAŽIVO** do Brna do kanceláři SUPERKODERS. ALe pokud je to od vás do Brna daleko, připojte s'
-      og_title: Nástroje pro design webu a spolupráce s designéry | Frontedisti.cz LIVE, Wed, Mar 9, 2022, 6:00 PM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
-      url: https://www.meetup.com/frontendisti/events/mbjhpsydcfbmb/
+      url: https://www.meetup.com/login/
       ical:
         summary: Nástroje pro design webu a spolupráce s designéry | Frontedisti.cz LIVE
         description: 'Frontendisti.cz
@@ -223,10 +210,10 @@ series:
         dtstart: 2022-03-09 18:00:00+01:00
         dtend: 2022-03-09 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Apr 13, 6:30 PM  CEST: One of the things that web developers struggle with is web performance. Web performance is related to the speed at which web content is displayed on the client-side. This c'
-      og_title: Performance meetup (Pipedrive, Praha), Wed, Apr 13, 2022, 6:30 PM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/2/2/6/600_498544646.jpeg
-      url: https://www.meetup.com/frontendisti/events/mbjhpsydcgbrb/
+      url: https://www.meetup.com/login/
       ical:
         summary: Performance meetup (Pipedrive, Praha)
         description: 'Frontendisti.cz
@@ -248,9 +235,9 @@ series:
         dtstart: 2022-04-13 18:30:00+02:00
         dtend: 2022-04-13 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, May 11, 6:00 PM  CEST: Užijte si s námi další **hybridní meetup v Brně.** Tentokrát **naživo** v prostorách **Czechitas.** A pokud to do Brna máte daleko, spojte se s námi **online** (youtube.com'
-      og_title: 'CSS kam se podíváš... a křest knihy "CSS: moderní layout" | Frontendisti.cz LIVE, Wed, May 11, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/frontendisti/events/285413505/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'CSS kam se podíváš... a křest knihy "CSS: moderní layout" | Frontendisti.cz LIVE'
         description: 'Frontendisti.cz

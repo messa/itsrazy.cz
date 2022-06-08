@@ -617,9 +617,9 @@ series:
         dtstart: 2022-04-27 16:30:00+02:00
         dtend: 2022-04-27 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, May 5, 7:00 PM  CEST: ✍️ Creating user-friendly copy for mobile and web apps is getting more and more attention. When should UX Writers enter the design process? How should they collaborate with'
-      og_title: 'UX Writing vs UX Design: The Ultimate Workflow┃PRAGUE UX WRITERS MEETUP, Thu, May 5, 2022, 7:00 PM   | Meetup'
-      url: https://www.meetup.com/asociace-ux/events/285416490/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'UX Writing vs UX Design: The Ultimate Workflow┃PRAGUE UX WRITERS MEETUP'
         description: 'Asociace UX
@@ -641,9 +641,9 @@ series:
         dtstart: 2022-05-05 19:00:00+02:00
         dtend: 2022-05-05 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Mon, May 2, 6:00 PM  CEST: Naštěstí už není pravdou, že se UX design a související disciplíny v České republice skoro nikde formálně nevyučují. Navazujeme tedy na dlouholetou spolupráci akademické sf'
-      og_title: '🎓 UX Monday Speciál: Formální vzdělávání UX specialistů v ČR, Mon, May 2, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/asociace-ux/events/285467847/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: '🎓 UX Monday Speciál: Formální vzdělávání UX specialistů v ČR'
         description: 'Asociace UX
@@ -665,11 +665,9 @@ series:
         dtstart: 2022-05-02 18:00:00+02:00
         dtend: 2022-05-02 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, May 23, 9:30 AM  CEST: Research Tuesday jsou setkání, kde profesionálové z oboru uživatelského výzkumu sdílí svoje zkušenosti.
-
-        Akci organizují Výzkumatky – Volné sdružení výzkumnic s odbornými zk'
-      og_title: 'Research Tuesday: Jak zkoumat citlivá témata a neublížit? , Mon, May 23, 2022, 9:30 AM   | Meetup'
-      url: https://www.meetup.com/asociace-ux/events/285517158/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Research Tuesday: Jak zkoumat citlivá témata a neublížit? '
         description: 'Asociace UX
@@ -691,9 +689,9 @@ series:
         dtstart: 2022-05-23 09:30:00+02:00
         dtend: 2022-05-23 12:30:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Jun 6, 6:00 PM  CEST: ***Jak se při rozvoji produktů orientovat v nápadech, příležitostech a řešení, tak abyste se v nich neztratili a vybírali vždy takové, ke kterým budete mít opravdu dobré dů'
-      og_title: 'UX Monday: Jak se nezbláznit z Backlogu (Opportunity Solution Tree), Mon, Jun 6, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/asociace-ux/events/286240684/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'UX Monday: Jak se nezbláznit z Backlogu (Opportunity Solution Tree)'
         description: 'Asociace UX

@@ -6,13 +6,10 @@ series:
     image: https://secure.meetupstatic.com/photos/event/9/7/2/d/600_498578701.jpeg
   events:
   - meetupcom:
-      meta_description: 'Thu, Sep 16, 6:00 PM  CEST: ⚠️ Register via Eventbrite to get the ticket: https://www.eventbrite.com/e/superface-demo-day-self-integrating-applications-in-nodejs-tickets-169443392749
-
-
-        Join us in celeb'
-      og_title: 'Superface Demo Day: Self-integrating applications in Node.js, Thu, Sep 16, 2021, 6:00 PM   | Meetup'
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/9/7/4/6/600_498578726.jpeg
-      url: https://www.meetup.com/api-prague/events/280531427/
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Superface Demo Day: Self-integrating applications in Node.js'
         description: 'API Prague: The people and tech behind open APIs
@@ -34,10 +31,10 @@ series:
         dtstart: 2021-09-16 18:00:00+02:00
         dtend: 2021-09-16 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Nov 8, 4:00 PM  CET: Integrate APIs with Superface in 3 lines of code. Your applications will self-integrate (and maintain the integrations) autonomously, without any proxies and gateways betwe'
-      og_title: APIs without the Pain 🚀 Superface Intro Webinar, Mon, Nov 8, 2021, 4:00 PM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/b/1/9/6/600_499785462.jpeg
-      url: https://www.meetup.com/api-prague/events/281693311/
+      url: https://www.meetup.com/login/
       ical:
         summary: APIs without the Pain 🚀 Superface Intro Webinar
         description: 'API Prague: The people and tech behind open APIs

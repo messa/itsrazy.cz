@@ -6,12 +6,9 @@ series:
     image: https://secure.meetupstatic.com/photos/event/a/e/9/d/600_503684701.jpeg
   events:
   - meetupcom:
-      meta_description: 'Tue, May 10, 6:00 PM  CEST: Hello data-devourers and Python conjurers!
-
-
-        We haven''t had a proper in-person meeting with talks for ages but now we are back with a perfect venue (CreativeDock) and two ta'
-      og_title: 'PyData Prague #10 - Pandemic Lite, Tue, May 10, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/pydata-prague/events/285562340/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'PyData Prague #10 - Pandemic Lite'
         description: 'PyData Prague
@@ -33,9 +30,9 @@ series:
         dtstart: 2022-05-10 18:00:00+02:00
         dtend: 2022-05-10 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Oct 28, 8:30 AM  CEST: The PyData Global Online Conference is where users, contributors, and newcomers can share experiences to learn from one another and grow together. PyData provides a virtual'
-      og_title: PyData Global 2021 (GLOBAL ONLINE CONFERENCE), Thu, Oct 28, 2021, 8:30 AM   | Meetup
-      url: https://www.meetup.com/pydata-prague/events/281281117/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: PyData Global 2021 (GLOBAL ONLINE CONFERENCE)
         description: 'PyData Prague
@@ -57,12 +54,9 @@ series:
         dtstart: 2021-10-28 08:30:00+02:00
         dtend: 2021-10-31 00:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jul 13, 6:30 PM  CEST: Hello PyData lovers,
-
-
-        it''s been a while since our last (on-line, not to mention in-person) PyData meet-up. We are sorry for not having arranged anything in the lockdown per'
-      og_title: 'PyData Prague #9 - Reinforcement Yearning, Tue, Jul 13, 2021, 6:30 PM   | Meetup'
-      url: https://www.meetup.com/pydata-prague/events/279339785/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'PyData Prague #9 - Reinforcement Yearning'
         description: 'PyData Prague
@@ -83,9 +77,9 @@ series:
         dtstart: 2021-07-13 18:30:00+02:00
         dtend: 2021-07-13 21:30:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Oct 5, 6:30 PM  CEST: Covid-19 does not sleep but neither do we. The third season of PyData Prague meetups starts with the 8th meetup, for the first time a virtual one. This brings with it sever'
-      og_title: 'PyData Prague #8 - Collaborative dimensions, Mon, Oct 5, 2020, 6:30 PM   | Meetup'
-      url: https://www.meetup.com/pydata-prague/events/273506477/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'PyData Prague #8 - Collaborative dimensions'
         description: 'PyData Prague

@@ -374,12 +374,9 @@ series:
         dtstart: 2022-05-10 18:00:00+02:00
         dtend: 2022-05-10 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, May 24, 7:00 PM  CEST: **👉 [PLEASE MAKE SURE TO GRAB A TICKET HERE](https://www.eventbrite.com/e/strv-web3-meetup-tickets-338869065497?aff=meetup) 👈**
-
-
-        We’re excited to be launching STRV Web3 M'
-      og_title: STRV Web3 Meetup, Tue, May 24, 2022, 7:00 PM   | Meetup
-      url: https://www.meetup.com/strv-meetups/events/285858747/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: STRV Web3 Meetup
         description: 'STRV Meetups

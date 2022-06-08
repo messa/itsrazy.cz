@@ -6,16 +6,10 @@ series:
     image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
   events:
   - meetupcom:
-      meta_description: 'Fri, Nov 26, 9:00 AM  CET: PLEASE RSVP USING THE LINK BELOW
-
-
-        https://gdg.community.dev/events/details/google-gdg-ostrava-presents-devfestcz-2021-powered-by-techmeetup/
-
-
-        DevFest.cz je každoročně pořád'
-      og_title: DevFest.cz 2021 powered by TechMeetup, Fri, Nov 26, 2021, 9:00 AM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
-      url: https://www.meetup.com/gdg-ostrava/events/281546792/
+      url: https://www.meetup.com/login/
       ical:
         summary: DevFest.cz 2021 powered by TechMeetup
         description: 'GDG Ostrava
@@ -37,13 +31,10 @@ series:
         dtstart: 2021-11-26 09:00:00+01:00
         dtend: 2021-11-26 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Jun 2, 6:00 PM  CEST: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
-
-
-        https://gdg.community.dev/events/details/google-gdg-ostrava-presents-cybersecurity-with-zdenek-klus-ii-cze'
-      og_title: Cybersecurity with Zdenek Klus II [Czech], Wed, Jun 2, 2021, 6:00 PM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/8/2/b/3/600_459753459.jpeg
-      url: https://www.meetup.com/gdg-ostrava/events/278023608/
+      url: https://www.meetup.com/login/
       ical:
         summary: Cybersecurity with Zdenek Klus II [Czech]
         description: 'GDG Ostrava
@@ -124,12 +115,9 @@ series:
         dtstart: 2021-05-18 18:30:00+02:00
         dtend: 2021-05-18 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Mar 2, 10:00 AM  CET: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
-
-
-        https://gdg.community.dev/events/details/google-gdg-ostrava-presents-mezinarodni-tyden-zen-international-w'
-      og_title: Mezinárodní Týden žen (international women's week), Wed, Mar 2, 2022, 10:00 AM   | Meetup
-      url: https://www.meetup.com/gdg-ostrava/events/283915704/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Mezinárodní Týden žen (international women's week)
         description: 'GDG Ostrava
@@ -151,15 +139,9 @@ series:
         dtstart: 2022-03-02 10:00:00+01:00
         dtend: 2022-03-08 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, May 11, 4:00 PM  CEST: THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW
-
-
-        https://gdg.community.dev/events/details/google-gdg-ostrava-presents-io-2022-extended-ostrava-meetup/
-
-
-        I/O'
-      og_title: I/O 2022 Extended Ostrava Meetup, Wed, May 11, 2022, 4:00 PM   | Meetup
-      url: https://www.meetup.com/gdg-ostrava/events/284926288/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: I/O 2022 Extended Ostrava Meetup
         description: 'GDG Ostrava

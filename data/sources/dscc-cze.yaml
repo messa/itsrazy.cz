@@ -6,13 +6,10 @@ series:
     image: https://secure.meetupstatic.com/photos/event/2/6/2/6/600_490269766.jpeg
   events:
   - meetupcom:
-      meta_description: 'Wed, Aug 26, 9:00 AM  CEST: Let''s chat about our design systems news, challenges, and questions with like-minded professionals.
-
-
-        We can loosely discuss topics like how to approach organizational buy-i'
-      og_title: Design Systems Breakfast Prague – August 2020, Wed, Aug 26, 2020, 9:00 AM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/2/3/b/0/600_490749136.jpeg
-      url: https://www.meetup.com/dscc_cze/events/272672785/
+      url: https://www.meetup.com/login/
       ical:
         summary: Design Systems Breakfast Prague – August 2020
         description: 'Design Systems Community Chapter Czechia
@@ -34,18 +31,10 @@ series:
         dtstart: 2020-08-26 09:00:00+02:00
         dtend: 2020-08-26 10:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jul 1, 7:00 PM  CEST: We are excited to announce our first online meetup ever!
-
-
-        YouTube stream: https://youtu.be/pKUr3CbRa3o (starting July 1st, 19:00 CEST)
-
-
-        Agenda (CEST):
-
-        19:00 - 19:10 - Desig'
-      og_title: Selling & scaling design systems, Wed, Jul 1, 2020, 7:00 PM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/1/5/e/6/600_490985606.jpeg
-      url: https://www.meetup.com/dscc_cze/events/271472434/
+      url: https://www.meetup.com/login/
       ical:
         summary: Selling & scaling design systems
         description: 'Design Systems Community Chapter Czechia
@@ -67,10 +56,10 @@ series:
         dtstart: 2020-07-01 19:00:00+02:00
         dtend: 2020-07-01 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Jun 12, 8:30 AM  CEST: Let''s start this new format of informal monthly breakfasts where we chat about our design systems challenges and questions with like-minded professionals. Places are limite'
-      og_title: Design Systems Breakfast – June 2020, Fri, Jun 12, 2020, 8:30 AM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/2/3/b/0/600_490749136.jpeg
-      url: https://www.meetup.com/dscc_cze/events/271158302/
+      url: https://www.meetup.com/login/
       ical:
         summary: Design Systems Breakfast – June 2020
         description: 'Design Systems Community Chapter Czechia
@@ -92,15 +81,10 @@ series:
         dtstart: 2020-06-12 08:30:00+02:00
         dtend: 2020-06-12 10:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Mar 18, 8:30 AM  CET: !!!
-
-        Event was postponed to April/May, let''s see how a situation looks evolves. Follow us on Twitter (http://twitter.com/czechdsc) for more info.
-
-
-        Let''s start this new forma'
-      og_title: (POSTPONED) Design systems breakfast, Wed, Mar 18, 2020, 8:30 AM   | Meetup
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
       image: https://secure.meetupstatic.com/photos/event/3/d/7/e/600_489675742.jpeg
-      url: https://www.meetup.com/dscc_cze/events/269310163/
+      url: https://www.meetup.com/login/
       ical:
         summary: (POSTPONED) Design systems breakfast
         description: 'Design Systems Community Chapter Czechia

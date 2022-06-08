@@ -520,11 +520,9 @@ series:
         dtstart: 2021-10-11 08:00:00+02:00
         dtend: 2021-10-11 18:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 2, 6:00 PM  CEST: **IMPORTANT! This is a hybrid event.**
-
-        **Take just a minute to register [here](https://docs.google.com/forms/d/e/1FAIpQLSfrjEd73wmXPJwdfuOx_7V3PmoXvzuCwDD81cByUmfiLMV8eg/vi'
-      og_title: Can You Land a Job in Tech without a CS Degree?, Thu, Jun 2, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/pure-storage-talks/events/285674292/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Can You Land a Job in Tech without a CS Degree?
         description: 'Pure Storage Talks
