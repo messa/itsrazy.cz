@@ -175,11 +175,9 @@ series:
         dtstart: 2022-06-21 18:00:00+02:00
         dtend: 2022-06-21 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Oct 6, 6:00 PM  CEST: Come to discover how to start contributing to Open Source software and hopefully get one pull request closer to a Hacktoberfest T-shirt!
-
-        This meetup is made especially for '
-      og_title: Hacktoberfest 2020 at MSD- create your first pull request, Tue, Oct 6, 2020, 6:00 PM   | Meetup
-      url: https://www.meetup.com/msd-it-meet-ups/events/273587090/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Hacktoberfest 2020 at MSD- create your first pull request
         description: 'MSD IT Meet Ups
@@ -189,14 +187,14 @@ series:
 
           Come to discover how to start contributing to Open Source software and hopefully get one pull request closer to a Hacktoberfest T-shirt!This meetup is...\n
 
-          https://www.meetup.com/MSD-IT-Meet-Ups/events/273587090/'
+          https://www.meetup.com/msd-it-meet-ups/events/273587090/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_273587090@meetup.com
-        url: https://www.meetup.com/MSD-IT-Meet-Ups/events/273587090/
+        url: https://www.meetup.com/msd-it-meet-ups/events/273587090/
         dtstart: 2020-10-06 18:00:00+02:00
         dtend: 2020-10-06 20:00:00+02:00
   - meetupcom:
