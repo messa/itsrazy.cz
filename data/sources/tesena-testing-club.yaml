@@ -656,39 +656,29 @@ series:
         dtstart: 2022-05-03 10:30:00+02:00
         dtend: 2022-05-03 11:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, May 19, 11:00 AM  CEST: **Obsah webináře:**
-
-
-        * **7 funkčních oblastí (od tvorby po reporting)**
-
-        * **4 vybrané plug-iny pro test management v Jira**
-
-        * **V čem který vyniká a na co si dát pozor?**
-
-
-        '
-      og_title: (CZ) Jira a Test management, Thu, May 19, 2022, 11:00 AM   | Meetup
-      url: https://www.meetup.com/tesena-testing-club/events/285124272/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: (CZ) Jira a Test management
         description: 'Tesena Testing Club
 
-          Thursday, May 19 at 11:00 AM
+          Thursday, May 26 at 10:00 AM
 
 
           **Obsah webináře:** * **7 funkčních oblastí (od tvorby po reporting)*** **4 vybrané plug-iny pro test management v Jira*** **V čem který vyniká a na c...
 
 
-          https://www.meetup.com/Tesena-testing-club/events/285124272/'
+          https://www.meetup.com/tesena-testing-club/events/285124272/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285124272@meetup.com
-        url: https://www.meetup.com/Tesena-testing-club/events/285124272/
-        dtstart: 2022-05-19 11:00:00+02:00
-        dtend: 2022-05-19 12:30:00+02:00
+        url: https://www.meetup.com/tesena-testing-club/events/285124272/
+        dtstart: 2022-05-26 10:00:00+02:00
+        dtend: 2022-05-26 11:30:00+02:00
   - meetupcom:
       meta_description: 'Thu, Jun 16, 11:00 AM  CEST: * **Webinar content**
 
@@ -6546,7 +6536,7 @@ series:
       meta_description: 'Tue, Jun 21, 8:30 PM  CEST: O čom to bude:
 
 
-        * Pokec s expertom na cypress.io Filipom Fricom
+        * Pokec s expertom na cypress.io Filipom Hricom
 
         * Čo prináša nová verzia 10 - máme sa tešiť alebo báť?
 
@@ -6563,7 +6553,7 @@ series:
           Tuesday, June 21 at 8:30 PM
 
 
-          O čom to bude: * Pokec s expertom na cypress.io Filipom Fricom* Čo prináša nová verzia 10 - máme sa tešiť alebo báť?* Ďalšie novinky zo sveta cypress ...
+          O čom to bude: * Pokec s expertom na cypress.io Filipom Hricom* Čo prináša nová verzia 10 - máme sa tešiť alebo báť?* Ďalšie novinky zo sveta cypress ...
 
 
           https://www.meetup.com/tesena-testing-club/events/286425204/'
