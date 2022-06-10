@@ -1421,3 +1421,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/286113864/
         dtstart: 2022-06-23 18:30:00+02:00
         dtend: 2022-06-23 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: ' Graph Databases vs TypeDB | What You Can''t do With Graphs'
+        description: 'TypeDB Prague Engineers
+
+          Thursday, June 9 at 6:30 PM
+
+
+          (https://docs.vaticle.com/docs/comparisons/graph-databases-and-typedb) have matured into mainstream technologies, used across any industry powering mi...
+
+
+          https://www.meetup.com/typedb-prague/events/286110971/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286110971@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286110971/
+        dtstart: 2022-06-09 18:30:00+02:00
+        dtend: 2022-06-09 19:30:00+02:00

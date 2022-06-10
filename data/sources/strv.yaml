@@ -116,12 +116,9 @@ series:
         dtstart: 2022-04-28 18:30:00+02:00
         dtend: 2022-04-28 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 9, 6:00 PM  CEST: 🔥[Sign up on our website]( https://www.strv.com/academy/backend ) 🔥
-
-
-        STRV’s Backend team is the backbone of every project. It’s not only about developing the backend but '
-      og_title: 'STRV Academy: Backend, Thu, Jun 9, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/strv-meetups/events/285436855/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'STRV Academy: Backend'
         description: 'STRV Meetups
@@ -132,14 +129,14 @@ series:
           🔥( https://www.strv.com/academy/backend ) 🔥 STRV’s Backend team is the backbone of every project. It’s not only about developing the backend but about...
 
 
-          https://www.meetup.com/STRV-Meetups/events/285436855/'
+          https://www.meetup.com/strv-meetups/events/285436855/'
         location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285436855@meetup.com
-        url: https://www.meetup.com/STRV-Meetups/events/285436855/
+        url: https://www.meetup.com/strv-meetups/events/285436855/
         dtstart: 2022-06-09 18:00:00+02:00
         dtend: 2022-06-09 20:00:00+02:00
   - meetupcom:
