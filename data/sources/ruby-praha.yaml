@@ -707,9 +707,9 @@ series:
         dtstart: 2022-05-04 19:00:00+02:00
         dtend: 2022-05-04 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jun 1, 7:00 PM  CEST: '
-      og_title: First Wednesday Of The Month - Ruby, Wed, Jun 1, 2022, 7:00 PM   | Meetup
-      url: https://www.meetup.com/praguerb/events/dkmktfydcjbcb/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: First Wednesday Of The Month - Ruby
         description: 'Prague.rb / CSRUG
@@ -717,14 +717,14 @@ series:
           Wednesday, June 1 at 7:00 PM
 
 
-          https://www.meetup.com/Praguerb/events/dkmktfydcjbcb/'
+          https://www.meetup.com/praguerb/events/285867201/'
         location: null
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_dkmktfydcjbcb@meetup.com
-        url: https://www.meetup.com/Praguerb/events/dkmktfydcjbcb/
+        url: https://www.meetup.com/praguerb/events/285867201/
         dtstart: 2022-06-01 19:00:00+02:00
         dtend: 2022-06-01 22:00:00+02:00
   - meetupcom:
