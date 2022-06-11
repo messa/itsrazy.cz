@@ -658,9 +658,9 @@ series:
         dtstart: 2022-05-31 18:00:00+02:00
         dtend: 2022-05-31 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Mar 29, 6:00 PM  CEST: Automatické end-to-end testy často naráží na problém externích systémů, které nejsou pod kontrolou, například takový katastr nemovitostí. Všechny možnosti nakonec vedou k t'
-      og_title: 'online: QA Brno - Automatické end-to-end testy s emulací externích systémů, Tue, Mar 29, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/professionaltesting/events/284503079/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'online: QA Brno - Automatické end-to-end testy s emulací externích systémů'
         description: 'CZECH TESTERS GROUP
@@ -671,14 +671,14 @@ series:
           Automatické end-to-end testy často naráží na problém externích systémů, které nejsou pod kontrolou, například takový katastr nemovitostí. Všechny možn...
 
 
-          https://www.meetup.com/ProfessionalTesting/events/284503079/'
+          https://www.meetup.com/professionaltesting/events/284503079/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_284503079@meetup.com
-        url: https://www.meetup.com/ProfessionalTesting/events/284503079/
+        url: https://www.meetup.com/professionaltesting/events/284503079/
         dtstart: 2022-03-29 18:00:00+02:00
         dtend: 2022-03-29 20:00:00+02:00
   - meetupcom:
@@ -730,12 +730,9 @@ series:
         dtstart: 2022-03-29 18:00:00+02:00
         dtend: 2022-03-29 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, May 31, 6:00 PM  CEST: Dobrý posel špatných zpráv aneb výzva v testerské komunikaci
-
-
-        Práce testera se čas od času dostává do fází, kdy bývá velmi náročná na psychiku. Komunikování a odbavování ch'
-      og_title: 'online: QA Brno - Dobrý posel špatných zpráv aneb výzva v testerské komunikaci, Tue, May 31, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/professionaltesting/events/285588625/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'online: QA Brno - Dobrý posel špatných zpráv aneb výzva v testerské komunikaci'
         description: 'CZECH TESTERS GROUP
@@ -746,14 +743,14 @@ series:
           Dobrý posel špatných zpráv aneb výzva v testerské komunikaci Práce testera se čas od času dostává do fází, kdy bývá velmi náročná na psychiku. Komunik...
 
 
-          https://www.meetup.com/ProfessionalTesting/events/285588625/'
+          https://www.meetup.com/professionaltesting/events/285588625/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285588625@meetup.com
-        url: https://www.meetup.com/ProfessionalTesting/events/285588625/
+        url: https://www.meetup.com/professionaltesting/events/285588625/
         dtstart: 2022-05-31 18:00:00+02:00
         dtend: 2022-05-31 20:00:00+02:00
   - meetupcom:
@@ -4231,13 +4228,9 @@ series:
         dtstart: 2022-03-29 18:00:00+02:00
         dtend: 2022-03-29 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Feb 22, 6:00 PM  CET: Test proces nebo management testů je již dnes poměrně známá věc ale
-
-        v průběhu času přechází kontinuální transformací. Vezmeme-li v potaz fakt, že
-
-        aktuálně se vývoj softwaru'
-      og_title: 'online: QA Brno - Jak řídit testy efektivněji se správným nástrojem, Tue, Feb 22, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/professionaltesting/events/283194770/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'online: QA Brno - Jak řídit testy efektivněji se správným nástrojem'
         description: 'CZECH TESTERS GROUP
@@ -4259,20 +4252,9 @@ series:
         dtstart: 2022-02-22 18:00:00+01:00
         dtend: 2022-02-22 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Sat, Dec 18, 8:00 PM  CET: Ahoj testeři,
-
-        další Testerská Katovna již tuto sobotu od 20h.
-
-
-        🚀 Katovna probíhá na Discordu > Katovna > STAGE
-
-
-        🚀 Odkaz na discord audio: https://discord.gg/8W2Kz5YHD7
-
-
-        �'
-      og_title: Testerská Katovna, Sat, Dec 18, 2021, 8:00 PM   | Meetup
-      url: https://www.meetup.com/professionaltesting/events/282722610/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Testerská Katovna
         description: 'CZECH TESTERS GROUP

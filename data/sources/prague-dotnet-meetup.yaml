@@ -850,9 +850,9 @@ series:
         dtstart: 2020-02-05 18:00:00+01:00
         dtend: 2020-02-05 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Sep 9, 5:30 PM  CEST: GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the power to ask for exactly w'
-      og_title: GraphQL in .NET, Thu, Sep 9, 2021, 5:30 PM   | Meetup
-      url: https://www.meetup.com/prague-net-meetup/events/280482935/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: GraphQL in .NET
         description: 'Dotnet Days Meetup
@@ -863,20 +863,20 @@ series:
           GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the powe...
 
 
-          https://www.meetup.com/Prague-NET-Meetup/events/280482935/'
+          https://www.meetup.com/prague-net-meetup/events/280482935/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_280482935@meetup.com
-        url: https://www.meetup.com/Prague-NET-Meetup/events/280482935/
+        url: https://www.meetup.com/prague-net-meetup/events/280482935/
         dtstart: 2021-09-09 17:30:00+02:00
         dtend: 2021-09-09 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Apr 22, 5:30 PM  CEST: OAuth has been around for more than 10 years now, and has become the standard protocol for token-based security. Like every popular technology that has been growing with it'
-      og_title: 'Dominick Baier: OAuth - The good Parts, Thu, Apr 22, 2021, 5:30 PM   | Meetup'
-      url: https://www.meetup.com/prague-net-meetup/events/277417529/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Dominick Baier: OAuth - The good Parts'
         description: 'Dotnet Days Meetup
@@ -887,20 +887,20 @@ series:
           OAuth has been around for more than 10 years now, and has become the standard protocol for token-based security. Like every popular technology that ha...
 
 
-          https://www.meetup.com/Prague-NET-Meetup/events/277417529/'
+          https://www.meetup.com/prague-net-meetup/events/277417529/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_277417529@meetup.com
-        url: https://www.meetup.com/Prague-NET-Meetup/events/277417529/
+        url: https://www.meetup.com/prague-net-meetup/events/277417529/
         dtstart: 2021-04-22 17:30:00+02:00
         dtend: 2021-04-22 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Feb 24, 6:00 PM  CET: Data Science and Artificial Intelligence are fascinating areas of computing. Microsoft is betting a lot on these new technologies, but we are also aware that data scientist'
-      og_title: Taking Advantage of AI Easily with Azure Cognitive Services - Laurent Bugnion, Mon, Feb 24, 2020, 6:00 PM   | Meetup
-      url: https://www.meetup.com/prague-net-meetup/events/268424627/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Taking Advantage of AI Easily with Azure Cognitive Services - Laurent Bugnion
         description: 'Dotnet Days Meetup
@@ -911,14 +911,14 @@ series:
           Data Science and Artificial Intelligence are fascinating areas of computing. Microsoft is betting a lot on these new technologies, but we are also awa...
 
 
-          https://www.meetup.com/Prague-NET-Meetup/events/268424627/'
+          https://www.meetup.com/prague-net-meetup/events/268424627/'
         location: WorkLounge Karlín (Pernerova 51, Praha 8-Karlín, Czech Republic 186 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_268424627@meetup.com
-        url: https://www.meetup.com/Prague-NET-Meetup/events/268424627/
+        url: https://www.meetup.com/prague-net-meetup/events/268424627/
         dtstart: 2020-02-24 18:00:00+01:00
         dtend: 2020-02-24 20:00:00+01:00
   - meetupcom:
@@ -6904,9 +6904,9 @@ series:
         dtstart: 2021-09-09 17:30:00+02:00
         dtend: 2021-09-09 19:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jun 8, 6:00 PM  CEST: **Blazor** is a new SPA framework you might have heard about. Let''s share some experience from using it in a few enterprise applications, one of them 2 years in production.'
-      og_title: Blazor - frontend framework for backend developers?, Wed, Jun 8, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/prague-net-meetup/events/286236089/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Blazor - frontend framework for backend developers?
         description: 'Dotnet Days Meetup
