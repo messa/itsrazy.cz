@@ -1101,3 +1101,99 @@ series:
         url: https://www.meetup.com/czskppug/events/283764636/
         dtstart: 2022-03-24 17:00:00+01:00
         dtend: 2022-03-24 19:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: CZSK PPUG Meetup
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, June 9 at 5:00 PM
+
+
+          Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám t...
+
+
+          https://www.meetup.com/czskppug/events/285863934/'
+        location: Microsoft (Vyskočilova 1561/4a, Praha 4, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285863934@meetup.com
+        url: https://www.meetup.com/czskppug/events/285863934/
+        dtstart: 2022-06-09 17:00:00+02:00
+        dtend: 2022-06-09 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: CZSK PPUG Meetup
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, May 12 at 5:00 PM
+
+
+          Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám t...
+
+
+          https://www.meetup.com/czskppug/events/285795305/'
+        location: Microsoft (Vyskočilova 1561/4a, Praha 4, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285795305@meetup.com
+        url: https://www.meetup.com/czskppug/events/285795305/
+        dtstart: 2022-05-12 17:00:00+02:00
+        dtend: 2022-05-12 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '[ONLINE] CZSK PPUG Setkání a povídání'
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, April 14 at 5:00 PM
+
+
+          Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám t...
+
+
+          https://www.meetup.com/czskppug/events/283764644/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_mdhkssydcgbsb@meetup.com
+        url: https://www.meetup.com/czskppug/events/283764644/
+        dtstart: 2022-04-14 17:00:00+02:00
+        dtend: 2022-04-14 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '!!Zmena - CZSK PPUG Meetup u piva'
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, March 24 at 5:00 PM
+
+
+          Již je to poměrně dlouho co jsme se potkali fyzicky. Tedy tento meetup bych rád uspořádal u stolu a s dobrým pitím a jídlem k tomu.Čas zachováme. Loka...
+
+
+          https://www.meetup.com/czskppug/events/283764636/'
+        location: Manifesto Anděl  (Ostrovskeho 34, Hlavní město Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_mdhkssydcfbnb@meetup.com
+        url: https://www.meetup.com/czskppug/events/283764636/
+        dtstart: 2022-03-24 17:00:00+01:00
+        dtend: 2022-03-24 19:00:00+01:00
