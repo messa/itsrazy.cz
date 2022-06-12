@@ -946,12 +946,9 @@ series:
         dtstart: 2020-10-05 18:30:00+02:00
         dtend: 2020-10-05 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, May 10, 6:00 PM  CEST: Hello data-devourers and Python conjurers!
-
-
-        We haven''t had a proper in-person meeting with talks for ages but now we are back with a perfect venue (CreativeDock) and two ta'
-      og_title: 'PyData Prague #10 - Pandemic Lite, Tue, May 10, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/pydata-prague/events/285562340/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'PyData Prague #10 - Pandemic Lite'
         description: 'PyData Prague
@@ -962,20 +959,20 @@ series:
           Hello data-devourers and Python conjurers! We haven''t had a proper in-person meeting with talks for ages but now we are back with a perfect venue (Cre...
 
 
-          https://www.meetup.com/PyData-Prague/events/285562340/'
+          https://www.meetup.com/pydata-prague/events/285562340/'
         location: CreativeDock (Františka Křížka 490/4, Holešovice, Praha-Praha 7, Czech Republic 150 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285562340@meetup.com
-        url: https://www.meetup.com/PyData-Prague/events/285562340/
+        url: https://www.meetup.com/pydata-prague/events/285562340/
         dtstart: 2022-05-10 18:00:00+02:00
         dtend: 2022-05-10 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Oct 28, 8:30 AM  CEST: The PyData Global Online Conference is where users, contributors, and newcomers can share experiences to learn from one another and grow together. PyData provides a virtual'
-      og_title: PyData Global 2021 (GLOBAL ONLINE CONFERENCE), Thu, Oct 28, 2021, 8:30 AM   | Meetup
-      url: https://www.meetup.com/pydata-prague/events/281281117/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: PyData Global 2021 (GLOBAL ONLINE CONFERENCE)
         description: 'PyData Prague
@@ -986,23 +983,20 @@ series:
           The PyData Global Online Conference is where users, contributors, and newcomers can share experiences to learn from one another and grow together. PyD...
 
 
-          https://www.meetup.com/PyData-Prague/events/281281117/'
+          https://www.meetup.com/pydata-prague/events/281281117/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_281281117@meetup.com
-        url: https://www.meetup.com/PyData-Prague/events/281281117/
+        url: https://www.meetup.com/pydata-prague/events/281281117/
         dtstart: 2021-10-28 08:30:00+02:00
         dtend: 2021-10-31 00:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jul 13, 6:30 PM  CEST: Hello PyData lovers,
-
-
-        it''s been a while since our last (on-line, not to mention in-person) PyData meet-up. We are sorry for not having arranged anything in the lockdown per'
-      og_title: 'PyData Prague #9 - Reinforcement Yearning, Tue, Jul 13, 2021, 6:30 PM   | Meetup'
-      url: https://www.meetup.com/pydata-prague/events/279339785/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'PyData Prague #9 - Reinforcement Yearning'
         description: 'PyData Prague
@@ -1012,20 +1006,20 @@ series:
 
           Hello PyData lovers, it''s been a while since our last (on-line, not to mention in-person) PyData meet-up. We are sorry for not having arranged anythin...
 
-          \nhttps://www.meetup.com/PyData-Prague/events/279339785/'
+          \nhttps://www.meetup.com/pydata-prague/events/279339785/'
         location: Holešovická šachta (Bubenská 242/14, Praha 7-Holešovice, Czech Republic 170 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_279339785@meetup.com
-        url: https://www.meetup.com/PyData-Prague/events/279339785/
+        url: https://www.meetup.com/pydata-prague/events/279339785/
         dtstart: 2021-07-13 18:30:00+02:00
         dtend: 2021-07-13 21:30:00+02:00
   - meetupcom:
-      meta_description: 'Mon, Oct 5, 6:30 PM  CEST: Covid-19 does not sleep but neither do we. The third season of PyData Prague meetups starts with the 8th meetup, for the first time a virtual one. This brings with it sever'
-      og_title: 'PyData Prague #8 - Collaborative dimensions, Mon, Oct 5, 2020, 6:30 PM   | Meetup'
-      url: https://www.meetup.com/pydata-prague/events/273506477/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'PyData Prague #8 - Collaborative dimensions'
         description: 'PyData Prague
@@ -1035,14 +1029,14 @@ series:
 
           Covid-19 does not sleep but neither do we. The third season of PyData Prague meetups starts with the 8th meetup, for the first time a virtual one. Thi...
 
-          \nhttps://www.meetup.com/PyData-Prague/events/273506477/'
+          \nhttps://www.meetup.com/pydata-prague/events/273506477/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_273506477@meetup.com
-        url: https://www.meetup.com/PyData-Prague/events/273506477/
+        url: https://www.meetup.com/pydata-prague/events/273506477/
         dtstart: 2020-10-05 18:30:00+02:00
         dtend: 2020-10-05 20:30:00+02:00
   - meetupcom:
