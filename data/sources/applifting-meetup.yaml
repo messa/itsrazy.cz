@@ -975,14 +975,9 @@ series:
         dtstart: 2022-05-31 18:00:00+02:00
         dtend: 2022-05-31 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Apr 12, 6:00 PM  CEST: Does your heart beat to the rhythm of iOS?
-
-        Then don''t miss our next Crew Talk.
-
-
-        You can look forward to a panel discussion of three iOS experts: Michal Svěrák from Applifti'
-      og_title: 'iOS Crew Talk: How juniors become seniors and other secrets of iOS team mgmt, Tue, Apr 12, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/applifting-meetup-1/events/284781337/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'iOS Crew Talk: How juniors become seniors and other secrets of iOS team mgmt'
         description: 'Applifting Crew Talk
@@ -993,14 +988,14 @@ series:
           Does your heart beat to the rhythm of iOS? Then don''t miss our next Crew Talk.  You can look forward to a panel discussion of three iOS experts: Micha...
 
 
-          https://www.meetup.com/Applifting-meetup-1/events/284781337/'
+          https://www.meetup.com/applifting-meetup-1/events/284781337/'
         location: Applifting Meetup Space (Rohanské nábřeží, 670/19, Praha, AL\, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_284781337@meetup.com
-        url: https://www.meetup.com/Applifting-meetup-1/events/284781337/
+        url: https://www.meetup.com/applifting-meetup-1/events/284781337/
         dtstart: 2022-04-12 18:00:00+02:00
         dtend: 2022-04-12 21:00:00+02:00
   - meetupcom:
@@ -1110,9 +1105,9 @@ series:
         dtstart: 2022-04-12 18:00:00+02:00
         dtend: 2022-04-12 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, May 31, 6:00 PM  CEST: Are you a fan of high-quality and comprehensible design? Do you want to talk about it with other enthusiasts and learn something new and interesting? Then don''t miss our ne'
-      og_title: 'UX/UI Crew Talk: Design from different perspectives, Tue, May 31, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/applifting-meetup-1/events/285739735/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'UX/UI Crew Talk: Design from different perspectives'
         description: 'Applifting Crew Talk
@@ -1123,14 +1118,14 @@ series:
           Are you a fan of high-quality and comprehensible design? Do you want to talk about it with other enthusiasts and learn something new and interesting? ...
 
 
-          https://www.meetup.com/Applifting-meetup-1/events/285739735/'
+          https://www.meetup.com/applifting-meetup-1/events/285739735/'
         location: Applifting Meetup Space (Rohanské nábřeží, 670/19, Praha, AL\, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285739735@meetup.com
-        url: https://www.meetup.com/Applifting-meetup-1/events/285739735/
+        url: https://www.meetup.com/applifting-meetup-1/events/285739735/
         dtstart: 2022-05-31 18:00:00+02:00
         dtend: 2022-05-31 21:00:00+02:00
   - meetupcom:
@@ -4621,9 +4616,9 @@ series:
         dtstart: 2022-04-12 18:00:00+02:00
         dtend: 2022-04-12 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Feb 22, 6:00 PM  CET: 💡 Interested in everything about the modern web? Do you want to know what criteria it should meet and what tools can help you with that? Then don''t miss the meetup on the '
-      og_title: 'FE Crew Talk: The Present and Future of the Modern Web, Tue, Feb 22, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/applifting-meetup-1/events/283681829/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'FE Crew Talk: The Present and Future of the Modern Web'
         description: 'Applifting Crew Talk
@@ -4645,9 +4640,9 @@ series:
         dtstart: 2022-02-22 18:00:00+01:00
         dtend: 2022-02-22 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Feb 15, 6:30 PM  CET: 💡 Do you have an idea for a business but don''t know how to ensure its validity and viability? Want to make sure it has a chance of success? Wondering how to get relevant f'
-      og_title: 'Product Crew Talk: Can your idea become a success?, Tue, Feb 15, 2022, 6:30 PM   | Meetup'
-      url: https://www.meetup.com/applifting-meetup-1/events/283625028/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Product Crew Talk: Can your idea become a success?'
         description: 'Applifting Crew Talk
