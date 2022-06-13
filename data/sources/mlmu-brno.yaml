@@ -1579,12 +1579,9 @@ series:
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Apr 19, 4:00 PM  CEST: # DAIDALOS – The Role of AI in Achieving the Sustainable Development Goals
-
-
-        We invite you to the online discussion "The Role of AI in Achieving the Sustainable Development '
-      og_title: D<AI>DALOS – Role of AI in Achieving The Sustainable Development Goals, Tue, Apr 19, 2022, 4:00 PM   | Meetup
-      url: https://www.meetup.com/machine-learning-meetup-brno/events/285343994/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: D<AI>DALOS – Role of AI in Achieving The Sustainable Development Goals
         description: 'Machine Learning Meetup Brno
@@ -1595,14 +1592,14 @@ series:
           # DAIDALOS – The Role of AI in Achieving the Sustainable Development Goals We invite you to the online discussion "The Role of AI in Achieving the Sus...
 
 
-          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/285343994/'
+          https://www.meetup.com/machine-learning-meetup-brno/events/285343994/'
         location: Online event
         geo:
           lat: 49.2
           lon: 16.61
         status: CONFIRMED
         uid: event_285343994@meetup.com
-        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/285343994/
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/285343994/
         dtstart: 2022-04-19 16:00:00+02:00
         dtend: 2022-04-19 18:00:00+02:00
   - meetupcom:
@@ -8471,3 +8468,28 @@ series:
         url: https://www.meetup.com/machine-learning-meetup-brno/events/282546299/
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Jun 21, 4:00 PM  CEST: Zveme vás ve spolupráci s brno.ai na offline meetup AI, Data & Regulace.
+
+        **Prosím, PŘIHLAŠUJTE SE K ÚČASTI ZDE: [https://forms.gle/Fjampyz1wnnMeDyEA](https://forms.gle/Fjam'
+      og_title: 'Brno.AI meetup: AI, Data & Regulace, Tue, Jun 21, 2022, 4:00 PM   | Meetup'
+      url: https://www.meetup.com/machine-learning-meetup-brno/events/286553337/
+      ical:
+        summary: 'Brno.AI meetup: AI, Data & Regulace'
+        description: 'Machine Learning Meetup Brno
+
+          Tuesday, June 21 at 4:00 PM
+
+          \nZveme vás ve spolupráci s brno.ai na offline meetup AI, Data & Regulace.**Prosím, PŘIHLAŠUJTE SE K ÚČASTI ZDE: (https://forms.gle/Fjampyz1wnnMeDyEA" c...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/286553337/'
+        location: KUMST (Údolní 495/19, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_286553337@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/286553337/
+        dtstart: 2022-06-21 16:00:00+02:00
+        dtend: 2022-06-21 18:00:00+02:00
