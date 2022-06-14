@@ -1698,12 +1698,9 @@ series:
         dtstart: 2020-10-05 18:30:00+02:00
         dtend: 2020-10-05 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, May 10, 6:00 PM  CEST: Hello data-devourers and Python conjurers!
-
-
-        We haven''t had a proper in-person meeting with talks for ages but now we are back with a perfect venue (CreativeDock) and two ta'
-      og_title: 'PyData Prague #10 - Pandemic Lite, Tue, May 10, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/pydata-prague/events/285562340/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'PyData Prague #10 - Pandemic Lite'
         description: 'PyData Prague
@@ -1714,14 +1711,14 @@ series:
           Hello data-devourers and Python conjurers! We haven''t had a proper in-person meeting with talks for ages but now we are back with a perfect venue (Cre...
 
 
-          https://www.meetup.com/PyData-Prague/events/285562340/'
+          https://www.meetup.com/pydata-prague/events/285562340/'
         location: CreativeDock (Františka Křížka 490/4, Holešovice, Praha-Praha 7, Czech Republic 150 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285562340@meetup.com
-        url: https://www.meetup.com/PyData-Prague/events/285562340/
+        url: https://www.meetup.com/pydata-prague/events/285562340/
         dtstart: 2022-05-10 18:00:00+02:00
         dtend: 2022-05-10 21:00:00+02:00
   - meetupcom:
@@ -6797,3 +6794,30 @@ series:
         url: https://www.meetup.com/pydata-prague/events/273506477/
         dtstart: 2020-10-05 18:30:00+02:00
         dtend: 2020-10-05 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Jun 27, 6:00 PM  CEST: Hello data-lovers and Python craft-masters!
+
+
+        Another PyData Prague meetup is here and this time we will meet in **[Ataccama](https://goo.gl/maps/FHvjbwTtYULjTKvS6)**[ ](htt'
+      og_title: 'PyData Prague #11 - Hovering over Capulets, Mon, Jun 27, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/pydata-prague/events/286566742/
+      ical:
+        summary: 'PyData Prague #11 - Hovering over Capulets'
+        description: 'PyData Prague
+
+          Monday, June 27 at 6:00 PM
+
+
+          Hello data-lovers and Python craft-masters! Another PyData Prague meetup is here and this time we will meet in **(https://goo.gl/maps/FHvjbwTtYULjTKvS...
+
+
+          https://www.meetup.com/pydata-prague/events/286566742/'
+        location: Ataccama Software, s.r.o. (Invalidovna, Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286566742@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/286566742/
+        dtstart: 2022-06-27 18:00:00+02:00
+        dtend: 2022-06-27 21:00:00+02:00
