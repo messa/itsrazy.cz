@@ -420,14 +420,9 @@ series:
         dtstart: 2022-05-31 18:00:00+02:00
         dtend: 2022-05-31 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jun 15, 6:00 PM  CEST: **Productboard GraphQL Meetups are back!**
-
-
-        **Join us for our next meetup. Please register via Eventbrite:**
-
-        https://www.eventbrite.com/e/graphql-meetup-tickets-33276805721'
-      og_title: GraphQL Meetup, Wed, Jun 15, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/productboard-meetups/events/286180415/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: GraphQL Meetup
         description: 'Productboard Meetups

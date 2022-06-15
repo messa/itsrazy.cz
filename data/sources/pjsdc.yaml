@@ -6132,9 +6132,9 @@ series:
         dtstart: 2022-04-27 18:00:00+02:00
         dtend: 2022-04-27 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 2, 7:00 PM  CEST: Zúčastni se bezplatného online workshopu, kde tě zkušení mentoři provedou základy vývoje aplikací pomocí no-code platformy Salesforce, která zažívá boom ve světě informační'
-      og_title: 'ONLINE WORKSHOP: Základy no-code vývoje, Thu, Jun 2, 2022, 7:00 PM   | Meetup'
-      url: https://www.meetup.com/prague-junior-software-developer-course/events/286154258/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'ONLINE WORKSHOP: Základy no-code vývoje'
         description: 'Become a software developer from 0
@@ -6623,3 +6623,30 @@ series:
         url: https://www.meetup.com/prague-junior-software-developer-course/events/284662295/
         dtstart: 2022-04-12 18:00:00+02:00
         dtend: 2022-04-12 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Sat, Jun 25, 9:00 AM  CEST: Vyzkoušej si jaké to je být jeden den studentem Green Fox Academy. Připravili jsme pro tebe den nabitý programováním a informacemi.
+
+
+        Registruj se předem na konkrétní čas wo'
+      og_title: Den otevřených dveří aneb navštiv doupě ajťáků!, Sat, Jun 25, 2022, 9:00 AM   | Meetup
+      url: https://www.meetup.com/prague-junior-software-developer-course/events/286584467/
+      ical:
+        summary: Den otevřených dveří aneb navštiv doupě ajťáků!
+        description: 'Become a software developer from 0
+
+          Saturday, June 25 at 9:00 AM
+
+
+          Vyzkoušej si jaké to je být jeden den studentem Green Fox Academy. Připravili jsme pro tebe den nabitý programováním a informacemi. Registruj se přede...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/286584467/'
+        location: Green Fox Academy (Václavské nám. 11, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286584467@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/286584467/
+        dtstart: 2022-06-25 09:00:00+02:00
+        dtend: 2022-06-25 18:00:00+02:00

@@ -779,9 +779,9 @@ series:
         dtstart: 2021-09-21 10:00:00+02:00
         dtend: 2021-09-23 18:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Sep 20, 9:45 AM  CEST: We are the web event of the year! The best conference for devs, UX professionals, designers, and marketers to meet up and share their experiences. We''re a rich community of'
-      og_title: WebExpo 2019, Fri, Sep 20, 2019, 9:45 AM   | Meetup
-      url: https://www.meetup.com/webexpo/events/263721184/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: WebExpo 2019
         description: 'WebExpo
@@ -792,20 +792,20 @@ series:
           We are the web event of the year! The best conference for devs, UX professionals, designers, and marketers to meet up and share their experiences. We''...
 
 
-          https://www.meetup.com/WebExpo/events/263721184/'
+          https://www.meetup.com/webexpo/events/263721184/'
         location: Palace Lucerna (Vodičkova 704/36, Nové Město, Praha-Praha 1, Czech Republic 110 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_263721184@meetup.com
-        url: https://www.meetup.com/WebExpo/events/263721184/
+        url: https://www.meetup.com/webexpo/events/263721184/
         dtstart: 2019-09-20 09:45:00+02:00
         dtend: 2019-09-22 18:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Sep 23, 9:00 PM  CEST: 2 days all about the web: 70 speakers, 2000 people from the industry and meetings IRL'
-      og_title: Get professional help before your obsessions take over!, Fri, Sep 23, 2016, 9:00 PM   | Meetup
-      url: https://www.meetup.com/webexpo/events/232703682/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Get professional help before your obsessions take over!
         description: 'WebExpo
@@ -816,14 +816,14 @@ series:
           2 days all about the web: 70 speakers, 2000 people from the industry and meetings IRL
 
 
-          https://www.meetup.com/WebExpo/events/232703682/'
+          https://www.meetup.com/webexpo/events/232703682/'
         location: Lucerna (Vodičkova 36, Prague, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_232703682@meetup.com
-        url: https://www.meetup.com/WebExpo/events/232703682/
+        url: https://www.meetup.com/webexpo/events/232703682/
         dtstart: 2016-09-23 21:00:00+02:00
         dtend: 2016-09-24 23:00:00+02:00
   - meetupcom:
@@ -1871,12 +1871,9 @@ series:
         dtstart: 2016-09-23 08:00:00+02:00
         dtend: 2016-09-24 23:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Sep 21, 10:00 AM  CEST: WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers, and marketers.
-
-
-        We''re'
-      og_title: WebExpo 2021, Tue, Sep 21, 2021, 10:00 AM   | Meetup
-      url: https://www.meetup.com/webexpo/events/267898993/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: WebExpo 2021
         description: 'WebExpo
@@ -1887,14 +1884,14 @@ series:
           WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers,...
 
 
-          https://www.meetup.com/WebExpo/events/267898993/'
+          https://www.meetup.com/webexpo/events/267898993/'
         location: Palace Lucerna (Vodičkova 704/36, Nové Město, Praha-Praha 1, Czech Republic 110 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_267898993@meetup.com
-        url: https://www.meetup.com/WebExpo/events/267898993/
+        url: https://www.meetup.com/webexpo/events/267898993/
         dtstart: 2021-09-21 10:00:00+02:00
         dtend: 2021-09-23 18:00:00+02:00
   - meetupcom:
@@ -2879,12 +2876,9 @@ series:
         dtstart: 2021-09-21 10:00:00+02:00
         dtend: 2021-09-23 18:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Jun 10, 10:00 AM  CEST: WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers, and marketers.
-
-
-        We''re'
-      og_title: WebExpo 2022, Fri, Jun 10, 2022, 10:00 AM   | Meetup
-      url: https://www.meetup.com/webexpo/events/285984047/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: WebExpo 2022
         description: 'WebExpo
@@ -2895,14 +2889,17 @@ series:
           WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers,...
 
 
-          https://www.meetup.com/WebExpo/events/285984047/'
+          Price: 424.00 EUR
+
+
+          https://www.meetup.com/webexpo/events/285984047/'
         location: Palace Lucerna (Vodičkova 704/36, Nové Město, Praha-Praha 1, Czech Republic 110 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285984047@meetup.com
-        url: https://www.meetup.com/WebExpo/events/285984047/
+        url: https://www.meetup.com/webexpo/events/285984047/
         dtstart: 2022-06-10 10:00:00+02:00
         dtend: 2022-06-12 18:00:00+02:00
   - meetupcom:
