@@ -1420,14 +1420,9 @@ series:
         dtstart: 2022-06-01 09:00:00+02:00
         dtend: 2022-06-01 10:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jun 15, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
-
-        https://www.datascript.cz/morning-talks/content-delivery-network-sprava-a-distribuce-obsahu/
-
-
-        **Na co se můžete'
-      og_title: Content delivery network - správa a distribuce obsahu, Wed, Jun 15, 2022, 9:00 AM   | Meetup
-      url: https://www.meetup.com/morning-talks/events/285390571/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Content delivery network - správa a distribuce obsahu
         description: 'Morning Talks
