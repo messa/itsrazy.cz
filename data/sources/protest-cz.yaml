@@ -2209,3 +2209,56 @@ series:
         url: https://www.meetup.com/protest_cz/events/282124529/
         dtstart: 2021-11-30 18:00:00+01:00
         dtend: 2021-11-30 19:00:00+01:00
+  - meetupcom:
+      meta_description: 'Tue, Jun 21, 6:00 PM  CEST: **Anotace přednášky**
+
+
+        Playwright je moderní knihovna pro automatizaci moderních prohlížečů. Nabízí vše, co by si mohl automatizér přát a ještě mnohem víc.
+
+        Ve spojení s nat'
+      og_title: 108. [pro:]TEST! meetup - Test automatizace v Playwright, Tue, Jun 21, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/protest_cz/events/286604262/
+      ical:
+        summary: 108. [pro:]TEST! meetup - Test automatizace v Playwright
+        description: '[pro:]TEST!
+
+          Tuesday, June 21 at 6:00 PM
+
+
+          **Anotace přednášky** Playwright je moderní knihovna pro automatizaci moderních prohlížečů. Nabízí vše, co by si mohl automatizér přát a ještě mnohem ...
+
+
+          https://www.meetup.com/protest_cz/events/286604262/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286604262@meetup.com
+        url: https://www.meetup.com/protest_cz/events/286604262/
+        dtstart: 2022-06-21 18:00:00+02:00
+        dtend: 2022-06-21 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 107. [pro:]TEST! meetup - Zachraňte životy! Kooperativní hra.
+        description: '[pro:]TEST!
+
+          Tuesday, March 29 at 6:00 PM
+
+
+          Chcete si vyzkoušet, jak jako team umíte komunikovat a spolupracovat při řešení krizové situace? Přijďte si vyzkoušet simulaci **Raven13**.**Co vás če...
+
+
+          https://www.meetup.com/protest_cz/events/284821963/'
+        location: Na Florenci 2116/15 (Na Florenci 2116/15, Florenc, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284821963@meetup.com
+        url: https://www.meetup.com/protest_cz/events/284821963/
+        dtstart: 2022-03-29 18:00:00+02:00
+        dtend: 2022-03-29 20:30:00+02:00
