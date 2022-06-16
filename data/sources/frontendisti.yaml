@@ -2325,3 +2325,97 @@ series:
         url: https://www.meetup.com/frontendisti/events/283113425/
         dtstart: 2022-02-09 18:00:00+01:00
         dtend: 2022-02-09 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'CSS kam se podíváš... a křest knihy "CSS: moderní layout" | Frontendisti.cz LIVE'
+        description: 'Frontendisti.cz
+
+          Wednesday, May 11 at 6:00 PM
+
+
+          Užijte si s námi další **hybridní meetup v Brně.** Tentokrát **naživo** v prostorách **Czechitas.** A pokud to do Brna máte daleko, spojte se s námi *...\n
+
+          https://www.meetup.com/frontendisti/events/285413505/'
+        location: CTP Czechitas House (Škrobárenská 511/3, Brno-jih, Czech Republic 617 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285413505@meetup.com
+        url: https://www.meetup.com/frontendisti/events/285413505/
+        dtstart: 2022-05-11 18:00:00+02:00
+        dtend: 2022-05-11 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Performance meetup (Pipedrive, Praha)
+        description: 'Frontendisti.cz
+
+          Wednesday, April 13 at 6:30 PM
+
+
+          One of the things that web developers struggle with is web performance. Web performance is related to the speed at which web content is displayed on t...
+
+
+          https://www.meetup.com/frontendisti/events/284018997/'
+        location: Pipedrive (Pernerova 697/35, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_mbjhpsydcgbrb@meetup.com
+        url: https://www.meetup.com/frontendisti/events/284018997/
+        dtstart: 2022-04-13 18:30:00+02:00
+        dtend: 2022-04-13 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Nástroje pro design webu a spolupráce s designéry | Frontedisti.cz LIVE
+        description: 'Frontendisti.cz
+
+          Wednesday, March 9 at 6:00 PM
+
+
+          Dost bylo pouze online meetupů.**Tento bude opět hybridní.** Dorazit můžete **NAŽIVO** do Brna do kanceláři SUPERKODERS. ALe pokud je to od vás do Brn...\n
+
+          https://www.meetup.com/frontendisti/events/283183947/'
+        location: SUPERKODERS (Hněvkovského 30/65, Brno-jih-Komárov, Czech Republic 617 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_mbjhpsydcfbmb@meetup.com
+        url: https://www.meetup.com/frontendisti/events/283183947/
+        dtstart: 2022-03-09 18:00:00+01:00
+        dtend: 2022-03-09 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Testování - Frontedisti.cz LIVE
+        description: 'Frontendisti.cz
+
+          Wednesday, February 9 at 6:00 PM
+
+
+          První letošní sraz Frontendistů - tentokrát na téma testování! Online stream naleznete na youtube https://www.youtube.com/watch?v=7ipac1_L_8w Program:...
+
+
+          https://www.meetup.com/frontendisti/events/283113425/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_mbjhpsydcdbmb@meetup.com
+        url: https://www.meetup.com/frontendisti/events/283113425/
+        dtstart: 2022-02-09 18:00:00+01:00
+        dtend: 2022-02-09 20:00:00+01:00

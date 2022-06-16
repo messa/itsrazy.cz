@@ -2459,12 +2459,9 @@ series:
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Apr 19, 4:00 PM  CEST: # DAIDALOS – The Role of AI in Achieving the Sustainable Development Goals
-
-
-        We invite you to the online discussion "The Role of AI in Achieving the Sustainable Development '
-      og_title: D<AI>DALOS – Role of AI in Achieving The Sustainable Development Goals, Tue, Apr 19, 2022, 4:00 PM   | Meetup
-      url: https://www.meetup.com/machine-learning-meetup-brno/events/285343994/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: D<AI>DALOS – Role of AI in Achieving The Sustainable Development Goals
         description: 'Machine Learning Meetup Brno
@@ -2475,14 +2472,14 @@ series:
           # DAIDALOS – The Role of AI in Achieving the Sustainable Development Goals We invite you to the online discussion "The Role of AI in Achieving the Sus...
 
 
-          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/285343994/'
+          https://www.meetup.com/machine-learning-meetup-brno/events/285343994/'
         location: Online event
         geo:
           lat: 49.2
           lon: 16.61
         status: CONFIRMED
         uid: event_285343994@meetup.com
-        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/285343994/
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/285343994/
         dtstart: 2022-04-19 16:00:00+02:00
         dtend: 2022-04-19 18:00:00+02:00
   - meetupcom:
@@ -8463,7 +8460,7 @@ series:
 
 
           https://www.meetup.com/machine-learning-meetup-brno/events/286553337/'
-        location: KUMST (Údolní 495/19, Brno-střed, Czech Republic 602 00)
+        location: Clubco (Vlnena 5, Brno-Brno-střed, Czech Republic 602 00)
         geo:
           lat: 49.2
           lon: 16.61
