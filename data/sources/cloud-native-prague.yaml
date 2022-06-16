@@ -2052,16 +2052,9 @@ series:
         dtstart: 2021-01-28 18:00:00+01:00
         dtend: 2021-01-28 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Apr 27, 9:00 AM  CEST: **Budování udržitelných ekosystémů pro Cloud Native software**
-
-
-        Formát: Virtuální konference - Bevy platforma
-
-        Termín: 27. - 28.4.2022 od 9:00 do 16:00
-
-        Každý den **dva track'
-      og_title: Kubernetes Community Days 2022 Czech & Slovak | virtual, Wed, Apr 27, 2022, 9:00 AM   | Meetup
-      url: https://www.meetup.com/cloud-native-prague/events/284904998/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Kubernetes Community Days 2022 Czech & Slovak | virtual
         description: 'Cloud Native Prague
@@ -2072,20 +2065,20 @@ series:
           **Budování udržitelných ekosystémů pro Cloud Native software** Formát: Virtuální konference - Bevy platformaTermín: 27. - 28.4.2022 od 9:00 do 16:00Ka...
 
 
-          https://www.meetup.com/Cloud-Native-Prague/events/284904998/'
+          https://www.meetup.com/cloud-native-prague/events/284904998/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_284904998@meetup.com
-        url: https://www.meetup.com/Cloud-Native-Prague/events/284904998/
+        url: https://www.meetup.com/cloud-native-prague/events/284904998/
         dtstart: 2022-04-27 09:00:00+02:00
         dtend: 2022-04-28 17:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, May 18, 6:00 PM  CEST: Cloud-Native Prague #16 is here! Come join us online, share experiences and discuss successes and fuck-ups. It was a great last time, so prepare some drink and connect with'
-      og_title: 'Cloud Native Prague Meetup #16, Tue, May 18, 2021, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/cloud-native-prague/events/278042296/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Cloud Native Prague Meetup #16'
         description: 'Cloud Native Prague
@@ -2096,22 +2089,20 @@ series:
           Cloud-Native Prague #16 is here! Come join us online, share experiences and discuss successes and fuck-ups. It was a great last time, so prepare some ...
 
 
-          https://www.meetup.com/Cloud-Native-Prague/events/278042296/'
+          https://www.meetup.com/cloud-native-prague/events/278042296/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_278042296@meetup.com
-        url: https://www.meetup.com/Cloud-Native-Prague/events/278042296/
+        url: https://www.meetup.com/cloud-native-prague/events/278042296/
         dtstart: 2021-05-18 18:00:00+02:00
         dtend: 2021-05-18 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Mar 2, 6:00 PM  CET: Hey Cloud-natives,
-
-        we are happy to announce another meetup with amazing talks. We will meet online, so there is no reason to change because of the stain on your old and bel'
-      og_title: 'Cloud Native Prague Meetup #15, Tue, Mar 2, 2021, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/cloud-native-prague/events/276422404/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Cloud Native Prague Meetup #15'
         description: 'Cloud Native Prague
@@ -2122,22 +2113,20 @@ series:
           Hey Cloud-natives,we are happy to announce another meetup with amazing talks. We will meet online, so there is no reason to change because of the stai...
 
 
-          https://www.meetup.com/Cloud-Native-Prague/events/276422404/'
+          https://www.meetup.com/cloud-native-prague/events/276422404/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_276422404@meetup.com
-        url: https://www.meetup.com/Cloud-Native-Prague/events/276422404/
+        url: https://www.meetup.com/cloud-native-prague/events/276422404/
         dtstart: 2021-03-02 18:00:00+01:00
         dtend: 2021-03-02 19:30:00+01:00
   - meetupcom:
-      meta_description: 'Thu, Jan 28, 6:00 PM  CET: Hi Cloud-natives,
-
-        we hope you are safe and sound because winter is coming. We managed to prepare some exciting agenda for another online meetup - believe us or not - number'
-      og_title: 'Cloud Native Prague Meetup #14, Thu, Jan 28, 2021, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/cloud-native-prague/events/275827515/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Cloud Native Prague Meetup #14'
         description: 'Cloud Native Prague
@@ -2148,14 +2137,14 @@ series:
           Hi Cloud-natives,we hope you are safe and sound because winter is coming. We managed to prepare some exciting agenda for another online meetup - belie...
 
 
-          https://www.meetup.com/Cloud-Native-Prague/events/275827515/'
+          https://www.meetup.com/cloud-native-prague/events/275827515/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_275827515@meetup.com
-        url: https://www.meetup.com/Cloud-Native-Prague/events/275827515/
+        url: https://www.meetup.com/cloud-native-prague/events/275827515/
         dtstart: 2021-01-28 18:00:00+01:00
         dtend: 2021-01-28 19:30:00+01:00
   - meetupcom:

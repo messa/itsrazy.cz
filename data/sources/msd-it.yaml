@@ -1728,11 +1728,9 @@ series:
         dtstart: 2020-10-06 18:00:00+02:00
         dtend: 2020-10-06 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 9, 6:00 PM  CEST: We believe knowledge and intel sharing is the key to preventing cyber threats. Join the community and come to the first Cybersecurity Meetup in Prague!
-
-        We will talk about O'
-      og_title: Cybersecurity Meetup , Thu, Jun 9, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/msd-it-meet-ups/events/285392625/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Cybersecurity Meetup '
         description: 'MSD IT Meet Ups
@@ -1742,14 +1740,14 @@ series:
 
           We believe knowledge and intel sharing is the key to preventing cyber threats. Join the community and come to the first Cybersecurity Meetup in Prague...
 
-          \nhttps://www.meetup.com/MSD-IT-Meet-Ups/events/285392625/'
+          \nhttps://www.meetup.com/msd-it-meet-ups/events/285392625/'
         location: MSD building FIVE (Na Valentince 504, Praha 5-Smíchov, Czech Republic 150 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285392625@meetup.com
-        url: https://www.meetup.com/MSD-IT-Meet-Ups/events/285392625/
+        url: https://www.meetup.com/msd-it-meet-ups/events/285392625/
         dtstart: 2022-06-09 18:00:00+02:00
         dtend: 2022-06-09 20:00:00+02:00
   - meetupcom:
