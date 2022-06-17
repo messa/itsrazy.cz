@@ -6525,9 +6525,9 @@ series:
         dtstart: 2022-04-12 18:00:00+02:00
         dtend: 2022-04-12 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 2, 7:00 PM  CEST: Zúčastni se bezplatného online workshopu, kde tě zkušení mentoři provedou základy vývoje aplikací pomocí no-code platformy Salesforce, která zažívá boom ve světě informační'
-      og_title: 'ONLINE WORKSHOP: Základy no-code vývoje, Thu, Jun 2, 2022, 7:00 PM   | Meetup'
-      url: https://www.meetup.com/prague-junior-software-developer-course/events/286154258/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'ONLINE WORKSHOP: Základy no-code vývoje'
         description: 'Become a software developer from 0

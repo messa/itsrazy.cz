@@ -2326,9 +2326,9 @@ series:
         dtstart: 2020-09-24 19:00:00+02:00
         dtend: 2020-09-24 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, May 5, 6:30 PM  CEST: Microservice architektura je principiálně distribuovaný systém se všemi výhodami i těžkostmi. Martin Štefanko ([https://twitter.com/xstefank](https://twitter.com/xstefank))'
-      og_title: Transakce v microservice architekturách, Thu, May 5, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/brno-java-meetup/events/285414870/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Transakce v microservice architekturách
         description: 'Brno Java Meetup
@@ -2338,14 +2338,14 @@ series:
 
           Microservice architektura je principiálně distribuovaný systém se všemi výhodami i těžkostmi. Martin Štefanko ((https://twitter.com/xstefank" class="l...
 
-          \nhttps://www.meetup.com/Brno-Java-Meetup/events/285414870/'
+          \nhttps://www.meetup.com/brno-java-meetup/events/285414870/'
         location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
         geo:
           lat: 49.2
           lon: 16.61
         status: CONFIRMED
         uid: event_285414870@meetup.com
-        url: https://www.meetup.com/Brno-Java-Meetup/events/285414870/
+        url: https://www.meetup.com/brno-java-meetup/events/285414870/
         dtstart: 2022-05-05 18:30:00+02:00
         dtend: 2022-05-05 20:30:00+02:00
   - meetupcom:
