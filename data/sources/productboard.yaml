@@ -1073,3 +1073,27 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/286180415/
         dtstart: 2022-06-15 18:00:00+02:00
         dtend: 2022-06-15 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: GraphQL Meetup
+        description: 'Productboard Meetups
+
+          Wednesday, June 15 at 6:00 PM
+
+
+          **Productboard GraphQL Meetups are back!** **Join us for our next meetup. Please register via Eventbrite:**https://www.eventbrite.com/e/graphql-meetup...
+
+
+          https://www.meetup.com/productboard-meetups/events/286180415/'
+        location: Boudníkova 3 (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286180415@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/286180415/
+        dtstart: 2022-06-15 18:00:00+02:00
+        dtend: 2022-06-15 21:00:00+02:00
