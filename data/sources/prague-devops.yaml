@@ -2932,14 +2932,9 @@ series:
         dtstart: 2021-09-08 19:00:00+02:00
         dtend: 2021-09-08 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Apr 6, 7:00 PM  CEST: Hello doers,
-
-
-        The first hybrid and the second this year DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.
-
-        The structure of'
-      og_title: Prague DevOps meetup hybrid (April 2022), Wed, Apr 6, 2022, 7:00 PM   | Meetup
-      url: https://www.meetup.com/prague-devops-meetup/events/283816829/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Prague DevOps meetup hybrid (April 2022)
         description: 'Prague DevOps Meetup
@@ -2950,14 +2945,14 @@ series:
           Hello doers, The first hybrid and the second this year DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewh...
 
 
-          https://www.meetup.com/Prague-DevOps-Meetup/events/283816829/'
+          https://www.meetup.com/prague-devops-meetup/events/283816829/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_283816829@meetup.com
-        url: https://www.meetup.com/Prague-DevOps-Meetup/events/283816829/
+        url: https://www.meetup.com/prague-devops-meetup/events/283816829/
         dtstart: 2022-04-06 19:00:00+02:00
         dtend: 2022-04-06 21:00:00+02:00
   - meetupcom:

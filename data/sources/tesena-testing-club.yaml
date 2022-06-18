@@ -1010,32 +1010,29 @@ series:
         dtstart: 2022-05-26 10:00:00+02:00
         dtend: 2022-05-26 11:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 16, 11:00 AM  CEST: * **Webinar content**
-
-
-        Have you ever wondered how to speed up your automation tests? Or whether waiting for elements to load on a webpage should be your concern? This webin'
-      og_title: '(EN) Selenium vs Browser: Battle of Tools in Robot Framework, Thu, Jun 16, 2022, 11:00 AM   | Meetup'
-      url: https://www.meetup.com/tesena-testing-club/events/285124311/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: '(EN) Selenium vs Browser: Battle of Tools in Robot Framework'
         description: 'Tesena Testing Club
 
-          Thursday, June 16 at 11:00 AM
+          Thursday, June 16 at 10:30 AM
 
 
           * **Webinar content** Have you ever wondered how to speed up your automation tests? Or whether waiting for elements to load on a webpage should be you...
 
 
-          https://www.meetup.com/Tesena-testing-club/events/285124311/'
+          https://www.meetup.com/tesena-testing-club/events/285124311/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285124311@meetup.com
-        url: https://www.meetup.com/Tesena-testing-club/events/285124311/
-        dtstart: 2022-06-16 11:00:00+02:00
-        dtend: 2022-06-16 12:00:00+02:00
+        url: https://www.meetup.com/tesena-testing-club/events/285124311/
+        dtstart: 2022-06-16 10:30:00+02:00
+        dtend: 2022-06-16 11:30:00+02:00
   - meetupcom:
       meta_description: 'Tue, May 3, 10:30 AM  CEST: **Webinar content**
 
