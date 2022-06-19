@@ -5576,12 +5576,9 @@ series:
         dtstart: 2022-06-15 09:00:00+02:00
         dtend: 2022-06-15 10:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 16, 9:00 AM  CEST: Dámy a pánové,
-
-
-        rádi bychom Vás pozvali na naši 9. IT konferenci. Téma je věnované monitoringu infrastruktury a všechny přednášky vycházejí z best practices našich speakerů'
-      og_title: Prometheus - agilní monitoring moderní infrastruktury, Thu, Jun 16, 2022, 9:00 AM   | Meetup
-      url: https://www.meetup.com/morning-talks/events/285495272/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Prometheus - agilní monitoring moderní infrastruktury
         description: 'Morning Talks
@@ -5591,14 +5588,14 @@ series:
 
           Dámy a pánové,  rádi bychom Vás pozvali na naši 9. IT konferenci. Téma je věnované monitoringu infrastruktury a všechny přednášky vycházejí z best pra...
 
-          \nhttps://www.meetup.com/Morning-Talks/events/285495272/'
+          \nhttps://www.meetup.com/morning-talks/events/285495272/'
         location: null
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285495272@meetup.com
-        url: https://www.meetup.com/Morning-Talks/events/285495272/
+        url: https://www.meetup.com/morning-talks/events/285495272/
         dtstart: 2022-06-16 09:00:00+02:00
         dtend: 2022-06-16 16:30:00+02:00
   - meetupcom:
