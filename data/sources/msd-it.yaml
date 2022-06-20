@@ -983,9 +983,9 @@ series:
         dtstart: 2022-06-09 18:00:00+02:00
         dtend: 2022-06-09 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 16, 6:00 PM  CEST: Come to our DevOps meetup, even with different background, and let´s talk about how we deliver Software in our company. We will discuss Agile Planning, Continuous Integrati'
-      og_title: MSD DevOps Meetup, Thu, Jun 16, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/msd-it-meet-ups/events/285819476/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: MSD DevOps Meetup
         description: 'MSD IT Meet Ups
@@ -996,14 +996,14 @@ series:
           Come to our DevOps meetup, even with different background, and let´s talk about how we deliver Software in our company. We will discuss Agile Planning...
 
 
-          https://www.meetup.com/MSD-IT-Meet-Ups/events/285819476/'
+          https://www.meetup.com/msd-it-meet-ups/events/285819476/'
         location: MSD building FIVE (Na Valentince 504, Praha 5-Smíchov, Czech Republic 150 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285819476@meetup.com
-        url: https://www.meetup.com/MSD-IT-Meet-Ups/events/285819476/
+        url: https://www.meetup.com/msd-it-meet-ups/events/285819476/
         dtstart: 2022-06-16 18:00:00+02:00
         dtend: 2022-06-16 21:00:00+02:00
   - meetupcom:
