@@ -468,15 +468,9 @@ series:
         dtstart: 2022-06-08 18:00:00+02:00
         dtend: 2022-06-08 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jun 21, 6:00 PM  CEST: **Productboard''s first Data Meetup is here!**
-
-
-        ## About this event
-
-
-        During the pandemic, we moved into new offices, which have already been named Best Startup Office of the'
-      og_title: Data Meetup | PRG, Tue, Jun 21, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/productboard-meetups/events/286390674/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Data Meetup | PRG
         description: 'Productboard Meetups
@@ -1313,3 +1307,30 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/286180415/
         dtstart: 2022-06-15 18:00:00+02:00
         dtend: 2022-06-15 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Mon, Jun 27, 7:00 PM  CEST: Hello, London product design community - let''s meet and get to know each other!
+
+
+        With the [UX London conference](https://2022.uxlondon.com/) kicking off soon, some of the P'
+      og_title: Product Design Meet&Greet, Mon, Jun 27, 2022, 7:00 PM   | Meetup
+      url: https://www.meetup.com/productboard-meetups/events/286708983/
+      ical:
+        summary: Product Design Meet&Greet
+        description: 'Productboard Meetups
+
+          Monday, June 27 at 7:00 PM
+
+
+          Hello, London product design community - let''s meet and get to know each other! With the (https://2022.uxlondon.com/) kicking off soon, some of the Pr...
+
+
+          https://www.meetup.com/productboard-meetups/events/286708983/'
+        location: BrewDog Old Street (211 Old Street, London, United Kingdom EC1V 9NR)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286708983@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/286708983/
+        dtstart: 2022-06-27 19:00:00+02:00
+        dtend: 2022-06-27 22:00:00+02:00
