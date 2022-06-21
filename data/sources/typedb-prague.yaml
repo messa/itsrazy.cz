@@ -2165,3 +2165,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/286113208/
         dtstart: 2022-06-16 18:30:00+02:00
         dtend: 2022-06-16 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: TypeDB Academy | Modelling Principles
+        description: 'TypeDB Prague Engineers
+
+          Thursday, June 16 at 6:30 PM
+
+
+          Join the (https://docs.vaticle.com/docs/general/quickstart) to learn how we think about data modelling, and how TypeDB''s expressivity allows you to mo...
+
+
+          https://www.meetup.com/typedb-prague/events/286113208/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286113208@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286113208/
+        dtstart: 2022-06-16 18:30:00+02:00
+        dtend: 2022-06-16 19:30:00+02:00
