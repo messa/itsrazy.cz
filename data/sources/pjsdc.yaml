@@ -6986,3 +6986,27 @@ series:
         url: https://www.meetup.com/prague-junior-software-developer-course/events/286154258/
         dtstart: 2022-06-02 19:00:00+02:00
         dtend: 2022-06-02 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'ONLINE WORKSHOP: Základy no-code vývoje'
+        description: 'Become a software developer from 0
+
+          Thursday, June 2 at 7:00 PM
+
+
+          Zúčastni se bezplatného online workshopu, kde tě zkušení mentoři provedou základy vývoje aplikací pomocí no-code platformy Salesforce, která zažívá bo...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/286154258/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286154258@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/286154258/
+        dtstart: 2022-06-02 19:00:00+02:00
+        dtend: 2022-06-02 21:00:00+02:00
