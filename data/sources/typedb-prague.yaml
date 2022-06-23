@@ -1393,14 +1393,9 @@ series:
         dtstart: 2022-06-07 18:30:00+02:00
         dtend: 2022-06-07 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 23, 6:30 PM  CEST: Build your skills and learn how TypeDB''s native inference engine works.
-
-
-        **Good for:**
-
-        \- Beginners to [TypeDB and TypeQL](https://docs.vaticle.com/docs/general/quickstart)'
-      og_title: TypeDB Academy | Inference with Rules, Thu, Jun 23, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/typedb-prague/events/286113864/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: TypeDB Academy | Inference with Rules
         description: 'TypeDB Prague Engineers
