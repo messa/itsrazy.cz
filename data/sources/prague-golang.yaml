@@ -2331,12 +2331,9 @@ series:
         dtstart: 2021-06-23 18:00:00+02:00
         dtend: 2021-06-23 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, May 31, 6:00 PM  CEST: Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **our first Golang Meetup** **of 2022**!
-
-
-        **🚨 Please [register via Eventbrite](https:'
-      og_title: 'Go Meetup in Prague #7, Tue, May 31, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/prague-golang-meetup/events/285491798/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Go Meetup in Prague #7'
         description: 'Prague Golang Meetup
@@ -2347,14 +2344,14 @@ series:
           Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **our first Golang Meetup** **of 2022**! **🚨 Please (https://www...
 
 
-          https://www.meetup.com/Prague-Golang-Meetup/events/285491798/'
+          https://www.meetup.com/prague-golang-meetup/events/285491798/'
         location: Productboard s.r.o. (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285491798@meetup.com
-        url: https://www.meetup.com/Prague-Golang-Meetup/events/285491798/
+        url: https://www.meetup.com/prague-golang-meetup/events/285491798/
         dtstart: 2022-05-31 18:00:00+02:00
         dtend: 2022-05-31 21:00:00+02:00
   - meetupcom:

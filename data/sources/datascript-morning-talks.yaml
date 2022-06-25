@@ -8501,14 +8501,9 @@ series:
         dtstart: 2022-06-16 09:00:00+02:00
         dtend: 2022-06-16 16:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jun 22, 9:00 AM  CEST: **Prosíme Vás o registraci přímo na stránkách Datascriptu:**
-
-        https://www.datascript.cz/morning-talks/jira-agilni-pristup-v-rizeni-neit-projektu/
-
-
-        **Na co se můžete těšit:**'
-      og_title: Jira - agilní přístup v řízení (ne)IT projektů, Wed, Jun 22, 2022, 9:00 AM   | Meetup
-      url: https://www.meetup.com/morning-talks/events/285390578/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Jira - agilní přístup v řízení (ne)IT projektů
         description: 'Morning Talks
@@ -8518,14 +8513,14 @@ series:
 
           **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/jira-agilni-pristup-v-rizeni-neit-projektu/ **Na c...
 
-          \nhttps://www.meetup.com/Morning-Talks/events/285390578/'
+          \nhttps://www.meetup.com/morning-talks/events/285390578/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285390578@meetup.com
-        url: https://www.meetup.com/Morning-Talks/events/285390578/
+        url: https://www.meetup.com/morning-talks/events/285390578/
         dtstart: 2022-06-22 09:00:00+02:00
         dtend: 2022-06-22 10:00:00+02:00
   - meetupcom:
