@@ -3369,26 +3369,26 @@ series:
         dtstart: 2022-05-18 19:00:00+02:00
         dtend: 2022-05-18 23:59:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Jun 15, 7:00 PM  CEST: We will meet for an informal chat about Python, programming, and more. Details will be added.'
-      og_title: 'Pyvo Prague #, Wed, Jun 15, 2022, 7:00 PM   | Meetup'
-      url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssydcjbtb/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
-        summary: 'Pyvo Prague #'
+        summary: 'Pyvo Prague #133 Using OpenCV in Python to process videos and read barcodes'
         description: 'Pyvo: Prague Python Meetup
 
           Wednesday, June 15 at 7:00 PM
 
-          \nWe will meet for an informal chat about Python, programming, and more. Details will be added.
+          \nPotkáme se v Holešovické šachtě. Bude jedna přednáška, lightning talky a volná zábava - buřty jsou objednané.  We meet at the Holešovická šachta. You ...
 
 
-          https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/285151921/'
-        location: Prague (, Prague, Czech Republic)
+          https://www.meetup.com/pyvo-prague-python-meetup/events/285151921/'
+        location: Holešovická šachta (Bubenská 242/14, Praha 7-Holešovice, Czech Republic 170 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_bcxlssydcjbtb@meetup.com
-        url: https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/285151921/
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/285151921/
         dtstart: 2022-06-15 19:00:00+02:00
         dtend: 2022-06-15 23:59:00+02:00
   - meetupcom:
