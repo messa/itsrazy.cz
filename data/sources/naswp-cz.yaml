@@ -4639,3 +4639,27 @@ series:
         url: https://www.meetup.com/naswp-cz/events/285883947/
         dtstart: 2022-05-25 19:00:00+02:00
         dtend: 2022-05-25 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'WordPress pivo Praha #33 - naživo!'
+        description: 'NášWP WordPress komunita
+
+          Wednesday, May 25 at 7:00 PM
+
+
+          Tradiční sraz místní WordPressové komunity - poslední středa v měsíci. Tentokrát bez přednášky, protože jsme se dlouho neviděli naživo. Sejdeme se na ...
+
+
+          https://www.meetup.com/naswp-cz/events/285883947/'
+        location: Restaurace U Veverky (Eliášova 324, Praha 6-Bubeneč, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285883947@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/285883947/
+        dtstart: 2022-05-25 19:00:00+02:00
+        dtend: 2022-05-25 22:00:00+02:00

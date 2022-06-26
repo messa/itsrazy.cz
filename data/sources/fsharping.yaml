@@ -4710,9 +4710,9 @@ series:
         dtstart: 2020-02-25 18:00:00+01:00
         dtend: 2020-02-25 21:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Aug 4, 6:00 PM  CEST: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects, and other great things (not only) from the IT world a'
-      og_title: FSharping |> Beer, Wed, Aug 4, 2021, 6:00 PM   | Meetup
-      url: https://www.meetup.com/fsharping/events/279609755/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: FSharping |> Beer
         description: 'FSharping
@@ -4722,20 +4722,20 @@ series:
 
           Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects, and other great things (not onl...\n
 
-          https://www.meetup.com/FSharping/events/279609755/'
+          https://www.meetup.com/fsharping/events/279609755/'
         location: Bernard Pub (Jeseniova 93, Prague, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_279609755@meetup.com
-        url: https://www.meetup.com/FSharping/events/279609755/
+        url: https://www.meetup.com/fsharping/events/279609755/
         dtstart: 2021-08-04 18:00:00+02:00
         dtend: 2021-08-04 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Aug 19, 6:00 PM  CEST: Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects and other great things (not only) from IT world and fu'
-      og_title: FSharping |> Beer, Wed, Aug 19, 2020, 6:00 PM   | Meetup
-      url: https://www.meetup.com/fsharping/events/271789552/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: FSharping |> Beer
         description: 'FSharping
@@ -4745,20 +4745,20 @@ series:
 
           Like every summer, we will have a beer session somewhere in Prague to chat about F#, community, conferences, projects and other great things (not only...\n
 
-          https://www.meetup.com/FSharping/events/271789552/'
+          https://www.meetup.com/fsharping/events/271789552/'
         location: Polo (J. Želivského 1790/35, Praha 3-Žižkov, Czech Republic 130 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_271789552@meetup.com
-        url: https://www.meetup.com/FSharping/events/271789552/
+        url: https://www.meetup.com/fsharping/events/271789552/
         dtstart: 2020-08-19 18:00:00+02:00
         dtend: 2020-08-19 23:00:00+02:00
   - meetupcom:
-      meta_description: 'Fri, Jun 5, 11:00 AM  CEST: 5. června nás čeká již třetí ročník virtuální konference fsharpConf, organizované lidmi z @fsharponline. Můžete se těšit na F# experty z celého světa. Uvidíte praktické vyu'
-      og_title: fsharpConf 2020, Fri, Jun 5, 2020, 11:00 AM   | Meetup
-      url: https://www.meetup.com/fsharping/events/270899664/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: fsharpConf 2020
         description: 'FSharping
@@ -4769,28 +4769,20 @@ series:
           5. června nás čeká již třetí ročník virtuální konference fsharpConf, organizované lidmi z @fsharponline. Můžete se těšit na F# experty z celého světa....
 
 
-          https://www.meetup.com/FSharping/events/270899664/'
+          https://www.meetup.com/fsharping/events/270899664/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_270899664@meetup.com
-        url: https://www.meetup.com/FSharping/events/270899664/
+        url: https://www.meetup.com/fsharping/events/270899664/
         dtstart: 2020-06-05 11:00:00+02:00
         dtend: 2020-06-05 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Feb 25, 6:00 PM  CET: We would like to invite you to our very first FShaping Functional Programming workshop.
-
-
-        ==== Basic information ====
-
-
-        Workshop is planned for 3 hours.
-
-        We will start at 18:0'
-      og_title: 'Josef Starýchfojtů: Advanced FP in F# (Workshop), Tue, Feb 25, 2020, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/fsharping/events/268054108/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Josef Starýchfojtů: Advanced FP in F# (Workshop)'
         description: 'FSharping
@@ -4801,14 +4793,14 @@ series:
           We would like to invite you to our very first FShaping Functional Programming workshop. ==== Basic information ==== Workshop is planned for 3 hours.We...
 
 
-          https://www.meetup.com/FSharping/events/268054108/'
+          https://www.meetup.com/fsharping/events/268054108/'
         location: Pracovna (Vlkova 36, Praha 3 - Žižkov, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_268054108@meetup.com
-        url: https://www.meetup.com/FSharping/events/268054108/
+        url: https://www.meetup.com/fsharping/events/268054108/
         dtstart: 2020-02-25 18:00:00+01:00
         dtend: 2020-02-25 21:00:00+01:00
   - meetupcom:
