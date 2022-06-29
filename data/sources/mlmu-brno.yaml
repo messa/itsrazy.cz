@@ -3847,14 +3847,9 @@ series:
         dtstart: 2022-04-19 16:00:00+02:00
         dtend: 2022-04-19 18:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jan 27, 6:00 PM  CET: Talk #1: Lhotse: a speech data representation library for the modern deep learning ecosystem (Piotr Żelasko, Meaning)
-
-
-        Abstract
-
-        Speech data is notoriously difficult to work'
-      og_title: 'MLMU Online #18: Voice processing revolution: The future is now!, Thu, Jan 27, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/machine-learning-meetup-brno/events/283360072/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'MLMU Online #18: Voice processing revolution: The future is now!'
         description: 'Machine Learning Meetup Brno
@@ -3865,23 +3860,20 @@ series:
           Talk #1: Lhotse: a speech data representation library for the modern deep learning ecosystem (Piotr Żelasko, Meaning) AbstractSpeech data is notorious...
 
 
-          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/283360072/'
+          https://www.meetup.com/machine-learning-meetup-brno/events/283360072/'
         location: Online event
         geo:
           lat: 49.2
           lon: 16.61
         status: CONFIRMED
         uid: event_283360072@meetup.com
-        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/283360072/
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/283360072/
         dtstart: 2022-01-27 18:00:00+01:00
         dtend: 2022-01-27 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Jan 19, 6:00 PM  CET: DAIDALOS – AI as a New Frontier for Journalism: Where to Find Value in Tech-Driven Journalism
-
-
-        We invite you to the online discussion AI as a New Frontier for Journalism: W'
-      og_title: D<AI>DALOS – AI as a New Frontier for Journalism, Wed, Jan 19, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/machine-learning-meetup-brno/events/283095380/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: D<AI>DALOS – AI as a New Frontier for Journalism
         description: 'Machine Learning Meetup Brno
@@ -3892,14 +3884,14 @@ series:
           DAIDALOS – AI as a New Frontier for Journalism: Where to Find Value in Tech-Driven Journalism We invite you to the online discussion AI as a New Front...
 
 
-          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/283095380/'
+          https://www.meetup.com/machine-learning-meetup-brno/events/283095380/'
         location: Online event
         geo:
           lat: 49.2
           lon: 16.61
         status: CONFIRMED
         uid: event_283095380@meetup.com
-        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/283095380/
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/283095380/
         dtstart: 2022-01-19 18:00:00+01:00
         dtend: 2022-01-19 20:00:00+01:00
   - meetupcom:
@@ -6243,12 +6235,9 @@ series:
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
   - meetupcom:
-      meta_description: 'Tue, Apr 19, 4:00 PM  CEST: # DAIDALOS – The Role of AI in Achieving the Sustainable Development Goals
-
-
-        We invite you to the online discussion "The Role of AI in Achieving the Sustainable Development '
-      og_title: D<AI>DALOS – Role of AI in Achieving The Sustainable Development Goals, Tue, Apr 19, 2022, 4:00 PM   | Meetup
-      url: https://www.meetup.com/machine-learning-meetup-brno/events/285343994/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: D<AI>DALOS – Role of AI in Achieving The Sustainable Development Goals
         description: 'Machine Learning Meetup Brno
@@ -6259,14 +6248,14 @@ series:
           # DAIDALOS – The Role of AI in Achieving the Sustainable Development Goals We invite you to the online discussion "The Role of AI in Achieving the Sus...
 
 
-          https://www.meetup.com/Machine-Learning-Meetup-Brno/events/285343994/'
+          https://www.meetup.com/machine-learning-meetup-brno/events/285343994/'
         location: Online event
         geo:
           lat: 49.2
           lon: 16.61
         status: CONFIRMED
         uid: event_285343994@meetup.com
-        url: https://www.meetup.com/Machine-Learning-Meetup-Brno/events/285343994/
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/285343994/
         dtstart: 2022-04-19 16:00:00+02:00
         dtend: 2022-04-19 18:00:00+02:00
   - meetupcom:
@@ -8163,6 +8152,29 @@ series:
         url: https://www.meetup.com/machine-learning-meetup-brno/events/282546299/
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Brno.AI meetup: AI, Data & Regulace'
+        description: 'Machine Learning Meetup Brno
+
+          Tuesday, June 21 at 4:00 PM
+
+          \nZveme vás ve spolupráci s brno.ai na offline meetup AI, Data & Regulace.**Prosím, PŘIHLAŠUJTE SE K ÚČASTI ZDE: (https://forms.gle/Fjampyz1wnnMeDyEA" c...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/286553337/'
+        location: Clubco (Vlnena 5, Brno-Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_286553337@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/286553337/
+        dtstart: 2022-06-21 16:00:00+02:00
+        dtend: 2022-06-21 18:00:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
