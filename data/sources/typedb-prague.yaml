@@ -2784,3 +2784,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/286133573/
         dtstart: 2022-06-28 18:30:00+02:00
         dtend: 2022-06-28 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Loading Huge Amounts of Data
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, June 28 at 6:30 PM
+
+
+          **THIS EVENT HAS BEEN POSTPONED**A new date will be sent soon \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* Loading a lot of da...
+
+
+          https://www.meetup.com/typedb-prague/events/286133573/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286133573@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286133573/
+        dtstart: 2022-06-28 18:30:00+02:00
+        dtend: 2022-06-28 19:30:00+02:00
