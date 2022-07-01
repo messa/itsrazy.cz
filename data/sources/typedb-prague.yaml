@@ -2832,3 +2832,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/286115362/
         dtstart: 2022-06-30 18:30:00+02:00
         dtend: 2022-06-30 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Beyond SQL | Comparing SQL to TypeQL
+        description: 'TypeDB Prague Engineers
+
+          Thursday, June 30 at 6:30 PM
+
+
+          Using SQL to query relational databases is easy. As a declarative language\, it’s straightforward to write queries and build powerful applications. How...
+
+
+          https://www.meetup.com/typedb-prague/events/286115362/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286115362@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286115362/
+        dtstart: 2022-06-30 18:30:00+02:00
+        dtend: 2022-06-30 19:30:00+02:00
