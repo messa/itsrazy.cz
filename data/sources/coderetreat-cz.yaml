@@ -6659,12 +6659,9 @@ series:
         dtstart: 2019-11-16 09:00:00+01:00
         dtend: 2019-11-16 18:00:00+01:00
   - meetupcom:
-      meta_description: 'Sat, Nov 13, 9:00 AM  CET: Změna: Původně jsme to plánovali dát offline. Bohužel epidemická situace se opět zhoršuje, přecházíme proto jako loni na online verzi Coderetreatu.
-
-
-        Zveme vás na jednodenní'
-      og_title: Global Day of Coderetreat 2021 - Online, Sat, Nov 13, 2021, 9:00 AM   | Meetup
-      url: https://www.meetup.com/coderetreat-cz/events/281417882/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Global Day of Coderetreat 2021 - Online
         description: 'CodeRetreat CZ
@@ -6686,12 +6683,9 @@ series:
         dtstart: 2021-11-13 09:00:00+01:00
         dtend: 2021-11-13 17:00:00+01:00
   - meetupcom:
-      meta_description: 'Sat, Nov 7, 9:00 AM  CET: Rok 2020 moc nepřeje osobním setkáním a když už se nemůže setkat osobně, zkusíme to aspoň online.
-
-
-        Global Day of Codertreat, https://www.coderetreat.org je takovým malým sv'
-      og_title: Global Day of Coderetreat 2020 - ČR, Online, Sat, Nov 7, 2020, 9:00 AM   | Meetup
-      url: https://www.meetup.com/coderetreat-cz/events/273897052/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Global Day of Coderetreat 2020 - ČR, Online
         description: 'CodeRetreat CZ
@@ -6713,9 +6707,9 @@ series:
         dtstart: 2020-11-07 09:00:00+01:00
         dtend: 2020-11-07 16:00:00+01:00
   - meetupcom:
-      meta_description: 'Sat, Nov 16, 9:00 AM  CET: Zveme vás na jednodenní intenzivní cvičení zaměřené na základy vývoje software zvané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu, psaní testů a spolupráci v pá'
-      og_title: Global Day of CodeRetreat 2019 - Praha, Sat, Nov 16, 2019, 9:00 AM   | Meetup
-      url: https://www.meetup.com/coderetreat-cz/events/265154359/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Global Day of CodeRetreat 2019 - Praha
         description: 'CodeRetreat CZ
@@ -6737,9 +6731,9 @@ series:
         dtstart: 2019-11-16 09:00:00+01:00
         dtend: 2019-11-16 18:00:00+01:00
   - meetupcom:
-      meta_description: 'Sat, Nov 16, 9:00 AM  CET: Zveme vás na jednodenní intenzivní cvičení zaměřené na základy vývoje software zvané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu, psaní testů a spolupráci v pá'
-      og_title: Global Day of Coderetreat 2019 - Olomouc, Sat, Nov 16, 2019, 9:00 AM   | Meetup
-      url: https://www.meetup.com/coderetreat-cz/events/265313497/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Global Day of Coderetreat 2019 - Olomouc
         description: 'CodeRetreat CZ
