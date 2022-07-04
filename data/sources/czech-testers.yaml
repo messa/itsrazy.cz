@@ -4210,9 +4210,9 @@ series:
         dtstart: 2022-05-31 18:00:00+02:00
         dtend: 2022-05-31 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Mar 29, 6:00 PM  CEST: Automatické end-to-end testy často naráží na problém externích systémů, které nejsou pod kontrolou, například takový katastr nemovitostí. Všechny možnosti nakonec vedou k t'
-      og_title: 'online: QA Brno - Automatické end-to-end testy s emulací externích systémů, Tue, Mar 29, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/professionaltesting/events/284503079/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'online: QA Brno - Automatické end-to-end testy s emulací externích systémů'
         description: 'CZECH TESTERS GROUP
@@ -7305,6 +7305,78 @@ series:
         url: https://www.meetup.com/professionaltesting/events/282722610/
         dtstart: 2021-12-18 20:00:00+01:00
         dtend: 2021-12-18 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'online: QA Brno - Jak řídit testy efektivněji se správným nástrojem'
+        description: 'CZECH TESTERS GROUP
+
+          Tuesday, February 22 at 6:00 PM
+
+
+          Test proces nebo management testů je již dnes poměrně známá věc alev průběhu času přechází kontinuální transformací. Vezmeme-li v potaz fakt, žeaktuál...
+
+
+          https://www.meetup.com/professionaltesting/events/283194770/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283194770@meetup.com
+        url: https://www.meetup.com/professionaltesting/events/283194770/
+        dtstart: 2022-02-22 18:00:00+01:00
+        dtend: 2022-02-22 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Testerská Katovna
+        description: 'CZECH TESTERS GROUP
+
+          Saturday, December 18 at 8:00 PM
+
+
+          Ahoj testeři,další Testerská Katovna již tuto sobotu od 20h. 🚀 Katovna probíhá na Discordu > Katovna > STAGE 🚀 Odkaz na discord audio:...
+
+
+          https://www.meetup.com/professionaltesting/events/282722610/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282722610@meetup.com
+        url: https://www.meetup.com/professionaltesting/events/282722610/
+        dtstart: 2021-12-18 20:00:00+01:00
+        dtend: 2021-12-18 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'online: QA Brno - Dobrý posel špatných zpráv aneb výzva v testerské komunikaci'
+        description: 'CZECH TESTERS GROUP
+
+          Tuesday, May 31 at 6:00 PM
+
+
+          Dobrý posel špatných zpráv aneb výzva v testerské komunikaci Práce testera se čas od času dostává do fází, kdy bývá velmi náročná na psychiku. Komunik...
+
+
+          https://www.meetup.com/professionaltesting/events/285588625/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285588625@meetup.com
+        url: https://www.meetup.com/professionaltesting/events/285588625/
+        dtstart: 2022-05-31 18:00:00+02:00
+        dtend: 2022-05-31 20:00:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
