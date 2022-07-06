@@ -7881,3 +7881,99 @@ series:
         url: https://www.meetup.com/prague-aws-meetup/events/264129445/
         dtstart: 2019-09-17 18:00:00+02:00
         dtend: 2019-09-17 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Wednesday, October 20 at 6:00 PM
+
+
+          We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT. There will be two speakers with the following presentations: • ...
+
+
+          https://www.meetup.com/prague-aws-meetup/events/280751506/'
+        location: MSD IT Global Innovation Center - Five (FIVE, Na Valentince 3336/4, 150 00, Prague, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280751506@meetup.com
+        url: https://www.meetup.com/prague-aws-meetup/events/280751506/
+        dtstart: 2021-10-20 18:00:00+02:00
+        dtend: 2021-10-20 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: AWS CZSK User Group Virtual Meetup
+        description: 'Prague AWS User Group
+
+          Wednesday, January 13 at 6:00 PM
+
+
+          We would like to invite you for the first online AWS CZSK User Group Meetup organized together with Amazon and AWS User Group Slovakia. Due to the fac...
+
+
+          https://www.meetup.com/prague-aws-meetup/events/275297097/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_275297097@meetup.com
+        url: https://www.meetup.com/prague-aws-meetup/events/275297097/
+        dtstart: 2021-01-13 18:00:00+01:00
+        dtend: 2021-01-13 19:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Wednesday, December 11 at 6:00 PM
+
+
+          We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT. There will be two speakers with the following presentations: • ...
+
+
+          https://www.meetup.com/prague-aws-meetup/events/266233892/'
+        location: MSD IT Global Innovation Center - Five (FIVE, Na Valentince 3336/4, 150 00, Prague, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_266233892@meetup.com
+        url: https://www.meetup.com/prague-aws-meetup/events/266233892/
+        dtstart: 2019-12-11 18:00:00+01:00
+        dtend: 2019-12-11 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Tuesday, September 17 at 6:00 PM
+
+
+          We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT. There will be two speakers with the following presentations: • ...
+
+
+          https://www.meetup.com/prague-aws-meetup/events/264129445/'
+        location: MSD IT Global Innovation Center - Five (FIVE, Na Valentince 3336/4, 150 00, Prague, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_264129445@meetup.com
+        url: https://www.meetup.com/prague-aws-meetup/events/264129445/
+        dtstart: 2019-09-17 18:00:00+02:00
+        dtend: 2019-09-17 20:00:00+02:00
