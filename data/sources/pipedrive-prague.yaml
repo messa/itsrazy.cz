@@ -7306,3 +7306,27 @@ series:
         url: https://www.meetup.com/pipedrive-talks-prague/events/284508613/
         dtstart: 2022-04-05 18:00:00+02:00
         dtend: 2022-04-05 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Engineering Meetup: From Developer to a Leader'
+        description: 'Pipedrive Talks Prague
+
+          Tuesday, April 5 at 6:00 PM
+
+
+          One possible career path for engineers is leadership: technical leadership, people management, or both. Typically you’d start by mentoring other engin...
+
+
+          https://www.meetup.com/pipedrive-talks-prague/events/284508613/'
+        location: Pipedrive (Pernerova 697/35, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284508613@meetup.com
+        url: https://www.meetup.com/pipedrive-talks-prague/events/284508613/
+        dtstart: 2022-04-05 18:00:00+02:00
+        dtend: 2022-04-05 20:00:00+02:00
