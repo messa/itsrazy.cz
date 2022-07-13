@@ -3672,3 +3672,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/286749064/
         dtstart: 2022-07-12 18:30:00+02:00
         dtend: 2022-07-12 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Semantic Web Technologies vs TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, July 12 at 6:30 PM
+
+
+          Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bod...
+
+
+          https://www.meetup.com/typedb-prague/events/286749064/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286749064@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286749064/
+        dtstart: 2022-07-12 18:30:00+02:00
+        dtend: 2022-07-12 19:30:00+02:00
