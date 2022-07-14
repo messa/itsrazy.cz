@@ -10210,3 +10210,99 @@ series:
         url: https://www.meetup.com/coderetreat-cz/events/265313497/
         dtstart: 2019-11-16 09:00:00+01:00
         dtend: 2019-11-16 18:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Global Day of Coderetreat 2021 - Online
+        description: 'CodeRetreat CZ
+
+          Saturday, November 13 at 9:00 AM
+
+
+          Změna: Původně jsme to plánovali dát offline. Bohužel epidemická situace se opět zhoršuje, přecházíme proto jako loni na online verzi Coderetreatu. Zv...
+
+
+          https://www.meetup.com/coderetreat-cz/events/281417882/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281417882@meetup.com
+        url: https://www.meetup.com/coderetreat-cz/events/281417882/
+        dtstart: 2021-11-13 09:00:00+01:00
+        dtend: 2021-11-13 17:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Global Day of Coderetreat 2020 - ČR, Online
+        description: 'CodeRetreat CZ
+
+          Saturday, November 7 at 9:00 AM
+
+
+          Rok 2020 moc nepřeje osobním setkáním a když už se nemůže setkat osobně, zkusíme to aspoň online. Global Day of Codertreat,...
+
+
+          https://www.meetup.com/coderetreat-cz/events/273897052/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_273897052@meetup.com
+        url: https://www.meetup.com/coderetreat-cz/events/273897052/
+        dtstart: 2020-11-07 09:00:00+01:00
+        dtend: 2020-11-07 16:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Global Day of CodeRetreat 2019 - Praha
+        description: 'CodeRetreat CZ
+
+          Saturday, November 16 at 9:00 AM
+
+
+          Zveme vás na jednodenní intenzivní cvičení zaměřené na základy vývoje software zvané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu, psaní t...
+
+
+          https://www.meetup.com/coderetreat-cz/events/265154359/'
+        location: Zonky (Na Okraji 335/42, Prague, CO, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_265154359@meetup.com
+        url: https://www.meetup.com/coderetreat-cz/events/265154359/
+        dtstart: 2019-11-16 09:00:00+01:00
+        dtend: 2019-11-16 18:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Global Day of Coderetreat 2019 - Olomouc
+        description: 'CodeRetreat CZ
+
+          Saturday, November 16 at 9:00 AM
+
+
+          Zveme vás na jednodenní intenzivní cvičení zaměřené na základy vývoje software zvané Coderetreat. Vývojáři si zde procvičí psaní čistého kódu, psaní t...
+
+
+          https://www.meetup.com/coderetreat-cz/events/265313497/'
+        location: Quadient Technologies Czech s.r.o. (tř. Kosmonautů 1338/1a, Olomouc, Czech Republic 779 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_265313497@meetup.com
+        url: https://www.meetup.com/coderetreat-cz/events/265313497/
+        dtstart: 2019-11-16 09:00:00+01:00
+        dtend: 2019-11-16 18:00:00+01:00
