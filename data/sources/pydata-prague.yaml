@@ -6422,9 +6422,9 @@ series:
         dtstart: 2022-05-10 18:00:00+02:00
         dtend: 2022-05-10 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Oct 28, 8:30 AM  CEST: The PyData Global Online Conference is where users, contributors, and newcomers can share experiences to learn from one another and grow together. PyData provides a virtual'
-      og_title: PyData Global 2021 (GLOBAL ONLINE CONFERENCE), Thu, Oct 28, 2021, 8:30 AM   | Meetup
-      url: https://www.meetup.com/pydata-prague/events/281281117/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: PyData Global 2021 (GLOBAL ONLINE CONFERENCE)
         description: 'PyData Prague
@@ -6446,12 +6446,9 @@ series:
         dtstart: 2021-10-28 08:30:00+02:00
         dtend: 2021-10-31 00:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jul 13, 6:30 PM  CEST: Hello PyData lovers,
-
-
-        it''s been a while since our last (on-line, not to mention in-person) PyData meet-up. We are sorry for not having arranged anything in the lockdown per'
-      og_title: 'PyData Prague #9 - Reinforcement Yearning, Tue, Jul 13, 2021, 6:30 PM   | Meetup'
-      url: https://www.meetup.com/pydata-prague/events/279339785/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'PyData Prague #9 - Reinforcement Yearning'
         description: 'PyData Prague
@@ -6806,6 +6803,54 @@ series:
         url: https://www.meetup.com/pydata-prague/events/286566742/
         dtstart: 2022-06-27 18:00:00+02:00
         dtend: 2022-06-27 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'PyData Prague #11 - Hovering over Capulets'
+        description: 'PyData Prague
+
+          Monday, June 27 at 6:00 PM
+
+
+          Hello data-lovers and Python craft-masters! Another PyData Prague meetup is here and this time we will meet in **(https://goo.gl/maps/FHvjbwTtYULjTKvS...
+
+
+          https://www.meetup.com/pydata-prague/events/286566742/'
+        location: Ataccama Software, s.r.o. (Invalidovna, Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286566742@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/286566742/
+        dtstart: 2022-06-27 18:00:00+02:00
+        dtend: 2022-06-27 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'PyData Prague #10 - Pandemic Lite'
+        description: 'PyData Prague
+
+          Tuesday, May 10 at 6:00 PM
+
+
+          Hello data-devourers and Python conjurers! We haven''t had a proper in-person meeting with talks for ages but now we are back with a perfect venue (Cre...
+
+
+          https://www.meetup.com/pydata-prague/events/285562340/'
+        location: CreativeDock (Františka Křížka 490/4, Holešovice, Praha-Praha 7, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285562340@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/285562340/
+        dtstart: 2022-05-10 18:00:00+02:00
+        dtend: 2022-05-10 21:00:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
