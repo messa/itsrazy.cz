@@ -6907,3 +6907,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/286756774/
         dtstart: 2022-07-13 17:30:00+02:00
         dtend: 2022-07-13 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: UX Picnic Brno in July
+        description: 'Asociace UX
+
+          Wednesday, July 13 at 5:30 PM
+
+
+          Hey designers! Let''s enjoy the summer sunshine and meet somewhere outdoors :) UX dinner is a meeting of the UX community in Brno. You can expect an in...
+
+
+          https://www.meetup.com/asociace-ux/events/286756774/'
+        location: Tyršův sad (Tyršův sad, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286756774@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/286756774/
+        dtstart: 2022-07-13 17:30:00+02:00
+        dtend: 2022-07-13 20:30:00+02:00
