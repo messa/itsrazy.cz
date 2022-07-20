@@ -2816,12 +2816,9 @@ series:
         dtstart: 2022-06-09 18:00:00+02:00
         dtend: 2022-06-09 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jul 12, 6:00 PM  CEST: **[PLEASE MAKE SURE TO APPLY ON OUR WEBSITE]( https://www.strv.com/academy/becoming-an-ios-engineer), THIS IS NOT A PUBLIC EVENT**
-
-
-        The STRV iOS team is big on sharing what'
-      og_title: 'STRV Academy: Becoming an iOS Engineer, Tue, Jul 12, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/strv-meetups/events/285859234/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'STRV Academy: Becoming an iOS Engineer'
         description: 'STRV Meetups
@@ -2832,14 +2829,14 @@ series:
           **( https://www.strv.com/academy/becoming-an-ios-engineer), THIS IS NOT A PUBLIC EVENT** The STRV iOS team is big on sharing what we know, something w...
 
 
-          https://www.meetup.com/STRV-Meetups/events/285859234/'
+          https://www.meetup.com/strv-meetups/events/285859234/'
         location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285859234@meetup.com
-        url: https://www.meetup.com/STRV-Meetups/events/285859234/
+        url: https://www.meetup.com/strv-meetups/events/285859234/
         dtstart: 2022-07-12 18:00:00+02:00
         dtend: 2022-07-12 20:00:00+02:00
   - meetupcom:
