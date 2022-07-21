@@ -146,12 +146,9 @@ series:
         dtstart: 2022-02-16 19:00:00+01:00
         dtend: 2022-02-16 23:59:00+01:00
   - meetupcom:
-      meta_description: 'Wed, Jul 20, 7:00 PM  CEST: Máme léto a s ním tradičně odlehčený program. Vyzkoušíme, jak by se nám fungovalo v kavárně volnočasového centra H55 (https://www.h55.cz/).
-
-
-        K dispozici budeme mít i sál s '
-      og_title: Pyvo Prague 134 - summer barbecue edition, Wed, Jul 20, 2022, 7:00 PM   | Meetup
-      url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssydckbbc/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Pyvo Prague 134 - summer barbecue edition
         description: 'Pyvo: Prague Python Meetup
@@ -9485,3 +9482,27 @@ series:
         url: https://www.meetup.com/pyvo-prague-python-meetup/events/285151921/
         dtstart: 2022-06-15 19:00:00+02:00
         dtend: 2022-06-15 23:59:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Nov 16, 7:00 PM  CET: We will meet for an informal chat about Python, programming, and more. Details will be added.'
+      og_title: 'Pyvo Prague #, Wed, Nov 16, 2022, 7:00 PM   | Meetup'
+      url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssydcpbvb/
+      ical:
+        summary: 'Pyvo Prague #'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, November 16 at 7:00 PM
+
+
+          We will meet for an informal chat about Python, programming, and more. Details will be added.
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssydcpbvb/'
+        location: Prague (, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_bcxlssydcpbvb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssydcpbvb/
+        dtstart: 2022-11-16 19:00:00+01:00
+        dtend: 2022-11-16 23:59:00+01:00
