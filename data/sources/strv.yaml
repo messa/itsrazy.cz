@@ -2453,12 +2453,9 @@ series:
         dtstart: 2022-05-24 19:00:00+02:00
         dtend: 2022-05-24 21:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 9, 6:00 PM  CEST: 🔥[Sign up on our website]( https://www.strv.com/academy/backend ) 🔥
-
-
-        STRV’s Backend team is the backbone of every project. It’s not only about developing the backend but '
-      og_title: 'STRV Academy: Backend, Thu, Jun 9, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/strv-meetups/events/285436855/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'STRV Academy: Backend'
         description: 'STRV Meetups
@@ -2469,14 +2466,14 @@ series:
           🔥( https://www.strv.com/academy/backend ) 🔥 STRV’s Backend team is the backbone of every project. It’s not only about developing the backend but about...
 
 
-          https://www.meetup.com/STRV-Meetups/events/285436855/'
+          https://www.meetup.com/strv-meetups/events/285436855/'
         location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285436855@meetup.com
-        url: https://www.meetup.com/STRV-Meetups/events/285436855/
+        url: https://www.meetup.com/strv-meetups/events/285436855/
         dtstart: 2022-06-09 18:00:00+02:00
         dtend: 2022-06-09 20:00:00+02:00
   - meetupcom:
@@ -4037,12 +4034,9 @@ series:
         dtstart: 2022-06-09 18:00:00+02:00
         dtend: 2022-06-09 20:00:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jul 12, 6:00 PM  CEST: **[PLEASE MAKE SURE TO APPLY ON OUR WEBSITE]( https://www.strv.com/academy/becoming-an-ios-engineer), THIS IS NOT A PUBLIC EVENT**
-
-
-        The STRV iOS team is big on sharing what'
-      og_title: 'STRV Academy: Becoming an iOS Engineer, Tue, Jul 12, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/strv-meetups/events/285859234/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'STRV Academy: Becoming an iOS Engineer'
         description: 'STRV Meetups
@@ -4053,14 +4047,14 @@ series:
           **( https://www.strv.com/academy/becoming-an-ios-engineer), THIS IS NOT A PUBLIC EVENT** The STRV iOS team is big on sharing what we know, something w...
 
 
-          https://www.meetup.com/STRV-Meetups/events/285859234/'
+          https://www.meetup.com/strv-meetups/events/285859234/'
         location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285859234@meetup.com
-        url: https://www.meetup.com/STRV-Meetups/events/285859234/
+        url: https://www.meetup.com/strv-meetups/events/285859234/
         dtstart: 2022-07-12 18:00:00+02:00
         dtend: 2022-07-12 20:00:00+02:00
   - meetupcom:
@@ -8277,6 +8271,53 @@ series:
         url: https://www.meetup.com/strv-meetups/events/286417910/
         dtstart: 2022-06-15 19:00:00+02:00
         dtend: 2022-06-15 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: STRV Web3 Meetup Vol. 2
+        description: 'STRV Meetups
+
+          Wednesday, June 15 at 7:00 PM
+
+
+          **💥 (https://www.eventbrite.com/e/strv-web3-meetup-vol-2-tickets-359472159907?aff=meetup) 💥** Join this month’s royal edition of our STRV Web3 Meetups...
+
+
+          https://www.meetup.com/strv-meetups/events/286417910/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286417910@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/286417910/
+        dtstart: 2022-06-15 19:00:00+02:00
+        dtend: 2022-06-15 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: QA Lightning Talks
+        description: 'STRV Meetups
+
+          Thursday, July 21 at 6:00 PM
+
+
+          We’d like to invite you to our QA Lightning Talks!  🔥 **(https://www.eventbrite.com/e/qa-lightning-talks-tickets-383339236977?aff=meetup)** 🔥 Do you w...
+
+          \nhttps://www.meetup.com/strv-meetups/events/287139169/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287139169@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/287139169/
+        dtstart: 2022-07-21 18:00:00+02:00
+        dtend: 2022-07-21 22:00:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
