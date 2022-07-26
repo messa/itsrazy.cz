@@ -13377,3 +13377,99 @@ series:
         url: https://www.meetup.com/ysoft-th/events/271492610/
         dtstart: 2020-07-08 18:00:00+02:00
         dtend: 2020-07-08 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Terminály, shelly a konzole
+        description: 'Y Soft: Technology Hour
+
+          Tuesday, February 15 at 6:00 PM
+
+
+          Mnozí lidé používají tyto termíny zcela zaměnitelně. A není divu - všechny se dají použít k označení onoho okýnka s bílým textem na černém pozadí, do ...
+
+
+          https://www.meetup.com/ysoft-th/events/283522925/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283522925@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/283522925/
+        dtstart: 2022-02-15 18:00:00+01:00
+        dtend: 2022-02-15 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Každý test jiná ves
+        description: 'Y Soft: Technology Hour
+
+          Tuesday, March 30 at 5:30 PM
+
+
+          Žijeme v době rychlého vývoje a ad-hoc řešení a v případě testování to platí dvojnásob. Je pak velký kumšt se v tom všem vyznat. Prozkoumejte s námi r...
+
+
+          https://www.meetup.com/ysoft-th/events/276847788/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_276847788@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/276847788/
+        dtstart: 2021-03-30 17:30:00+02:00
+        dtend: 2021-03-30 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Remote facilitation of distributed multi-team events '
+        description: 'Y Soft: Technology Hour
+
+          Tuesday, September 8 at 5:30 PM
+
+
+          In large scale product development with multiple teams, organizing and facilitating events is important to optimize transparency, provide opportunitie...
+
+
+          https://www.meetup.com/ysoft-th/events/272570292/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_272570292@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/272570292/
+        dtstart: 2020-09-08 17:30:00+02:00
+        dtend: 2020-09-08 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Y Soft LeSS Meetup '
+        description: 'Y Soft: Technology Hour
+
+          Wednesday, July 8 at 6:00 PM
+
+
+          After 1.5 years on the agile journey, we now have 13 self-managed teams and no managers or scrum masters. While we’re definitely not done with this, a...
+
+
+          https://www.meetup.com/ysoft-th/events/271492610/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_271492610@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/271492610/
+        dtstart: 2020-07-08 18:00:00+02:00
+        dtend: 2020-07-08 21:00:00+02:00
