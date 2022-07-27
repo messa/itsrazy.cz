@@ -8879,3 +8879,50 @@ series:
         url: https://www.meetup.com/strv-meetups/events/287139169/
         dtstart: 2022-07-21 18:00:00+02:00
         dtend: 2022-07-21 22:00:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Aug 11, 6:30 PM  CEST: 👉 [GET YOUR TICKET AND MORE INFO HERE](https://www.eventbrite.com/e/frontend-chill-bbq-tickets-391015888047?aff=meetup) 👈'
+      og_title: Frontend Chill & BBQ, Thu, Aug 11, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/strv-meetups/events/287443212/
+      ical:
+        summary: Frontend Chill & BBQ
+        description: 'STRV Meetups
+
+          Thursday, August 11 at 6:30 PM
+
+
+          👉 (https://www.eventbrite.com/e/frontend-chill-bbq-tickets-391015888047?aff=meetup) 👈
+
+
+          https://www.meetup.com/strv-meetups/events/287443212/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287443212@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/287443212/
+        dtstart: 2022-08-11 18:30:00+02:00
+        dtend: 2022-08-11 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: QA Lightning Talks
+        description: 'STRV Meetups
+
+          Thursday, July 21 at 6:00 PM
+
+
+          We’d like to invite you to our QA Lightning Talks!  🔥 **(https://www.eventbrite.com/e/qa-lightning-talks-tickets-383339236977?aff=meetup)** 🔥 Do you w...
+
+          \nhttps://www.meetup.com/strv-meetups/events/287139169/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287139169@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/287139169/
+        dtstart: 2022-07-21 18:00:00+02:00
+        dtend: 2022-07-21 22:00:00+02:00

@@ -7416,3 +7416,99 @@ series:
         url: https://www.meetup.com/typedb-prague/events/286133573/
         dtstart: 2022-06-28 18:30:00+02:00
         dtend: 2022-06-28 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Introduction to TypeDB and TypeQL | A Strongly-Typed Database
+        description: 'TypeDB Prague Engineers
+
+          Wednesday, July 13 at 6:30 PM
+
+
+          TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems...
+
+
+          https://www.meetup.com/typedb-prague/events/286877450/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286877450@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286877450/
+        dtstart: 2022-07-13 18:30:00+02:00
+        dtend: 2022-07-13 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Semantic Web Technologies vs TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, July 12 at 6:30 PM
+
+
+          Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bod...
+
+
+          https://www.meetup.com/typedb-prague/events/286749064/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286749064@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286749064/
+        dtstart: 2022-07-12 18:30:00+02:00
+        dtend: 2022-07-12 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Beyond SQL | Comparing SQL to TypeQL
+        description: 'TypeDB Prague Engineers
+
+          Thursday, June 30 at 6:30 PM
+
+
+          Using SQL to query relational databases is easy. As a declarative language\, it’s straightforward to write queries and build powerful applications. How...
+
+
+          https://www.meetup.com/typedb-prague/events/286115362/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286115362@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286115362/
+        dtstart: 2022-06-30 18:30:00+02:00
+        dtend: 2022-06-30 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Loading Huge Amounts of Data
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, June 28 at 6:30 PM
+
+
+          **THIS EVENT HAS BEEN POSTPONED**A new date will be sent soon \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* Loading a lot of da...
+
+
+          https://www.meetup.com/typedb-prague/events/286133573/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286133573@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286133573/
+        dtstart: 2022-06-28 18:30:00+02:00
+        dtend: 2022-06-28 19:30:00+02:00
