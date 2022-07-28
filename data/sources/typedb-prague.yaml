@@ -7800,3 +7800,53 @@ series:
         url: https://www.meetup.com/typedb-prague/events/286133573/
         dtstart: 2022-06-28 18:30:00+02:00
         dtend: 2022-06-28 19:30:00+02:00
+  - meetupcom:
+      meta_description: 'Tue, Aug 9, 6:30 PM  CEST: **Synopsis**
+
+        *Knowledge of cyber threats is a key focus in cyber security. In this talk, we present [TypeDB CTI](https://t.sidekickopen87.com/s3t/c/5/f18dQhb0S7kF8cpfPyW4Q2'
+      og_title: Building an Open Source Threat Intelligence Platform, Tue, Aug 9, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/287470414/
+      ical:
+        summary: Building an Open Source Threat Intelligence Platform
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, August 9 at 6:30 PM
+
+
+          **Synopsis***Knowledge of cyber threats is a key focus in cyber security. In this talk, we present (https://t.sidekickopen87.com/s3t/c/5/f18dQhb0S7kF8...
+
+
+          https://www.meetup.com/typedb-prague/events/287470414/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287470414@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/287470414/
+        dtstart: 2022-08-09 18:30:00+02:00
+        dtend: 2022-08-09 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Introduction to TypeDB and TypeQL | A Strongly-Typed Database
+        description: 'TypeDB Prague Engineers
+
+          Wednesday, July 13 at 6:30 PM
+
+
+          TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems...
+
+
+          https://www.meetup.com/typedb-prague/events/286877450/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286877450@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286877450/
+        dtstart: 2022-07-13 18:30:00+02:00
+        dtend: 2022-07-13 19:30:00+02:00
