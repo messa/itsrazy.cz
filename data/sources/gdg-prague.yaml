@@ -11600,21 +11600,9 @@ series:
         dtstart: 2022-07-05 18:30:00+02:00
         dtend: 2022-07-05 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Jul 19, 6:30 PM  CEST: • How to join?
-
-        Online only because of covid https://discord.gg/TnaMJMyTDw
-
-
-        • What we''ll do
-
-        https://sites.google.com/site/garagepragueone/home
-
-
-        http://gdg-garage.github.io/
-
-        '
-      og_title: GDG Garage Prague One, Tue, Jul 19, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/gdgprague/events/xqcsqsydckbzb/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: GDG Garage Prague One
         description: 'GDG Prague
@@ -11625,14 +11613,14 @@ series:
           • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
 
 
-          https://www.meetup.com/gdgprague/events/xqcsqsydckbzb/'
+          https://www.meetup.com/gdgprague/events/286876021/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_xqcsqsydckbzb@meetup.com
-        url: https://www.meetup.com/gdgprague/events/xqcsqsydckbzb/
+        url: https://www.meetup.com/gdgprague/events/286876021/
         dtstart: 2022-07-19 18:30:00+02:00
         dtend: 2022-07-19 20:30:00+02:00
   - meetupcom:
