@@ -14410,3 +14410,99 @@ series:
         url: https://www.meetup.com/cs-hug/events/264787795/
         dtstart: 2019-09-26 18:00:00+02:00
         dtend: 2019-09-26 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: The End of Hadoop? Big Data & Its Future
+        description: 'HUG: Big Data Meetup Prague
+
+          Thursday, January 30 at 6:00 PM
+
+
+          You might have heard news about the declining popularity of Hadoop and the Cloudera-Hortonworks merger. Taglines such as "Hadoop is dead" are growing ...
+
+
+          https://www.meetup.com/cs-hug/events/268060656/'
+        location: Ataccama office (Futurama Business Park, Sokolovská 685/136f, 186 00, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_268060656@meetup.com
+        url: https://www.meetup.com/cs-hug/events/268060656/
+        dtstart: 2020-01-30 18:00:00+01:00
+        dtend: 2020-01-30 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Making Apache Spark™ Better with Delta Lake
+        description: 'HUG: Big Data Meetup Prague
+
+          Thursday, November 14 at 6:00 PM
+
+
+          Apache Spark and Delta Lake (delta.io) are both open-source projects that help with big-data production workloads. While Apache Spark is de-facto the ...
+
+
+          https://www.meetup.com/cs-hug/events/266200104/'
+        location: Ataccama office (Futurama Business Park, Sokolovská 685/136f, 186 00, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_266200104@meetup.com
+        url: https://www.meetup.com/cs-hug/events/266200104/
+        dtstart: 2019-11-14 18:00:00+01:00
+        dtend: 2019-11-14 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Crunching Petabytes with Jumpshot
+        description: 'HUG: Big Data Meetup Prague
+
+          Thursday, October 31 at 6:00 PM
+
+
+          Jumpshot is an online analytics company that delivers insights on user behaviors everywhere online. Jumpshot uses machine learning and big data proces...
+
+
+          https://www.meetup.com/cs-hug/events/265835330/'
+        location: Ataccama office (Futurama Business Park, Sokolovská 685/136f, 186 00, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_265835330@meetup.com
+        url: https://www.meetup.com/cs-hug/events/265835330/
+        dtstart: 2019-10-31 18:00:00+01:00
+        dtend: 2019-10-31 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Fresh Season - Fresh Water: Productionizing H2O Models Using Apache Spark'
+        description: 'HUG: Big Data Meetup Prague
+
+          Thursday, September 26 at 6:00 PM
+
+
+          Spark pipelines represent a powerful concept to support productionizing machine learning workflows. Their API allows to combine data processing with m...
+
+
+          https://www.meetup.com/cs-hug/events/264787795/'
+        location: Ataccama office (Futurama Business Park, Sokolovská 685/136f, 186 00, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_264787795@meetup.com
+        url: https://www.meetup.com/cs-hug/events/264787795/
+        dtstart: 2019-09-26 18:00:00+02:00
+        dtend: 2019-09-26 20:00:00+02:00
