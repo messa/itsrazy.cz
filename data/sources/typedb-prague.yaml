@@ -7899,19 +7899,18 @@ series:
         dtstart: 2022-07-13 18:30:00+02:00
         dtend: 2022-07-13 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Aug 11, 6:30 PM  CEST: **Synopsis**
+      meta_description: 'Thu, Sep 1, 6:30 PM  CEST: **Synopsis**
 
         [Graph databases](https://docs.vaticle.com/docs/comparisons/graph-databases-and-typedb) have matured into mainstream technologies, used across any industry pow'
-      og_title: ' Graph Databases vs TypeDB | What You Can''t do With Graphs, Thu, Aug 11, 2022, 6:30 PM   | Meetup'
+      og_title: ' Graph Databases vs TypeDB | What You Can''t do With Graphs, Thu, Sep 1, 2022, 6:30 PM   | Meetup'
       url: https://www.meetup.com/typedb-prague/events/287490084/
       ical:
         summary: ' Graph Databases vs TypeDB | What You Can''t do With Graphs'
         description: 'TypeDB Prague Engineers
 
-          Thursday, August 11 at 6:30 PM
+          Thursday, September 1 at 6:30 PM
 
-
-          **Synopsis**(https://docs.vaticle.com/docs/comparisons/graph-databases-and-typedb) have matured into mainstream technologies, used across any industry...
+          \n**Synopsis**(https://docs.vaticle.com/docs/comparisons/graph-databases-and-typedb) have matured into mainstream technologies, used across any industry...
 
 
           https://www.meetup.com/typedb-prague/events/287490084/'
@@ -7922,8 +7921,32 @@ series:
         status: CONFIRMED
         uid: event_287490084@meetup.com
         url: https://www.meetup.com/typedb-prague/events/287490084/
-        dtstart: 2022-08-11 18:30:00+02:00
-        dtend: 2022-08-11 19:30:00+02:00
+        dtstart: 2022-09-01 18:30:00+02:00
+        dtend: 2022-09-01 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Introduction to TypeDB and TypeQL | A Strongly-Typed Database
+        description: 'TypeDB Prague Engineers
+
+          Wednesday, July 13 at 6:30 PM
+
+
+          TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems...
+
+
+          https://www.meetup.com/typedb-prague/events/286877450/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286877450@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/286877450/
+        dtstart: 2022-07-13 18:30:00+02:00
+        dtend: 2022-07-13 19:30:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
