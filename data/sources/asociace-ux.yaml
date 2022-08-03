@@ -6665,12 +6665,9 @@ series:
         dtstart: 2022-05-05 19:00:00+02:00
         dtend: 2022-05-05 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Aug 2, 5:30 PM  CEST: Hey designers! Let''s enjoy the summer sunshine and meet somewhere outdoors :)
-
-
-        UX dinner is a meeting of the UX community in Brno. You can expect an informal dinner, discus'
-      og_title: UX Meetup Brno in August, Tue, Aug 2, 2022, 5:30 PM   | Meetup
-      url: https://www.meetup.com/asociace-ux/events/287212247/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: UX Meetup Brno in August
         description: 'Asociace UX

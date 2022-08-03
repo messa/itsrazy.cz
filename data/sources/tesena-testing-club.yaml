@@ -8871,3 +8871,55 @@ series:
         url: https://www.meetup.com/tesena-testing-club/events/286425204/
         dtstart: 2022-06-21 20:30:00+02:00
         dtend: 2022-06-21 22:30:00+02:00
+  - meetupcom:
+      meta_description: 'Thu, Aug 18, 9:00 AM  CEST: * Learn how to „just enable“ the autonomous testing platform and let it work for you
+
+        * Find out how to integrate autonomous testing into your CI/CD pipelines
+
+        * See what aut'
+      og_title: 'Workshop: Empower your Testing Strategy with Autonomous Testing Bots, Thu, Aug 18, 2022, 9:00 AM   | Meetup'
+      url: https://www.meetup.com/tesena-testing-club/events/287587023/
+      ical:
+        summary: 'Workshop: Empower your Testing Strategy with Autonomous Testing Bots'
+        description: 'Tesena Testing Club
+
+          Thursday, August 18 at 9:00 AM
+
+
+          * Learn how to „just enable“ the autonomous testing platform and let it work for you* Find out how to integrate autonomous testing into your CI/CD pip...
+
+
+          https://www.meetup.com/tesena-testing-club/events/287587023/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287587023@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/287587023/
+        dtstart: 2022-08-18 09:00:00+02:00
+        dtend: 2022-08-18 13:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '(SK) 🇸🇰 Pokec s Filipom Hricom: Cypress 10 - tešiť sa alebo báť?'
+        description: 'Tesena Testing Club
+
+          Tuesday, June 21 at 8:30 PM
+
+
+          O čom to bude: * Pokec s expertom na cypress.io Filipom Hricom* Čo prináša nová verzia 10 - máme sa tešiť alebo báť?* Ďalšie novinky zo sveta cypress ...
+
+
+          https://www.meetup.com/tesena-testing-club/events/286425204/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286425204@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/286425204/
+        dtstart: 2022-06-21 20:30:00+02:00
+        dtend: 2022-06-21 22:30:00+02:00
