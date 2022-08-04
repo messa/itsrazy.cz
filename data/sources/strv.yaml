@@ -8719,9 +8719,9 @@ series:
         dtstart: 2022-06-15 19:00:00+02:00
         dtend: 2022-06-15 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Aug 3, 6:00 PM  CEST: 🍎 [Get your ticket and find out more information here](https://www.eventbrite.com/e/ios-quiz-bbq-tickets-390336576207?aff=meetup) 🍎'
-      og_title: STRV iOS Quiz & BBQ, Wed, Aug 3, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/strv-meetups/events/287390057/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: STRV iOS Quiz & BBQ
         description: 'STRV Meetups
