@@ -16041,3 +16041,99 @@ series:
         url: https://www.meetup.com/dscc_cze/events/269310163/
         dtstart: 2020-03-18 08:30:00+01:00
         dtend: 2020-03-18 09:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Design Systems Breakfast Prague – August 2020
+        description: 'Design Systems Community Chapter Czechia
+
+          Wednesday, August 26 at 9:00 AM
+
+
+          Let''s chat about our design systems news, challenges, and questions with like-minded professionals. We can loosely discuss topics like how to approach...
+
+
+          https://www.meetup.com/dscc_cze/events/272672785/'
+        location: Gate Restaurant (Sokolovská 539, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_272672785@meetup.com
+        url: https://www.meetup.com/dscc_cze/events/272672785/
+        dtstart: 2020-08-26 09:00:00+02:00
+        dtend: 2020-08-26 10:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Selling & scaling design systems
+        description: 'Design Systems Community Chapter Czechia
+
+          Wednesday, July 1 at 7:00 PM
+
+
+          We are excited to announce our first online meetup ever! YouTube stream: https://youtu.be/pKUr3CbRa3o (starting July 1st, 19:00 CEST) Agenda (CEST):19...
+
+
+          https://www.meetup.com/dscc_cze/events/271472434/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_271472434@meetup.com
+        url: https://www.meetup.com/dscc_cze/events/271472434/
+        dtstart: 2020-07-01 19:00:00+02:00
+        dtend: 2020-07-01 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Design Systems Breakfast – June 2020
+        description: 'Design Systems Community Chapter Czechia
+
+          Friday, June 12 at 8:30 AM
+
+
+          Let''s start this new format of informal monthly breakfasts where we chat about our design systems challenges and questions with like-minded profession...
+
+
+          https://www.meetup.com/dscc_cze/events/271158302/'
+        location: Gate Restaurant (Sokolovská 539, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_271158302@meetup.com
+        url: https://www.meetup.com/dscc_cze/events/271158302/
+        dtstart: 2020-06-12 08:30:00+02:00
+        dtend: 2020-06-12 10:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (POSTPONED) Design systems breakfast
+        description: 'Design Systems Community Chapter Czechia
+
+          Wednesday, March 18 at 8:30 AM
+
+
+          !!!Event was postponed to April/May, let''s see how a situation looks evolves. Follow us on Twitter (http://twitter.com/czechdsc) for more info.  Let''s...
+
+
+          https://www.meetup.com/dscc_cze/events/269310163/'
+        location: Gate Restaurant (Sokolovská 539, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_269310163@meetup.com
+        url: https://www.meetup.com/dscc_cze/events/269310163/
+        dtstart: 2020-03-18 08:30:00+01:00
+        dtend: 2020-03-18 09:30:00+01:00

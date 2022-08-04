@@ -8080,3 +8080,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/287212247/
         dtstart: 2022-08-02 17:30:00+02:00
         dtend: 2022-08-02 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: UX Meetup Brno in August
+        description: 'Asociace UX
+
+          Tuesday, August 2 at 5:30 PM
+
+
+          Hey designers! Let''s enjoy the summer sunshine and meet somewhere outdoors :) UX dinner is a meeting of the UX community in Brno. You can expect an in...
+
+
+          https://www.meetup.com/asociace-ux/events/287212247/'
+        location: Žardán (Hlídka 208/2, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287212247@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/287212247/
+        dtstart: 2022-08-02 17:30:00+02:00
+        dtend: 2022-08-02 20:30:00+02:00
