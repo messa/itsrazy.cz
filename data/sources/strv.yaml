@@ -9455,3 +9455,26 @@ series:
         url: https://www.meetup.com/strv-meetups/events/287390057/
         dtstart: 2022-08-03 18:00:00+02:00
         dtend: 2022-08-03 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: STRV iOS Quiz & BBQ
+        description: 'STRV Meetups
+
+          Wednesday, August 3 at 6:00 PM
+
+
+          🍎 (https://www.eventbrite.com/e/ios-quiz-bbq-tickets-390336576207?aff=meetup) 🍎
+
+          \nhttps://www.meetup.com/strv-meetups/events/287390057/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287390057@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/287390057/
+        dtstart: 2022-08-03 18:00:00+02:00
+        dtend: 2022-08-03 22:00:00+02:00
