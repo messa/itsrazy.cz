@@ -14823,3 +14823,27 @@ series:
         url: https://www.meetup.com/prague-aws-meetup/events/280751506/
         dtstart: 2021-10-20 18:00:00+02:00
         dtend: 2021-10-20 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Wednesday, October 20 at 6:00 PM
+
+
+          We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT. There will be two speakers with the following presentations: • ...
+
+
+          https://www.meetup.com/prague-aws-meetup/events/280751506/'
+        location: MSD IT Global Innovation Center - Five (FIVE, Na Valentince 3336/4, 150 00, Prague, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280751506@meetup.com
+        url: https://www.meetup.com/prague-aws-meetup/events/280751506/
+        dtstart: 2021-10-20 18:00:00+02:00
+        dtend: 2021-10-20 20:00:00+02:00
