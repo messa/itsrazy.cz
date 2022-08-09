@@ -11414,3 +11414,27 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/287300347/
         dtstart: 2022-07-28 17:30:00+02:00
         dtend: 2022-07-28 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Leadership Meetup - The Importance of Product Strategy
+        description: 'Productboard Meetups
+
+          Thursday, July 28 at 5:30 PM
+
+
+          🚨 Leadership Meetup at Productboard is back! Join industry leaders and find out how they think about product strategy. Get inspired by people who have...
+
+
+          https://www.meetup.com/productboard-meetups/events/287300347/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287300347@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/287300347/
+        dtstart: 2022-07-28 17:30:00+02:00
+        dtend: 2022-07-28 20:30:00+02:00
