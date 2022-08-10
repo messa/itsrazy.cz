@@ -18158,3 +18158,99 @@ series:
         url: https://www.meetup.com/prague-devops-meetup/events/281198432/
         dtstart: 2021-11-03 18:00:00+01:00
         dtend: 2021-11-03 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: DevOps Meetup at mastercard
+        description: 'Prague DevOps Meetup
+
+          Wednesday, June 22 at 5:30 PM
+
+
+          Hello Doers, For this event you need to register on (https://www.eventbrite.com/e/devops-meetup-at-mastercard-tickets-344720687857) Are you curious ab...
+
+
+          https://www.meetup.com/prague-devops-meetup/events/286587425/'
+        location: Pernerova 35 (Pernerova 35, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286587425@meetup.com
+        url: https://www.meetup.com/prague-devops-meetup/events/286587425/
+        dtstart: 2022-06-22 17:30:00+02:00
+        dtend: 2022-06-22 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Prague DevOps meetup hybrid (April 2022)
+        description: 'Prague DevOps Meetup
+
+          Wednesday, April 6 at 7:00 PM
+
+
+          Hello doers, The first hybrid and the second this year DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewh...
+
+
+          https://www.meetup.com/prague-devops-meetup/events/283816829/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283816829@meetup.com
+        url: https://www.meetup.com/prague-devops-meetup/events/283816829/
+        dtstart: 2022-04-06 19:00:00+02:00
+        dtend: 2022-04-06 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Prague DevOps meetup online (February 2022)
+        description: 'Prague DevOps Meetup
+
+          Wednesday, February 2 at 7:00 PM
+
+
+          Hello doers, The fifth online and the first this year DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhe...
+
+
+          https://www.meetup.com/prague-devops-meetup/events/283152511/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283152511@meetup.com
+        url: https://www.meetup.com/prague-devops-meetup/events/283152511/
+        dtstart: 2022-02-02 19:00:00+01:00
+        dtend: 2022-02-02 21:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Prague DevOps meetup online (November)
+        description: 'Prague DevOps Meetup
+
+          Wednesday, November 3 at 6:00 PM
+
+
+          Hello doers, The fourth online DevOps meetup is here and we are ready to welcome all DevOps enthusiasts, from Prague or elsewhere.The structure of the...
+
+
+          https://www.meetup.com/prague-devops-meetup/events/281198432/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281198432@meetup.com
+        url: https://www.meetup.com/prague-devops-meetup/events/281198432/
+        dtstart: 2021-11-03 18:00:00+01:00
+        dtend: 2021-11-03 20:00:00+01:00
