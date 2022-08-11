@@ -6422,11 +6422,9 @@ series:
         dtstart: 2022-06-21 20:30:00+02:00
         dtend: 2022-06-21 22:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Aug 11, 10:00 AM  CEST: **Obsah webinára:**
-
-        SEO, téma, o ktorej sa v testerskej komunite príliš nehovorí, ale vo svete zažíva už niekoľko rokov BOOM. Metóda, vďaka ktorej sa Vaša stránka môže vysk'
-      og_title: (SK) SEO testing v Kiwi.com, Thu, Aug 11, 2022, 10:00 AM   | Meetup
-      url: https://www.meetup.com/tesena-testing-club/events/286893208/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: (SK) SEO testing v Kiwi.com
         description: 'Tesena Testing Club
