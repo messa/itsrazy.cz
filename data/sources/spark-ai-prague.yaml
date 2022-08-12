@@ -18249,3 +18249,98 @@ series:
         url: https://www.meetup.com/spark-ai-prague-meetup/events/261799133/
         dtstart: 2019-06-17 17:30:00+02:00
         dtend: 2019-06-17 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Spark+AI Prague Meetup 2021 | After-Covid Reunion
+        description: 'Spark+AI Prague Meetup
+
+          Thursday, September 23 at 6:00 PM
+
+          \nJe tady první post-covidový Spark+AI Prague Meetup! Už 23.9. se sejdeme v prvním patře kanceláří DataSentics na adrese Washingtonova 17 a pobavíme se ...
+
+
+          https://www.meetup.com/spark-ai-prague-meetup/events/280768705/'
+        location: DataSentics, a.s. (Washingtonova 1599, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280768705@meetup.com
+        url: https://www.meetup.com/spark-ai-prague-meetup/events/280768705/
+        dtstart: 2021-09-23 18:00:00+02:00
+        dtend: 2021-09-23 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 6th Spark+AI Prague Group Meetup + WINTER DATA PARTY!
+        description: 'Spark+AI Prague Meetup
+
+          Monday, December 9 at 5:30 PM
+
+
+          Xmas is coming, so what about some Apache Spark, AI and data winter party? If you join our 6th Spark+AI meetup, you can have it all! This time we prep...
+
+
+          https://www.meetup.com/spark-ai-prague-meetup/events/266632322/'
+        location: Emplifi (Pernerova 53, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_266632322@meetup.com
+        url: https://www.meetup.com/spark-ai-prague-meetup/events/266632322/
+        dtstart: 2019-12-09 17:30:00+01:00
+        dtend: 2019-12-09 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Spark+AI Prague Meetup back after the summer!
+        description: 'Spark+AI Prague Meetup
+
+          Tuesday, October 8 at 6:00 PM
+
+
+          We are back after the summer with another Spark+AI Prague Meetup. Join us for the Spark + AI use case from Mall.cz and a technical talk introducing Sp...
+
+
+          https://www.meetup.com/spark-ai-prague-meetup/events/265088292/'
+        location: Microsoft (Vyskočilova 1561/4a, Praha 4, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_265088292@meetup.com
+        url: https://www.meetup.com/spark-ai-prague-meetup/events/265088292/
+        dtstart: 2019-10-08 18:00:00+02:00
+        dtend: 2019-10-08 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 4th Spark+AI Prague Group Meetup
+        description: 'Spark+AI Prague Meetup
+
+          Monday, June 17 at 5:30 PM
+
+
+          Summer is nearly here and it''s time for our next Spark+AI Prague meetup! What can you expect this time? David Vrba from Socialbakers will be having a ...
+
+
+          https://www.meetup.com/spark-ai-prague-meetup/events/261799133/'
+        location: Emplifi (Pernerova 53, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_261799133@meetup.com
+        url: https://www.meetup.com/spark-ai-prague-meetup/events/261799133/
+        dtstart: 2019-06-17 17:30:00+02:00
+        dtend: 2019-06-17 22:00:00+02:00
