@@ -8880,9 +8880,9 @@ series:
         dtstart: 2022-07-21 18:00:00+02:00
         dtend: 2022-07-21 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Aug 11, 6:30 PM  CEST: 👉 [GET YOUR TICKET AND MORE INFO HERE](https://www.eventbrite.com/e/frontend-chill-bbq-tickets-391015888047?aff=meetup) 👈'
-      og_title: Frontend Chill & BBQ, Thu, Aug 11, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/strv-meetups/events/287443212/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Frontend Chill & BBQ
         description: 'STRV Meetups
