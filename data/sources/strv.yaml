@@ -9709,7 +9709,7 @@ series:
         dtstart: 2022-08-03 18:00:00+02:00
         dtend: 2022-08-03 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Aug 18, 6:30 PM  CEST: [! GET YOUR TICKET HERE !](https://events.enter.xyz/event/strv-web3-meetup)
+      meta_description: '[! GET YOUR TICKET HERE !](https://events.enter.xyz/event/strv-web3-meetup)
 
 
         Join this month’s edition of our STRV Web3 Meetups — regular fireside chats about NFTs, blockch'
@@ -10207,7 +10207,7 @@ series:
         dtstart: 2022-08-11 18:30:00+02:00
         dtend: 2022-08-11 22:00:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Aug 24, 6:00 PM  CEST: ! [GET YOUR TICKET HERE](https://events.enter.xyz/web3-palace-meetup) !
+      meta_description: '! [GET YOUR TICKET HERE](https://events.enter.xyz/web3-palace-meetup) !
 
 
         Consider this your royal invitation to a special STRV Web3 Meetup. Still talking NFTs and crypto bu'
@@ -10233,6 +10233,30 @@ series:
         url: https://www.meetup.com/strv-meetups/events/287714126/
         dtstart: 2022-08-24 18:00:00+02:00
         dtend: 2022-08-24 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Frontend Chill & BBQ
+        description: 'STRV Meetups
+
+          Thursday, August 11 at 6:30 PM
+
+
+          👉 (https://www.eventbrite.com/e/frontend-chill-bbq-tickets-391015888047?aff=meetup) 👈
+
+
+          https://www.meetup.com/strv-meetups/events/287443212/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287443212@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/287443212/
+        dtstart: 2022-08-11 18:30:00+02:00
+        dtend: 2022-08-11 22:00:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup

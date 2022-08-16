@@ -12524,21 +12524,9 @@ series:
         dtstart: 2022-08-02 18:30:00+02:00
         dtend: 2022-08-02 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Aug 16, 6:30 PM  CEST: • How to join?
-
-        Online only because of covid https://discord.gg/TnaMJMyTDw
-
-
-        • What we''ll do
-
-        https://sites.google.com/site/garagepragueone/home
-
-
-        http://gdg-garage.github.io/
-
-        '
-      og_title: GDG Garage Prague One, Tue, Aug 16, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/gdgprague/events/xqcsqsydclbvb/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: GDG Garage Prague One
         description: 'GDG Prague
@@ -12560,7 +12548,7 @@ series:
         dtstart: 2022-08-16 18:30:00+02:00
         dtend: 2022-08-16 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Aug 30, 6:30 PM  CEST: • How to join?
+      meta_description: '• How to join?
 
         Online only because of covid https://discord.gg/TnaMJMyTDw
 
@@ -12596,7 +12584,7 @@ series:
         dtstart: 2022-08-30 18:30:00+02:00
         dtend: 2022-08-30 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Sep 13, 6:30 PM  CEST: • How to join?
+      meta_description: '• How to join?
 
         Online only because of covid https://discord.gg/TnaMJMyTDw
 
@@ -12872,7 +12860,7 @@ series:
         dtstart: 2022-07-19 18:30:00+02:00
         dtend: 2022-07-19 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Sep 27, 6:30 PM  CEST: • How to join?
+      meta_description: '• How to join?
 
         Online only because of covid https://discord.gg/TnaMJMyTDw
 
@@ -13819,3 +13807,39 @@ series:
         url: https://www.meetup.com/gdgprague/events/287166571/
         dtstart: 2022-08-02 18:30:00+02:00
         dtend: 2022-08-02 20:30:00+02:00
+  - meetupcom:
+      meta_description: '• How to join?
+
+        Online only because of covid https://discord.gg/TnaMJMyTDw
+
+
+        • What we''ll do
+
+        https://sites.google.com/site/garagepragueone/home
+
+
+        http://gdg-garage.github.io/
+
+        '
+      og_title: GDG Garage Prague One, Tue, Oct 11, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/gdgprague/events/xqcsqsydcnbpb/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Tuesday, October 11 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/gdgprague/events/xqcsqsydcnbpb/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_xqcsqsydcnbpb@meetup.com
+        url: https://www.meetup.com/gdgprague/events/xqcsqsydcnbpb/
+        dtstart: 2022-10-11 18:30:00+02:00
+        dtend: 2022-10-11 20:30:00+02:00

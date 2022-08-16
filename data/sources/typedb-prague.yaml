@@ -7801,7 +7801,7 @@ series:
         dtstart: 2022-06-28 18:30:00+02:00
         dtend: 2022-06-28 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Aug 25, 6:30 PM  CEST: **Synopsis**
+      meta_description: '**Synopsis**
 
         *Knowledge of cyber threats is a key focus in cyber security. In this talk, we present [TypeDB CTI](https://t.sidekickopen87.com/s3t/c/5/f18dQhb0S7kF8cpfPyW4Q2'
       og_title: Building an Open Source Threat Intelligence Platform, Thu, Aug 25, 2022, 6:30 PM   | Meetup
@@ -7899,7 +7899,7 @@ series:
         dtstart: 2022-07-13 18:30:00+02:00
         dtend: 2022-07-13 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Sep 1, 6:30 PM  CEST: **Synopsis**
+      meta_description: '**Synopsis**
 
         [Graph databases](https://docs.vaticle.com/docs/comparisons/graph-databases-and-typedb) have matured into mainstream technologies, used across any industry pow'
       og_title: ' Graph Databases vs TypeDB | What You Can''t do With Graphs, Thu, Sep 1, 2022, 6:30 PM   | Meetup'
@@ -8356,11 +8356,9 @@ series:
         dtstart: 2022-07-13 18:30:00+02:00
         dtend: 2022-07-13 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Aug 16, 6:30 PM  CEST: **Talk Summary**
-
-        Applications running on production have much higher requirements. Not only do they need to be correct, they also need to be "always-on", handle a much bigg'
-      og_title: Building a Distributed Database With the Raft Replication Algorithm, Tue, Aug 16, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/typedb-prague/events/287612662/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Building a Distributed Database With the Raft Replication Algorithm
         description: 'TypeDB Prague Engineers
@@ -8382,7 +8380,7 @@ series:
         dtstart: 2022-08-16 18:30:00+02:00
         dtend: 2022-08-16 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Aug 18, 6:30 PM  CEST: **Talk Summary**
+      meta_description: '**Talk Summary**
 
         Computational biology has revolutionised biomedicine. The volume of data it is generating is growing exponentially. This requires tools that enable computa'
       og_title: Enabling the Computational Future of Biology, Thu, Aug 18, 2022, 6:30 PM   | Meetup
@@ -8984,7 +8982,7 @@ series:
         dtstart: 2022-07-13 18:30:00+02:00
         dtend: 2022-07-13 19:30:00+02:00
   - meetupcom:
-      meta_description: 'Tue, Aug 30, 6:30 PM  CEST: **Talk Summary**
+      meta_description: '**Talk Summary**
 
         State of the art AI approaches can struggle to create solutions which provide accurate results that stand the test of time. They are also plagued by proble'
       og_title: 'The Next Big Thing in AI: Causality, Tue, Aug 30, 2022, 6:30 PM   | Meetup'

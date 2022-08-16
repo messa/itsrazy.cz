@@ -11580,7 +11580,7 @@ series:
         dtstart: 2022-07-28 17:30:00+02:00
         dtend: 2022-07-28 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Aug 17, 6:00 PM  CEST: Productboard has been quietly growing our Brno presence for the last few months and we really enjoyed meeting the tech community.
+      meta_description: 'Productboard has been quietly growing our Brno presence for the last few months and we really enjoyed meeting the tech community.
 
         We want to continue organizing opportuniti'
       og_title: Tech Community Summer Gathering, Wed, Aug 17, 2022, 6:00 PM   | Meetup
@@ -11605,6 +11605,30 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/287756409/
         dtstart: 2022-08-17 18:00:00+02:00
         dtend: 2022-08-17 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Product Meetup
+        description: 'Productboard Meetups
+
+          Thursday, August 11 at 6:00 PM
+
+
+          Our first-ever Product Meetup is here! Get inspired by people who have stepped up, found their voice, and propelled their careers in leadership roles ...
+
+
+          https://www.meetup.com/productboard-meetups/events/287636278/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287636278@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/287636278/
+        dtstart: 2022-08-11 18:00:00+02:00
+        dtend: 2022-08-11 21:00:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
