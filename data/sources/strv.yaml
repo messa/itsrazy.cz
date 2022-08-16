@@ -10206,3 +10206,54 @@ series:
         url: https://www.meetup.com/strv-meetups/events/287443212/
         dtstart: 2022-08-11 18:30:00+02:00
         dtend: 2022-08-11 22:00:00+02:00
+  - meetupcom:
+      meta_description: 'Wed, Aug 24, 6:00 PM  CEST: ! [GET YOUR TICKET HERE](https://events.enter.xyz/web3-palace-meetup) !
+
+
+        Consider this your royal invitation to a special STRV Web3 Meetup. Still talking NFTs and crypto bu'
+      og_title: Web3 Palace Meetup by HoL & STRV, Wed, Aug 24, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/strv-meetups/events/287714126/
+      ical:
+        summary: Web3 Palace Meetup by HoL & STRV
+        description: 'STRV Meetups
+
+          Wednesday, August 24 at 6:00 PM
+
+
+          ! (https://events.enter.xyz/web3-palace-meetup) ! Consider this your royal invitation to a special STRV Web3 Meetup. Still talking NFTs and crypto but...
+
+
+          https://www.meetup.com/strv-meetups/events/287714126/'
+        location: Lobkowicz Palace (Jiřská 3, Praha 1-Hradčany, Czech Republic 119 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287714126@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/287714126/
+        dtstart: 2022-08-24 18:00:00+02:00
+        dtend: 2022-08-24 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Frontend Chill & BBQ
+        description: 'STRV Meetups
+
+          Thursday, August 11 at 6:30 PM
+
+
+          👉 (https://www.eventbrite.com/e/frontend-chill-bbq-tickets-391015888047?aff=meetup) 👈
+
+
+          https://www.meetup.com/strv-meetups/events/287443212/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287443212@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/287443212/
+        dtstart: 2022-08-11 18:30:00+02:00
+        dtend: 2022-08-11 22:00:00+02:00
