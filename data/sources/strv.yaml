@@ -10329,3 +10329,27 @@ series:
         url: https://www.meetup.com/strv-meetups/events/287443212/
         dtstart: 2022-08-11 18:30:00+02:00
         dtend: 2022-08-11 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Frontend Chill & BBQ
+        description: 'STRV Meetups
+
+          Thursday, August 11 at 6:30 PM
+
+
+          👉 (https://www.eventbrite.com/e/frontend-chill-bbq-tickets-391015888047?aff=meetup) 👈
+
+
+          https://www.meetup.com/strv-meetups/events/287443212/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287443212@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/287443212/
+        dtstart: 2022-08-11 18:30:00+02:00
+        dtend: 2022-08-11 22:00:00+02:00
