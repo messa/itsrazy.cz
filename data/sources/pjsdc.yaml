@@ -20465,3 +20465,99 @@ series:
         url: https://www.meetup.com/prague-junior-software-developer-course/events/284995455/
         dtstart: 2022-04-20 18:00:00+02:00
         dtend: 2022-04-20 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Den otevřených dveří aneb navštiv doupě ajťáků!
+        description: 'Become a software developer from 0
+
+          Saturday, June 25 at 9:00 AM
+
+
+          Vyzkoušej si jaké to je být jeden den studentem Green Fox Academy. Připravili jsme pro tebe den nabitý programováním a informacemi. Registruj se přede...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/286584467/'
+        location: Green Fox Academy (Václavské nám. 11, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286584467@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/286584467/
+        dtstart: 2022-06-25 09:00:00+02:00
+        dtend: 2022-06-25 18:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'ONLINE WORKSHOP: Základy no-code vývoje'
+        description: 'Become a software developer from 0
+
+          Thursday, June 2 at 7:00 PM
+
+
+          Zúčastni se bezplatného online workshopu, kde tě zkušení mentoři provedou základy vývoje aplikací pomocí no-code platformy Salesforce, která zažívá bo...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/286154258/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286154258@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/286154258/
+        dtstart: 2022-06-02 19:00:00+02:00
+        dtend: 2022-06-02 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'ONLINE WORKSHOP: Základy no-code vývoje'
+        description: 'Become a software developer from 0
+
+          Wednesday, April 27 at 6:00 PM
+
+
+          Podle časopisu Forbes patří obchodní administrátoři a analytici mezi deset nejrychleji rostoucích pracovních pozic na síti LinkedIn. Chceš-li mít jist...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/285433878/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285433878@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/285433878/
+        dtstart: 2022-04-27 18:00:00+02:00
+        dtend: 2022-04-27 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Online informační schůzka: Jak nastartovat kariéru v IT od nuly?'
+        description: 'Become a software developer from 0
+
+          Wednesday, April 20 at 6:00 PM
+
+
+          Jaké znalosti se ti vyplatí naučit už teď, abys ses vždy uplatnil/a na trhu práce? Jaké jsou výhody kurzů akreditovaných státem? Připoj se k naší onli...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/284995455/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284995455@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/284995455/
+        dtstart: 2022-04-20 18:00:00+02:00
+        dtend: 2022-04-20 20:00:00+02:00

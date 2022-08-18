@@ -8380,11 +8380,9 @@ series:
         dtstart: 2022-08-16 18:30:00+02:00
         dtend: 2022-08-16 19:30:00+02:00
   - meetupcom:
-      meta_description: '**Talk Summary**
-
-        Computational biology has revolutionised biomedicine. The volume of data it is generating is growing exponentially. This requires tools that enable computa'
-      og_title: Enabling the Computational Future of Biology, Thu, Aug 18, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/typedb-prague/events/287612812/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Enabling the Computational Future of Biology
         description: 'TypeDB Prague Engineers
