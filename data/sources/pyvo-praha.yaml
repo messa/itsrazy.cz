@@ -169,12 +169,9 @@ series:
         dtstart: 2022-07-20 19:00:00+02:00
         dtend: 2022-07-20 23:59:00+02:00
   - meetupcom:
-      meta_description: 'Máme léto a s ním tradičně odlehčený program. Opět se potkáme v kavárně volnočasového centra H55. (https://www.h55.cz/)
-
-
-        Tentokrát bude before-party od 16 hodin pro fanoušk'
-      og_title: 'Pyvo Prague #135 - Summer Barbecue Edition, Wed, Aug 17, 2022, 7:00 PM   | Meetup'
-      url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssydclbwb/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Pyvo Prague #135 - Summer Barbecue Edition'
         description: 'Pyvo: Prague Python Meetup
@@ -9739,3 +9736,27 @@ series:
         url: https://www.meetup.com/pyvo-prague-python-meetup/events/287180648/
         dtstart: 2022-07-20 19:00:00+02:00
         dtend: 2022-07-20 23:59:00+02:00
+  - meetupcom:
+      meta_description: We will meet for an informal chat about Python, programming, and more. Details will be added.
+      og_title: 'Pyvo Prague #, Wed, Dec 21, 2022, 7:00 PM   | Meetup'
+      url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssydcqbcc/
+      ical:
+        summary: 'Pyvo Prague #'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, December 21 at 7:00 PM
+
+
+          We will meet for an informal chat about Python, programming, and more. Details will be added.
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssydcqbcc/'
+        location: Prague (, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_bcxlssydcqbcc@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssydcqbcc/
+        dtstart: 2022-12-21 19:00:00+01:00
+        dtend: 2022-12-21 23:59:00+01:00

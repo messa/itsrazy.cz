@@ -9905,3 +9905,27 @@ series:
         url: https://www.meetup.com/tesena-testing-club/events/286893208/
         dtstart: 2022-08-11 10:00:00+02:00
         dtend: 2022-08-11 11:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (SK) SEO testing v Kiwi.com
+        description: 'Tesena Testing Club
+
+          Thursday, August 11 at 10:00 AM
+
+
+          **Obsah webinára:**SEO, téma, o ktorej sa v testerskej komunite príliš nehovorí, ale vo svete zažíva už niekoľko rokov BOOM. Metóda, vďaka ktorej sa V...
+
+
+          https://www.meetup.com/tesena-testing-club/events/286893208/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286893208@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/286893208/
+        dtstart: 2022-08-11 10:00:00+02:00
+        dtend: 2022-08-11 11:00:00+02:00
