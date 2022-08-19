@@ -9709,12 +9709,9 @@ series:
         dtstart: 2022-08-03 18:00:00+02:00
         dtend: 2022-08-03 22:00:00+02:00
   - meetupcom:
-      meta_description: '[! GET YOUR TICKET HERE !](https://events.enter.xyz/event/strv-web3-meetup)
-
-
-        Join this month’s edition of our STRV Web3 Meetups — regular fireside chats about NFTs, blockch'
-      og_title: Web3 Meetup Vol. 3, Thu, Aug 18, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/strv-meetups/events/287693096/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Web3 Meetup Vol. 3
         description: 'STRV Meetups
