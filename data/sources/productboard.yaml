@@ -12707,3 +12707,99 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/286708983/
         dtstart: 2022-06-27 19:00:00+02:00
         dtend: 2022-06-27 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Tech Community Summer Gathering
+        description: 'Productboard Meetups
+
+          Wednesday, August 17 at 6:00 PM
+
+
+          Productboard has been quietly growing our Brno presence for the last few months and we really enjoyed meeting the tech community.We want to continue o...
+
+
+          https://www.meetup.com/productboard-meetups/events/287756409/'
+        location: Impact Hub Brno (Cyrilská 7, Brno-střed-Trnitá, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287756409@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/287756409/
+        dtstart: 2022-08-17 18:00:00+02:00
+        dtend: 2022-08-17 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Product Meetup
+        description: 'Productboard Meetups
+
+          Thursday, August 11 at 6:00 PM
+
+
+          Our first-ever Product Meetup is here! Get inspired by people who have stepped up, found their voice, and propelled their careers in leadership roles ...
+
+
+          https://www.meetup.com/productboard-meetups/events/287636278/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287636278@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/287636278/
+        dtstart: 2022-08-11 18:00:00+02:00
+        dtend: 2022-08-11 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Leadership Meetup - The Importance of Product Strategy
+        description: 'Productboard Meetups
+
+          Thursday, July 28 at 5:30 PM
+
+
+          🚨 Leadership Meetup at Productboard is back! Join industry leaders and find out how they think about product strategy. Get inspired by people who have...
+
+
+          https://www.meetup.com/productboard-meetups/events/287300347/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287300347@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/287300347/
+        dtstart: 2022-07-28 17:30:00+02:00
+        dtend: 2022-07-28 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Product Design Meet&Greet
+        description: 'Productboard Meetups
+
+          Monday, June 27 at 7:00 PM
+
+
+          Hello, London product design community - let''s meet and get to know each other! With the (https://2022.uxlondon.com/) kicking off soon, some of the Pr...
+
+
+          https://www.meetup.com/productboard-meetups/events/286708983/'
+        location: BrewDog Old Street (211 Old Street, London, United Kingdom EC1V 9NR)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286708983@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/286708983/
+        dtstart: 2022-06-27 19:00:00+02:00
+        dtend: 2022-06-27 22:00:00+02:00
