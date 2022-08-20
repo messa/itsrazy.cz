@@ -17777,10 +17777,10 @@ series:
         dtend: 2022-05-11 20:00:00+02:00
   - meetupcom:
       meta_description: Je konec prázdnin a to neznamená nic jiného, než že se za vámi vracíme s pořádným nášupem frontendů! Akce se do odvolání nebudou streamovat, ale záznamy na YT budou, nebojt
-      og_title: Frontendisti.cz jsou zpět a design systémy u toho nesmí chybět! ❤️, Wed, Sep 14, 2022, 6:00 PM   | Meetup
+      og_title: 'Praha: Frontendisti.cz jsou zpět a design systémy u toho nesmí chybět! ❤️, Wed, Sep 14, 2022, 6:00 PM   | Meetup'
       url: https://www.meetup.com/frontendisti/events/287927277/
       ical:
-        summary: Frontendisti.cz jsou zpět a design systémy u toho nesmí chybět! ❤️
+        summary: 'Praha: Frontendisti.cz jsou zpět a design systémy u toho nesmí chybět! ❤️'
         description: 'Frontendisti.cz
 
           Wednesday, September 14 at 6:00 PM
@@ -17799,6 +17799,29 @@ series:
         url: https://www.meetup.com/frontendisti/events/287927277/
         dtstart: 2022-09-14 18:00:00+02:00
         dtend: 2022-09-14 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'CSS kam se podíváš... a křest knihy "CSS: moderní layout" | Frontendisti.cz LIVE'
+        description: 'Frontendisti.cz
+
+          Wednesday, May 11 at 6:00 PM
+
+
+          Užijte si s námi další **hybridní meetup v Brně.** Tentokrát **naživo** v prostorách **Czechitas.** A pokud to do Brna máte daleko, spojte se s námi *...\n
+
+          https://www.meetup.com/frontendisti/events/285413505/'
+        location: CTP Czechitas House (Škrobárenská 511/3, Brno-jih, Czech Republic 617 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285413505@meetup.com
+        url: https://www.meetup.com/frontendisti/events/285413505/
+        dtstart: 2022-05-11 18:00:00+02:00
+        dtend: 2022-05-11 20:00:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
