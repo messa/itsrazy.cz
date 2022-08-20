@@ -4052,32 +4052,29 @@ series:
         dtstart: 2022-05-26 10:00:00+02:00
         dtend: 2022-05-26 11:30:00+02:00
   - meetupcom:
-      meta_description: 'Thu, Jun 16, 11:00 AM  CEST: * **Webinar content**
-
-
-        Have you ever wondered how to speed up your automation tests? Or whether waiting for elements to load on a webpage should be your concern? This webin'
-      og_title: '(EN) Selenium vs Browser: Battle of Tools in Robot Framework, Thu, Jun 16, 2022, 11:00 AM   | Meetup'
-      url: https://www.meetup.com/tesena-testing-club/events/285124311/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: '(EN) Selenium vs Browser: Battle of Tools in Robot Framework'
         description: 'Tesena Testing Club
 
-          Thursday, June 16 at 11:00 AM
+          Thursday, June 16 at 10:30 AM
 
 
           * **Webinar content** Have you ever wondered how to speed up your automation tests? Or whether waiting for elements to load on a webpage should be you...
 
 
-          https://www.meetup.com/Tesena-testing-club/events/285124311/'
+          https://www.meetup.com/tesena-testing-club/events/285124311/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_285124311@meetup.com
-        url: https://www.meetup.com/Tesena-testing-club/events/285124311/
-        dtstart: 2022-06-16 11:00:00+02:00
-        dtend: 2022-06-16 12:00:00+02:00
+        url: https://www.meetup.com/tesena-testing-club/events/285124311/
+        dtstart: 2022-06-16 10:30:00+02:00
+        dtend: 2022-06-16 11:30:00+02:00
   - meetupcom:
       meta_description: 'Tue, May 3, 10:30 AM  CEST: **Webinar content**
 
@@ -9937,6 +9934,78 @@ series:
         url: https://www.meetup.com/tesena-testing-club/events/286893208/
         dtstart: 2022-08-11 10:00:00+02:00
         dtend: 2022-08-11 11:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (SK) SEO testing v Kiwi.com
+        description: 'Tesena Testing Club
+
+          Thursday, August 11 at 10:00 AM
+
+
+          **Obsah webinára:**SEO, téma, o ktorej sa v testerskej komunite príliš nehovorí, ale vo svete zažíva už niekoľko rokov BOOM. Metóda, vďaka ktorej sa V...
+
+
+          https://www.meetup.com/tesena-testing-club/events/286893208/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286893208@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/286893208/
+        dtstart: 2022-08-11 10:00:00+02:00
+        dtend: 2022-08-11 11:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '(SK) 🇸🇰 Pokec s Filipom Hricom: Cypress 10 - tešiť sa alebo báť?'
+        description: 'Tesena Testing Club
+
+          Tuesday, June 21 at 8:30 PM
+
+
+          O čom to bude: * Pokec s expertom na cypress.io Filipom Hricom* Čo prináša nová verzia 10 - máme sa tešiť alebo báť?* Ďalšie novinky zo sveta cypress ...
+
+
+          https://www.meetup.com/tesena-testing-club/events/286425204/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286425204@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/286425204/
+        dtstart: 2022-06-21 20:30:00+02:00
+        dtend: 2022-06-21 22:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Workshop: Empower your Testing Strategy with Autonomous Testing Bots'
+        description: 'Tesena Testing Club
+
+          Thursday, August 18 at 9:00 AM
+
+
+          * Learn how to „just enable“ the autonomous testing platform and let it work for you* Find out how to integrate autonomous testing into your CI/CD pip...
+
+
+          https://www.meetup.com/tesena-testing-club/events/287587023/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287587023@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/287587023/
+        dtstart: 2022-08-18 09:00:00+02:00
+        dtend: 2022-08-18 13:00:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
