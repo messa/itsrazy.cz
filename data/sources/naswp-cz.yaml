@@ -20287,3 +20287,99 @@ series:
         url: https://www.meetup.com/naswp-cz/events/282169930/
         dtstart: 2022-02-26 09:15:00+01:00
         dtend: 2022-02-26 18:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'WordPress pivo Praha #33 - naživo!'
+        description: 'NášWP WordPress komunita
+
+          Wednesday, May 25 at 7:00 PM
+
+
+          Tradiční sraz místní WordPressové komunity - poslední středa v měsíci. Tentokrát bez přednášky, protože jsme se dlouho neviděli naživo. Sejdeme se na ...
+
+
+          https://www.meetup.com/naswp-cz/events/285883947/'
+        location: Restaurace U Veverky (Eliášova 324, Praha 6-Bubeneč, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285883947@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/285883947/
+        dtstart: 2022-05-25 19:00:00+02:00
+        dtend: 2022-05-25 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'WordPress pivo Praha #32 - naživo!'
+        description: 'NášWP WordPress komunita
+
+          Wednesday, April 27 at 7:00 PM
+
+
+          První od loňska. S kým se uvidíme? Tradiční sraz místní WordPressové komunity - poslední středa v měsíci. Tentokrát bez přednášky, protože jsme se dlo...
+
+
+          https://www.meetup.com/naswp-cz/events/285149611/'
+        location: Café Lajka (U Akademie 366/11, Praha 7-Bubeneč, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285149611@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/285149611/
+        dtstart: 2022-04-27 19:00:00+02:00
+        dtend: 2022-04-27 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'WordPress Pivo LIVE #9'
+        description: 'NášWP WordPress komunita
+
+          Wednesday, March 30 at 6:30 PM
+
+
+          Netradiční WP Pivo v Hopinu bez přednášek - pojďme navázat na úspěšnost živých sekcí na WordCamp Praha 2022 a prodiskutovat to, co jsme nestihli. **Zá...
+
+
+          https://www.meetup.com/naswp-cz/events/284676876/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284676876@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/284676876/
+        dtstart: 2022-03-30 18:30:00+02:00
+        dtend: 2022-03-30 21:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: WordCamp Praha 2022
+        description: 'NášWP WordPress komunita
+
+          Saturday, February 26 at 9:15 AM
+
+
+          Již po deváté pro vás připravujeme největší WordPress konferenci v ČR.Rádi se opět uvidíme se všemi, kterým WordPress přirostl k srdci.A je jedno, jes...
+
+
+          https://www.meetup.com/naswp-cz/events/282169930/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282169930@meetup.com
+        url: https://www.meetup.com/naswp-cz/events/282169930/
+        dtstart: 2022-02-26 09:15:00+01:00
+        dtend: 2022-02-26 18:00:00+01:00
