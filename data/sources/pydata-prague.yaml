@@ -19837,3 +19837,98 @@ series:
         url: https://www.meetup.com/pydata-prague/events/279339785/
         dtstart: 2021-07-13 18:30:00+02:00
         dtend: 2021-07-13 21:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'PyData Prague #11 - Hovering over Capulets'
+        description: 'PyData Prague
+
+          Monday, June 27 at 6:00 PM
+
+
+          Hello data-lovers and Python craft-masters! Another PyData Prague meetup is here and this time we will meet in **(https://goo.gl/maps/FHvjbwTtYULjTKvS...
+
+
+          https://www.meetup.com/pydata-prague/events/286566742/'
+        location: Ataccama Software, s.r.o. (Invalidovna, Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286566742@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/286566742/
+        dtstart: 2022-06-27 18:00:00+02:00
+        dtend: 2022-06-27 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'PyData Prague #10 - Pandemic Lite'
+        description: 'PyData Prague
+
+          Tuesday, May 10 at 6:00 PM
+
+
+          Hello data-devourers and Python conjurers! We haven''t had a proper in-person meeting with talks for ages but now we are back with a perfect venue (Cre...
+
+
+          https://www.meetup.com/pydata-prague/events/285562340/'
+        location: CreativeDock (Františka Křížka 490/4, Holešovice, Praha-Praha 7, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285562340@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/285562340/
+        dtstart: 2022-05-10 18:00:00+02:00
+        dtend: 2022-05-10 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: PyData Global 2021 (GLOBAL ONLINE CONFERENCE)
+        description: 'PyData Prague
+
+          Thursday, October 28 at 8:30 AM
+
+
+          The PyData Global Online Conference is where users, contributors, and newcomers can share experiences to learn from one another and grow together. PyD...
+
+
+          https://www.meetup.com/pydata-prague/events/281281117/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281281117@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/281281117/
+        dtstart: 2021-10-28 08:30:00+02:00
+        dtend: 2021-10-31 00:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'PyData Prague #9 - Reinforcement Yearning'
+        description: 'PyData Prague
+
+          Tuesday, July 13 at 6:30 PM
+
+
+          Hello PyData lovers, it''s been a while since our last (on-line, not to mention in-person) PyData meet-up. We are sorry for not having arranged anythin...
+
+          \nhttps://www.meetup.com/pydata-prague/events/279339785/'
+        location: Holešovická šachta (Bubenská 242/14, Praha 7-Holešovice, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_279339785@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/279339785/
+        dtstart: 2021-07-13 18:30:00+02:00
+        dtend: 2021-07-13 21:30:00+02:00

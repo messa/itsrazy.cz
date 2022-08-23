@@ -21441,3 +21441,51 @@ series:
         url: https://www.meetup.com/ysoft-th/events/271492610/
         dtstart: 2020-07-08 18:00:00+02:00
         dtend: 2020-07-08 21:00:00+02:00
+  - meetupcom:
+      meta_description: Co mají URI, JSON dokumenty, HTML dokumenty, SQL dotazy, příkazové řádky shellu, log zprávy, regulární výrazy, X.500 rozlišovací jména a cesty k souborům společného? To, že
+      og_title: Lepení stringů, Tue, Sep 6, 2022, 5:30 PM   | Meetup
+      url: https://www.meetup.com/ysoft-th/events/288000852/
+      ical:
+        summary: Lepení stringů
+        description: 'Y Soft: Technology Hour
+
+          Tuesday, September 6 at 5:30 PM
+
+
+          Co mají URI, JSON dokumenty, HTML dokumenty, SQL dotazy, příkazové řádky shellu, log zprávy, regulární výrazy, X.500 rozlišovací jména a cesty k soubo...
+
+
+          https://www.meetup.com/ysoft-th/events/288000852/'
+        location: Y Soft, R&D (Purkyňova 107, Building A, 2nd floor, Brno, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288000852@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/288000852/
+        dtstart: 2022-09-06 17:30:00+02:00
+        dtend: 2022-09-06 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Terminály, shelly a konzole
+        description: 'Y Soft: Technology Hour
+
+          Tuesday, February 15 at 6:00 PM
+
+
+          Mnozí lidé používají tyto termíny zcela zaměnitelně. A není divu - všechny se dají použít k označení onoho okýnka s bílým textem na černém pozadí, do ...
+
+
+          https://www.meetup.com/ysoft-th/events/283522925/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283522925@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/283522925/
+        dtstart: 2022-02-15 18:00:00+01:00
+        dtend: 2022-02-15 20:00:00+01:00

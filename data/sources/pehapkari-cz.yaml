@@ -14286,3 +14286,51 @@ series:
         url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/285475940/
         dtstart: 2022-05-19 18:00:00+02:00
         dtend: 2022-05-19 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Letní 49. sraz přátel PHP na terase v Ecomail v Praze
+        description: 'Pražské srazy přátel PHP - Pehapkari.cz
+
+          Thursday, June 16 at 6:00 PM
+
+
+          Zveme Vás na speciální předprázdninové setkání přátel PHP v Praze, tentokrát na terase v Ecomailu! Čeká nás velmi zajímavá přednáška o Serverless PHP,...
+
+
+          https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/286099484/'
+        location: Ecomail.cz s.r.o. (Na Zderaze 15, Nové Město, Praha-Praha 2, Czech Republic 120 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286099484@meetup.com
+        url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/286099484/
+        dtstart: 2022-06-16 18:00:00+02:00
+        dtend: 2022-06-17 01:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 48. sraz přátel PHP v CareCloud v Praze
+        description: 'Pražské srazy přátel PHP - Pehapkari.cz
+
+          Thursday, May 19 at 6:00 PM
+
+
+          **Zveme vás na 48. setkání PHP vývojářů do Prahy 9 - Vysočan, kde sídlí partner květnového setkání, vývojáři CareCloud.** Čeká vás program nabitý před...
+
+
+          https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/285475940/'
+        location: CareCloud CRM (U Elektry 974, Praha 9, Czech Republic 190 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285475940@meetup.com
+        url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/285475940/
+        dtstart: 2022-05-19 18:00:00+02:00
+        dtend: 2022-05-19 22:00:00+02:00
