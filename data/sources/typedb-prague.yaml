@@ -7801,11 +7801,9 @@ series:
         dtstart: 2022-06-28 18:30:00+02:00
         dtend: 2022-06-28 19:30:00+02:00
   - meetupcom:
-      meta_description: '**Synopsis**
-
-        *Knowledge of cyber threats is a key focus in cyber security. In this talk, we present [TypeDB CTI](https://t.sidekickopen87.com/s3t/c/5/f18dQhb0S7kF8cpfPyW4Q2'
-      og_title: Building an Open Source Threat Intelligence Platform, Thu, Aug 25, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/typedb-prague/events/287470414/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Building an Open Source Threat Intelligence Platform
         description: 'TypeDB Prague Engineers
@@ -9918,3 +9916,28 @@ series:
         url: https://www.meetup.com/typedb-prague/events/287612812/
         dtstart: 2022-08-18 18:30:00+02:00
         dtend: 2022-08-18 19:30:00+02:00
+  - meetupcom:
+      meta_description: '**Talk Synopsis**
+
+        Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bodies '
+      og_title: Comparing Semantic Web Technologies to TypeDB, Tue, Sep 20, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/287924630/
+      ical:
+        summary: Comparing Semantic Web Technologies to TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, September 20 at 6:30 PM
+
+          \n**Talk Synopsis**Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reas...
+
+
+          https://www.meetup.com/typedb-prague/events/287924630/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287924630@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/287924630/
+        dtstart: 2022-09-20 18:30:00+02:00
+        dtend: 2022-09-20 19:30:00+02:00
