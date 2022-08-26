@@ -23846,3 +23846,95 @@ series:
         url: https://www.meetup.com/morning-talks/events/285390571/
         dtstart: 2022-06-15 09:00:00+02:00
         dtend: 2022-06-15 10:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Představení moderních linuxových kontejnerů pomocí nástrojů Podman a Buildah
+        description: 'Morning Talks
+
+          Wednesday, June 29 at 9:00 AM
+
+
+          Prosíme Vás o registraci přímo na stránkách Datascriptu:https://www.datascript.cz/morning-talks/predstaveni-modernich-linuxovych-kontejneru-pomoci-nas...
+
+          \nhttps://www.meetup.com/morning-talks/events/285390587/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285390587@meetup.com
+        url: https://www.meetup.com/morning-talks/events/285390587/
+        dtstart: 2022-06-29 09:00:00+02:00
+        dtend: 2022-06-29 10:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Jira - agilní přístup v řízení (ne)IT projektů
+        description: 'Morning Talks
+
+          Wednesday, June 22 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/jira-agilni-pristup-v-rizeni-neit-projektu/ **Na c...
+
+          \nhttps://www.meetup.com/morning-talks/events/285390578/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285390578@meetup.com
+        url: https://www.meetup.com/morning-talks/events/285390578/
+        dtstart: 2022-06-22 09:00:00+02:00
+        dtend: 2022-06-22 10:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Prometheus - agilní monitoring moderní infrastruktury
+        description: 'Morning Talks
+
+          Thursday, June 16 at 9:00 AM
+
+
+          Dámy a pánové,  rádi bychom Vás pozvali na naši 9. IT konferenci. Téma je věnované monitoringu infrastruktury a všechny přednášky vycházejí z best pra...
+
+          \nhttps://www.meetup.com/morning-talks/events/285495272/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285495272@meetup.com
+        url: https://www.meetup.com/morning-talks/events/285495272/
+        dtstart: 2022-06-16 09:00:00+02:00
+        dtend: 2022-06-16 16:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Content delivery network - správa a distribuce obsahu
+        description: 'Morning Talks
+
+          Wednesday, June 15 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/content-delivery-network-sprava-a-distribuce-obsah...
+
+          \nhttps://www.meetup.com/morning-talks/events/285390571/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285390571@meetup.com
+        url: https://www.meetup.com/morning-talks/events/285390571/
+        dtstart: 2022-06-15 09:00:00+02:00
+        dtend: 2022-06-15 10:00:00+02:00
