@@ -10061,3 +10061,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/287470414/
         dtstart: 2022-08-25 18:30:00+02:00
         dtend: 2022-08-25 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Building an Open Source Threat Intelligence Platform
+        description: 'TypeDB Prague Engineers
+
+          Thursday, August 25 at 6:30 PM
+
+
+          **Synopsis***Knowledge of cyber threats is a key focus in cyber security. In this talk, we present (https://t.sidekickopen87.com/s3t/c/5/f18dQhb0S7kF8...
+
+
+          https://www.meetup.com/typedb-prague/events/287470414/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287470414@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/287470414/
+        dtstart: 2022-08-25 18:30:00+02:00
+        dtend: 2022-08-25 19:30:00+02:00
