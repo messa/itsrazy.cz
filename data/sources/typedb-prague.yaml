@@ -8978,11 +8978,9 @@ series:
         dtstart: 2022-07-13 18:30:00+02:00
         dtend: 2022-07-13 19:30:00+02:00
   - meetupcom:
-      meta_description: '**Talk Summary**
-
-        State of the art AI approaches can struggle to create solutions which provide accurate results that stand the test of time. They are also plagued by proble'
-      og_title: 'The Next Big Thing in AI: Causality, Tue, Aug 30, 2022, 6:30 PM   | Meetup'
-      url: https://www.meetup.com/typedb-prague/events/287781196/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'The Next Big Thing in AI: Causality'
         description: 'TypeDB Prague Engineers
@@ -10277,3 +10275,28 @@ series:
         url: https://www.meetup.com/typedb-prague/events/287470414/
         dtstart: 2022-08-25 18:30:00+02:00
         dtend: 2022-08-25 19:30:00+02:00
+  - meetupcom:
+      meta_description: '**Talk Synopsis**
+
+        Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However'
+      og_title: Beyond SQL | Comparing SQL to TypeQL, Tue, Sep 20, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/287924665/
+      ical:
+        summary: Beyond SQL | Comparing SQL to TypeQL
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, September 20 at 6:30 PM
+
+          \n**Talk Synopsis**Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful ...
+
+
+          https://www.meetup.com/typedb-prague/events/287924665/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287924665@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/287924665/
+        dtstart: 2022-09-20 18:30:00+02:00
+        dtend: 2022-09-20 19:30:00+02:00
