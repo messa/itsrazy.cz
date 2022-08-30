@@ -13218,3 +13218,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/287501160/
         dtstart: 2022-08-08 18:00:00+02:00
         dtend: 2022-08-08 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: UX piknik
+        description: 'Asociace UX
+
+          Monday, August 8 at 6:00 PM
+
+
+          Rádi bychom pokračovali v tradici "kulatých stolů" a "UX grilů" a letos to vyšlo na "UX piknik" - neformální setkání členů i nečlenů Asociace UX, kdy ...
+
+
+          https://www.meetup.com/asociace-ux/events/287501160/'
+        location: Vyšehrad (V Pevnosti 159/5b, Praha 2-Vyšehrad, Czech Republic 128 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287501160@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/287501160/
+        dtstart: 2022-08-08 18:00:00+02:00
+        dtend: 2022-08-08 20:00:00+02:00
