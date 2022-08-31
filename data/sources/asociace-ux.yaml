@@ -13361,3 +13361,51 @@ series:
         url: https://www.meetup.com/asociace-ux/events/287501160/
         dtstart: 2022-08-08 18:00:00+02:00
         dtend: 2022-08-08 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'UX dinner is a meeting of the UX community in Brno. You can expect an informal dinner, discussing small design problems, an opportunity to find a mentor, or a new project. '
+      og_title: UX Dinner Brno in September, Tue, Sep 13, 2022, 5:30 PM   | Meetup
+      url: https://www.meetup.com/asociace-ux/events/288183449/
+      ical:
+        summary: UX Dinner Brno in September
+        description: 'Asociace UX
+
+          Tuesday, September 13 at 5:30 PM
+
+
+          UX dinner is a meeting of the UX community in Brno. You can expect an informal dinner, discussing small design problems, an opportunity to find a ment...
+
+
+          https://www.meetup.com/asociace-ux/events/288183449/'
+        location: Kavárna Spolek (Orlí 22, Brno-Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288183449@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/288183449/
+        dtstart: 2022-09-13 17:30:00+02:00
+        dtend: 2022-09-13 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: UX piknik
+        description: 'Asociace UX
+
+          Monday, August 8 at 6:00 PM
+
+
+          Rádi bychom pokračovali v tradici "kulatých stolů" a "UX grilů" a letos to vyšlo na "UX piknik" - neformální setkání členů i nečlenů Asociace UX, kdy ...
+
+
+          https://www.meetup.com/asociace-ux/events/287501160/'
+        location: Vyšehrad (V Pevnosti 159/5b, Praha 2-Vyšehrad, Czech Republic 128 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287501160@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/287501160/
+        dtstart: 2022-08-08 18:00:00+02:00
+        dtend: 2022-08-08 20:00:00+02:00

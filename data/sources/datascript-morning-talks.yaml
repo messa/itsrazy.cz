@@ -25253,3 +25253,26 @@ series:
         url: https://www.meetup.com/morning-talks/events/285390587/
         dtstart: 2022-06-29 09:00:00+02:00
         dtend: 2022-06-29 10:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Představení moderních linuxových kontejnerů pomocí nástrojů Podman a Buildah
+        description: 'Morning Talks
+
+          Wednesday, June 29 at 9:00 AM
+
+
+          Prosíme Vás o registraci přímo na stránkách Datascriptu:https://www.datascript.cz/morning-talks/predstaveni-modernich-linuxovych-kontejneru-pomoci-nas...
+
+          \nhttps://www.meetup.com/morning-talks/events/285390587/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285390587@meetup.com
+        url: https://www.meetup.com/morning-talks/events/285390587/
+        dtstart: 2022-06-29 09:00:00+02:00
+        dtend: 2022-06-29 10:00:00+02:00

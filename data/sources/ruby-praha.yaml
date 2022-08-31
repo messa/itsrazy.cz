@@ -8518,3 +8518,24 @@ series:
         url: https://www.meetup.com/praguerb/events/287188515/
         dtstart: 2022-08-03 19:00:00+02:00
         dtend: 2022-08-03 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: First Wednesday Of The Month - Ruby
+        description: 'Prague.rb / CSRUG
+
+          Wednesday, August 3 at 7:00 PM
+
+
+          https://www.meetup.com/praguerb/events/287188515/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_dkmktfydclbfb@meetup.com
+        url: https://www.meetup.com/praguerb/events/287188515/
+        dtstart: 2022-08-03 19:00:00+02:00
+        dtend: 2022-08-03 22:00:00+02:00
