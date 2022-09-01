@@ -7897,11 +7897,9 @@ series:
         dtstart: 2022-07-13 18:30:00+02:00
         dtend: 2022-07-13 19:30:00+02:00
   - meetupcom:
-      meta_description: '**Synopsis**
-
-        [Graph databases](https://docs.vaticle.com/docs/comparisons/graph-databases-and-typedb) have matured into mainstream technologies, used across any industry pow'
-      og_title: ' Graph Databases vs TypeDB | What You Can''t do With Graphs, Thu, Sep 1, 2022, 6:30 PM   | Meetup'
-      url: https://www.meetup.com/typedb-prague/events/287490084/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: ' Graph Databases vs TypeDB | What You Can''t do With Graphs'
         description: 'TypeDB Prague Engineers
@@ -10279,13 +10277,13 @@ series:
       meta_description: '**Talk Synopsis**
 
         Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applications. However'
-      og_title: Beyond SQL | Comparing SQL to TypeQL, Tue, Sep 20, 2022, 6:30 PM   | Meetup
+      og_title: Beyond SQL | Comparing SQL to TypeQL, Tue, Sep 27, 2022, 6:30 PM   | Meetup
       url: https://www.meetup.com/typedb-prague/events/287924665/
       ical:
         summary: Beyond SQL | Comparing SQL to TypeQL
         description: 'TypeDB Prague Engineers
 
-          Tuesday, September 20 at 6:30 PM
+          Tuesday, September 27 at 6:30 PM
 
           \n**Talk Synopsis**Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful ...
 
@@ -10298,8 +10296,8 @@ series:
         status: CONFIRMED
         uid: event_287924665@meetup.com
         url: https://www.meetup.com/typedb-prague/events/287924665/
-        dtstart: 2022-09-20 18:30:00+02:00
-        dtend: 2022-09-20 19:30:00+02:00
+        dtstart: 2022-09-27 18:30:00+02:00
+        dtend: 2022-09-27 19:30:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
@@ -10420,3 +10418,29 @@ series:
         url: https://www.meetup.com/typedb-prague/events/287781196/
         dtstart: 2022-08-30 18:30:00+02:00
         dtend: 2022-08-30 19:30:00+02:00
+  - meetupcom:
+      meta_description: '**Talk Summary**
+
+        Applications running on production have much higher requirements. Not only do they need to be correct, they also need to be "always-on", handle a much bigg'
+      og_title: Building a Distributed Database With the Raft Replication Algorithm, Thu, Sep 15, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/288203639/
+      ical:
+        summary: Building a Distributed Database With the Raft Replication Algorithm
+        description: 'TypeDB Prague Engineers
+
+          Thursday, September 15 at 6:30 PM
+
+
+          **Talk Summary**Applications running on production have much higher requirements. Not only do they need to be correct, they also need to be "always-on...
+
+
+          https://www.meetup.com/typedb-prague/events/288203639/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288203639@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/288203639/
+        dtstart: 2022-09-15 18:30:00+02:00
+        dtend: 2022-09-15 19:30:00+02:00
