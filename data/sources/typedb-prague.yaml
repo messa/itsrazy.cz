@@ -10372,3 +10372,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/287781196/
         dtstart: 2022-08-30 18:30:00+02:00
         dtend: 2022-08-30 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'The Next Big Thing in AI: Causality'
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, August 30 at 6:30 PM
+
+
+          **Talk Summary**State of the art AI approaches can struggle to create solutions which provide accurate results that stand the test of time. They are a...
+
+
+          https://www.meetup.com/typedb-prague/events/287781196/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287781196@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/287781196/
+        dtstart: 2022-08-30 18:30:00+02:00
+        dtend: 2022-08-30 19:30:00+02:00
