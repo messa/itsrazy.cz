@@ -18792,3 +18792,27 @@ series:
         url: https://www.meetup.com/frontendisti/events/287693878/
         dtstart: 2022-08-24 18:00:00+02:00
         dtend: 2022-08-24 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Letní grilovačka u SUPERKODERS | Frontendisti.cz
+        description: 'Frontendisti.cz
+
+          Wednesday, August 24 at 6:00 PM
+
+
+          Prázdniny se pomalu chýlí ke konci, meetupů se teď moc nedělo, nám se začalo stýskat a rozhodli jsme se to změnit. Přijďte si s námi dát ve **středu 2...
+
+
+          https://www.meetup.com/frontendisti/events/287693878/'
+        location: Hněvkovského 65 (Hněvkovského 65, Komárov, Brno-Brno-jih, Czech Republic 617 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287693878@meetup.com
+        url: https://www.meetup.com/frontendisti/events/287693878/
+        dtstart: 2022-08-24 18:00:00+02:00
+        dtend: 2022-08-24 20:00:00+02:00
