@@ -5575,26 +5575,26 @@ series:
         dtstart: 2022-07-20 19:00:00+02:00
         dtend: 2022-07-20 23:59:00+02:00
   - meetupcom:
-      meta_description: 'Wed, Aug 17, 7:00 PM  CEST: We will meet for an informal chat about Python, programming, and more. Details will be added.'
-      og_title: 'Pyvo Prague #, Wed, Aug 17, 2022, 7:00 PM   | Meetup'
-      url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssydclbwb/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
-        summary: 'Pyvo Prague #'
+        summary: 'Pyvo Prague #135 - Summer Barbecue Edition'
         description: 'Pyvo: Prague Python Meetup
 
           Wednesday, August 17 at 7:00 PM\n
 
-          We will meet for an informal chat about Python, programming, and more. Details will be added.
+          Máme léto a s ním tradičně odlehčený program. Opět se potkáme v kavárně volnočasového centra H55. (https://www.h55.cz/) Tentokrát bude before-party od...
 
 
-          https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/bcxlssydclbwb/'
-        location: Prague (, Prague, Czech Republic)
+          https://www.meetup.com/pyvo-prague-python-meetup/events/286984336/'
+        location: Volnočasové centrum H55 (Hloubětínská 1138/5, Praha-Praha 14, Czech Republic 198 00)
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_bcxlssydclbwb@meetup.com
-        url: https://www.meetup.com/Pyvo-Prague-Python-Meetup/events/bcxlssydclbwb/
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/286984336/
         dtstart: 2022-08-17 19:00:00+02:00
         dtend: 2022-08-17 23:59:00+02:00
   - meetupcom:
