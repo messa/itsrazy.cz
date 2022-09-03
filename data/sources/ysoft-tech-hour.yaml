@@ -22353,3 +22353,27 @@ series:
         url: https://www.meetup.com/ysoft-th/events/283522925/
         dtstart: 2022-02-15 18:00:00+01:00
         dtend: 2022-02-15 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Terminály, shelly a konzole
+        description: 'Y Soft: Technology Hour
+
+          Tuesday, February 15 at 6:00 PM
+
+
+          Mnozí lidé používají tyto termíny zcela zaměnitelně. A není divu - všechny se dají použít k označení onoho okýnka s bílým textem na černém pozadí, do ...
+
+
+          https://www.meetup.com/ysoft-th/events/283522925/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283522925@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/283522925/
+        dtstart: 2022-02-15 18:00:00+01:00
+        dtend: 2022-02-15 20:00:00+01:00
