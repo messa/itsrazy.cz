@@ -11576,3 +11576,27 @@ series:
         url: https://www.meetup.com/tesena-testing-club/events/287587023/
         dtstart: 2022-08-18 09:00:00+02:00
         dtend: 2022-08-18 13:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Workshop: Empower your Testing Strategy with Autonomous Testing Bots'
+        description: 'Tesena Testing Club
+
+          Thursday, August 18 at 9:00 AM
+
+
+          * Learn how to „just enable“ the autonomous testing platform and let it work for you* Find out how to integrate autonomous testing into your CI/CD pip...
+
+
+          https://www.meetup.com/tesena-testing-club/events/287587023/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287587023@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/287587023/
+        dtstart: 2022-08-18 09:00:00+02:00
+        dtend: 2022-08-18 13:00:00+02:00
