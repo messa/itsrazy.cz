@@ -13315,9 +13315,9 @@ series:
         dtstart: 2022-08-08 18:00:00+02:00
         dtend: 2022-08-08 20:00:00+02:00
   - meetupcom:
-      meta_description: '**Po prázdninové pauze je tu opět UX Monday**, pravidelná prvňo-pondělní komunitní setkáními nad tématy blízkými i vzdálenějšími UX designu. Tentokrát s několika novinkami.'
-      og_title: 'UX Monday: Nahlédnutí do LMC, Mon, Sep 5, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/asociace-ux/events/288160035/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'UX Monday: Nahlédnutí do LMC'
         description: 'Asociace UX
