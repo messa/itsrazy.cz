@@ -13745,3 +13745,26 @@ series:
         url: https://www.meetup.com/asociace-ux/events/287501160/
         dtstart: 2022-08-08 18:00:00+02:00
         dtend: 2022-08-08 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'UX Monday: Nahlédnutí do LMC'
+        description: 'Asociace UX
+
+          Monday, September 5 at 6:00 PM
+
+
+          **Po prázdninové pauze je tu opět UX Monday**, pravidelná prvňo-pondělní komunitní setkáními nad tématy blízkými i vzdálenějšími UX designu. Tentokrát...
+
+          \nhttps://www.meetup.com/asociace-ux/events/288160035/'
+        location: Menclova 2538 (Menclova 2538, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288160035@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/288160035/
+        dtstart: 2022-09-05 18:00:00+02:00
+        dtend: 2022-09-05 20:00:00+02:00
