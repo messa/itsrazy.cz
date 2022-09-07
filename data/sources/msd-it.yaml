@@ -22702,3 +22702,97 @@ series:
         url: https://www.meetup.com/msd-it-meet-ups/events/273587090/
         dtstart: 2020-10-06 18:00:00+02:00
         dtend: 2020-10-06 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Machine Learning Open House
+        description: 'MSD IT Meet Ups
+
+          Tuesday, June 21 at 6:00 PM
+
+
+          Come to our meetup to learn how we create enterprise-grade, human-centric AI solutions. We will cover topics such as Deep Learning for digital patholo...
+
+
+          https://www.meetup.com/msd-it-meet-ups/events/285416336/'
+        location: MSD building FIVE (Na Valentince 504, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285416336@meetup.com
+        url: https://www.meetup.com/msd-it-meet-ups/events/285416336/
+        dtstart: 2022-06-21 18:00:00+02:00
+        dtend: 2022-06-21 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: MSD DevOps Meetup
+        description: 'MSD IT Meet Ups
+
+          Thursday, June 16 at 6:00 PM
+
+
+          Come to our DevOps meetup, even with different background, and let´s talk about how we deliver Software in our company. We will discuss Agile Planning...
+
+
+          https://www.meetup.com/msd-it-meet-ups/events/285819476/'
+        location: MSD building FIVE (Na Valentince 504, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285819476@meetup.com
+        url: https://www.meetup.com/msd-it-meet-ups/events/285819476/
+        dtstart: 2022-06-16 18:00:00+02:00
+        dtend: 2022-06-16 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Cybersecurity Meetup '
+        description: 'MSD IT Meet Ups
+
+          Thursday, June 9 at 6:00 PM
+
+
+          We believe knowledge and intel sharing is the key to preventing cyber threats. Join the community and come to the first Cybersecurity Meetup in Prague...
+
+          \nhttps://www.meetup.com/msd-it-meet-ups/events/285392625/'
+        location: MSD building FIVE (Na Valentince 504, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285392625@meetup.com
+        url: https://www.meetup.com/msd-it-meet-ups/events/285392625/
+        dtstart: 2022-06-09 18:00:00+02:00
+        dtend: 2022-06-09 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Hacktoberfest 2020 at MSD- create your first pull request
+        description: 'MSD IT Meet Ups
+
+          Tuesday, October 6 at 6:00 PM
+
+
+          Come to discover how to start contributing to Open Source software and hopefully get one pull request closer to a Hacktoberfest T-shirt!This meetup is...\n
+
+          https://www.meetup.com/msd-it-meet-ups/events/273587090/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_273587090@meetup.com
+        url: https://www.meetup.com/msd-it-meet-ups/events/273587090/
+        dtstart: 2020-10-06 18:00:00+02:00
+        dtend: 2020-10-06 20:00:00+02:00
