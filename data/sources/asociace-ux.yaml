@@ -14053,3 +14053,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/287991969/
         dtstart: 2022-09-06 09:30:00+02:00
         dtend: 2022-09-06 12:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Research Tuesday: Jak se žije lidem s hendikepem v digitálním světě?'
+        description: 'Asociace UX
+
+          Tuesday, September 6 at 9:30 AM
+
+
+          Research Tuesday jsou setkání, kde profesionálové z oboru uživatelského výzkumu sdílí svoje zkušenosti.Akci organizují Výzkumatky – Volné sdružení výz...
+
+
+          https://www.meetup.com/asociace-ux/events/287991969/'
+        location: The Forge – Kovárna Braník (Branická 26/43, , Hlavní město Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287991969@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/287991969/
+        dtstart: 2022-09-06 09:30:00+02:00
+        dtend: 2022-09-06 12:30:00+02:00
