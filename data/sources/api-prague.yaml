@@ -13159,3 +13159,27 @@ series:
         url: https://www.meetup.com/api-prague/events/281693311/
         dtstart: 2021-11-08 16:00:00+01:00
         dtend: 2021-11-08 17:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: APIs without the Pain 🚀 Superface Intro Webinar
+        description: 'API Prague: The people and tech behind open APIs
+
+          Monday, November 8 at 4:00 PM
+
+
+          Integrate APIs with Superface in 3 lines of code. Your applications will self-integrate (and maintain the integrations) autonomously, without any prox...
+
+
+          https://www.meetup.com/api-prague/events/281693311/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281693311@meetup.com
+        url: https://www.meetup.com/api-prague/events/281693311/
+        dtstart: 2021-11-08 16:00:00+01:00
+        dtend: 2021-11-08 17:00:00+01:00
