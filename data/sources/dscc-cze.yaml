@@ -25812,3 +25812,27 @@ series:
         url: https://www.meetup.com/dscc_cze/events/272672785/
         dtstart: 2020-08-26 09:00:00+02:00
         dtend: 2020-08-26 10:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Design Systems Breakfast Prague – August 2020
+        description: 'Design Systems Community Chapter Czechia
+
+          Wednesday, August 26 at 9:00 AM
+
+
+          Let''s chat about our design systems news, challenges, and questions with like-minded professionals. We can loosely discuss topics like how to approach...
+
+
+          https://www.meetup.com/dscc_cze/events/272672785/'
+        location: Gate Restaurant (Sokolovská 539, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_272672785@meetup.com
+        url: https://www.meetup.com/dscc_cze/events/272672785/
+        dtstart: 2020-08-26 09:00:00+02:00
+        dtend: 2020-08-26 10:30:00+02:00
