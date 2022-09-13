@@ -21950,3 +21950,27 @@ series:
         url: https://www.meetup.com/applifting-meetup-1/events/285739735/
         dtstart: 2022-05-31 18:00:00+02:00
         dtend: 2022-05-31 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'UX/UI Crew Talk: Design from different perspectives'
+        description: 'Applifting Crew Talk
+
+          Tuesday, May 31 at 6:00 PM
+
+
+          Are you a fan of high-quality and comprehensible design? Do you want to talk about it with other enthusiasts and learn something new and interesting? ...
+
+
+          https://www.meetup.com/applifting-meetup-1/events/285739735/'
+        location: Applifting Meetup Space (Rohanské nábřeží, 670/19, Praha, AL\, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285739735@meetup.com
+        url: https://www.meetup.com/applifting-meetup-1/events/285739735/
+        dtstart: 2022-05-31 18:00:00+02:00
+        dtend: 2022-05-31 21:00:00+02:00
