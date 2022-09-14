@@ -10685,13 +10685,9 @@ series:
         dtstart: 2022-06-21 20:30:00+02:00
         dtend: 2022-06-21 22:30:00+02:00
   - meetupcom:
-      meta_description: '* Learn how to „just enable“ the autonomous testing platform and let it work for you
-
-        * Find out how to integrate autonomous testing into your CI/CD pipelines
-
-        * See what aut'
-      og_title: 'Workshop: Empower your Testing Strategy with Autonomous Testing Bots, Wed, Sep 14, 2022, 4:00 PM   | Meetup'
-      url: https://www.meetup.com/tesena-testing-club/events/287978567/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Workshop: Empower your Testing Strategy with Autonomous Testing Bots'
         description: 'Tesena Testing Club
