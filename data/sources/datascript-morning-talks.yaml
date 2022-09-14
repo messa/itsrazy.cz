@@ -25043,16 +25043,9 @@ series:
         dtstart: 2022-06-15 09:00:00+02:00
         dtend: 2022-06-15 10:00:00+02:00
   - meetupcom:
-      meta_description: '**Prosíme Vás o registraci přímo na stránkách Datascriptu:**
-
-        https://www.datascript.cz/morning-talks/jira-jako-crm-a-hr-modul/
-
-
-        **Na co se můžete těšit:**
-
-        V Jiře se dá sled'
-      og_title: Jira jako CRM a HR Modul, Wed, Sep 14, 2022, 9:00 AM   | Meetup
-      url: https://www.meetup.com/morning-talks/events/288152817/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Jira jako CRM a HR Modul
         description: 'Morning Talks
@@ -26173,3 +26166,32 @@ series:
         url: https://www.meetup.com/morning-talks/events/285390587/
         dtstart: 2022-06-29 09:00:00+02:00
         dtend: 2022-06-29 10:00:00+02:00
+  - meetupcom:
+      meta_description: 'Registrace a detail akce pouze na stránkách Datascriptu. Děkujeme.
+
+        https://www.datascript.cz/it-konference/enterprise-api-with-n-tiered-not-only-rest-architecture/
+
+
+        ## Proč'
+      og_title: Konference - Enterprise API with N-Tiered & (not only) REST architecture, Tue, Oct 11, 2022, 9:00 AM   | Meetup
+      url: https://www.meetup.com/morning-talks/events/288155187/
+      ical:
+        summary: Konference - Enterprise API with N-Tiered & (not only) REST architecture
+        description: 'Morning Talks
+
+          Tuesday, October 11 at 9:00 AM
+
+
+          Registrace a detail akce pouze na stránkách Datascriptu. Děkujeme.https://www.datascript.cz/it-konference/enterprise-api-with-n-tiered-not-only-rest-a...
+
+
+          https://www.meetup.com/morning-talks/events/288155187/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288155187@meetup.com
+        url: https://www.meetup.com/morning-talks/events/288155187/
+        dtstart: 2022-10-11 09:00:00+02:00
+        dtend: 2022-10-11 17:00:00+02:00
