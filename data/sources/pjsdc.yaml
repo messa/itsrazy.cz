@@ -28817,3 +28817,75 @@ series:
         url: https://www.meetup.com/prague-junior-software-developer-course/events/284995455/
         dtstart: 2022-04-20 18:00:00+02:00
         dtend: 2022-04-20 20:00:00+02:00
+  - meetupcom:
+      meta_description: Chceš do IT, ale nevíš, jaká specializace by ti sedla? Tápeš v tom, co je low-code, pro-code a no-code? Přemýšlíš, že bys začal/a splácet školné až po kurzu a nástupu do pr
+      og_title: 'Online informační schůzka: Jak nastartovat kariéru v IT od nuly?, Wed, Sep 21, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-junior-software-developer-course/events/288521321/
+      ical:
+        summary: 'Online informační schůzka: Jak nastartovat kariéru v IT od nuly?'
+        description: 'Become a software developer from 0
+
+          Wednesday, September 21 at 6:00 PM
+
+
+          Chceš do IT, ale nevíš, jaká specializace by ti sedla? Tápeš v tom, co je low-code, pro-code a no-code? Přemýšlíš, že bys začal/a splácet školné až po...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/288521321/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288521321@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/288521321/
+        dtstart: 2022-09-21 18:00:00+02:00
+        dtend: 2022-09-21 20:00:00+02:00
+  - meetupcom:
+      meta_description: Zúčastni se bezplatného online workshopu, kde si se zkušenými mentory vyzkoušíš práci s technologiemi webových stránek skrze společné vytvoření jednoduché hry pro dva hráče
+      og_title: 'Online workshop: Základy programování, Tue, Oct 4, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-junior-software-developer-course/events/288521330/
+      ical:
+        summary: 'Online workshop: Základy programování'
+        description: 'Become a software developer from 0
+
+          Tuesday, October 4 at 6:00 PM
+
+
+          Zúčastni se bezplatného online workshopu, kde si se zkušenými mentory vyzkoušíš práci s technologiemi webových stránek skrze společné vytvoření jednod...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/288521330/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288521330@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/288521330/
+        dtstart: 2022-10-04 18:00:00+02:00
+        dtend: 2022-10-04 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Den otevřených dveří aneb navštiv doupě ajťáků!
+        description: 'Become a software developer from 0
+
+          Saturday, June 25 at 9:00 AM
+
+
+          Vyzkoušej si jaké to je být jeden den studentem Green Fox Academy. Připravili jsme pro tebe den nabitý programováním a informacemi. Registruj se přede...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/286584467/'
+        location: Green Fox Academy (Václavské nám. 11, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286584467@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/286584467/
+        dtstart: 2022-06-25 09:00:00+02:00
+        dtend: 2022-06-25 18:00:00+02:00

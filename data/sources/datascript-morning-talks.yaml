@@ -26339,3 +26339,27 @@ series:
         url: https://www.meetup.com/morning-talks/events/288152817/
         dtstart: 2022-09-14 09:00:00+02:00
         dtend: 2022-09-14 10:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Jira jako CRM a HR Modul
+        description: 'Morning Talks
+
+          Wednesday, September 14 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/jira-jako-crm-a-hr-modul/ **Na co se můžete těšit:...
+
+
+          https://www.meetup.com/morning-talks/events/288152817/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288152817@meetup.com
+        url: https://www.meetup.com/morning-talks/events/288152817/
+        dtstart: 2022-09-14 09:00:00+02:00
+        dtend: 2022-09-14 10:00:00+02:00
