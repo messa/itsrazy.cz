@@ -24247,3 +24247,99 @@ series:
         url: https://www.meetup.com/protest_cz/events/284148042/
         dtstart: 2022-03-01 18:00:00+01:00
         dtend: 2022-03-01 19:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 109. [pro:]TEST! meetup – QA chapter lead s Markem Braunem
+        description: '[pro:]TEST!
+
+          Tuesday, September 6 at 6:00 PM
+
+
+          **Anotace přednášky** Podíváme se na to, kdo je to QA Chapter Leader. Proč je taková role potřeba a proč přemýšlet o škálování jak z pohledu businessu...
+
+
+          https://www.meetup.com/protest_cz/events/288008397/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288008397@meetup.com
+        url: https://www.meetup.com/protest_cz/events/288008397/
+        dtstart: 2022-09-06 18:00:00+02:00
+        dtend: 2022-09-06 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 108. [pro:]TEST! meetup - Test automatizace v Playwright
+        description: '[pro:]TEST!
+
+          Tuesday, June 21 at 6:00 PM
+
+
+          **Anotace přednášky** Playwright je moderní knihovna pro automatizaci moderních prohlížečů. Nabízí vše, co by si mohl automatizér přát a ještě mnohem ...
+
+
+          https://www.meetup.com/protest_cz/events/286604262/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286604262@meetup.com
+        url: https://www.meetup.com/protest_cz/events/286604262/
+        dtstart: 2022-06-21 18:00:00+02:00
+        dtend: 2022-06-21 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 107. [pro:]TEST! meetup - Zachraňte životy! Kooperativní hra.
+        description: '[pro:]TEST!
+
+          Tuesday, March 29 at 6:00 PM
+
+
+          Chcete si vyzkoušet, jak jako team umíte komunikovat a spolupracovat při řešení krizové situace? Přijďte si vyzkoušet simulaci **Raven13**.**Co vás če...
+
+
+          https://www.meetup.com/protest_cz/events/284821963/'
+        location: Na Florenci 2116/15 (Na Florenci 2116/15, Florenc, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284821963@meetup.com
+        url: https://www.meetup.com/protest_cz/events/284821963/
+        dtstart: 2022-03-29 18:00:00+02:00
+        dtend: 2022-03-29 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 106. [pro:]TEST! Jak se hledá tester
+        description: '[pro:]TEST!
+
+          Tuesday, March 1 at 6:00 PM
+
+
+          **Anotace přednášky:** Jak se hledá tester? Jak se hledá dobrý tester? To je téma dalšího panelové diskuse na TEST!u. Online se setkáme s následujícím...
+
+
+          https://www.meetup.com/protest_cz/events/284148042/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284148042@meetup.com
+        url: https://www.meetup.com/protest_cz/events/284148042/
+        dtstart: 2022-03-01 18:00:00+01:00
+        dtend: 2022-03-01 19:00:00+01:00
