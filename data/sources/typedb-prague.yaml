@@ -11679,3 +11679,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/288203639/
         dtstart: 2022-09-15 18:30:00+02:00
         dtend: 2022-09-15 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Building a Distributed Database With the Raft Replication Algorithm
+        description: 'TypeDB Prague Engineers
+
+          Thursday, September 15 at 6:30 PM
+
+
+          **Talk Summary**Applications running on production have much higher requirements. Not only do they need to be correct, they also need to be "always-on...
+
+
+          https://www.meetup.com/typedb-prague/events/288203639/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288203639@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/288203639/
+        dtstart: 2022-09-15 18:30:00+02:00
+        dtend: 2022-09-15 19:30:00+02:00
