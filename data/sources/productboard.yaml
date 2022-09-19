@@ -17824,3 +17824,27 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/288202311/
         dtstart: 2022-09-15 02:30:00+02:00
         dtend: 2022-09-15 05:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Engineering-Product-Design Society Meetup #2'
+        description: 'Productboard Meetups
+
+          Thursday, September 15 at 2:30 AM
+
+
+          **We will talk about building a successful engineering-product-design organization from scratch.** **Please register via Eventbrite:****(https://www.e...
+
+
+          https://www.meetup.com/productboard-meetups/events/288202311/'
+        location: 411 Dunsmuir St (411 Dunsmuir St, Vancouver, BC, Canada V6B 1X4)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288202311@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/288202311/
+        dtstart: 2022-09-15 02:30:00+02:00
+        dtend: 2022-09-15 05:30:00+02:00
