@@ -25067,16 +25067,9 @@ series:
         dtstart: 2022-09-14 09:00:00+02:00
         dtend: 2022-09-14 10:00:00+02:00
   - meetupcom:
-      meta_description: '**Prosíme Vás o registraci přímo na stránkách Datascriptu:**
-
-        https://www.datascript.cz/morning-talks/kubernetes-nasazeni-cloud-native-aplikaci/
-
-
-        **Na co se můžete těšit:**
-
-        '
-      og_title: Kubernetes - nasazení cloud native aplikací, Wed, Sep 21, 2022, 9:00 AM   | Meetup
-      url: https://www.meetup.com/morning-talks/events/288152824/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Kubernetes - nasazení cloud native aplikací
         description: 'Morning Talks
@@ -26675,3 +26668,32 @@ series:
         url: https://www.meetup.com/morning-talks/events/288152817/
         dtstart: 2022-09-14 09:00:00+02:00
         dtend: 2022-09-14 10:00:00+02:00
+  - meetupcom:
+      meta_description: '**Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/prometheus-pro-logging-metering-a-profiling/
+
+
+        **Na co se můžete těšit:*'
+      og_title: Prometheus pro logging, metering a profiling, Wed, Oct 12, 2022, 9:00 AM   | Meetup
+      url: https://www.meetup.com/morning-talks/events/288152846/
+      ical:
+        summary: Prometheus pro logging, metering a profiling
+        description: 'Morning Talks
+
+          Wednesday, October 12 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/prometheus-pro-logging-metering-a-profiling/ **Na ...
+
+
+          https://www.meetup.com/morning-talks/events/288152846/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288152846@meetup.com
+        url: https://www.meetup.com/morning-talks/events/288152846/
+        dtstart: 2022-10-12 09:00:00+02:00
+        dtend: 2022-10-12 10:00:00+02:00
