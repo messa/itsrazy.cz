@@ -3198,12 +3198,9 @@ series:
         dtstart: 2022-08-17 19:00:00+02:00
         dtend: 2022-08-17 23:59:00+02:00
   - meetupcom:
-      meta_description: 'Pyvo bude i v září! Můžete se těšit na prezentaci na téma Distribuované databáze a určitě dojde i na lightning talky. Potkáme se v restauraci Botič.
-
-
-        We meet up in Septembe'
-      og_title: 'Pyvo Prague #136 Distributed Databases, Wed, Sep 21, 2022, 7:00 PM   | Meetup'
-      url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssydcmbcc/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Pyvo Prague #136 Distributed Databases'
         description: 'Pyvo: Prague Python Meetup
@@ -10476,3 +10473,27 @@ series:
         url: https://www.meetup.com/pyvo-prague-python-meetup/events/286984336/
         dtstart: 2022-08-17 19:00:00+02:00
         dtend: 2022-08-17 23:59:00+02:00
+  - meetupcom:
+      meta_description: We will meet for an informal chat about Python, programming, and more. Details will be added.
+      og_title: 'Pyvo Prague #, Wed, Jan 18, 2023, 7:00 PM   | Meetup'
+      url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssyfccbxb/
+      ical:
+        summary: 'Pyvo Prague #'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, January 18 at 7:00 PM
+
+
+          We will meet for an informal chat about Python, programming, and more. Details will be added.
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssyfccbxb/'
+        location: Prague (, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_bcxlssyfccbxb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssyfccbxb/
+        dtstart: 2023-01-18 19:00:00+01:00
+        dtend: 2023-01-18 23:59:00+01:00
