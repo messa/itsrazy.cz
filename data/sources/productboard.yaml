@@ -18088,3 +18088,54 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/288202311/
         dtstart: 2022-09-15 02:30:00+02:00
         dtend: 2022-09-15 05:30:00+02:00
+  - meetupcom:
+      meta_description: '**Productboard Meetups are back! This time, you will learn why and how to program functionally in TypeScript.**
+
+
+        **Register here: [https://www.eventbrite.com/e/typescript-m'
+      og_title: 'Typescript Meetup: Functional programming in Typescript, Thu, Sep 29, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/productboard-meetups/events/288646553/
+      ical:
+        summary: 'Typescript Meetup: Functional programming in Typescript'
+        description: 'Productboard Meetups
+
+          Thursday, September 29 at 6:00 PM
+
+
+          **Productboard Meetups are back! This time, you will learn why and how to program functionally in TypeScript.** **Register here: (https://www.eventbri...
+
+
+          https://www.meetup.com/productboard-meetups/events/288646553/'
+        location: Boudníkova 3 (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288646553@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/288646553/
+        dtstart: 2022-09-29 18:00:00+02:00
+        dtend: 2022-09-29 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Engineering-Product-Design Society Meetup #2'
+        description: 'Productboard Meetups
+
+          Thursday, September 15 at 2:30 AM
+
+
+          **We will talk about building a successful engineering-product-design organization from scratch.** **Please register via Eventbrite:****(https://www.e...
+
+
+          https://www.meetup.com/productboard-meetups/events/288202311/'
+        location: 411 Dunsmuir St (411 Dunsmuir St, Vancouver, BC, Canada V6B 1X4)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288202311@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/288202311/
+        dtstart: 2022-09-15 02:30:00+02:00
+        dtend: 2022-09-15 05:30:00+02:00
