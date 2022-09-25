@@ -26961,3 +26961,27 @@ series:
         url: https://www.meetup.com/morning-talks/events/288152830/
         dtstart: 2022-09-22 09:00:00+02:00
         dtend: 2022-09-22 10:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: REST is BEST, nebo za TREST?
+        description: 'Morning Talks
+
+          Thursday, September 22 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/rest-is-best-nebo-za-trest/ V dnešní době se rozmo...
+
+
+          https://www.meetup.com/morning-talks/events/288152830/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288152830@meetup.com
+        url: https://www.meetup.com/morning-talks/events/288152830/
+        dtstart: 2022-09-22 09:00:00+02:00
+        dtend: 2022-09-22 10:00:00+02:00
