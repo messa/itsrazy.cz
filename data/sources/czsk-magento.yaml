@@ -15463,3 +15463,51 @@ series:
         url: https://www.meetup.com/czech-slovak-magento-group/events/273955075/
         dtstart: 2020-11-05 17:30:00+01:00
         dtend: 2020-11-05 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Time to speed up! Web Vitals & PWA in e-commerce
+        description: 'Czech & Slovak Magento Meetup Group
+
+          Thursday, October 7 at 3:00 PM
+
+
+          Register for free at https://www.timetospeedup.com/ Core Web Vitals will change how Google measures the page experience with a significant impact on y...
+
+
+          https://www.meetup.com/czech-slovak-magento-group/events/280788968/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280788968@meetup.com
+        url: https://www.meetup.com/czech-slovak-magento-group/events/280788968/
+        dtstart: 2021-10-07 15:00:00+02:00
+        dtend: 2021-10-07 17:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'DEV session #1 - Magento, Vue3, projektové řízení'
+        description: 'Czech & Slovak Magento Meetup Group
+
+          Thursday, November 5 at 5:30 PM
+
+
+          Live stream link --> https://youtu.be/gexDTcZLRKk...DEV session je setkání všech backend, frontend a fullstack vývojářů s chutí rozšiřovat si svoje ob...
+
+
+          https://www.meetup.com/czech-slovak-magento-group/events/273955075/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_273955075@meetup.com
+        url: https://www.meetup.com/czech-slovak-magento-group/events/273955075/
+        dtstart: 2020-11-05 17:30:00+01:00
+        dtend: 2020-11-05 19:30:00+01:00
