@@ -17532,14 +17532,9 @@ series:
         dtstart: 2022-07-28 17:30:00+02:00
         dtend: 2022-07-28 20:30:00+02:00
   - meetupcom:
-      meta_description: '**Java or Kotlin - which one is better?** ⚔️
-
-        Representatives of both languages will compete and share why they think theirs is the right one!
-
-
-        **Register here:** [https://w'
-      og_title: 'JVM Meetup: Battle Edition, Tue, Sep 27, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/productboard-meetups/events/288520503/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'JVM Meetup: Battle Edition'
         description: 'Productboard Meetups
