@@ -23194,3 +23194,27 @@ series:
         url: https://www.meetup.com/pipedrive-talks-prague/events/286919614/
         dtstart: 2022-07-28 18:00:00+02:00
         dtend: 2022-07-28 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Engineering Meetup: Screw-ups and Lessons Learned'
+        description: 'Pipedrive Talks Prague
+
+          Thursday, July 28 at 6:00 PM
+
+
+          It''s mid-summer and so we’ve decided to make our next meetup a bit more lighthearted than usual. Join our upcoming engineering meetup, where we will e...
+
+
+          https://www.meetup.com/pipedrive-talks-prague/events/286919614/'
+        location: Pipedrive (Pernerova 697/35, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286919614@meetup.com
+        url: https://www.meetup.com/pipedrive-talks-prague/events/286919614/
+        dtstart: 2022-07-28 18:00:00+02:00
+        dtend: 2022-07-28 20:00:00+02:00

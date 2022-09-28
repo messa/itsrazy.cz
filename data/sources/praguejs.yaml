@@ -571,3 +571,29 @@ series:
         url: https://www.meetup.com/praguejs/events/288152677/
         dtstart: 2022-09-06 18:30:00+02:00
         dtend: 2022-09-06 21:30:00+02:00
+  - meetupcom:
+      meta_description: 'Get out and get social in 2022 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that a'
+      og_title: '2022 #8 It works on my machine!, Tue, Oct 18, 2022, 6:30 PM   | Meetup'
+      url: https://www.meetup.com/praguejs/events/288655940/
+      ical:
+        summary: '2022 #8 It works on my machine!'
+        description: 'PragueJS
+
+          Tuesday, October 18 at 6:30 PM
+
+
+          Get out and get social in 2022 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse r...
+
+
+          https://www.meetup.com/praguejs/events/288655940/'
+        location: Vzletná – kreativní epicentrum (M. Horákové 56, Praha 7-Holešovice, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288655940@meetup.com
+        url: https://www.meetup.com/praguejs/events/288655940/
+        dtstart: 2022-10-18 18:30:00+02:00
+        dtend: 2022-10-18 20:30:00+02:00
