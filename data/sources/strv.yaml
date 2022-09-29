@@ -16638,19 +16638,9 @@ series:
         dtstart: 2022-08-03 18:00:00+02:00
         dtend: 2022-08-03 22:00:00+02:00
   - meetupcom:
-      meta_description: '**👉 [PLEASE MAKE SURE TO GET YOUR TICKET VIA EVENTBRITE](https://www.eventbrite.com/e/ios-meetup-deep-dive-ft-special-guests-tickets-419493264647?aff=meetup) 👈**
-
-
-        -
-
-        -
-
-        -
-
-
-        '
-      og_title: STRV iOS Meetup - Deep Dive ft. Special Guests, Thu, Sep 29, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/strv-meetups/events/288474366/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: STRV iOS Meetup - Deep Dive ft. Special Guests
         description: 'STRV Meetups

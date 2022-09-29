@@ -18084,12 +18084,9 @@ series:
         dtstart: 2022-09-15 02:30:00+02:00
         dtend: 2022-09-15 05:30:00+02:00
   - meetupcom:
-      meta_description: '**Productboard Meetups are back! This time, you will learn why and how to program functionally in TypeScript.**
-
-
-        **Register here: [https://www.eventbrite.com/e/typescript-m'
-      og_title: 'Typescript Meetup: Functional programming in Typescript, Thu, Sep 29, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/productboard-meetups/events/288646553/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Typescript Meetup: Functional programming in Typescript'
         description: 'Productboard Meetups
@@ -18566,3 +18563,75 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/288520503/
         dtstart: 2022-09-27 18:00:00+02:00
         dtend: 2022-09-27 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'JVM Meetup: Battle Edition'
+        description: 'Productboard Meetups
+
+          Tuesday, September 27 at 6:00 PM
+
+
+          **Java or Kotlin - which one is better?** ⚔️Representatives of both languages will compete and share why they think theirs is the right one! **Registe...
+
+
+          https://www.meetup.com/productboard-meetups/events/288520503/'
+        location: Boudníkova 3 (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288520503@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/288520503/
+        dtstart: 2022-09-27 18:00:00+02:00
+        dtend: 2022-09-27 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Engineering-Product-Design Society Meetup #2'
+        description: 'Productboard Meetups
+
+          Thursday, September 15 at 2:30 AM
+
+
+          **We will talk about building a successful engineering-product-design organization from scratch.** **Please register via Eventbrite:****(https://www.e...
+
+
+          https://www.meetup.com/productboard-meetups/events/288202311/'
+        location: 411 Dunsmuir St (411 Dunsmuir St, Vancouver, BC, Canada V6B 1X4)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288202311@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/288202311/
+        dtstart: 2022-09-15 02:30:00+02:00
+        dtend: 2022-09-15 05:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Tech Community Summer Gathering
+        description: 'Productboard Meetups
+
+          Wednesday, August 17 at 6:00 PM
+
+
+          Productboard has been quietly growing our Brno presence for the last few months and we really enjoyed meeting the tech community.We want to continue o...
+
+
+          https://www.meetup.com/productboard-meetups/events/287756409/'
+        location: Impact Hub Brno (Cyrilská 7, Brno-střed-Trnitá, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287756409@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/287756409/
+        dtstart: 2022-08-17 18:00:00+02:00
+        dtend: 2022-08-17 21:00:00+02:00
