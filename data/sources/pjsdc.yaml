@@ -29705,3 +29705,27 @@ series:
         url: https://www.meetup.com/prague-junior-software-developer-course/events/288521321/
         dtstart: 2022-09-21 18:00:00+02:00
         dtend: 2022-09-21 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Online informační schůzka: Jak nastartovat kariéru v IT od nuly?'
+        description: 'Become a software developer from 0
+
+          Wednesday, September 21 at 6:00 PM
+
+
+          Chceš do IT, ale nevíš, jaká specializace by ti sedla? Tápeš v tom, co je low-code, pro-code a no-code? Přemýšlíš, že bys začal/a splácet školné až po...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/288521321/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288521321@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/288521321/
+        dtstart: 2022-09-21 18:00:00+02:00
+        dtend: 2022-09-21 20:00:00+02:00

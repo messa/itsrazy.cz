@@ -18518,3 +18518,27 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/288520503/
         dtstart: 2022-09-27 18:00:00+02:00
         dtend: 2022-09-27 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'JVM Meetup: Battle Edition'
+        description: 'Productboard Meetups
+
+          Tuesday, September 27 at 6:00 PM
+
+
+          **Java or Kotlin - which one is better?** ⚔️Representatives of both languages will compete and share why they think theirs is the right one! **Registe...
+
+
+          https://www.meetup.com/productboard-meetups/events/288520503/'
+        location: Boudníkova 3 (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288520503@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/288520503/
+        dtstart: 2022-09-27 18:00:00+02:00
+        dtend: 2022-09-27 21:00:00+02:00
