@@ -32273,3 +32273,27 @@ series:
         url: https://www.meetup.com/topmonks-caffe/events/288347991/
         dtstart: 2022-09-13 19:00:00+02:00
         dtend: 2022-09-13 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Developer Experience
+        description: 'TopMonks Caffè
+
+          Tuesday, September 13 at 7:00 PM
+
+
+          Tentokrát nás čeká téma developer experience. Přijďte si poslechnout tři řečníky a otevřít diskuzi na téma - jak dělat software lépe.  **Josef Zima** ...
+
+
+          https://www.meetup.com/topmonks-caffe/events/288347991/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288347991@meetup.com
+        url: https://www.meetup.com/topmonks-caffe/events/288347991/
+        dtstart: 2022-09-13 19:00:00+02:00
+        dtend: 2022-09-13 21:00:00+02:00

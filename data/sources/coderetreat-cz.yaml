@@ -30754,3 +30754,27 @@ series:
         url: https://www.meetup.com/coderetreat-cz/events/281417882/
         dtstart: 2021-11-13 09:00:00+01:00
         dtend: 2021-11-13 17:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Global Day of Coderetreat 2021 - Online
+        description: 'CodeRetreat CZ
+
+          Saturday, November 13 at 9:00 AM
+
+
+          Změna: Původně jsme to plánovali dát offline. Bohužel epidemická situace se opět zhoršuje, přecházíme proto jako loni na online verzi Coderetreatu. Zv...
+
+
+          https://www.meetup.com/coderetreat-cz/events/281417882/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281417882@meetup.com
+        url: https://www.meetup.com/coderetreat-cz/events/281417882/
+        dtstart: 2021-11-13 09:00:00+01:00
+        dtend: 2021-11-13 17:00:00+01:00
