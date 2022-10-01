@@ -23024,3 +23024,27 @@ series:
         url: https://www.meetup.com/pydata-prague/events/286566742/
         dtstart: 2022-06-27 18:00:00+02:00
         dtend: 2022-06-27 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'PyData Prague #11 - Hovering over Capulets'
+        description: 'PyData Prague
+
+          Monday, June 27 at 6:00 PM
+
+
+          Hello data-lovers and Python craft-masters! Another PyData Prague meetup is here and this time we will meet in **(https://goo.gl/maps/FHvjbwTtYULjTKvS...
+
+
+          https://www.meetup.com/pydata-prague/events/286566742/'
+        location: Ataccama Software, s.r.o. (Invalidovna, Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286566742@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/286566742/
+        dtstart: 2022-06-27 18:00:00+02:00
+        dtend: 2022-06-27 21:00:00+02:00
