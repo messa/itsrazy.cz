@@ -24260,3 +24260,98 @@ series:
         url: https://www.meetup.com/frontendisti/events/285413505/
         dtstart: 2022-05-11 18:00:00+02:00
         dtend: 2022-05-11 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Praha: Frontendisti.cz jsou zpět a design systémy u toho nesmí chybět! ❤️'
+        description: 'Frontendisti.cz
+
+          Wednesday, September 14 at 6:00 PM
+
+
+          Je konec prázdnin a to neznamená nic jiného, než že se za vámi vracíme s pořádným nášupem frontendů! Akce se do odvolání nebudou streamovat, ale zázna...
+
+
+          https://www.meetup.com/frontendisti/events/287927277/'
+        location: Menclova 2538 (Menclova 2538, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287927277@meetup.com
+        url: https://www.meetup.com/frontendisti/events/287927277/
+        dtstart: 2022-09-14 18:00:00+02:00
+        dtend: 2022-09-14 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Brno: Hospodský sraz - dokumentace komponent'
+        description: 'Frontendisti.cz
+
+          Wednesday, September 14 at 6:00 PM
+
+
+          **Hospodské srazy jsou zpět!** Zatímco v Praze bude klasický Frontendistí meetup, v Brně se sejdeme v hospodě k neformálnějšímu setkání. Na zářijovém ...
+
+
+          https://www.meetup.com/frontendisti/events/288052901/'
+        location: Café Trojka (Dominikánská 9, Brno-Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288052901@meetup.com
+        url: https://www.meetup.com/frontendisti/events/288052901/
+        dtstart: 2022-09-14 18:00:00+02:00
+        dtend: 2022-09-14 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Letní grilovačka u SUPERKODERS | Frontendisti.cz
+        description: 'Frontendisti.cz
+
+          Wednesday, August 24 at 6:00 PM
+
+
+          Prázdniny se pomalu chýlí ke konci, meetupů se teď moc nedělo, nám se začalo stýskat a rozhodli jsme se to změnit. Přijďte si s námi dát ve **středu 2...
+
+
+          https://www.meetup.com/frontendisti/events/287693878/'
+        location: Hněvkovského 65 (Hněvkovského 65, Komárov, Brno-Brno-jih, Czech Republic 617 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287693878@meetup.com
+        url: https://www.meetup.com/frontendisti/events/287693878/
+        dtstart: 2022-08-24 18:00:00+02:00
+        dtend: 2022-08-24 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'CSS kam se podíváš... a křest knihy "CSS: moderní layout" | Frontendisti.cz LIVE'
+        description: 'Frontendisti.cz
+
+          Wednesday, May 11 at 6:00 PM
+
+
+          Užijte si s námi další **hybridní meetup v Brně.** Tentokrát **naživo** v prostorách **Czechitas.** A pokud to do Brna máte daleko, spojte se s námi *...\n
+
+          https://www.meetup.com/frontendisti/events/285413505/'
+        location: CTP Czechitas House (Škrobárenská 511/3, Brno-jih, Czech Republic 617 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285413505@meetup.com
+        url: https://www.meetup.com/frontendisti/events/285413505/
+        dtstart: 2022-05-11 18:00:00+02:00
+        dtend: 2022-05-11 20:00:00+02:00
