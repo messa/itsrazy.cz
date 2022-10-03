@@ -29993,3 +29993,51 @@ series:
         url: https://www.meetup.com/prague-junior-software-developer-course/events/288521321/
         dtstart: 2022-09-21 18:00:00+02:00
         dtend: 2022-09-21 20:00:00+02:00
+  - meetupcom:
+      meta_description: We want to show you that coding doesn't require advanced mathematical or analytical thinking. We believe that everyone can grasp the basics of coding, which is especially t
+      og_title: 'Online Workshop: Basics of Programming, Tue, Oct 11, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-junior-software-developer-course/events/288874783/
+      ical:
+        summary: 'Online Workshop: Basics of Programming'
+        description: 'Become a software developer from 0
+
+          Tuesday, October 11 at 6:00 PM
+
+
+          We want to show you that coding doesn''t require advanced mathematical or analytical thinking. We believe that everyone can grasp the basics of coding,...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/288874783/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288874783@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/288874783/
+        dtstart: 2022-10-11 18:00:00+02:00
+        dtend: 2022-10-11 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Online informační schůzka: Jak nastartovat kariéru v IT od nuly?'
+        description: 'Become a software developer from 0
+
+          Wednesday, September 21 at 6:00 PM
+
+
+          Chceš do IT, ale nevíš, jaká specializace by ti sedla? Tápeš v tom, co je low-code, pro-code a no-code? Přemýšlíš, že bys začal/a splácet školné až po...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/288521321/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288521321@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/288521321/
+        dtstart: 2022-09-21 18:00:00+02:00
+        dtend: 2022-09-21 20:00:00+02:00
