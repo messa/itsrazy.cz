@@ -25700,3 +25700,27 @@ series:
         url: https://www.meetup.com/msd-it-meet-ups/events/285416336/
         dtstart: 2022-06-21 18:00:00+02:00
         dtend: 2022-06-21 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Machine Learning Open House
+        description: 'MSD IT Meet Ups
+
+          Tuesday, June 21 at 6:00 PM
+
+
+          Come to our meetup to learn how we create enterprise-grade, human-centric AI solutions. We will cover topics such as Deep Learning for digital patholo...
+
+
+          https://www.meetup.com/msd-it-meet-ups/events/285416336/'
+        location: MSD building FIVE (Na Valentince 504, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285416336@meetup.com
+        url: https://www.meetup.com/msd-it-meet-ups/events/285416336/
+        dtstart: 2022-06-21 18:00:00+02:00
+        dtend: 2022-06-21 19:30:00+02:00
