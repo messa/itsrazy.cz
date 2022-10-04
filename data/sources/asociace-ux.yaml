@@ -18290,3 +18290,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/288183449/
         dtstart: 2022-09-13 17:30:00+02:00
         dtend: 2022-09-13 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'UX Monday: From UX Writers with love'
+        description: 'Asociace UX
+
+          Monday, October 3 at 6:00 PM
+
+
+          *How to write award-winning documentation? How to get buy-in for UX Writing in your company? What to expect from your UX Writer? And what is the diffe...
+
+
+          https://www.meetup.com/asociace-ux/events/288724253/'
+        location: Na Valentince (Na Valentince, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288724253@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/288724253/
+        dtstart: 2022-10-03 18:00:00+02:00
+        dtend: 2022-10-03 20:00:00+02:00

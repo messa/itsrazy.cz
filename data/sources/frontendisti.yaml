@@ -25068,3 +25068,27 @@ series:
         url: https://www.meetup.com/frontendisti/events/287927277/
         dtstart: 2022-09-14 18:00:00+02:00
         dtend: 2022-09-14 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Praha: Frontendisti.cz jsou zpět a design systémy u toho nesmí chybět! ❤️'
+        description: 'Frontendisti.cz
+
+          Wednesday, September 14 at 6:00 PM
+
+
+          Je konec prázdnin a to neznamená nic jiného, než že se za vámi vracíme s pořádným nášupem frontendů! Akce se do odvolání nebudou streamovat, ale zázna...
+
+
+          https://www.meetup.com/frontendisti/events/287927277/'
+        location: Menclova 2538 (Menclova 2538, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287927277@meetup.com
+        url: https://www.meetup.com/frontendisti/events/287927277/
+        dtstart: 2022-09-14 18:00:00+02:00
+        dtend: 2022-09-14 20:00:00+02:00
