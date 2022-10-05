@@ -14817,14 +14817,14 @@ series:
           • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
 
 
-          https://www.meetup.com/gdgprague/events/xqcsqsydcnbhc/'
+          https://www.meetup.com/gdgprague/events/288926254/'
         location: Online event
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_xqcsqsydcnbhc@meetup.com
-        url: https://www.meetup.com/gdgprague/events/xqcsqsydcnbhc/
+        url: https://www.meetup.com/gdgprague/events/288926254/
         dtstart: 2022-10-25 18:30:00+02:00
         dtend: 2022-10-25 20:30:00+02:00
   - meetupcom:
@@ -16867,6 +16867,30 @@ series:
         url: https://www.meetup.com/gdgprague/events/xqcsqsydcpbdc/
         dtstart: 2022-11-22 18:30:00+01:00
         dtend: 2022-11-22 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Tuesday, September 27 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/gdgprague/events/288332240/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_xqcsqsydcmbkc@meetup.com
+        url: https://www.meetup.com/gdgprague/events/288332240/
+        dtstart: 2022-09-27 18:30:00+02:00
+        dtend: 2022-09-27 20:30:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
