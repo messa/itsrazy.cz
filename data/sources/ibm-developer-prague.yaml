@@ -34120,3 +34120,99 @@ series:
         url: https://www.meetup.com/ibm-developer-prague/events/281430037/
         dtstart: 2021-10-18 12:00:00+02:00
         dtend: 2021-10-20 17:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: IBM Developer & MongoDB Present:Incite Insights from Real Time Data with MongoDB
+        description: 'IBM Developer Czechia
+
+          Thursday, February 17 at 6:00 PM
+
+
+          ??By some estimates, 50 billion devices, appliances, and systems will be connected by 2020. Traditional systems cannot support the volume, speed, and c...
+
+
+          https://www.meetup.com/ibm-developer-prague/events/283887745/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283887745@meetup.com
+        url: https://www.meetup.com/ibm-developer-prague/events/283887745/
+        dtstart: 2022-02-17 18:00:00+01:00
+        dtend: 2022-02-17 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'The other side of IT: support and operations'
+        description: 'IBM Developer Czechia
+
+          Wednesday, January 19 at 5:00 PM
+
+
+          ??The key of a system or application that thrives in production is not really development, but the way it is operated and supported. Although the posit...
+
+
+          https://www.meetup.com/ibm-developer-prague/events/283029566/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283029566@meetup.com
+        url: https://www.meetup.com/ibm-developer-prague/events/283029566/
+        dtstart: 2022-01-19 17:00:00+01:00
+        dtend: 2022-01-19 19:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Microservices and CloudNative Architecture:Key Use Cases and practical solutions
+        description: 'IBM Developer Czechia
+
+          Thursday, November 25 at 4:00 PM
+
+
+          ??Today everyone is talking about cloud-native services and you might ask yourself what does it really means? Why is it so popular? One of the major cl...
+
+
+          https://www.meetup.com/ibm-developer-prague/events/281975947/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281975947@meetup.com
+        url: https://www.meetup.com/ibm-developer-prague/events/281975947/
+        dtstart: 2021-11-25 16:00:00+01:00
+        dtend: 2021-11-25 17:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Developer Festival
+        description: 'IBM Developer Czechia
+
+          Monday, October 18 at 12:00 PM
+
+
+          Let''s continue the conversation\; build smart and build secure with the right tools and services by working with the world’s largest technical support ...
+
+
+          https://www.meetup.com/ibm-developer-prague/events/281430037/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281430037@meetup.com
+        url: https://www.meetup.com/ibm-developer-prague/events/281430037/
+        dtstart: 2021-10-18 12:00:00+02:00
+        dtend: 2021-10-20 17:00:00+02:00

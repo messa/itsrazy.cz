@@ -27878,3 +27878,27 @@ series:
         url: https://www.meetup.com/applifting-meetup-1/events/287854441/
         dtstart: 2022-09-13 18:00:00+02:00
         dtend: 2022-09-13 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Node.js Crew Talk: The latest trends and other insights you can''t live without'
+        description: 'Applifting Crew Talk
+
+          Tuesday, September 13 at 6:00 PM
+
+
+          Are you a fan of Node.js and want to stay up to date? Do you want to share your thoughts or struggles with other enthusiasts, and learn something new ...
+
+
+          https://www.meetup.com/applifting-meetup-1/events/287854441/'
+        location: Applifting Meetup Space (Rohanské nábřeží, 670/19, Praha, AL\, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287854441@meetup.com
+        url: https://www.meetup.com/applifting-meetup-1/events/287854441/
+        dtstart: 2022-09-13 18:00:00+02:00
+        dtend: 2022-09-13 21:00:00+02:00
