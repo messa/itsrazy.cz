@@ -30233,3 +30233,27 @@ series:
         url: https://www.meetup.com/prague-junior-software-developer-course/events/288521330/
         dtstart: 2022-10-04 18:00:00+02:00
         dtend: 2022-10-04 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Online workshop: Základy programování'
+        description: 'Become a software developer from 0
+
+          Tuesday, October 4 at 6:00 PM
+
+
+          Zúčastni se bezplatného online workshopu, kde si se zkušenými mentory vyzkoušíš práci s technologiemi webových stránek skrze společné vytvoření jednod...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/288521330/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288521330@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/288521330/
+        dtstart: 2022-10-04 18:00:00+02:00
+        dtend: 2022-10-04 21:00:00+02:00

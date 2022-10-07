@@ -27822,3 +27822,26 @@ series:
         url: https://www.meetup.com/morning-talks/events/288152838/
         dtstart: 2022-10-05 09:00:00+02:00
         dtend: 2022-10-05 10:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Automatizace životního cyklu IT systému pomocí Foreman/Katello
+        description: 'Morning Talks
+
+          Wednesday, October 5 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/automatizace-zivotniho-cyklu-it-systemu-pomoci-for...\n
+
+          https://www.meetup.com/morning-talks/events/288152838/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288152838@meetup.com
+        url: https://www.meetup.com/morning-talks/events/288152838/
+        dtstart: 2022-10-05 09:00:00+02:00
+        dtend: 2022-10-05 10:00:00+02:00
