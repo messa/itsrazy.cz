@@ -18467,3 +18467,27 @@ series:
         url: https://www.meetup.com/strv-meetups/events/288474366/
         dtstart: 2022-09-29 18:00:00+02:00
         dtend: 2022-09-29 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: STRV iOS Meetup - Deep Dive ft. Special Guests
+        description: 'STRV Meetups
+
+          Thursday, September 29 at 6:00 PM
+
+
+          **👉 (https://www.eventbrite.com/e/ios-meetup-deep-dive-ft-special-guests-tickets-419493264647?aff=meetup) 👈** --- You’re invited to a very special iOS...
+
+
+          https://www.meetup.com/strv-meetups/events/288474366/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288474366@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/288474366/
+        dtstart: 2022-09-29 18:00:00+02:00
+        dtend: 2022-09-29 20:00:00+02:00
