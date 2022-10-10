@@ -31857,3 +31857,51 @@ series:
         url: https://www.meetup.com/ysoft-th/events/272570292/
         dtstart: 2020-09-08 17:30:00+02:00
         dtend: 2020-09-08 19:30:00+02:00
+  - meetupcom:
+      meta_description: Zveme vás na workshop AI @ Y Soft, který pořádáme v rámci celotýdenní akce [Dny AI](https://dny-ai.cz/). Interaktivní festival umělé inteligence v Brně je určen pro AI nadš
+      og_title: 'Workshop: AI @ Y Soft, Thu, Oct 20, 2022, 2:30 PM   | Meetup'
+      url: https://www.meetup.com/ysoft-th/events/288964524/
+      ical:
+        summary: 'Workshop: AI @ Y Soft'
+        description: 'Y Soft: Technology Hour
+
+          Thursday, October 20 at 2:30 PM
+
+
+          Zveme vás na workshop AI @ Y Soft, který pořádáme v rámci celotýdenní akce (https://dny-ai.cz/). Interaktivní festival umělé inteligence v Brně je urč...
+
+
+          https://www.meetup.com/ysoft-th/events/288964524/'
+        location: Y Soft (Technická 2948/13, Brno-Královo Pole, Czech Republic 616 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288964524@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/288964524/
+        dtstart: 2022-10-20 14:30:00+02:00
+        dtend: 2022-10-20 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Lepení stringů
+        description: 'Y Soft: Technology Hour
+
+          Tuesday, September 6 at 5:30 PM
+
+
+          Co mají URI, JSON dokumenty, HTML dokumenty, SQL dotazy, příkazové řádky shellu, log zprávy, regulární výrazy, X.500 rozlišovací jména a cesty k soubo...
+
+
+          https://www.meetup.com/ysoft-th/events/288000852/'
+        location: Y Soft, R&D (Purkyňova 107, Building A, 2nd floor, Brno, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288000852@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/288000852/
+        dtstart: 2022-09-06 17:30:00+02:00
+        dtend: 2022-09-06 19:00:00+02:00
