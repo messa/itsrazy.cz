@@ -13306,10 +13306,10 @@ series:
         * Find out how to integrate autonomous testing into your CI/CD pipelines
 
         * See what aut'
-      og_title: '4h Workshop: Empower your Testing Strategy with Autonomous Testing Bots, Thu, Oct 13, 2022, 9:00 AM   | Meetup'
+      og_title: 'Workshop: Empower your Testing Strategy with Autonomous Testing Bots, Thu, Oct 13, 2022, 9:00 AM   | Meetup'
       url: https://www.meetup.com/tesena-testing-club/events/288748722/
       ical:
-        summary: '4h Workshop: Empower your Testing Strategy with Autonomous Testing Bots'
+        summary: 'Workshop: Empower your Testing Strategy with Autonomous Testing Bots'
         description: 'Tesena Testing Club
 
           Thursday, October 13 at 9:00 AM
@@ -13327,7 +13327,7 @@ series:
         uid: event_288748722@meetup.com
         url: https://www.meetup.com/tesena-testing-club/events/288748722/
         dtstart: 2022-10-13 09:00:00+02:00
-        dtend: 2022-10-13 13:00:00+02:00
+        dtend: 2022-10-13 11:00:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
@@ -13904,6 +13904,30 @@ series:
         url: https://www.meetup.com/tesena-testing-club/events/287978567/
         dtstart: 2022-09-14 16:00:00+02:00
         dtend: 2022-09-14 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (CZ) Test management na velkých projektech
+        description: 'Tesena Testing Club
+
+          Wednesday, October 5 at 4:00 PM
+
+
+          V průběhu semináře zkušení test manažeři nejprve vyjasní, co vnímají „velkým projektem“. Následně se budou věnovat dílčím výzvám, které na testmanažer...
+
+
+          https://www.meetup.com/tesena-testing-club/events/288376679/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288376679@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/288376679/
+        dtstart: 2022-10-05 16:00:00+02:00
+        dtend: 2022-10-05 17:00:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
