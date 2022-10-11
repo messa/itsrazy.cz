@@ -26150,14 +26150,9 @@ series:
         dtstart: 2022-06-29 09:00:00+02:00
         dtend: 2022-06-29 10:00:00+02:00
   - meetupcom:
-      meta_description: 'Registrace a detail akce pouze na stránkách Datascriptu. Děkujeme.
-
-        https://www.datascript.cz/it-konference/enterprise-api-with-n-tiered-not-only-rest-architecture/
-
-
-        ## Proč'
-      og_title: Konference - Enterprise API with N-Tiered & (not only) REST architecture, Tue, Oct 11, 2022, 9:00 AM   | Meetup
-      url: https://www.meetup.com/morning-talks/events/288155187/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Konference - Enterprise API with N-Tiered & (not only) REST architecture
         description: 'Morning Talks

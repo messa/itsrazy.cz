@@ -31953,3 +31953,27 @@ series:
         url: https://www.meetup.com/ysoft-th/events/288000852/
         dtstart: 2022-09-06 17:30:00+02:00
         dtend: 2022-09-06 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Lepení stringů
+        description: 'Y Soft: Technology Hour
+
+          Tuesday, September 6 at 5:30 PM
+
+
+          Co mají URI, JSON dokumenty, HTML dokumenty, SQL dotazy, příkazové řádky shellu, log zprávy, regulární výrazy, X.500 rozlišovací jména a cesty k soubo...
+
+
+          https://www.meetup.com/ysoft-th/events/288000852/'
+        location: Y Soft, R&D (Purkyňova 107, Building A, 2nd floor, Brno, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288000852@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/288000852/
+        dtstart: 2022-09-06 17:30:00+02:00
+        dtend: 2022-09-06 19:00:00+02:00
