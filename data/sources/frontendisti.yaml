@@ -25021,9 +25021,9 @@ series:
         dtstart: 2022-05-11 18:00:00+02:00
         dtend: 2022-05-11 20:00:00+02:00
   - meetupcom:
-      meta_description: '**Hospodské srazy jsou zpět!** V Praze se sejdeme v hospodě k neformálnějšímu setkání, zatímco v Brně bude klasický Frontendistí meetup. Na říjnovém hospodském srazu si bud'
-      og_title: 'Praha: Hospodský sraz - Vzdělávání a začátky FE vývojářů, Wed, Oct 12, 2022, 6:30 PM   | Meetup'
-      url: https://www.meetup.com/frontendisti/events/288881300/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Praha: Hospodský sraz - Vzdělávání a začátky FE vývojářů'
         description: 'Frontendisti.cz
@@ -25779,3 +25779,65 @@ series:
         url: https://www.meetup.com/frontendisti/events/287927277/
         dtstart: 2022-09-14 18:00:00+02:00
         dtend: 2022-09-14 20:00:00+02:00
+  - meetupcom:
+      meta_description: '**Pravidelný meetup komunity [Frontendisti.cz](http://frontendisti.cz/)**
+
+
+        **Program bude upřesněn před konáním akce.**
+
+
+        Svoji přednášku můžeš přihlásit na odkazu níže 💪.
+
+        '
+      og_title: 'Brno: Vánoční meetup | Frontendisti.cz, Wed, Dec 14, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/frontendisti/events/288945709/
+      ical:
+        summary: 'Brno: Vánoční meetup | Frontendisti.cz'
+        description: 'Frontendisti.cz
+
+          Wednesday, December 14 at 6:00 PM
+
+
+          **Pravidelný meetup komunity (http://frontendisti.cz/)** **Program bude upřesněn před konáním akce.** Svoji přednášku můžeš přihlásit na odkazu níže ??...
+
+
+          https://www.meetup.com/frontendisti/events/288945709/'
+        location: Hněvkovského 65 (Hněvkovského 65, Komárov, Brno-Brno-jih, Czech Republic 617 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288945709@meetup.com
+        url: https://www.meetup.com/frontendisti/events/288945709/
+        dtstart: 2022-12-14 18:00:00+01:00
+        dtend: 2022-12-14 20:00:00+01:00
+  - meetupcom:
+      meta_description: '**Pravidelný hospodský sraz komunity [Frontendisti.cz](http://frontendisti.cz/)**
+
+
+        **Program a místo budou upřesněny před konáním akce.**
+
+
+        Svoji přednášku můžeš přihlásit n'
+      og_title: 'Brno: Hospodský sraz - únor, Wed, Feb 8, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/frontendisti/events/289061411/
+      ical:
+        summary: 'Brno: Hospodský sraz - únor'
+        description: 'Frontendisti.cz
+
+          Wednesday, February 8 at 6:00 PM
+
+
+          **Pravidelný hospodský sraz komunity (http://frontendisti.cz/)** **Program a místo budou upřesněny před konáním akce.** Svoji přednášku můžeš přihlási...
+
+
+          https://www.meetup.com/frontendisti/events/289061411/'
+        location: Café Trojka (Dominikánská 9, Brno-Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289061411@meetup.com
+        url: https://www.meetup.com/frontendisti/events/289061411/
+        dtstart: 2023-02-08 18:00:00+01:00
+        dtend: 2023-02-08 20:00:00+01:00
