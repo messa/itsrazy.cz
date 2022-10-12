@@ -28139,3 +28139,27 @@ series:
         url: https://www.meetup.com/morning-talks/events/288152838/
         dtstart: 2022-10-05 09:00:00+02:00
         dtend: 2022-10-05 10:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Konference - Enterprise API with N-Tiered & (not only) REST architecture
+        description: 'Morning Talks
+
+          Tuesday, October 11 at 9:00 AM
+
+
+          Registrace a detail akce pouze na stránkách Datascriptu. Děkujeme.https://www.datascript.cz/it-konference/enterprise-api-with-n-tiered-not-only-rest-a...
+
+
+          https://www.meetup.com/morning-talks/events/288155187/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288155187@meetup.com
+        url: https://www.meetup.com/morning-talks/events/288155187/
+        dtstart: 2022-10-11 09:00:00+02:00
+        dtend: 2022-10-11 17:00:00+02:00
