@@ -25695,3 +25695,87 @@ series:
         url: https://www.meetup.com/frontendisti/events/287927277/
         dtstart: 2022-09-14 18:00:00+02:00
         dtend: 2022-09-14 20:00:00+02:00
+  - meetupcom:
+      meta_description: '**Pravidelný hospodský sraz komunity [Frontendisti.cz](http://frontendisti.cz/)**
+
+
+        **Program a místo budou upřesněny před konáním akce.**
+
+
+        Svoji přednášku můžeš přihlásit n'
+      og_title: 'Brno: Hospodský sraz - listopad, Wed, Nov 9, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/frontendisti/events/288945566/
+      ical:
+        summary: 'Brno: Hospodský sraz - listopad'
+        description: 'Frontendisti.cz
+
+          Wednesday, November 9 at 6:00 PM
+
+
+          **Pravidelný hospodský sraz komunity (http://frontendisti.cz/)** **Program a místo budou upřesněny před konáním akce.** Svoji přednášku můžeš přihlási...
+
+
+          https://www.meetup.com/frontendisti/events/288945566/'
+        location: Café Trojka (Dominikánská 9, Brno-Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288945566@meetup.com
+        url: https://www.meetup.com/frontendisti/events/288945566/
+        dtstart: 2022-11-09 18:00:00+01:00
+        dtend: 2022-11-09 20:00:00+01:00
+  - meetupcom:
+      meta_description: '**Pravidelný meetup komunity [Frontendisti.cz](http://frontendisti.cz/)**
+
+
+        **Program a místo budou upřesněny před konáním akce.**
+
+
+        Svoji přednášku můžeš přihlásit na odkazu'
+      og_title: 'Praha: listopadový meetup | Frontendisti.cz, Wed, Nov 9, 2022, 6:30 PM   | Meetup'
+      url: https://www.meetup.com/frontendisti/events/288945626/
+      ical:
+        summary: 'Praha: listopadový meetup | Frontendisti.cz'
+        description: 'Frontendisti.cz
+
+          Wednesday, November 9 at 6:30 PM
+
+
+          **Pravidelný meetup komunity (http://frontendisti.cz/)** **Program a místo budou upřesněny před konáním akce.** Svoji přednášku můžeš přihlásit na odk...
+
+
+          https://www.meetup.com/frontendisti/events/288945626/'
+        location: Menclova 2538 (Menclova 2538, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288945626@meetup.com
+        url: https://www.meetup.com/frontendisti/events/288945626/
+        dtstart: 2022-11-09 18:30:00+01:00
+        dtend: 2022-11-09 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Praha: Frontendisti.cz jsou zpět a design systémy u toho nesmí chybět! ❤️'
+        description: 'Frontendisti.cz
+
+          Wednesday, September 14 at 6:00 PM
+
+
+          Je konec prázdnin a to neznamená nic jiného, než že se za vámi vracíme s pořádným nášupem frontendů! Akce se do odvolání nebudou streamovat, ale zázna...
+
+
+          https://www.meetup.com/frontendisti/events/287927277/'
+        location: Menclova 2538 (Menclova 2538, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287927277@meetup.com
+        url: https://www.meetup.com/frontendisti/events/287927277/
+        dtstart: 2022-09-14 18:00:00+02:00
+        dtend: 2022-09-14 20:00:00+02:00
