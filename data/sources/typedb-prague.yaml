@@ -13298,3 +13298,26 @@ series:
         url: https://www.meetup.com/typedb-prague/events/288456873/
         dtstart: 2022-10-12 18:30:00+02:00
         dtend: 2022-10-12 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: TypeDB Academy | Modelling Principles
+        description: 'TypeDB Prague Engineers
+
+          Wednesday, October 12 at 6:30 PM
+
+          \n**Talk Synopsis**Join the (https://docs.vaticle.com/docs/general/quickstart) to learn how we think about data modelling, and how TypeDB''s expressivity...
+
+
+          https://www.meetup.com/typedb-prague/events/288456873/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288456873@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/288456873/
+        dtstart: 2022-10-12 18:30:00+02:00
+        dtend: 2022-10-12 19:30:00+02:00
