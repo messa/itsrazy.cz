@@ -34315,3 +34315,98 @@ series:
         url: https://www.meetup.com/machine-learning-meetup-brno/events/283360072/
         dtstart: 2022-01-27 18:00:00+01:00
         dtend: 2022-01-27 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Learning to Learn:Training Language Models to Understand Tasks from Few Examples
+        description: 'Machine Learning Meetup Brno
+
+          Monday, October 3 at 5:00 PM
+
+
+          Abstract:As AI models become an increasingly common element of many applications, we more notoriously face practical limitations of specialized models...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/288667429/'
+        location: Open Garden Foundation Partnership (Údolní 33, Brno-Brno-střed\, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_288667429@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/288667429/
+        dtstart: 2022-10-03 17:00:00+02:00
+        dtend: 2022-10-03 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Brno.AI meetup: AI, Data & Regulace'
+        description: 'Machine Learning Meetup Brno
+
+          Tuesday, June 21 at 4:00 PM
+
+          \nZveme vás ve spolupráci s brno.ai na offline meetup AI, Data & Regulace.**Prosím, PŘIHLAŠUJTE SE K ÚČASTI ZDE: (https://forms.gle/Fjampyz1wnnMeDyEA" c...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/286553337/'
+        location: Clubco (Vlnena 5, Brno-Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_286553337@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/286553337/
+        dtstart: 2022-06-21 16:00:00+02:00
+        dtend: 2022-06-21 18:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: D<AI>DALOS – Role of AI in Achieving The Sustainable Development Goals
+        description: 'Machine Learning Meetup Brno
+
+          Tuesday, April 19 at 4:00 PM
+
+
+          # DAIDALOS – The Role of AI in Achieving the Sustainable Development Goals We invite you to the online discussion "The Role of AI in Achieving the Sus...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/285343994/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_285343994@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/285343994/
+        dtstart: 2022-04-19 16:00:00+02:00
+        dtend: 2022-04-19 18:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'MLMU Online #18: Voice processing revolution: The future is now!'
+        description: 'Machine Learning Meetup Brno
+
+          Thursday, January 27 at 6:00 PM
+
+
+          Talk #1: Lhotse: a speech data representation library for the modern deep learning ecosystem (Piotr Żelasko, Meaning) AbstractSpeech data is notorious...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/283360072/'
+        location: Online event
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_283360072@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/283360072/
+        dtstart: 2022-01-27 18:00:00+01:00
+        dtend: 2022-01-27 20:00:00+01:00
