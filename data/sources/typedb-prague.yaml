@@ -13481,3 +13481,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/288726849/
         dtstart: 2022-10-13 18:30:00+02:00
         dtend: 2022-10-13 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: TypeDB Academy | Inference with Rules
+        description: 'TypeDB Prague Engineers
+
+          Thursday, October 13 at 6:30 PM
+
+
+          **Talk Synopsis**Build your skills and learn how TypeDB''s native inference engine works. **Good for:** * Beginners to (https://docs.vaticle.com/docs/g...
+
+
+          https://www.meetup.com/typedb-prague/events/288726849/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288726849@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/288726849/
+        dtstart: 2022-10-13 18:30:00+02:00
+        dtend: 2022-10-13 19:30:00+02:00
