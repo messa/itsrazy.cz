@@ -19781,3 +19781,99 @@ series:
         url: https://www.meetup.com/strv-meetups/events/287714126/
         dtstart: 2022-08-24 18:00:00+02:00
         dtend: 2022-08-24 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: STRV Design Meetup
+        description: 'STRV Meetups
+
+          Thursday, October 13 at 6:00 PM
+
+
+          **🔥 (https://www.eventbrite.com/e/strv-design-meetup-tickets-429596002207?aff=meetup) 🔥** Curious about how to design an app worthy of an Apple Design...
+
+
+          https://www.meetup.com/strv-meetups/events/288874466/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288874466@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/288874466/
+        dtstart: 2022-10-13 18:00:00+02:00
+        dtend: 2022-10-13 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Mobile Leads Meetup Vol.2
+        description: 'STRV Meetups
+
+          Wednesday, October 12 at 5:00 PM
+
+
+          **💥 (https://www.eventbrite.com/e/mobile-leads-meetup-vol2-tickets-427847462277?aff=meetup) 💥** You’re invited to Part 2 of the **Mobile Leads Meetup*...
+
+
+          https://www.meetup.com/strv-meetups/events/288749089/'
+        location: STRV (Přízova 284/5, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288749089@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/288749089/
+        dtstart: 2022-10-12 17:00:00+02:00
+        dtend: 2022-10-12 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: STRV iOS Meetup - Deep Dive ft. Special Guests
+        description: 'STRV Meetups
+
+          Thursday, September 29 at 6:00 PM
+
+
+          **👉 (https://www.eventbrite.com/e/ios-meetup-deep-dive-ft-special-guests-tickets-419493264647?aff=meetup) 👈** --- You’re invited to a very special iOS...
+
+
+          https://www.meetup.com/strv-meetups/events/288474366/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288474366@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/288474366/
+        dtstart: 2022-09-29 18:00:00+02:00
+        dtend: 2022-09-29 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Web3 Palace Meetup by HoL & STRV
+        description: 'STRV Meetups
+
+          Wednesday, August 24 at 6:00 PM
+
+
+          ! (https://events.enter.xyz/web3-palace-meetup) ! Consider this your royal invitation to a special STRV Web3 Meetup. Still talking NFTs and crypto but...
+
+
+          https://www.meetup.com/strv-meetups/events/287714126/'
+        location: Lobkowicz Palace (Jiřská 3, Praha 1-Hradčany, Czech Republic 119 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287714126@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/287714126/
+        dtstart: 2022-08-24 18:00:00+02:00
+        dtend: 2022-08-24 22:00:00+02:00
