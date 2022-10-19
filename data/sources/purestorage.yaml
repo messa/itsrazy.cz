@@ -30819,3 +30819,99 @@ series:
         url: https://www.meetup.com/pure-storage-talks/events/285674292/
         dtstart: 2022-06-02 18:00:00+02:00
         dtend: 2022-06-02 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Go Meetup
+        description: 'Pure Storage Talks
+
+          Wednesday, August 31 at 5:30 PM
+
+
+          Let’s have a cold beer at the next **Go MeetUp** and celebrate the last day of summer! Almost everyone has heard of Go and how it is used by now, but ...
+
+
+          https://www.meetup.com/pure-storage-talks/events/287928146/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287928146@meetup.com
+        url: https://www.meetup.com/pure-storage-talks/events/287928146/
+        dtstart: 2022-08-31 17:30:00+02:00
+        dtend: 2022-08-31 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Stand out from the crowd. How to land a highly-paid technical job.
+        description: 'Pure Storage Talks
+
+          Thursday, June 30 at 5:30 PM
+
+
+          \\*\\*Make sure you book your spot at (https://www.eventbrite.com/e/stand-out-from-the-crowd-how-to-land-a-highly-paid-technical-job-registration-367486...
+
+
+          https://www.meetup.com/pure-storage-talks/events/286587285/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286587285@meetup.com
+        url: https://www.meetup.com/pure-storage-talks/events/286587285/
+        dtstart: 2022-06-30 17:30:00+02:00
+        dtend: 2022-06-30 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Optimizing Go Meet Up
+        description: 'Pure Storage Talks
+
+          Thursday, June 16 at 6:00 PM
+
+
+          You are welcome to join us for the next Pure Storage Meet Up that will touch the topic of **Optimizing Go**. We’ll walk you through the basic tools Go...
+
+
+          https://www.meetup.com/pure-storage-talks/events/286435658/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286435658@meetup.com
+        url: https://www.meetup.com/pure-storage-talks/events/286435658/
+        dtstart: 2022-06-16 18:00:00+02:00
+        dtend: 2022-06-16 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Can You Land a Job in Tech without a CS Degree?
+        description: 'Pure Storage Talks
+
+          Thursday, June 2 at 6:00 PM
+
+
+          **IMPORTANT! This is a hybrid event.****Take just a minute to register (https://docs.google.com/forms/d/e/1FAIpQLSfrjEd73wmXPJwdfuOx_7V3PmoXvzuCwDD81c...
+
+
+          https://www.meetup.com/pure-storage-talks/events/285674292/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285674292@meetup.com
+        url: https://www.meetup.com/pure-storage-talks/events/285674292/
+        dtstart: 2022-06-02 18:00:00+02:00
+        dtend: 2022-06-02 19:30:00+02:00
