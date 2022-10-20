@@ -13719,3 +13719,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/288455375/
         dtstart: 2022-10-18 18:30:00+02:00
         dtend: 2022-10-18 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Introduction to TypeDB and TypeQL | A Strongly-Typed Database
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, October 18 at 6:30 PM
+
+
+          **Talk Synopsis**TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful an...
+
+
+          https://www.meetup.com/typedb-prague/events/288455375/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288455375@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/288455375/
+        dtstart: 2022-10-18 18:30:00+02:00
+        dtend: 2022-10-18 19:30:00+02:00
