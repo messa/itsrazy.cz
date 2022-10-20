@@ -24542,3 +24542,53 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/288646553/
         dtstart: 2022-09-29 18:00:00+02:00
         dtend: 2022-09-29 21:00:00+02:00
+  - meetupcom:
+      meta_description: '🚨 Get inspired by people who have stepped up, found their voice, and propelled their careers in leadership roles in the software engineering industry.
+
+        This time we will ta'
+      og_title: 'Engineering Leadership Meetup #5, Tue, Oct 25, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/productboard-meetups/events/289231460/
+      ical:
+        summary: 'Engineering Leadership Meetup #5'
+        description: 'Productboard Meetups
+
+          Tuesday, October 25 at 6:00 PM
+
+
+          🚨 Get inspired by people who have stepped up, found their voice, and propelled their careers in leadership roles in the software engineering industry....
+
+
+          https://www.meetup.com/productboard-meetups/events/289231460/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289231460@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/289231460/
+        dtstart: 2022-10-25 18:00:00+02:00
+        dtend: 2022-10-25 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Typescript Meetup: Functional programming in Typescript'
+        description: 'Productboard Meetups
+
+          Thursday, September 29 at 6:00 PM
+
+
+          **Productboard Meetups are back! This time, you will learn why and how to program functionally in TypeScript.** **Register here: (https://www.eventbri...
+
+
+          https://www.meetup.com/productboard-meetups/events/288646553/'
+        location: Boudníkova 3 (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288646553@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/288646553/
+        dtstart: 2022-09-29 18:00:00+02:00
+        dtend: 2022-09-29 21:00:00+02:00
