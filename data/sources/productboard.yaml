@@ -24616,3 +24616,27 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/288646553/
         dtstart: 2022-09-29 18:00:00+02:00
         dtend: 2022-09-29 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Typescript Meetup: Functional programming in Typescript'
+        description: 'Productboard Meetups
+
+          Thursday, September 29 at 6:00 PM
+
+
+          **Productboard Meetups are back! This time, you will learn why and how to program functionally in TypeScript.** **Register here: (https://www.eventbri...
+
+
+          https://www.meetup.com/productboard-meetups/events/288646553/'
+        location: Boudníkova 3 (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288646553@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/288646553/
+        dtstart: 2022-09-29 18:00:00+02:00
+        dtend: 2022-09-29 21:00:00+02:00
