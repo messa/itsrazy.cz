@@ -37524,3 +37524,99 @@ series:
         url: https://www.meetup.com/topmonks-caffe/events/285524034/
         dtstart: 2022-05-03 19:00:00+02:00
         dtend: 2022-05-03 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Dezinformace
+        description: 'TopMonks Caffè
+
+          Tuesday, October 4 at 7:00 PM
+
+
+          Tentokrát nás čeká téma dezinformace. Přijďte si poslechnout tři řečníky a otevřít diskuzi na toto aktuální téma **Adéla Klečková** \\- analytik\\, Germ...
+
+
+          https://www.meetup.com/topmonks-caffe/events/288726950/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288726950@meetup.com
+        url: https://www.meetup.com/topmonks-caffe/events/288726950/
+        dtstart: 2022-10-04 19:00:00+02:00
+        dtend: 2022-10-04 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Developer Experience
+        description: 'TopMonks Caffè
+
+          Tuesday, September 13 at 7:00 PM
+
+
+          Tentokrát nás čeká téma developer experience. Přijďte si poslechnout tři řečníky a otevřít diskuzi na téma - jak dělat software lépe.  **Josef Zima** ...
+
+
+          https://www.meetup.com/topmonks-caffe/events/288347991/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288347991@meetup.com
+        url: https://www.meetup.com/topmonks-caffe/events/288347991/
+        dtstart: 2022-09-13 19:00:00+02:00
+        dtend: 2022-09-13 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Kyberbezpečnost, včera, dnes a zítra
+        description: 'TopMonks Caffè
+
+          Tuesday, June 7 at 7:00 PM
+
+
+          Přijďte si poslechnout přednášky na téma bezpečnost. Čekají nás tři přednášky: 1. **Miroslav Hanák** (SW dev) a **Petr Novák** (R&D) (TurrisTech by CZ...
+
+
+          https://www.meetup.com/topmonks-caffe/events/286236196/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286236196@meetup.com
+        url: https://www.meetup.com/topmonks-caffe/events/286236196/
+        dtstart: 2022-06-07 19:00:00+02:00
+        dtend: 2022-06-07 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Decentralised finances
+        description: 'TopMonks Caffè
+
+          Tuesday, May 3 at 7:00 PM
+
+
+          Další TopMonks Caffé bude mít nosné téma ze světa crypta a to konkrétně decentrilizované finance. Povídat bude Lumír Mrkva a Dušan Kovačič.
+
+
+          https://www.meetup.com/topmonks-caffe/events/285524034/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285524034@meetup.com
+        url: https://www.meetup.com/topmonks-caffe/events/285524034/
+        dtstart: 2022-05-03 19:00:00+02:00
+        dtend: 2022-05-03 21:00:00+02:00
