@@ -14308,3 +14308,98 @@ series:
         url: https://www.meetup.com/typedb-prague/events/288456873/
         dtstart: 2022-10-12 18:30:00+02:00
         dtend: 2022-10-12 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Graph Databases vs TypeDB | What You Can't do With Graphs
+        description: 'TypeDB Prague Engineers
+
+          Thursday, October 20 at 6:30 PM
+
+
+          **Talk Synopsis**Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistenc...
+
+
+          https://www.meetup.com/typedb-prague/events/288455635/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288455635@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/288455635/
+        dtstart: 2022-10-20 18:30:00+02:00
+        dtend: 2022-10-20 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Introduction to TypeDB and TypeQL | A Strongly-Typed Database
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, October 18 at 6:30 PM
+
+
+          **Talk Synopsis**TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful an...
+
+
+          https://www.meetup.com/typedb-prague/events/288455375/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288455375@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/288455375/
+        dtstart: 2022-10-18 18:30:00+02:00
+        dtend: 2022-10-18 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: TypeDB Academy | Inference with Rules
+        description: 'TypeDB Prague Engineers
+
+          Thursday, October 13 at 6:30 PM
+
+
+          **Talk Synopsis**Build your skills and learn how TypeDB''s native inference engine works. **Good for:** * Beginners to (https://docs.vaticle.com/docs/g...
+
+
+          https://www.meetup.com/typedb-prague/events/288726849/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288726849@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/288726849/
+        dtstart: 2022-10-13 18:30:00+02:00
+        dtend: 2022-10-13 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: TypeDB Academy | Modelling Principles
+        description: 'TypeDB Prague Engineers
+
+          Wednesday, October 12 at 6:30 PM
+
+          \n**Talk Synopsis**Join the (https://docs.vaticle.com/docs/general/quickstart) to learn how we think about data modelling, and how TypeDB''s expressivity...
+
+
+          https://www.meetup.com/typedb-prague/events/288456873/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288456873@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/288456873/
+        dtstart: 2022-10-12 18:30:00+02:00
+        dtend: 2022-10-12 19:30:00+02:00
