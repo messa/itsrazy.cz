@@ -38648,3 +38648,99 @@ series:
         url: https://www.meetup.com/agilni-open-cafe-praha/events/280683798/
         dtstart: 2021-10-05 18:00:00+02:00
         dtend: 2021-10-05 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Agilní Open Café Praha – 10.5.2022
+        description: 'Agilni Open Cafe Praha
+
+          Tuesday, May 10 at 6:00 PM
+
+
+          Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve úterý 10. května 2022. Opencafé je pro ty, kteří...
+
+
+          https://www.meetup.com/agilni-open-cafe-praha/events/285202778/'
+        location: Café Záhorský (Eliášova 279, Praha 6-Bubeneč, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285202778@meetup.com
+        url: https://www.meetup.com/agilni-open-cafe-praha/events/285202778/
+        dtstart: 2022-05-10 18:00:00+02:00
+        dtend: 2022-05-10 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Agilní Open Café Praha – 2.3.2022
+        description: 'Agilni Open Cafe Praha
+
+          Wednesday, March 2 at 6:00 PM
+
+
+          Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve středu 2. března 2022. Opencafé je pro ty, kteří...
+
+
+          https://www.meetup.com/agilni-open-cafe-praha/events/283977245/'
+        location: Café Záhorský (Eliášova 279, Praha 6-Bubeneč, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283977245@meetup.com
+        url: https://www.meetup.com/agilni-open-cafe-praha/events/283977245/
+        dtstart: 2022-03-02 18:00:00+01:00
+        dtend: 2022-03-02 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Agile Prague Conference 2021 Virtual Edition
+        description: 'Agilni Open Cafe Praha
+
+          Friday, October 8 at 3:00 PM
+
+
+          We bring the best speakers to your homes. Join the October Virtual Bonus Agile Prague Conference. Reserve the date for Friday October 8, 2021 for our ...
+
+
+          https://www.meetup.com/agilni-open-cafe-praha/events/280726386/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280726386@meetup.com
+        url: https://www.meetup.com/agilni-open-cafe-praha/events/280726386/
+        dtstart: 2021-10-08 15:00:00+02:00
+        dtend: 2021-10-08 18:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Agilní Open Café Praha – 5.10.2021
+        description: 'Agilni Open Cafe Praha
+
+          Tuesday, October 5 at 6:00 PM
+
+
+          Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve úterý 5. října 2021. Opencafé je pro ty, kteří c...
+
+
+          https://www.meetup.com/agilni-open-cafe-praha/events/280683798/'
+        location: Dejvické Theater Cafe (Zelená 1084/15, Praha 6-Dejvice, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280683798@meetup.com
+        url: https://www.meetup.com/agilni-open-cafe-praha/events/280683798/
+        dtstart: 2021-10-05 18:00:00+02:00
+        dtend: 2021-10-05 20:00:00+02:00
