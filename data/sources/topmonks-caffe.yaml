@@ -38196,3 +38196,57 @@ series:
         url: https://www.meetup.com/topmonks-caffe/events/285524034/
         dtstart: 2022-05-03 19:00:00+02:00
         dtend: 2022-05-03 21:00:00+02:00
+  - meetupcom:
+      meta_description: 'Vietnam jak ho (ne)znéte.
+
+
+        **Luu Ly** nám povypráví o práci, cestování a správné kultuře pití.
+
+
+        Všechno, co jste chtěli vědět o Vietnamu, se dozvíte z přednášky nebo se můž'
+      og_title: Povídání o Vietnamu, Tue, Nov 1, 2022, 7:00 PM   | Meetup
+      url: https://www.meetup.com/topmonks-caffe/events/289307995/
+      ical:
+        summary: Povídání o Vietnamu
+        description: 'TopMonks Caffè
+
+          Tuesday, November 1 at 7:00 PM
+
+
+          Vietnam jak ho (ne)znéte. **Luu Ly** nám povypráví o práci, cestování a správné kultuře pití. Všechno, co jste chtěli vědět o Vietnamu, se dozvíte z p...
+
+
+          https://www.meetup.com/topmonks-caffe/events/289307995/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289307995@meetup.com
+        url: https://www.meetup.com/topmonks-caffe/events/289307995/
+        dtstart: 2022-11-01 19:00:00+01:00
+        dtend: 2022-11-01 21:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Dezinformace
+        description: 'TopMonks Caffè
+
+          Tuesday, October 4 at 7:00 PM
+
+
+          Tentokrát nás čeká téma dezinformace. Přijďte si poslechnout tři řečníky a otevřít diskuzi na toto aktuální téma **Adéla Klečková** \\- analytik\\, Germ...
+
+
+          https://www.meetup.com/topmonks-caffe/events/288726950/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288726950@meetup.com
+        url: https://www.meetup.com/topmonks-caffe/events/288726950/
+        dtstart: 2022-10-04 19:00:00+02:00
+        dtend: 2022-10-04 21:00:00+02:00

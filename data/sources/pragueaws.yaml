@@ -30297,3 +30297,57 @@ series:
         url: https://www.meetup.com/prague-aws-meetup/events/266233892/
         dtstart: 2019-12-11 18:00:00+01:00
         dtend: 2019-12-11 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'We would like to invite you for next Prague AWS User Group Community Meetup to Ataccama.
+
+
+        There will be two speakers with the following presentations:
+
+
+        * **Data Science Pro'
+      og_title: Regular Prague AWS User Group Meetup, Tue, Dec 13, 2022, 6:00 PM   | Meetup
+      url: https://www.meetup.com/prague-aws-meetup/events/289253635/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Tuesday, December 13 at 6:00 PM
+
+
+          We would like to invite you for next Prague AWS User Group Community Meetup to Ataccama. There will be two speakers with the following presentations: ...
+
+
+          https://www.meetup.com/prague-aws-meetup/events/289253635/'
+        location: Ataccama Software, s.r.o. (Invalidovna, Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289253635@meetup.com
+        url: https://www.meetup.com/prague-aws-meetup/events/289253635/
+        dtstart: 2022-12-13 18:00:00+01:00
+        dtend: 2022-12-13 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Wednesday, September 7 at 5:30 PM
+
+
+          We would like to invite you for the next Prague AWS User Group Community Meetup at Pure Storage. There will be three speakers with the following prese...
+
+
+          https://www.meetup.com/prague-aws-meetup/events/287394375/'
+        location: Pure Storage (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287394375@meetup.com
+        url: https://www.meetup.com/prague-aws-meetup/events/287394375/
+        dtstart: 2022-09-07 17:30:00+02:00
+        dtend: 2022-09-07 19:30:00+02:00

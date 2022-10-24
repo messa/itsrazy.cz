@@ -33729,3 +33729,99 @@ series:
         url: https://www.meetup.com/ysoft-th/events/276847788/
         dtstart: 2021-03-30 17:30:00+02:00
         dtend: 2021-03-30 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Workshop: AI @ Y Soft'
+        description: 'Y Soft: Technology Hour
+
+          Thursday, October 20 at 2:30 PM
+
+
+          Zveme vás na workshop AI @ Y Soft, který pořádáme v rámci celotýdenní akce (https://dny-ai.cz/). Interaktivní festival umělé inteligence v Brně je urč...
+
+
+          https://www.meetup.com/ysoft-th/events/288964524/'
+        location: Y Soft (Technická 2948/13, Brno-Královo Pole, Czech Republic 616 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288964524@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/288964524/
+        dtstart: 2022-10-20 14:30:00+02:00
+        dtend: 2022-10-20 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Lepení stringů
+        description: 'Y Soft: Technology Hour
+
+          Tuesday, September 6 at 5:30 PM
+
+
+          Co mají URI, JSON dokumenty, HTML dokumenty, SQL dotazy, příkazové řádky shellu, log zprávy, regulární výrazy, X.500 rozlišovací jména a cesty k soubo...
+
+
+          https://www.meetup.com/ysoft-th/events/288000852/'
+        location: Y Soft, R&D (Purkyňova 107, Building A, 2nd floor, Brno, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288000852@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/288000852/
+        dtstart: 2022-09-06 17:30:00+02:00
+        dtend: 2022-09-06 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Terminály, shelly a konzole
+        description: 'Y Soft: Technology Hour
+
+          Tuesday, February 15 at 6:00 PM
+
+
+          Mnozí lidé používají tyto termíny zcela zaměnitelně. A není divu - všechny se dají použít k označení onoho okýnka s bílým textem na černém pozadí, do ...
+
+
+          https://www.meetup.com/ysoft-th/events/283522925/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283522925@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/283522925/
+        dtstart: 2022-02-15 18:00:00+01:00
+        dtend: 2022-02-15 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Každý test jiná ves
+        description: 'Y Soft: Technology Hour
+
+          Tuesday, March 30 at 5:30 PM
+
+
+          Žijeme v době rychlého vývoje a ad-hoc řešení a v případě testování to platí dvojnásob. Je pak velký kumšt se v tom všem vyznat. Prozkoumejte s námi r...
+
+
+          https://www.meetup.com/ysoft-th/events/276847788/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_276847788@meetup.com
+        url: https://www.meetup.com/ysoft-th/events/276847788/
+        dtstart: 2021-03-30 17:30:00+02:00
+        dtend: 2021-03-30 19:00:00+02:00

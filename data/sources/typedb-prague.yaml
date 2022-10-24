@@ -14878,3 +14878,105 @@ series:
         url: https://www.meetup.com/typedb-prague/events/288456873/
         dtstart: 2022-10-12 18:30:00+02:00
         dtend: 2022-10-12 19:30:00+02:00
+  - meetupcom:
+      meta_description: '**Talk Synopsis**
+
+        Loading a lot of data into a graph database is not a trivial exercise. [TypeDB Loader](https://github.com/typedb-osi/typedb-loader) (formerly known as Gra'
+      og_title: Loading Huge Amounts of Data, Tue, Nov 22, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/289307884/
+      ical:
+        summary: Loading Huge Amounts of Data
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, November 22 at 6:30 PM
+
+
+          **Talk Synopsis**Loading a lot of data into a graph database is not a trivial exercise. (https://github.com/typedb-osi/typedb-loader) (formerly known ...
+
+
+          https://www.meetup.com/typedb-prague/events/289307884/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289307884@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/289307884/
+        dtstart: 2022-11-22 18:30:00+01:00
+        dtend: 2022-11-22 19:30:00+01:00
+  - meetupcom:
+      meta_description: '**Talk Synopsis**
+
+        TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems, us'
+      og_title: Introduction to TypeDB and TypeQL | A Strongly-Typed Database, Wed, Nov 23, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/289308229/
+      ical:
+        summary: Introduction to TypeDB and TypeQL | A Strongly-Typed Database
+        description: 'TypeDB Prague Engineers
+
+          Wednesday, November 23 at 6:30 PM
+
+
+          **Talk Synopsis**TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful an...
+
+
+          https://www.meetup.com/typedb-prague/events/289308229/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289308229@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/289308229/
+        dtstart: 2022-11-23 18:30:00+01:00
+        dtend: 2022-11-23 19:30:00+01:00
+  - meetupcom:
+      meta_description: '**Talk Synopsis**
+
+        Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bodies '
+      og_title: Comparing Semantic Web Technologies to TypeDB, Tue, Nov 29, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/289308145/
+      ical:
+        summary: Comparing Semantic Web Technologies to TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, November 29 at 6:30 PM
+
+
+          **Talk Synopsis**Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reas...
+
+
+          https://www.meetup.com/typedb-prague/events/289308145/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289308145@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/289308145/
+        dtstart: 2022-11-29 18:30:00+01:00
+        dtend: 2022-11-29 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Graph Databases vs TypeDB | What You Can't do With Graphs
+        description: 'TypeDB Prague Engineers
+
+          Thursday, October 20 at 6:30 PM
+
+
+          **Talk Synopsis**Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistenc...
+
+
+          https://www.meetup.com/typedb-prague/events/288455635/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288455635@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/288455635/
+        dtstart: 2022-10-20 18:30:00+02:00
+        dtend: 2022-10-20 19:30:00+02:00
