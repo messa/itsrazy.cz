@@ -24950,3 +24950,27 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/289231460/
         dtstart: 2022-10-25 18:00:00+02:00
         dtend: 2022-10-25 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Engineering Leadership Meetup #5'
+        description: 'Productboard Meetups
+
+          Tuesday, October 25 at 6:00 PM
+
+
+          🚨 Get inspired by people who have stepped up, found their voice, and propelled their careers in leadership roles in the software engineering industry....
+
+
+          https://www.meetup.com/productboard-meetups/events/289231460/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289231460@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/289231460/
+        dtstart: 2022-10-25 18:00:00+02:00
+        dtend: 2022-10-25 21:00:00+02:00
