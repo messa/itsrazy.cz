@@ -15100,3 +15100,53 @@ series:
         url: https://www.meetup.com/typedb-prague/events/288455635/
         dtstart: 2022-10-20 18:30:00+02:00
         dtend: 2022-10-20 19:30:00+02:00
+  - meetupcom:
+      meta_description: '**Talk Synopsis:**
+
+        A key idea that TypeDB brings to the database landscape is typing. With this, the philosophy behind adding stronger typing systems to programming languag'
+      og_title: Types in TypeDB, Thu, Dec 1, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/289350927/
+      ical:
+        summary: Types in TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Thursday, December 1 at 6:30 PM
+
+
+          **Talk Synopsis:**A key idea that TypeDB brings to the database landscape is typing. With this, the philosophy behind adding stronger typing systems t...
+
+
+          https://www.meetup.com/typedb-prague/events/289350927/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289350927@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/289350927/
+        dtstart: 2022-12-01 18:30:00+01:00
+        dtend: 2022-12-01 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Graph Databases vs TypeDB | What You Can't do With Graphs
+        description: 'TypeDB Prague Engineers
+
+          Thursday, October 20 at 6:30 PM
+
+
+          **Talk Synopsis**Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistenc...
+
+
+          https://www.meetup.com/typedb-prague/events/288455635/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288455635@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/288455635/
+        dtstart: 2022-10-20 18:30:00+02:00
+        dtend: 2022-10-20 19:30:00+02:00
