@@ -39183,3 +39183,98 @@ series:
         url: https://www.meetup.com/brno-java-meetup/events/281669937/
         dtstart: 2021-11-04 18:30:00+01:00
         dtend: 2021-11-04 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Debezium - (nejen) reaktivní rozhraní k databázi
+        description: 'Brno Java Meetup
+
+          Thursday, June 23 at 6:30 PM
+
+
+          V typickém microservice stacku je databáze často jediná komponenta, která neumožňuje reaktivní programování.  Jedním z cílů techniky CDC (Change data ...
+
+
+          https://www.meetup.com/brno-java-meetup/events/286439015/'
+        location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_286439015@meetup.com
+        url: https://www.meetup.com/brno-java-meetup/events/286439015/
+        dtstart: 2022-06-23 18:30:00+02:00
+        dtend: 2022-06-23 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Transakce v microservice architekturách
+        description: 'Brno Java Meetup
+
+          Thursday, May 5 at 6:30 PM
+
+
+          Microservice architektura je principiálně distribuovaný systém se všemi výhodami i těžkostmi. Martin Štefanko ((https://twitter.com/xstefank" class="l...
+
+          \nhttps://www.meetup.com/brno-java-meetup/events/285414870/'
+        location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_285414870@meetup.com
+        url: https://www.meetup.com/brno-java-meetup/events/285414870/
+        dtstart: 2022-05-05 18:30:00+02:00
+        dtend: 2022-05-05 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Na cestě od Javy ke Go
+        description: 'Brno Java Meetup
+
+          Thursday, March 17 at 6:30 PM
+
+
+          Anebo raději When Java has to Go? (https://github.com/coufalja) s (https://www.linkedin.com/in/peter-siman-31042658/?originalSubdomain=cz) pracují pro...
+
+
+          https://www.meetup.com/brno-java-meetup/events/284243439/'
+        location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_284243439@meetup.com
+        url: https://www.meetup.com/brno-java-meetup/events/284243439/
+        dtstart: 2022-03-17 18:30:00+01:00
+        dtend: 2022-03-17 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: JVM a Kubernetes
+        description: 'Brno Java Meetup
+
+          Thursday, November 4 at 6:30 PM
+
+
+          Brno Java MeetUp je po více než roce zpátky. Děkujeme všem, co vyplnili dotazník. Dle výsledků celkem jednoznačně zvítězilo téma “JVM a Kubernetes”.  ...
+
+
+          https://www.meetup.com/brno-java-meetup/events/281669937/'
+        location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_281669937@meetup.com
+        url: https://www.meetup.com/brno-java-meetup/events/281669937/
+        dtstart: 2021-11-04 18:30:00+01:00
+        dtend: 2021-11-04 20:30:00+01:00
