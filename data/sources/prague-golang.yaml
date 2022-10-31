@@ -38645,3 +38645,60 @@ series:
         url: https://www.meetup.com/prague-golang-meetup/events/276557475/
         dtstart: 2021-03-24 18:00:00+01:00
         dtend: 2021-03-24 19:00:00+01:00
+  - meetupcom:
+      meta_description: 'Hosted by SentinelOne
+
+
+        Talks will start 18:30, and we have 3 talks.
+
+
+        **1) Martin Fryc (SentinelOne) - Kubebuilder: a framework for building Kubernetes APIs using Go**
+
+
+        **De'
+      og_title: 'Go Meetup #9, Wed, Nov 30, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-golang-meetup/events/289247920/
+      ical:
+        summary: 'Go Meetup #9'
+        description: 'Prague Golang Meetup
+
+          Wednesday, November 30 at 6:00 PM
+
+
+          Hosted by SentinelOne Talks will start 18:30, and we have 3 talks. **1) Martin Fryc (SentinelOne) - Kubebuilder: a framework for building Kubernetes A...
+
+
+          https://www.meetup.com/prague-golang-meetup/events/289247920/'
+        location: SentinelOne CZ (Karolinská 707/7, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289247920@meetup.com
+        url: https://www.meetup.com/prague-golang-meetup/events/289247920/
+        dtstart: 2022-11-30 18:00:00+01:00
+        dtend: 2022-11-30 21:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Go meetup #8'
+        description: 'Prague Golang Meetup
+
+          Tuesday, June 28 at 6:00 PM
+
+
+          Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **Go Meetup** **8**!**🚨 Please (https://www.eventbrite.com/e/go-...
+
+
+          https://www.meetup.com/prague-golang-meetup/events/286541748/'
+        location: Productboard s.r.o. (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286541748@meetup.com
+        url: https://www.meetup.com/prague-golang-meetup/events/286541748/
+        dtstart: 2022-06-28 18:00:00+02:00
+        dtend: 2022-06-28 21:00:00+02:00
