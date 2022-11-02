@@ -20358,12 +20358,9 @@ series:
         dtstart: 2022-08-24 18:00:00+02:00
         dtend: 2022-08-24 22:00:00+02:00
   - meetupcom:
-      meta_description: '**[PLEASE GET YOUR FREE TICKET VIA EVENTBRITE](https://www.eventbrite.com/e/qa-with-android-brn-tickets-444517322277?aff=meetup)**
-
-
-        We’ve got a top view, friendly faces, gr'
-      og_title: Q&A with Android BRN, Tue, Nov 1, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/strv-meetups/events/289205511/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Q&A with Android BRN
         description: 'STRV Meetups
