@@ -20382,12 +20382,9 @@ series:
         dtstart: 2022-11-01 18:00:00+01:00
         dtend: 2022-11-01 22:00:00+01:00
   - meetupcom:
-      meta_description: '**[PLEASE GET YOUR FREE TICKET VIA EVENTBRITE](https://www.eventbrite.com/e/qa-with-android-prg-tickets-444518766597?aff=meetup)**
-
-
-        We’ve got a top view, friendly faces, gr'
-      og_title: Q&A with Android PRG, Thu, Nov 3, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/strv-meetups/events/289205529/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Q&A with Android PRG
         description: 'STRV Meetups
