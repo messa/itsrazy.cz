@@ -21510,3 +21510,27 @@ series:
         url: https://www.meetup.com/strv-meetups/events/289205511/
         dtstart: 2022-11-01 18:00:00+01:00
         dtend: 2022-11-01 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Q&A with Android PRG
+        description: 'STRV Meetups
+
+          Thursday, November 3 at 6:00 PM
+
+
+          **(https://www.eventbrite.com/e/qa-with-android-prg-tickets-444518766597?aff=meetup)** We’ve got a top view, friendly faces, great snacks, cold drinks...
+
+
+          https://www.meetup.com/strv-meetups/events/289205529/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289205529@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/289205529/
+        dtstart: 2022-11-03 18:00:00+01:00
+        dtend: 2022-11-03 22:00:00+01:00
