@@ -26236,3 +26236,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/288736175/
         dtstart: 2022-10-04 09:30:00+02:00
         dtend: 2022-10-04 12:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Research Tuesday: Jak na B2B Customer journey mapu napříč produkty'
+        description: 'Asociace UX
+
+          Tuesday, October 4 at 9:30 AM
+
+
+          Research Tuesday jsou setkání, kde profesionálové z oboru uživatelského výzkumu sdílí svoje zkušenosti.Akci organizují Výzkumatky – Volné sdružení výz...
+
+
+          https://www.meetup.com/asociace-ux/events/288736175/'
+        location: The Forge – Kovárna Braník (Branická 26/43, , Hlavní město Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288736175@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/288736175/
+        dtstart: 2022-10-04 09:30:00+02:00
+        dtend: 2022-10-04 12:30:00+02:00
