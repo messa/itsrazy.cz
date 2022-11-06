@@ -1,7 +1,7 @@
 series:
   meetupcom:
     url: https://www.meetup.com/praguejs/events/
-    meta_description: Upcoming events for PragueJS in Prague, Czech Republic. A Meetup group with over 2123 Members.
+    meta_description: Upcoming events for PragueJS in Prague, Czech Republic. A Meetup group with over 2124 Members.
     og_title: Upcoming events | PragueJS (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
   events:
@@ -601,10 +601,10 @@ series:
       meta_description: 'Get out and get social in 2022 : come out and discuss JS together!
 
         Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that a'
-      og_title: '2022 #9 Tools you should not miss, Tue, Nov 22, 2022, 6:30 PM   | Meetup'
+      og_title: '2022 #9 Tools you better should not miss, Tue, Nov 22, 2022, 6:30 PM   | Meetup'
       url: https://www.meetup.com/praguejs/events/289576500/
       ical:
-        summary: '2022 #9 Tools you should not miss'
+        summary: '2022 #9 Tools you better should not miss'
         description: 'PragueJS
 
           Tuesday, November 22 at 6:30 PM
