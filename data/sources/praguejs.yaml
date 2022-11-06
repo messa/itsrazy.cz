@@ -1,7 +1,7 @@
 series:
   meetupcom:
     url: https://www.meetup.com/praguejs/events/
-    meta_description: Upcoming events for PragueJS in Prague, Czech Republic. A Meetup group with over 2122 Members.
+    meta_description: Upcoming events for PragueJS in Prague, Czech Republic. A Meetup group with over 2123 Members.
     og_title: Upcoming events | PragueJS (Prague, Czech Republic)
     image: https://secure.meetupstatic.com/photos/event/e/8/f/c/600_455639644.jpeg
   events:
@@ -597,3 +597,29 @@ series:
         url: https://www.meetup.com/praguejs/events/288655940/
         dtstart: 2022-10-18 18:30:00+02:00
         dtend: 2022-10-18 20:30:00+02:00
+  - meetupcom:
+      meta_description: 'Get out and get social in 2022 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that a'
+      og_title: '2022 #9 Tools you should not miss, Tue, Nov 22, 2022, 6:30 PM   | Meetup'
+      url: https://www.meetup.com/praguejs/events/289576500/
+      ical:
+        summary: '2022 #9 Tools you should not miss'
+        description: 'PragueJS
+
+          Tuesday, November 22 at 6:30 PM
+
+
+          Get out and get social in 2022 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse r...
+
+
+          https://www.meetup.com/praguejs/events/289576500/'
+        location: WORLD HUB coworking meeting bookstore (Slovenská 1705, Vinohrady, Praha-Praha 2, Czech Republic 120 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289576500@meetup.com
+        url: https://www.meetup.com/praguejs/events/289576500/
+        dtstart: 2022-11-22 18:30:00+01:00
+        dtend: 2022-11-22 20:30:00+01:00

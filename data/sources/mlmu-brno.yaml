@@ -39663,3 +39663,27 @@ series:
         url: https://www.meetup.com/machine-learning-meetup-brno/events/288667429/
         dtstart: 2022-10-03 17:00:00+02:00
         dtend: 2022-10-03 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Learning to Learn:Training Language Models to Understand Tasks from Few Examples
+        description: 'Machine Learning Meetup Brno
+
+          Monday, October 3 at 5:00 PM
+
+
+          Abstract:As AI models become an increasingly common element of many applications, we more notoriously face practical limitations of specialized models...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/288667429/'
+        location: Open Garden Foundation Partnership (Údolní 33, Brno-Brno-střed\, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_288667429@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/288667429/
+        dtstart: 2022-10-03 17:00:00+02:00
+        dtend: 2022-10-03 20:00:00+02:00
