@@ -35187,3 +35187,27 @@ series:
         url: https://www.meetup.com/pure-storage-talks/events/287928146/
         dtstart: 2022-08-31 17:30:00+02:00
         dtend: 2022-08-31 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Go Meetup
+        description: 'Pure Storage Talks
+
+          Wednesday, August 31 at 5:30 PM
+
+
+          Let’s have a cold beer at the next **Go MeetUp** and celebrate the last day of summer! Almost everyone has heard of Go and how it is used by now, but ...
+
+
+          https://www.meetup.com/pure-storage-talks/events/287928146/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287928146@meetup.com
+        url: https://www.meetup.com/pure-storage-talks/events/287928146/
+        dtstart: 2022-08-31 17:30:00+02:00
+        dtend: 2022-08-31 20:30:00+02:00
