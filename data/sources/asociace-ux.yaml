@@ -25897,12 +25897,9 @@ series:
         dtstart: 2022-09-06 09:30:00+02:00
         dtend: 2022-09-06 12:30:00+02:00
   - meetupcom:
-      meta_description: '**EN:** Introducing a new UX Monday format - Lightning talks, a.k.a. quick and punchy experience sharing...
-
-
-        *How to democratize research? How to use the PhotoVoice method '
-      og_title: 'UX Monday: Lightning talks #1 (in CZ and EN), Mon, Nov 7, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/asociace-ux/events/289448977/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'UX Monday: Lightning talks #1 (in CZ and EN)'
         description: 'Asociace UX
