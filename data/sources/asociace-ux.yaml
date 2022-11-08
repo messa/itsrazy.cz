@@ -26425,3 +26425,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/288736175/
         dtstart: 2022-10-04 09:30:00+02:00
         dtend: 2022-10-04 12:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'UX Monday: Lightning talks #1 (in CZ and EN)'
+        description: 'Asociace UX
+
+          Monday, November 7 at 6:00 PM
+
+
+          **EN:** Introducing a new UX Monday format - Lightning talks, a.k.a. quick and punchy experience sharing... *How to democratize research? How to use t...
+
+
+          https://www.meetup.com/asociace-ux/events/289448977/'
+        location: Na Valentince (Na Valentince, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289448977@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/289448977/
+        dtstart: 2022-11-07 18:00:00+01:00
+        dtend: 2022-11-07 20:00:00+01:00
