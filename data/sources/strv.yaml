@@ -20742,12 +20742,9 @@ series:
         dtstart: 2022-10-13 18:00:00+02:00
         dtend: 2022-10-13 20:00:00+02:00
   - meetupcom:
-      meta_description: '**[MAKE SURE TO SECURE A TICKET VIA EVENTBRITE, PLEASE](https://www.eventbrite.com/e/ios-meetup-modernization-persistence-brn-tickets-449444770407?aff=meetup)**
-
-
-        Imagine th'
-      og_title: 'iOS Meetup: Modernization & Persistence BRNO, Tue, Nov 8, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/strv-meetups/events/289309373/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'iOS Meetup: Modernization & Persistence BRNO'
         description: 'STRV Meetups
