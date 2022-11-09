@@ -12753,3 +12753,27 @@ series:
         url: https://www.meetup.com/pyvo-prague-python-meetup/events/289047754/
         dtstart: 2022-10-19 19:00:00+02:00
         dtend: 2022-10-19 23:59:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Pyvo Prague #137'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, October 19 at 7:00 PM
+
+
+          V říjnu se můžete těšit na prezentaci na téma AI Safety and Stampy, a určitě dojde i na lightning talky. Potkáme se v kavárně Lajka v uzavřeném salonk...
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/289047754/'
+        location: Café Lajka (U Akademie 366/11, Praha 7-Bubeneč, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_bcxlssydcnbzb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/289047754/
+        dtstart: 2022-10-19 19:00:00+02:00
+        dtend: 2022-10-19 23:59:00+02:00

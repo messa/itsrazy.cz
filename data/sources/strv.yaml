@@ -21843,3 +21843,26 @@ series:
         url: https://www.meetup.com/strv-meetups/events/289205529/
         dtstart: 2022-11-03 18:00:00+01:00
         dtend: 2022-11-03 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'iOS Meetup: Modernization & Persistence BRNO'
+        description: 'STRV Meetups
+
+          Tuesday, November 8 at 6:00 PM
+
+
+          **(https://www.eventbrite.com/e/ios-meetup-modernization-persistence-brn-tickets-449444770407?aff=meetup)** Imagine this: You have a legacy iOS codeba...
+
+          \nhttps://www.meetup.com/strv-meetups/events/289309373/'
+        location: STRV (Přízova 284/5, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289309373@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/289309373/
+        dtstart: 2022-11-08 18:00:00+01:00
+        dtend: 2022-11-08 22:00:00+01:00
