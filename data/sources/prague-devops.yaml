@@ -40369,3 +40369,27 @@ series:
         url: https://www.meetup.com/prague-devops-meetup/events/286587425/
         dtstart: 2022-06-22 17:30:00+02:00
         dtend: 2022-06-22 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: DevOps Meetup at mastercard
+        description: 'Prague DevOps Meetup
+
+          Wednesday, June 22 at 5:30 PM
+
+
+          Hello Doers, For this event you need to register on (https://www.eventbrite.com/e/devops-meetup-at-mastercard-tickets-344720687857) Are you curious ab...
+
+
+          https://www.meetup.com/prague-devops-meetup/events/286587425/'
+        location: Pernerova 35 (Pernerova 35, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286587425@meetup.com
+        url: https://www.meetup.com/prague-devops-meetup/events/286587425/
+        dtstart: 2022-06-22 17:30:00+02:00
+        dtend: 2022-06-22 20:30:00+02:00
