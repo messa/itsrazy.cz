@@ -22402,3 +22402,26 @@ series:
         url: https://www.meetup.com/strv-meetups/events/289309509/
         dtstart: 2022-11-10 18:00:00+01:00
         dtend: 2022-11-10 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'iOS Meetup: Modernization & Persistence PRG'
+        description: 'STRV Meetups
+
+          Thursday, November 10 at 6:00 PM
+
+
+          (https://www.eventbrite.com/e/ios-meetup-modernization-persistence-prg-tickets-449449384207?aff=meetup)**(https://www.eventbrite.com/e/ios-meetup-mode...\n
+
+          https://www.meetup.com/strv-meetups/events/289309509/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289309509@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/289309509/
+        dtstart: 2022-11-10 18:00:00+01:00
+        dtend: 2022-11-10 22:00:00+01:00
