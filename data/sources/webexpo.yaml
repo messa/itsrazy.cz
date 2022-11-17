@@ -46483,3 +46483,64 @@ series:
         url: https://www.meetup.com/webexpo/events/232703682/
         dtstart: 2016-09-23 21:00:00+02:00
         dtend: 2016-09-24 23:00:00+02:00
+  - meetupcom:
+      meta_description: '**WebExpo 2023**
+
+        WebExpo Conference - April 19 & 20 - Palác Lucerna, Prague
+
+        Premium Workshops - April 21 - Prague
+
+
+        Explore the unforgettable city of Prague, listen to talks'
+      og_title: WebExpo 2023, Wed, Apr 19, 2023, 9:00 AM   | Meetup
+      url: https://www.meetup.com/webexpo/events/289796027/
+      ical:
+        summary: WebExpo 2023
+        description: 'WebExpo
+
+          Wednesday, April 19 at 9:00 AM
+
+
+          **WebExpo 2023**WebExpo Conference - April 19 & 20 - Palác Lucerna, PraguePremium Workshops - April 21 - Prague Explore the unforgettable city of Prag...
+
+
+          Price: 252.00 EUR
+
+
+          https://www.meetup.com/webexpo/events/289796027/'
+        location: Palace Lucerna (Vodičkova 704/36, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289796027@meetup.com
+        url: https://www.meetup.com/webexpo/events/289796027/
+        dtstart: 2023-04-19 09:00:00+02:00
+        dtend: 2023-04-20 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: WebExpo 2022
+        description: 'WebExpo
+
+          Friday, June 10 at 10:00 AM
+
+
+          WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers,...
+
+
+          Price: 424.00 EUR
+
+
+          https://www.meetup.com/webexpo/events/285984047/'
+        location: Palace Lucerna (Vodičkova 704/36, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285984047@meetup.com
+        url: https://www.meetup.com/webexpo/events/285984047/
+        dtstart: 2022-06-10 10:00:00+02:00
+        dtend: 2022-06-12 18:00:00+02:00
