@@ -31499,3 +31499,27 @@ series:
         url: https://www.meetup.com/msd-it-meet-ups/events/288429156/
         dtstart: 2022-10-19 17:30:00+02:00
         dtend: 2022-10-19 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: UiPath Czech Automation Meetup, Hosted by MSD
+        description: 'MSD IT Meet Ups
+
+          Wednesday, October 19 at 5:30 PM
+
+
+          Hello! MSD and UiPath are very excited to invite you to join the growing Czech Automation Community for its inaugural Meetup event! In a casual and re...
+
+
+          https://www.meetup.com/msd-it-meet-ups/events/288429156/'
+        location: MSD building FIVE (Na Valentince 504, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288429156@meetup.com
+        url: https://www.meetup.com/msd-it-meet-ups/events/288429156/
+        dtstart: 2022-10-19 17:30:00+02:00
+        dtend: 2022-10-19 21:00:00+02:00
