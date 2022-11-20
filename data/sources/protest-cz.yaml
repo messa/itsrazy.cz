@@ -38722,3 +38722,27 @@ series:
         url: https://www.meetup.com/protest_cz/events/288724353/
         dtstart: 2022-10-11 18:00:00+02:00
         dtend: 2022-10-11 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 110. [pro:]TEST! meetup - Jak začít s testováním Accessibility - Alina Sedymova
+        description: '[pro:]TEST!
+
+          Tuesday, October 11 at 6:00 PM
+
+
+          **Anotace přednášky** Pomalu ale jistě i k nám do čech proniká důležitost Accessibility (přístupnost) Testingu.Na přednášce se s Ali podíváme se na to...
+
+
+          https://www.meetup.com/protest_cz/events/288724353/'
+        location: Karolinská 650/1 (Karolinská 650/1, Praha 8-Karlín, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288724353@meetup.com
+        url: https://www.meetup.com/protest_cz/events/288724353/
+        dtstart: 2022-10-11 18:00:00+02:00
+        dtend: 2022-10-11 19:00:00+02:00
