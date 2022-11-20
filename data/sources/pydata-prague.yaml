@@ -26408,3 +26408,26 @@ series:
         url: https://www.meetup.com/pydata-prague/events/288395992/
         dtstart: 2022-10-18 18:00:00+02:00
         dtend: 2022-10-18 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'PyData Prague #12 - Minutes to a Degree'
+        description: 'PyData Prague
+
+          Tuesday, October 18 at 6:00 PM
+
+
+          Hello Python & Data maniacs!The 12th Prague PyData meetup will take place at **new (https://goo.gl/maps/nvaV2vDJh8MneKg5A) offices**. As usual, the ta...\n
+
+          https://www.meetup.com/pydata-prague/events/288395992/'
+        location: LMC Ltd. (Menclova 2538/2, Praha 8-Libeň, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288395992@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/288395992/
+        dtstart: 2022-10-18 18:00:00+02:00
+        dtend: 2022-10-18 21:00:00+02:00
