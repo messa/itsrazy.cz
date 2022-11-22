@@ -38024,12 +38024,9 @@ series:
         dtstart: 2022-03-29 18:00:00+02:00
         dtend: 2022-03-29 20:30:00+02:00
   - meetupcom:
-      meta_description: 'Automatizace testování. Pojem, který zná každý. Pojďme se na automatizaci podívat z jiného úhlu.
-
-
-        Má opravdu smysl ji zavádět všude? Kdy se vyplatí a kdy naopak ne? Jak s a'
-      og_title: '111. [pro:]TEST! Panelová diskuse: Je automatizace bullshit? , Tue, Nov 22, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/protest_cz/events/289664915/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: '111. [pro:]TEST! Panelová diskuse: Je automatizace bullshit? '
         description: '[pro:]TEST!
@@ -38890,3 +38887,75 @@ series:
         url: https://www.meetup.com/protest_cz/events/288724353/
         dtstart: 2022-10-11 18:00:00+02:00
         dtend: 2022-10-11 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 110. [pro:]TEST! meetup - Jak začít s testováním Accessibility - Alina Sedymova
+        description: '[pro:]TEST!
+
+          Tuesday, October 11 at 6:00 PM
+
+
+          **Anotace přednášky** Pomalu ale jistě i k nám do čech proniká důležitost Accessibility (přístupnost) Testingu.Na přednášce se s Ali podíváme se na to...
+
+
+          https://www.meetup.com/protest_cz/events/288724353/'
+        location: Karolinská 650/1 (Karolinská 650/1, Praha 8-Karlín, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288724353@meetup.com
+        url: https://www.meetup.com/protest_cz/events/288724353/
+        dtstart: 2022-10-11 18:00:00+02:00
+        dtend: 2022-10-11 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 109. [pro:]TEST! meetup – QA chapter lead s Markem Braunem
+        description: '[pro:]TEST!
+
+          Tuesday, September 6 at 6:00 PM
+
+
+          **Anotace přednášky** Podíváme se na to, kdo je to QA Chapter Leader. Proč je taková role potřeba a proč přemýšlet o škálování jak z pohledu businessu...
+
+
+          https://www.meetup.com/protest_cz/events/288008397/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288008397@meetup.com
+        url: https://www.meetup.com/protest_cz/events/288008397/
+        dtstart: 2022-09-06 18:00:00+02:00
+        dtend: 2022-09-06 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 108. [pro:]TEST! meetup - Test automatizace v Playwright
+        description: '[pro:]TEST!
+
+          Tuesday, June 21 at 6:00 PM
+
+
+          **Anotace přednášky** Playwright je moderní knihovna pro automatizaci moderních prohlížečů. Nabízí vše, co by si mohl automatizér přát a ještě mnohem ...
+
+
+          https://www.meetup.com/protest_cz/events/286604262/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286604262@meetup.com
+        url: https://www.meetup.com/protest_cz/events/286604262/
+        dtstart: 2022-06-21 18:00:00+02:00
+        dtend: 2022-06-21 19:00:00+02:00

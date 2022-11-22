@@ -14879,11 +14879,9 @@ series:
         dtstart: 2022-10-12 18:30:00+02:00
         dtend: 2022-10-12 19:30:00+02:00
   - meetupcom:
-      meta_description: '**Talk Synopsis**
-
-        Loading a lot of data into a graph database is not a trivial exercise. [TypeDB Loader](https://github.com/typedb-osi/typedb-loader) (formerly known as Gra'
-      og_title: Loading Huge Amounts of Data, Tue, Nov 22, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/typedb-prague/events/289307884/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Loading Huge Amounts of Data
         description: 'TypeDB Prague Engineers
@@ -16950,3 +16948,32 @@ series:
         url: https://www.meetup.com/typedb-prague/events/288455635/
         dtstart: 2022-10-20 18:30:00+02:00
         dtend: 2022-10-20 19:30:00+02:00
+  - meetupcom:
+      meta_description: '## Details
+
+
+        **Talk Synopsis**
+
+        Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and build powerful applicati'
+      og_title: Beyond SQL | Comparing SQL to TypeQL, Tue, Dec 6, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/289688135/
+      ical:
+        summary: Beyond SQL | Comparing SQL to TypeQL
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, December 6 at 6:30 PM
+
+
+          ## Details **Talk Synopsis**Using SQL to query relational databases is easy. As a declarative language, it’s straightforward to write queries and buil...
+
+
+          https://www.meetup.com/typedb-prague/events/289688135/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289688135@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/289688135/
+        dtstart: 2022-12-06 18:30:00+01:00
+        dtend: 2022-12-06 19:30:00+01:00
