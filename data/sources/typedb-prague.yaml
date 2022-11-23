@@ -14903,11 +14903,9 @@ series:
         dtstart: 2022-11-22 18:30:00+01:00
         dtend: 2022-11-22 19:30:00+01:00
   - meetupcom:
-      meta_description: '**Talk Synopsis**
-
-        TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems, us'
-      og_title: Introduction to TypeDB and TypeQL | A Strongly-Typed Database, Wed, Nov 23, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/typedb-prague/events/289308229/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Introduction to TypeDB and TypeQL | A Strongly-Typed Database
         description: 'TypeDB Prague Engineers
@@ -17025,3 +17023,32 @@ series:
         url: https://www.meetup.com/typedb-prague/events/289307884/
         dtstart: 2022-11-22 18:30:00+01:00
         dtend: 2022-11-22 19:30:00+01:00
+  - meetupcom:
+      meta_description: '**Talk Synopsis**
+
+        Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistency in your database.
+
+
+        '
+      og_title: Graph Databases vs TypeDB | What You Can't do With Graphs, Thu, Dec 8, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/289790311/
+      ical:
+        summary: Graph Databases vs TypeDB | What You Can't do With Graphs
+        description: 'TypeDB Prague Engineers
+
+          Thursday, December 8 at 6:30 PM
+
+
+          **Talk Synopsis**Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistenc...
+
+
+          https://www.meetup.com/typedb-prague/events/289790311/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289790311@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/289790311/
+        dtstart: 2022-12-08 18:30:00+01:00
+        dtend: 2022-12-08 19:30:00+01:00
