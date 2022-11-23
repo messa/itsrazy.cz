@@ -21913,12 +21913,9 @@ series:
         dtstart: 2022-11-08 18:00:00+01:00
         dtend: 2022-11-08 22:00:00+01:00
   - meetupcom:
-      meta_description: '**🔥 [PLEASE CLAIM YOUR FREE TICKET HERE](https://www.eventbrite.com/e/backend-meetup-how-we-build-backend-brn-tickets-464983557337?aff=meetup) 🔥**
-
-
-        Curious about how we b'
-      og_title: STRV Backend Meetup - How We Build Backend BRN, Tue, Nov 22, 2022, 6:00 PM   | Meetup
-      url: https://www.meetup.com/strv-meetups/events/289663618/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: STRV Backend Meetup - How We Build Backend BRN
         description: 'STRV Meetups
