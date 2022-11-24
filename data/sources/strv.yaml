@@ -22815,3 +22815,27 @@ series:
         url: https://www.meetup.com/strv-meetups/events/289663618/
         dtstart: 2022-11-22 18:00:00+01:00
         dtend: 2022-11-22 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: STRV Backend Meetup - How We Build Backend BRN
+        description: 'STRV Meetups
+
+          Tuesday, November 22 at 6:00 PM
+
+
+          **🔥 (https://www.eventbrite.com/e/backend-meetup-how-we-build-backend-brn-tickets-464983557337?aff=meetup) 🔥** Curious about how we build backend solu...
+
+
+          https://www.meetup.com/strv-meetups/events/289663618/'
+        location: STRV (Přízova 284/5, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289663618@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/289663618/
+        dtstart: 2022-11-22 18:00:00+01:00
+        dtend: 2022-11-22 22:00:00+01:00
