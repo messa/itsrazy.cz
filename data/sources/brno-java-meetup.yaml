@@ -45738,3 +45738,57 @@ series:
         url: https://www.meetup.com/brno-java-meetup/events/281669937/
         dtstart: 2021-11-04 18:30:00+01:00
         dtend: 2021-11-04 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'This session will be held in English. (Tentokrát to uděláme anglicky.)
+
+
+        Have you ever tried to solve a scheduling problem? Easy right? Well, not really :).
+
+
+        In this session'
+      og_title: Introduction to OptaPlanner scheduling problem AI solver, Tue, Dec 13, 2022, 6:30 PM   | Meetup
+      url: https://www.meetup.com/brno-java-meetup/events/289945428/
+      ical:
+        summary: Introduction to OptaPlanner scheduling problem AI solver
+        description: 'Brno Java Meetup
+
+          Tuesday, December 13 at 6:30 PM
+
+
+          This session will be held in English. (Tentokrát to uděláme anglicky.) Have you ever tried to solve a scheduling problem? Easy right? Well, not really...
+
+
+          https://www.meetup.com/brno-java-meetup/events/289945428/'
+        location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_289945428@meetup.com
+        url: https://www.meetup.com/brno-java-meetup/events/289945428/
+        dtstart: 2022-12-13 18:30:00+01:00
+        dtend: 2022-12-13 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Debezium - (nejen) reaktivní rozhraní k databázi
+        description: 'Brno Java Meetup
+
+          Thursday, June 23 at 6:30 PM
+
+
+          V typickém microservice stacku je databáze často jediná komponenta, která neumožňuje reaktivní programování.  Jedním z cílů techniky CDC (Change data ...
+
+
+          https://www.meetup.com/brno-java-meetup/events/286439015/'
+        location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_286439015@meetup.com
+        url: https://www.meetup.com/brno-java-meetup/events/286439015/
+        dtstart: 2022-06-23 18:30:00+02:00
+        dtend: 2022-06-23 20:30:00+02:00

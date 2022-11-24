@@ -25765,15 +25765,9 @@ series:
         dtstart: 2022-09-14 18:00:00+02:00
         dtend: 2022-09-14 20:00:00+02:00
   - meetupcom:
-      meta_description: '**Pravidelný meetup komunity [Frontendisti.cz](http://frontendisti.cz/)**
+      meta_description: '**Zima je tady a pravidelný vánoční meetup komunity Frontendisti.cz se pod taktovkou SUPERKODERS koná 14.12. v Brně 🎄.**
 
-
-        **Program bude upřesněn před konáním akce.**
-
-
-        Svoji přednášku můžeš přihlásit na odkazu níže 💪.
-
-        '
+        Přijďte se naladit na sváteční atmosféru a obohati'
       og_title: 'Brno: Vánoční meetup | Frontendisti.cz, Wed, Dec 14, 2022, 6:00 PM   | Meetup'
       url: https://www.meetup.com/frontendisti/events/288945709/
       ical:
@@ -25783,7 +25777,7 @@ series:
           Wednesday, December 14 at 6:00 PM
 
 
-          **Pravidelný meetup komunity (http://frontendisti.cz/)** **Program bude upřesněn před konáním akce.** Svoji přednášku můžeš přihlásit na odkazu níže ??...
+          **Zima je tady a pravidelný vánoční meetup komunity Frontendisti.cz se pod taktovkou SUPERKODERS koná 14.12. v Brně 🎄.** Přijďte se naladit na svátečn...
 
 
           https://www.meetup.com/frontendisti/events/288945709/'
@@ -28189,6 +28183,30 @@ series:
         url: https://www.meetup.com/frontendisti/events/288881300/
         dtstart: 2022-10-12 18:30:00+02:00
         dtend: 2022-10-12 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Praha: Funkcionální programování a Na co si dat pozor než příjmu nabídku'
+        description: 'Frontendisti.cz
+
+          Wednesday, November 9 at 6:30 PM
+
+
+          Je to tu! Vaše pravidelná porce frontendů je zpět a bude to opět jízda, na kterou budete vzpomínat minimálně do příštího roku. Ano, tento rok to bude ...
+
+
+          https://www.meetup.com/frontendisti/events/288945626/'
+        location: Ataccama Software, s.r.o. (Invalidovna, Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288945626@meetup.com
+        url: https://www.meetup.com/frontendisti/events/288945626/
+        dtstart: 2022-11-09 18:30:00+01:00
+        dtend: 2022-11-09 20:30:00+01:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
