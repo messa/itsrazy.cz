@@ -32631,3 +32631,27 @@ series:
         url: https://www.meetup.com/prague-aws-meetup/events/287394375/
         dtstart: 2022-09-07 17:30:00+02:00
         dtend: 2022-09-07 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Wednesday, September 7 at 5:30 PM
+
+
+          We would like to invite you for the next Prague AWS User Group Community Meetup at Pure Storage. There will be three speakers with the following prese...
+
+
+          https://www.meetup.com/prague-aws-meetup/events/287394375/'
+        location: Pure Storage (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287394375@meetup.com
+        url: https://www.meetup.com/prague-aws-meetup/events/287394375/
+        dtstart: 2022-09-07 17:30:00+02:00
+        dtend: 2022-09-07 19:30:00+02:00

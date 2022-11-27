@@ -39294,3 +39294,27 @@ series:
         url: https://www.meetup.com/protest_cz/events/289664915/
         dtstart: 2022-11-22 18:00:00+01:00
         dtend: 2022-11-22 19:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '111. [pro:]TEST! Panelová diskuse: Je automatizace bullshit? '
+        description: '[pro:]TEST!
+
+          Tuesday, November 22 at 6:00 PM
+
+
+          Automatizace testování. Pojem, který zná každý. Pojďme se na automatizaci podívat z jiného úhlu. Má opravdu smysl ji zavádět všude? Kdy se vyplatí a k...
+
+
+          https://www.meetup.com/protest_cz/events/289664915/'
+        location: tesena | SMART TESTING (Budějovická 1550, Praha 4-Michle, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289664915@meetup.com
+        url: https://www.meetup.com/protest_cz/events/289664915/
+        dtstart: 2022-11-22 18:00:00+01:00
+        dtend: 2022-11-22 19:00:00+01:00
