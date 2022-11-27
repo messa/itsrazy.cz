@@ -31554,3 +31554,98 @@ series:
         url: https://www.meetup.com/asociace-ux/events/288724253/
         dtstart: 2022-10-03 18:00:00+02:00
         dtend: 2022-10-03 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Research Tuesday: “Všichni dělají výzkum” - zkušenosti s demokratizací výzkumu'
+        description: 'Asociace UX
+
+          Tuesday, November 8 at 9:30 AM
+
+
+          Research Tuesday jsou setkání, kde profesionálové z oboru uživatelského výzkumu sdílí svoje zkušenosti.Akci organizují Výzkumatky – Volné sdružení výz...
+
+          \nhttps://www.meetup.com/asociace-ux/events/289380250/'
+        location: The Forge – Kovárna Braník (Branická 26/43, , Hlavní město Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289380250@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/289380250/
+        dtstart: 2022-11-08 09:30:00+01:00
+        dtend: 2022-11-08 12:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'UX Monday: Lightning talks #1 (in CZ and EN)'
+        description: 'Asociace UX
+
+          Monday, November 7 at 6:00 PM
+
+
+          **EN:** Introducing a new UX Monday format - Lightning talks, a.k.a. quick and punchy experience sharing... *How to democratize research? How to use t...
+
+
+          https://www.meetup.com/asociace-ux/events/289448977/'
+        location: Na Valentince (Na Valentince, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289448977@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/289448977/
+        dtstart: 2022-11-07 18:00:00+01:00
+        dtend: 2022-11-07 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Research Tuesday: Jak na B2B Customer journey mapu napříč produkty'
+        description: 'Asociace UX
+
+          Tuesday, October 4 at 9:30 AM
+
+
+          Research Tuesday jsou setkání, kde profesionálové z oboru uživatelského výzkumu sdílí svoje zkušenosti.Akci organizují Výzkumatky – Volné sdružení výz...
+
+
+          https://www.meetup.com/asociace-ux/events/288736175/'
+        location: The Forge – Kovárna Braník (Branická 26/43, , Hlavní město Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288736175@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/288736175/
+        dtstart: 2022-10-04 09:30:00+02:00
+        dtend: 2022-10-04 12:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'UX Monday: From UX Writers with love'
+        description: 'Asociace UX
+
+          Monday, October 3 at 6:00 PM
+
+
+          *How to write award-winning documentation? How to get buy-in for UX Writing in your company? What to expect from your UX Writer? And what is the diffe...
+
+
+          https://www.meetup.com/asociace-ux/events/288724253/'
+        location: Na Valentince (Na Valentince, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288724253@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/288724253/
+        dtstart: 2022-10-03 18:00:00+02:00
+        dtend: 2022-10-03 20:00:00+02:00
