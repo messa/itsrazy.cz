@@ -31839,3 +31839,53 @@ series:
         url: https://www.meetup.com/asociace-ux/events/288724253/
         dtstart: 2022-10-03 18:00:00+02:00
         dtend: 2022-10-03 20:00:00+02:00
+  - meetupcom:
+      meta_description: '*Kdy jste naposledy přemýšleli, jak se cítíte v práci? Zvažujete někdy, co vám práce dává a co bere? Je pro Vás důležité vědět, k čemu vaší prací přispíváte?*
+
+
+        Pokud s vámi'
+      og_title: 'UX Monday: Jak se mít v práci dobře, Mon, Dec 5, 2022, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/asociace-ux/events/289984927/
+      ical:
+        summary: 'UX Monday: Jak se mít v práci dobře'
+        description: 'Asociace UX
+
+          Monday, December 5 at 6:00 PM
+
+
+          *Kdy jste naposledy přemýšleli, jak se cítíte v práci? Zvažujete někdy, co vám práce dává a co bere? Je pro Vás důležité vědět, k čemu vaší prací přis...
+
+
+          https://www.meetup.com/asociace-ux/events/289984927/'
+        location: Na Valentince (Na Valentince, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289984927@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/289984927/
+        dtstart: 2022-12-05 18:00:00+01:00
+        dtend: 2022-12-05 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Research Tuesday: “Všichni dělají výzkum” - zkušenosti s demokratizací výzkumu'
+        description: 'Asociace UX
+
+          Tuesday, November 8 at 9:30 AM
+
+
+          Research Tuesday jsou setkání, kde profesionálové z oboru uživatelského výzkumu sdílí svoje zkušenosti.Akci organizují Výzkumatky – Volné sdružení výz...
+
+          \nhttps://www.meetup.com/asociace-ux/events/289380250/'
+        location: The Forge – Kovárna Braník (Branická 26/43, , Hlavní město Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289380250@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/289380250/
+        dtstart: 2022-11-08 09:30:00+01:00
+        dtend: 2022-11-08 12:30:00+01:00
