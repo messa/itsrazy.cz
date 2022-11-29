@@ -14927,11 +14927,9 @@ series:
         dtstart: 2022-11-23 18:30:00+01:00
         dtend: 2022-11-23 19:30:00+01:00
   - meetupcom:
-      meta_description: '**Talk Synopsis**
-
-        Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reason over large bodies '
-      og_title: Comparing Semantic Web Technologies to TypeDB, Tue, Nov 29, 2022, 6:30 PM   | Meetup
-      url: https://www.meetup.com/typedb-prague/events/289308145/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Comparing Semantic Web Technologies to TypeDB
         description: 'TypeDB Prague Engineers
