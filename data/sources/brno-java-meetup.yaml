@@ -46272,3 +46272,27 @@ series:
         url: https://www.meetup.com/brno-java-meetup/events/286439015/
         dtstart: 2022-06-23 18:30:00+02:00
         dtend: 2022-06-23 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Debezium - (nejen) reaktivní rozhraní k databázi
+        description: 'Brno Java Meetup
+
+          Thursday, June 23 at 6:30 PM
+
+
+          V typickém microservice stacku je databáze často jediná komponenta, která neumožňuje reaktivní programování.  Jedním z cílů techniky CDC (Change data ...
+
+
+          https://www.meetup.com/brno-java-meetup/events/286439015/'
+        location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_286439015@meetup.com
+        url: https://www.meetup.com/brno-java-meetup/events/286439015/
+        dtstart: 2022-06-23 18:30:00+02:00
+        dtend: 2022-06-23 20:30:00+02:00
