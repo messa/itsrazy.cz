@@ -32027,3 +32027,26 @@ series:
         url: https://www.meetup.com/asociace-ux/events/289380250/
         dtstart: 2022-11-08 09:30:00+01:00
         dtend: 2022-11-08 12:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Research Tuesday: “Všichni dělají výzkum” - zkušenosti s demokratizací výzkumu'
+        description: 'Asociace UX
+
+          Tuesday, November 8 at 9:30 AM
+
+
+          Research Tuesday jsou setkání, kde profesionálové z oboru uživatelského výzkumu sdílí svoje zkušenosti.Akci organizují Výzkumatky – Volné sdružení výz...
+
+          \nhttps://www.meetup.com/asociace-ux/events/289380250/'
+        location: The Forge – Kovárna Braník (Branická 26/43, , Hlavní město Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289380250@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/289380250/
+        dtstart: 2022-11-08 09:30:00+01:00
+        dtend: 2022-11-08 12:30:00+01:00
