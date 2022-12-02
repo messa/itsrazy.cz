@@ -29359,3 +29359,27 @@ series:
         url: https://www.meetup.com/frontendisti/events/288945626/
         dtstart: 2022-11-09 18:30:00+01:00
         dtend: 2022-11-09 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Praha: Funkcionální programování a Na co si dat pozor než příjmu nabídku'
+        description: 'Frontendisti.cz
+
+          Wednesday, November 9 at 6:30 PM
+
+
+          Je to tu! Vaše pravidelná porce frontendů je zpět a bude to opět jízda, na kterou budete vzpomínat minimálně do příštího roku. Ano, tento rok to bude ...
+
+
+          https://www.meetup.com/frontendisti/events/288945626/'
+        location: Ataccama Software, s.r.o. (Invalidovna, Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288945626@meetup.com
+        url: https://www.meetup.com/frontendisti/events/288945626/
+        dtstart: 2022-11-09 18:30:00+01:00
+        dtend: 2022-11-09 20:30:00+01:00
