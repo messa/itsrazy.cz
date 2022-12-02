@@ -22230,3 +22230,99 @@ series:
         url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/288005611/
         dtstart: 2022-09-15 18:00:00+02:00
         dtend: 2022-09-15 23:55:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 53. sraz přátel PHP v Ecomailu v Praze
+        description: 'Pražské srazy přátel PHP - Pehapkari.cz
+
+          Thursday, December 1 at 6:00 PM
+
+
+          Zveme vás na poslední letošní setkání přátel PHP, tentokrát v kancelářích Ecomailu v centru Prahy. Náš partner si pro nás připravil zajímavé přednášky...
+
+
+          https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/289395420/'
+        location: Ecomail.cz s.r.o. (Na Zderaze 15, Nové Město, Praha-Praha 2, Czech Republic 120 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289395420@meetup.com
+        url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/289395420/
+        dtstart: 2022-12-01 18:00:00+01:00
+        dtend: 2022-12-01 23:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Speciální 52. sraz PHP v Praze v LMC - panelová diskuze (feat. Fuckupy v IT)
+        description: 'Pražské srazy přátel PHP - Pehapkari.cz
+
+          Tuesday, October 25 at 6:00 PM
+
+
+          Zveme Vás na 52. sraz přátel PHP v Praze v nových prostorách našeho partnera **LMC** v **Dock in Five v Libni**. Tento sraz bude speciální! Mimo předn...
+
+
+          https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/288964390/'
+        location: LMC Ltd. (Menclova 2538/2, Praha 8-Libeň, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288964390@meetup.com
+        url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/288964390/
+        dtstart: 2022-10-25 18:00:00+02:00
+        dtend: 2022-10-25 23:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 51. sraz přátel PHP v Praze v CareCloud
+        description: 'Pražské srazy přátel PHP - Pehapkari.cz
+
+          Thursday, October 6 at 6:00 PM
+
+
+          Zveme Vás na další setkání přátel PHP v Praze, tentokrát v krásných prostorách CareCloud na Praze 9. Náš partner si pro nás připravil zajímavé přednáš...
+
+
+          https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/288525231/'
+        location: CareCloud CRM (U Elektry 974, Praha 9, Czech Republic 190 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288525231@meetup.com
+        url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/288525231/
+        dtstart: 2022-10-06 18:00:00+02:00
+        dtend: 2022-10-06 23:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Jubilejní 50. sraz přátel PHP v Praze v Livesportu
+        description: 'Pražské srazy přátel PHP - Pehapkari.cz
+
+          Thursday, September 15 at 6:00 PM
+
+
+          Zveme Vás na jubilejní 50. setkání přátel PHP v Praze\, tentokrát v cool budově Livesport! Čekají nás zajímavé přednášky, networking a nebude chybět an...
+
+
+          https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/288005611/'
+        location: Livesport s.r.o. (Bucharova 2928/14a, Praha-Praha 13, Czech Republic 158 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288005611@meetup.com
+        url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/288005611/
+        dtstart: 2022-09-15 18:00:00+02:00
+        dtend: 2022-09-15 23:55:00+02:00
