@@ -17770,3 +17770,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/289308145/
         dtstart: 2022-11-29 18:30:00+01:00
         dtend: 2022-11-29 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Comparing Semantic Web Technologies to TypeDB
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, November 29 at 6:30 PM
+
+
+          **Talk Synopsis**Semantic Web technologies enable us to represent and query for very complex and heterogeneous datasets. We can add semantics and reas...
+
+
+          https://www.meetup.com/typedb-prague/events/289308145/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289308145@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/289308145/
+        dtstart: 2022-11-29 18:30:00+01:00
+        dtend: 2022-11-29 19:30:00+01:00
