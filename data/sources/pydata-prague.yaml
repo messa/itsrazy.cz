@@ -20408,9 +20408,9 @@ series:
         dtstart: 2021-07-13 18:30:00+02:00
         dtend: 2021-07-13 21:30:00+02:00
   - meetupcom:
-      meta_description: The [PyData Global Online Conference](https://pydata.org/global2022/) is where users, contributors, and newcomers can share experiences to learn from one another and grow t
-      og_title: PyData Global 2022 (GLOBAL ONLINE CONFERENCE), Thu, Dec 1, 2022, 7:30 AM   | Meetup
-      url: https://www.meetup.com/pydata-prague/events/288055560/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: PyData Global 2022 (GLOBAL ONLINE CONFERENCE)
         description: 'PyData Prague
