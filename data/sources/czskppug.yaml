@@ -20613,3 +20613,27 @@ series:
         url: https://www.meetup.com/czskppug/events/287184990/
         dtstart: 2022-11-10 17:00:00+01:00
         dtend: 2022-11-10 19:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: CZSK PPUG Meetup
+        description: 'Czech and Slovak Power Platform User Group
+
+          Thursday, November 10 at 5:00 PM
+
+
+          Pojďme se pravidelně potkávat a sdílet zkušenosti z Power Platformy, co nás na ní baví, co nás trápí a co nového zajímavého přichází. A pokud už nám t...
+
+
+          https://www.meetup.com/czskppug/events/287184990/'
+        location: Microsoft (Vyskočilova 1561/4a, Praha 4, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287184990@meetup.com
+        url: https://www.meetup.com/czskppug/events/287184990/
+        dtstart: 2022-11-10 17:00:00+01:00
+        dtend: 2022-11-10 19:00:00+01:00
