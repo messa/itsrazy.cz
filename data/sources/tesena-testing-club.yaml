@@ -18389,14 +18389,9 @@ series:
         dtstart: 2022-10-13 09:00:00+02:00
         dtend: 2022-10-13 11:00:00+02:00
   - meetupcom:
-      meta_description: '\# GraphQL \- aktuální trend v oblasti integrací\, 7\.12\. 2022 od 16:00 do 17:00 ONLINE
-
-        **Registrace zde: http://bit.ly/3Ovbp96**
-
-
-        GraphQL je moderní prostředek pro získáv'
-      og_title: '#GraphQL - aktuální trend v oblasti integrací, Wed, Dec 7, 2022, 4:00 PM   | Meetup'
-      url: https://www.meetup.com/tesena-testing-club/events/289906551/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: '#GraphQL - aktuální trend v oblasti integrací'
         description: 'Tesena Testing Club
