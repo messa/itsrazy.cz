@@ -27736,3 +27736,27 @@ series:
         url: https://www.meetup.com/pydata-prague/events/288055560/
         dtstart: 2022-12-01 07:30:00+01:00
         dtend: 2022-12-04 00:59:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: PyData Global 2022 (GLOBAL ONLINE CONFERENCE)
+        description: 'PyData Prague
+
+          Thursday, December 1 at 7:30 AM
+
+
+          The (https://pydata.org/global2022/) is where users, contributors, and newcomers can share experiences to learn from one another and grow together. Py...
+
+
+          https://www.meetup.com/pydata-prague/events/288055560/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288055560@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/288055560/
+        dtstart: 2022-12-01 07:30:00+01:00
+        dtend: 2022-12-04 00:59:00+01:00
