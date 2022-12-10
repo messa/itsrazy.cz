@@ -18096,3 +18096,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/289790311/
         dtstart: 2022-12-08 18:30:00+01:00
         dtend: 2022-12-08 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Graph Databases vs TypeDB | What You Can't do With Graphs
+        description: 'TypeDB Prague Engineers
+
+          Thursday, December 8 at 6:30 PM
+
+
+          **Talk Synopsis**Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistenc...
+
+
+          https://www.meetup.com/typedb-prague/events/289790311/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289790311@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/289790311/
+        dtstart: 2022-12-08 18:30:00+01:00
+        dtend: 2022-12-08 19:30:00+01:00
