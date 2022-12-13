@@ -15153,3 +15153,27 @@ series:
         url: https://www.meetup.com/pyvo-prague-python-meetup/events/289217222/
         dtstart: 2022-11-16 19:00:00+01:00
         dtend: 2022-11-16 23:59:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Pyvo Prague #138 - Do your unit tests cover all edge cases?'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, November 16 at 7:00 PM
+
+
+          Pyvo bude i v listopadu! Můžete se těšit na přednášku "Do your unit tests cover all edge cases?", a určitě dojde i na lightning talky. Potkáme se v ka...
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/289217222/'
+        location: Café Lajka (U Akademie 366/11, Praha 7-Bubeneč, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_bcxlssydcpbvb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/289217222/
+        dtstart: 2022-11-16 19:00:00+01:00
+        dtend: 2022-11-16 23:59:00+01:00
