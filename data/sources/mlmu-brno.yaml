@@ -45095,3 +45095,27 @@ series:
         url: https://www.meetup.com/machine-learning-meetup-brno/events/289520074/
         dtstart: 2022-11-14 17:30:00+01:00
         dtend: 2022-11-14 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Computer Vision in Manufacturing Industry
+        description: 'Machine Learning Meetup Brno
+
+          Monday, November 14 at 5:30 PM
+
+
+          Abstract:Automation is a hot manufacturing topic in recent years with ML technology being its key enabler. However, unlike popular and widespread ML a...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/289520074/'
+        location: Impact Hub Brno (Cyrilská 7, Brno-střed-Trnitá, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_289520074@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/289520074/
+        dtstart: 2022-11-14 17:30:00+01:00
+        dtend: 2022-11-14 20:30:00+01:00

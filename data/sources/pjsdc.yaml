@@ -42185,3 +42185,75 @@ series:
         url: https://www.meetup.com/prague-junior-software-developer-course/events/290016302/
         dtstart: 2022-12-12 18:00:00+01:00
         dtend: 2022-12-12 20:00:00+01:00
+  - meetupcom:
+      meta_description: Nenech si utéct příležitost! Vyzkoušej si kódování pod vedením zkušených mentorů. Seznámíš se základy JavaScriptu i platformou ServiceNow. Navíc získáš představu o tom, jak
+      og_title: 'Online workshop: Základy programování, Wed, Jan 4, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-junior-software-developer-course/events/290309297/
+      ical:
+        summary: 'Online workshop: Základy programování'
+        description: 'Become a software developer from 0
+
+          Wednesday, January 4 at 6:00 PM
+
+
+          Nenech si utéct příležitost! Vyzkoušej si kódování pod vedením zkušených mentorů. Seznámíš se základy JavaScriptu i platformou ServiceNow. Navíc získá...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/290309297/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290309297@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/290309297/
+        dtstart: 2023-01-04 18:00:00+01:00
+        dtend: 2023-01-04 21:00:00+01:00
+  - meetupcom:
+      meta_description: We want to show you that coding doesn't require advanced mathematical or analytical thinking. We believe that everyone can grasp the basics of coding, which is especially t
+      og_title: 'Online Workshop: Basics of Programming, Wed, Jan 4, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-junior-software-developer-course/events/290309311/
+      ical:
+        summary: 'Online Workshop: Basics of Programming'
+        description: 'Become a software developer from 0
+
+          Wednesday, January 4 at 6:00 PM
+
+
+          We want to show you that coding doesn''t require advanced mathematical or analytical thinking. We believe that everyone can grasp the basics of coding,...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/290309311/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290309311@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/290309311/
+        dtstart: 2023-01-04 18:00:00+01:00
+        dtend: 2023-01-04 21:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Online informační schůzka: Jak nastartovat kariéru v IT od nuly?'
+        description: 'Become a software developer from 0
+
+          Monday, December 12 at 6:00 PM
+
+
+          Chceš do IT, ale nevíš, jaká specializace by ti sedla? Tápeš ve specializacích, které nabízíme? Přemýšlíš, že bys začal/a splácet školné až po kurzu a...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/290016302/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290016302@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/290016302/
+        dtstart: 2022-12-12 18:00:00+01:00
+        dtend: 2022-12-12 20:00:00+01:00
