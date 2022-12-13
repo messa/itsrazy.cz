@@ -19876,3 +19876,27 @@ series:
         url: https://www.meetup.com/tesena-testing-club/events/289906551/
         dtstart: 2022-12-07 16:00:00+01:00
         dtend: 2022-12-07 17:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '#GraphQL - aktuální trend v oblasti integrací'
+        description: 'Tesena Testing Club
+
+          Wednesday, December 7 at 4:00 PM
+
+
+          \\# GraphQL \\- aktuální trend v oblasti integrací\\, 7\\.12\\. 2022 od 16:00 do 17:00 ONLINE**Registrace zde: http://bit.ly/3Ovbp96** GraphQL je moderní p...
+
+
+          https://www.meetup.com/tesena-testing-club/events/289906551/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289906551@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/289906551/
+        dtstart: 2022-12-07 16:00:00+01:00
+        dtend: 2022-12-07 17:00:00+01:00
