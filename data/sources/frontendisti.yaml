@@ -25765,11 +25765,9 @@ series:
         dtstart: 2022-09-14 18:00:00+02:00
         dtend: 2022-09-14 20:00:00+02:00
   - meetupcom:
-      meta_description: '**Zima je tady a pravidelný vánoční meetup komunity Frontendisti.cz se pod taktovkou SUPERKODERS koná 14.12. v Brně 🎄.**
-
-        Přijďte se naladit na sváteční atmosféru a obohati'
-      og_title: 'Brno: Vánoční meetup | Frontendisti.cz, Wed, Dec 14, 2022, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/frontendisti/events/288945709/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Brno: Vánoční meetup | Frontendisti.cz'
         description: 'Frontendisti.cz
@@ -30223,3 +30221,32 @@ series:
         url: https://www.meetup.com/frontendisti/events/288945626/
         dtstart: 2022-11-09 18:30:00+01:00
         dtend: 2022-11-09 20:30:00+01:00
+  - meetupcom:
+      meta_description: '**Pravidelný hospodský sraz komunity [Frontendisti.cz](http://frontendisti.cz/)**
+
+
+        **Program a místo budou upřesněny před konáním akce.**
+
+
+        Svoji přednášku můžeš přihlásit n'
+      og_title: 'Praha: Hospodský sraz - březen, Wed, Mar 8, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/frontendisti/events/289061494/
+      ical:
+        summary: 'Praha: Hospodský sraz - březen'
+        description: 'Frontendisti.cz
+
+          Wednesday, March 8 at 6:00 PM
+
+
+          **Pravidelný hospodský sraz komunity (http://frontendisti.cz/)** **Program a místo budou upřesněny před konáním akce.** Svoji přednášku můžeš přihlási...\n
+
+          https://www.meetup.com/frontendisti/events/289061494/'
+        location: Café Lajka (U Akademie 366/11, Praha 7-Bubeneč, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289061494@meetup.com
+        url: https://www.meetup.com/frontendisti/events/289061494/
+        dtstart: 2023-03-08 18:00:00+01:00
+        dtend: 2023-03-08 20:00:00+01:00

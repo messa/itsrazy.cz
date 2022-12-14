@@ -15098,13 +15098,13 @@ series:
       meta_description: '**Talk Synopsis:**
 
         A key idea that TypeDB brings to the database landscape is typing. With this, the philosophy behind adding stronger typing systems to programming languag'
-      og_title: Types in TypeDB, Tue, Jan 10, 2023, 6:30 PM   | Meetup
+      og_title: Types in TypeDB, Tue, Jan 17, 2023, 6:30 PM   | Meetup
       url: https://www.meetup.com/typedb-prague/events/289350927/
       ical:
         summary: Types in TypeDB
         description: 'TypeDB Prague Engineers
 
-          Tuesday, January 10 at 6:30 PM
+          Tuesday, January 17 at 6:30 PM
 
 
           **Talk Synopsis:**A key idea that TypeDB brings to the database landscape is typing. With this, the philosophy behind adding stronger typing systems t...
@@ -15118,8 +15118,8 @@ series:
         status: CONFIRMED
         uid: event_289350927@meetup.com
         url: https://www.meetup.com/typedb-prague/events/289350927/
-        dtstart: 2023-01-10 18:30:00+01:00
-        dtend: 2023-01-10 19:30:00+01:00
+        dtstart: 2023-01-17 18:30:00+01:00
+        dtend: 2023-01-17 19:30:00+01:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
@@ -18000,6 +18000,30 @@ series:
         url: https://www.meetup.com/typedb-prague/events/289688135/
         dtstart: 2022-12-06 18:30:00+01:00
         dtend: 2022-12-06 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Graph Databases vs TypeDB | What You Can't do With Graphs
+        description: 'TypeDB Prague Engineers
+
+          Thursday, December 8 at 6:30 PM
+
+
+          **Talk Synopsis**Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistenc...
+
+
+          https://www.meetup.com/typedb-prague/events/289790311/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289790311@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/289790311/
+        dtstart: 2022-12-08 18:30:00+01:00
+        dtend: 2022-12-08 19:30:00+01:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
