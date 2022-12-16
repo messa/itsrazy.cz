@@ -45134,3 +45134,99 @@ series:
         url: https://www.meetup.com/applifting-meetup-1/events/284781337/
         dtstart: 2022-04-12 18:00:00+02:00
         dtend: 2022-04-12 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'iOS Crew Talk: Let''s talk about George'
+        description: 'Applifting Crew Talk
+
+          Tuesday, October 18 at 6:00 PM
+
+
+          Are you interested in banking apps? Would you like to know how to use biometrics to securely onboard customers? Then don''t miss our next Crew Talk on ...
+
+
+          https://www.meetup.com/applifting-meetup-1/events/288899216/'
+        location: Applifting Meetup Space (Rohanské nábřeží, 670/19, Praha, AL\, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288899216@meetup.com
+        url: https://www.meetup.com/applifting-meetup-1/events/288899216/
+        dtstart: 2022-10-18 18:00:00+02:00
+        dtend: 2022-10-18 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Node.js Crew Talk: The latest trends and other insights you can''t live without'
+        description: 'Applifting Crew Talk
+
+          Tuesday, September 13 at 6:00 PM
+
+
+          Are you a fan of Node.js and want to stay up to date? Do you want to share your thoughts or struggles with other enthusiasts, and learn something new ...
+
+
+          https://www.meetup.com/applifting-meetup-1/events/287854441/'
+        location: Applifting Meetup Space (Rohanské nábřeží, 670/19, Praha, AL\, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287854441@meetup.com
+        url: https://www.meetup.com/applifting-meetup-1/events/287854441/
+        dtstart: 2022-09-13 18:00:00+02:00
+        dtend: 2022-09-13 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'UX/UI Crew Talk: Design from different perspectives'
+        description: 'Applifting Crew Talk
+
+          Tuesday, May 31 at 6:00 PM
+
+
+          Are you a fan of high-quality and comprehensible design? Do you want to talk about it with other enthusiasts and learn something new and interesting? ...
+
+
+          https://www.meetup.com/applifting-meetup-1/events/285739735/'
+        location: Applifting Meetup Space (Rohanské nábřeží, 670/19, Praha, AL\, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285739735@meetup.com
+        url: https://www.meetup.com/applifting-meetup-1/events/285739735/
+        dtstart: 2022-05-31 18:00:00+02:00
+        dtend: 2022-05-31 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'iOS Crew Talk: How juniors become seniors and other secrets of iOS team mgmt'
+        description: 'Applifting Crew Talk
+
+          Tuesday, April 12 at 6:00 PM
+
+
+          Does your heart beat to the rhythm of iOS? Then don''t miss our next Crew Talk.  You can look forward to a panel discussion of three iOS experts: Micha...
+
+
+          https://www.meetup.com/applifting-meetup-1/events/284781337/'
+        location: Applifting Meetup Space (Rohanské nábřeží, 670/19, Praha, AL\, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284781337@meetup.com
+        url: https://www.meetup.com/applifting-meetup-1/events/284781337/
+        dtstart: 2022-04-12 18:00:00+02:00
+        dtend: 2022-04-12 21:00:00+02:00

@@ -18480,3 +18480,79 @@ series:
         url: https://www.meetup.com/typedb-prague/events/289790311/
         dtstart: 2022-12-08 18:30:00+01:00
         dtend: 2022-12-08 19:30:00+01:00
+  - meetupcom:
+      meta_description: '**Talk Synopsis**
+
+        TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems, us'
+      og_title: Introduction to TypeDB and TypeQL | A Strongly-Typed Database, Thu, Jan 12, 2023, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/290349309/
+      ical:
+        summary: Introduction to TypeDB and TypeQL | A Strongly-Typed Database
+        description: 'TypeDB Prague Engineers
+
+          Thursday, January 12 at 6:30 PM
+
+
+          **Talk Synopsis**TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful an...
+
+
+          https://www.meetup.com/typedb-prague/events/290349309/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290349309@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/290349309/
+        dtstart: 2023-01-12 18:30:00+01:00
+        dtend: 2023-01-12 19:30:00+01:00
+  - meetupcom:
+      meta_description: '**Talk Synopsis**
+
+        Knowledge of cyber threats is a key focus in cyber security. In this talk, we present [TypeDB CTI](https://t.sidekickopen87.com/s3t/c/5/f18dQhb0S7kF8cpfPy'
+      og_title: Building an Open Source Threat Intelligence Platform, Thu, Jan 19, 2023, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/290350452/
+      ical:
+        summary: Building an Open Source Threat Intelligence Platform
+        description: 'TypeDB Prague Engineers
+
+          Thursday, January 19 at 6:30 PM
+
+
+          **Talk Synopsis**Knowledge of cyber threats is a key focus in cyber security. In this talk, we present (https://t.sidekickopen87.com/s3t/c/5/f18dQhb0S...
+
+
+          https://www.meetup.com/typedb-prague/events/290350452/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290350452@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/290350452/
+        dtstart: 2023-01-19 18:30:00+01:00
+        dtend: 2023-01-19 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Graph Databases vs TypeDB | What You Can't do With Graphs
+        description: 'TypeDB Prague Engineers
+
+          Thursday, December 8 at 6:30 PM
+
+
+          **Talk Synopsis**Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistenc...
+
+
+          https://www.meetup.com/typedb-prague/events/289790311/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289790311@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/289790311/
+        dtstart: 2022-12-08 18:30:00+01:00
+        dtend: 2022-12-08 19:30:00+01:00
