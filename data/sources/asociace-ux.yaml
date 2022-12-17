@@ -35179,3 +35179,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/289984927/
         dtstart: 2022-12-05 18:00:00+01:00
         dtend: 2022-12-05 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'UX Monday: Jak se mít v práci dobře'
+        description: 'Asociace UX
+
+          Monday, December 5 at 6:00 PM
+
+
+          *Kdy jste naposledy přemýšleli, jak se cítíte v práci? Zvažujete někdy, co vám práce dává a co bere? Je pro Vás důležité vědět, k čemu vaší prací přis...
+
+
+          https://www.meetup.com/asociace-ux/events/289984927/'
+        location: Na Valentince (Na Valentince, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289984927@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/289984927/
+        dtstart: 2022-12-05 18:00:00+01:00
+        dtend: 2022-12-05 20:00:00+01:00
