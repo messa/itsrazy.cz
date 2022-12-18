@@ -42569,3 +42569,27 @@ series:
         url: https://www.meetup.com/prague-junior-software-developer-course/events/290016302/
         dtstart: 2022-12-12 18:00:00+01:00
         dtend: 2022-12-12 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Online informační schůzka: Jak nastartovat kariéru v IT od nuly?'
+        description: 'Become a software developer from 0
+
+          Monday, December 12 at 6:00 PM
+
+
+          Chceš do IT, ale nevíš, jaká specializace by ti sedla? Tápeš ve specializacích, které nabízíme? Přemýšlíš, že bys začal/a splácet školné až po kurzu a...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/290016302/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290016302@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/290016302/
+        dtstart: 2022-12-12 18:00:00+01:00
+        dtend: 2022-12-12 20:00:00+01:00
