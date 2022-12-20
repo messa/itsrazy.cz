@@ -34983,15 +34983,9 @@ series:
         dtstart: 2022-10-04 09:30:00+02:00
         dtend: 2022-10-04 12:30:00+02:00
   - meetupcom:
-      meta_description: '**Research Tuesday - this time in English.**
-
-
-        Research Tuesdays are gatherings where professionals in the field of user research share their experiences.
-
-
-        **Babysitting** w'
-      og_title: 'Research Tuesday in English: Design for Social Impact: Notes from UNICEF, Tue, Dec 20, 2022, 9:30 AM   | Meetup'
-      url: https://www.meetup.com/asociace-ux/events/290344986/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Research Tuesday in English: Design for Social Impact: Notes from UNICEF'
         description: 'Asociace UX
