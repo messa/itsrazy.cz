@@ -47054,3 +47054,53 @@ series:
         url: https://www.meetup.com/applifting-meetup-1/events/284781337/
         dtstart: 2022-04-12 18:00:00+02:00
         dtend: 2022-04-12 21:00:00+02:00
+  - meetupcom:
+      meta_description: '**About**
+
+        Did you know that according to many studies, spending on IT investments in banking is three times higher than in any other industry? Changes in the banking landsc'
+      og_title: 'FUTURE BANKS IN EMEA: Drivers & Trends 2023, Wed, Jan 11, 2023, 10:00 AM   | Meetup'
+      url: https://www.meetup.com/applifting-meetup-1/events/290476136/
+      ical:
+        summary: 'FUTURE BANKS IN EMEA: Drivers & Trends 2023'
+        description: 'Applifting Crew Talk
+
+          Wednesday, January 11 at 10:00 AM
+
+
+          **About**Did you know that according to many studies, spending on IT investments in banking is three times higher than in any other industry? Changes ...
+
+
+          https://www.meetup.com/applifting-meetup-1/events/290476136/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290476136@meetup.com
+        url: https://www.meetup.com/applifting-meetup-1/events/290476136/
+        dtstart: 2023-01-11 10:00:00+01:00
+        dtend: 2023-01-11 11:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'iOS Crew Talk: Let''s talk about George'
+        description: 'Applifting Crew Talk
+
+          Tuesday, October 18 at 6:00 PM
+
+
+          Are you interested in banking apps? Would you like to know how to use biometrics to securely onboard customers? Then don''t miss our next Crew Talk on ...
+
+
+          https://www.meetup.com/applifting-meetup-1/events/288899216/'
+        location: Applifting Meetup Space (Rohanské nábřeží, 670/19, Praha, AL\, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288899216@meetup.com
+        url: https://www.meetup.com/applifting-meetup-1/events/288899216/
+        dtstart: 2022-10-18 18:00:00+02:00
+        dtend: 2022-10-18 21:00:00+02:00
