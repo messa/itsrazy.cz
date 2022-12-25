@@ -56487,3 +56487,99 @@ series:
         url: https://www.meetup.com/prague-machine-learning/events/282546297/
         dtstart: 2021-12-14 18:00:00+01:00
         dtend: 2021-12-14 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: D<AI>DALOS – Role of AI in Achieving The Sustainable Development Goals
+        description: 'Machine Learning Meetup Prague
+
+          Tuesday, April 19 at 4:00 PM
+
+
+          # DAIDALOS – The Role of AI in Achieving the Sustainable Development Goals We invite you to the online discussion "The Role of AI in Achieving the Sus...
+
+
+          https://www.meetup.com/prague-machine-learning/events/285343992/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285343992@meetup.com
+        url: https://www.meetup.com/prague-machine-learning/events/285343992/
+        dtstart: 2022-04-19 16:00:00+02:00
+        dtend: 2022-04-19 18:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'MLMU Online #18: Voice processing revolution: The future is now!'
+        description: 'Machine Learning Meetup Prague
+
+          Thursday, January 27 at 6:00 PM
+
+
+          Talk #1: Lhotse: a speech data representation library for the modern deep learning ecosystem (Piotr Żelasko, Meaning) AbstractSpeech data is notorious...
+
+
+          https://www.meetup.com/prague-machine-learning/events/283360069/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283360069@meetup.com
+        url: https://www.meetup.com/prague-machine-learning/events/283360069/
+        dtstart: 2022-01-27 18:00:00+01:00
+        dtend: 2022-01-27 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: D<AI>DALOS – AI as a New Frontier for Journalism
+        description: 'Machine Learning Meetup Prague
+
+          Wednesday, January 19 at 6:00 PM
+
+
+          DAIDALOS – AI as a New Frontier for Journalism: Where to Find Value in Tech-Driven Journalism We invite you to the online discussion AI as a New Front...
+
+
+          https://www.meetup.com/prague-machine-learning/events/283095372/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_283095372@meetup.com
+        url: https://www.meetup.com/prague-machine-learning/events/283095372/
+        dtstart: 2022-01-19 18:00:00+01:00
+        dtend: 2022-01-19 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'MLMU Online #17: Building Chatbots in Practice and Lessons Learned'
+        description: 'Machine Learning Meetup Prague
+
+          Tuesday, December 14 at 6:00 PM
+
+
+          The talks will be live on YouTube. (Link will get displayed after you RSVP) Talk #1: How we use simple models to improve intent matching (Tomáš Vodráž...
+
+
+          https://www.meetup.com/prague-machine-learning/events/282546297/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_282546297@meetup.com
+        url: https://www.meetup.com/prague-machine-learning/events/282546297/
+        dtstart: 2021-12-14 18:00:00+01:00
+        dtend: 2021-12-14 20:00:00+01:00
