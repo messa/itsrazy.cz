@@ -46266,3 +46266,99 @@ series:
         url: https://www.meetup.com/morning-talks/events/288155187/
         dtstart: 2022-10-11 09:00:00+02:00
         dtend: 2022-10-11 17:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: IT bezpečnost v cloudu
+        description: 'Morning Talks
+
+          Wednesday, October 26 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/it-bezpecnost-v-cloudu/ **Na co se můžete těšit:**...
+
+
+          https://www.meetup.com/morning-talks/events/288152861/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288152861@meetup.com
+        url: https://www.meetup.com/morning-talks/events/288152861/
+        dtstart: 2022-10-26 09:00:00+02:00
+        dtend: 2022-10-26 10:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Návrh systému na pevném základu
+        description: 'Morning Talks
+
+          Wednesday, October 19 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/navrh-systemu-na-pevnem-zakladu/ V posledních lete...
+
+
+          https://www.meetup.com/morning-talks/events/288152852/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288152852@meetup.com
+        url: https://www.meetup.com/morning-talks/events/288152852/
+        dtstart: 2022-10-19 09:00:00+02:00
+        dtend: 2022-10-19 10:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Prometheus pro logging, metering a profiling
+        description: 'Morning Talks
+
+          Wednesday, October 12 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/prometheus-pro-logging-metering-a-profiling/ **Na ...
+
+
+          https://www.meetup.com/morning-talks/events/288152846/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288152846@meetup.com
+        url: https://www.meetup.com/morning-talks/events/288152846/
+        dtstart: 2022-10-12 09:00:00+02:00
+        dtend: 2022-10-12 10:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Konference - Enterprise API with N-Tiered & (not only) REST architecture
+        description: 'Morning Talks
+
+          Tuesday, October 11 at 9:00 AM
+
+
+          Registrace a detail akce pouze na stránkách Datascriptu. Děkujeme.https://www.datascript.cz/it-konference/enterprise-api-with-n-tiered-not-only-rest-a...
+
+
+          https://www.meetup.com/morning-talks/events/288155187/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288155187@meetup.com
+        url: https://www.meetup.com/morning-talks/events/288155187/
+        dtstart: 2022-10-11 09:00:00+02:00
+        dtend: 2022-10-11 17:00:00+02:00
