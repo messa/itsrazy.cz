@@ -47859,3 +47859,27 @@ series:
         url: https://www.meetup.com/machine-learning-meetup-brno/events/290006927/
         dtstart: 2022-12-13 18:30:00+01:00
         dtend: 2022-12-13 21:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Advances in Deep Learning in Genomics and Proteomics
+        description: 'Machine Learning Meetup Brno
+
+          Tuesday, December 13 at 6:30 PM
+
+
+          Abstract:The sciences of Genomics and Proteomics hold the keys of much of the biotechnological and medical advances in our future. From vaccines again...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/290006927/'
+        location: Impact Hub Brno (Cyrilská 7, Brno-střed-Trnitá, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_290006927@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/290006927/
+        dtstart: 2022-12-13 18:30:00+01:00
+        dtend: 2022-12-13 21:30:00+01:00

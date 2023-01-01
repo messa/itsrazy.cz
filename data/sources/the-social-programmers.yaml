@@ -58651,3 +58651,99 @@ series:
         url: https://www.meetup.com/the-social-programers/events/284822397/
         dtstart: 2022-03-31 19:00:00+02:00
         dtend: 2022-03-31 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Coding session V10
+        description: 'The Social Programmers
+
+          Thursday, May 5 at 7:00 PM
+
+
+          Coding Session Let''s have a drink and code together and build something interesting. Work on your own project or join in on the group project or just ...
+
+
+          https://www.meetup.com/the-social-programers/events/285692669/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285692669@meetup.com
+        url: https://www.meetup.com/the-social-programers/events/285692669/
+        dtstart: 2022-05-05 19:00:00+02:00
+        dtend: 2022-05-05 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Coding session V9
+        description: 'The Social Programmers
+
+          Thursday, April 21 at 7:00 PM
+
+
+          Coding Session Let''s have a drink and code together and build something interesting. Work on your own project or join in on the group project or just ...
+
+
+          https://www.meetup.com/the-social-programers/events/285365084/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285365084@meetup.com
+        url: https://www.meetup.com/the-social-programers/events/285365084/
+        dtstart: 2022-04-21 19:00:00+02:00
+        dtend: 2022-04-21 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Coding session V8
+        description: 'The Social Programmers
+
+          Wednesday, April 13 at 7:30 PM
+
+
+          Coding Session Let''s have a drink and code together and build something interesting. Work on your own project or join in on the group project or just ...
+
+
+          https://www.meetup.com/the-social-programers/events/285201541/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285201541@meetup.com
+        url: https://www.meetup.com/the-social-programers/events/285201541/
+        dtstart: 2022-04-13 19:30:00+02:00
+        dtend: 2022-04-13 21:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Coding session V7
+        description: 'The Social Programmers
+
+          Thursday, March 31 at 7:00 PM
+
+
+          Coding Session Let''s have a drink and code together and build something interesting. Work on your own project or join in on the group project or just ...
+
+
+          https://www.meetup.com/the-social-programers/events/284822397/'
+        location: Coffice (Malířská 14, 170 00 Praha 7-Holešovice, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284822397@meetup.com
+        url: https://www.meetup.com/the-social-programers/events/284822397/
+        dtstart: 2022-03-31 19:00:00+02:00
+        dtend: 2022-03-31 21:00:00+02:00
