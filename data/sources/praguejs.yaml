@@ -623,3 +623,29 @@ series:
         url: https://www.meetup.com/praguejs/events/289576500/
         dtstart: 2022-11-22 18:30:00+01:00
         dtend: 2022-11-22 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Get out and get social in 2023 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that a'
+      og_title: '2023 #1 Build it in Rust, Thu, Jan 19, 2023, 6:30 PM   | Meetup'
+      url: https://www.meetup.com/praguejs/events/289943937/
+      ical:
+        summary: '2023 #1 Build it in Rust'
+        description: 'PragueJS
+
+          Thursday, January 19 at 6:30 PM
+
+
+          Get out and get social in 2023 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse r...
+
+
+          https://www.meetup.com/praguejs/events/289943937/'
+        location: Divadlo D21 (Záhřebská 468, Praha 2-Vinohrady, Czech Republic 120 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289943937@meetup.com
+        url: https://www.meetup.com/praguejs/events/289943937/
+        dtstart: 2023-01-19 18:30:00+01:00
+        dtend: 2023-01-19 20:30:00+01:00
