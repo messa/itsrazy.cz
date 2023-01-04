@@ -19820,21 +19820,9 @@ series:
         dtstart: 2022-10-25 18:30:00+02:00
         dtend: 2022-10-25 20:30:00+02:00
   - meetupcom:
-      meta_description: '• How to join?
-
-        Online only because of covid https://discord.gg/TnaMJMyTDw
-
-
-        • What we''ll do
-
-        https://sites.google.com/site/garagepragueone/home
-
-
-        http://gdg-garage.github.io/
-
-        '
-      og_title: GDG Garage Prague One, Tue, Jan 3, 2023, 6:30 PM   | Meetup
-      url: https://www.meetup.com/gdgprague/events/xqcsqsyfccbfb/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: GDG Garage Prague One
         description: 'GDG Prague
@@ -23755,3 +23743,39 @@ series:
         url: https://www.meetup.com/gdgprague/events/290064409/
         dtstart: 2022-12-20 18:30:00+01:00
         dtend: 2022-12-20 20:30:00+01:00
+  - meetupcom:
+      meta_description: '• How to join?
+
+        Online only because of covid https://discord.gg/TnaMJMyTDw
+
+
+        • What we''ll do
+
+        https://sites.google.com/site/garagepragueone/home
+
+
+        http://gdg-garage.github.io/
+
+        '
+      og_title: GDG Garage Prague One, Tue, Feb 28, 2023, 6:30 PM   | Meetup
+      url: https://www.meetup.com/gdgprague/events/xqcsqsyfcdblc/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Tuesday, February 28 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/gdgprague/events/xqcsqsyfcdblc/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_xqcsqsyfcdblc@meetup.com
+        url: https://www.meetup.com/gdgprague/events/xqcsqsyfcdblc/
+        dtstart: 2023-02-28 18:30:00+01:00
+        dtend: 2023-02-28 20:30:00+01:00
