@@ -53162,3 +53162,54 @@ series:
         url: https://www.meetup.com/brno-java-meetup/events/284243439/
         dtstart: 2022-03-17 18:30:00+01:00
         dtend: 2022-03-17 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Prezentuje Zdeněk Henek ([https://www.linkedin.com/in/vrablik/](https://www.linkedin.com/in/vrablik/)).
+
+
+        S GIS systémy jsem začínal v roce 2004 v Brněnské firmě Berit a GIS'
+      og_title: Geografické informační systémy a ich integrace, Tue, Jan 31, 2023, 6:30 PM   | Meetup
+      url: https://www.meetup.com/brno-java-meetup/events/290711150/
+      ical:
+        summary: Geografické informační systémy a ich integrace
+        description: 'Brno Java Meetup
+
+          Tuesday, January 31 at 6:30 PM
+
+
+          Prezentuje Zdeněk Henek ((https://www.linkedin.com/in/vrablik/" class="linkified">https://www.linkedin.com/in/vrablik/](https://www.linkedin.com/in/vr...
+
+
+          https://www.meetup.com/brno-java-meetup/events/290711150/'
+        location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_290711150@meetup.com
+        url: https://www.meetup.com/brno-java-meetup/events/290711150/
+        dtstart: 2023-01-31 18:30:00+01:00
+        dtend: 2023-01-31 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Introduction to OptaPlanner scheduling problem AI solver
+        description: 'Brno Java Meetup
+
+          Tuesday, December 13 at 6:30 PM
+
+
+          This session will be held in English. (Tentokrát to uděláme anglicky.) Have you ever tried to solve a scheduling problem? Easy right? Well, not really...
+
+
+          https://www.meetup.com/brno-java-meetup/events/289945428/'
+        location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_289945428@meetup.com
+        url: https://www.meetup.com/brno-java-meetup/events/289945428/
+        dtstart: 2022-12-13 18:30:00+01:00
+        dtend: 2022-12-13 20:30:00+01:00
