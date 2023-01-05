@@ -42186,9 +42186,9 @@ series:
         dtstart: 2022-12-12 18:00:00+01:00
         dtend: 2022-12-12 20:00:00+01:00
   - meetupcom:
-      meta_description: Nenech si utéct příležitost! Vyzkoušej si kódování pod vedením zkušených mentorů. Seznámíš se základy JavaScriptu i platformou ServiceNow. Navíc získáš představu o tom, jak
-      og_title: 'Online workshop: Základy programování, Wed, Jan 4, 2023, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/prague-junior-software-developer-course/events/290309297/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Online workshop: Základy programování'
         description: 'Become a software developer from 0
