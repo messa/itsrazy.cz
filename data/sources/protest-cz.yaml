@@ -47976,3 +47976,52 @@ series:
         url: https://www.meetup.com/protest_cz/events/288008397/
         dtstart: 2022-09-06 18:00:00+02:00
         dtend: 2022-09-06 19:00:00+02:00
+  - meetupcom:
+      meta_description: '**Anotace přednášky:**
+
+        Prošel jsem si 7 hodně zajímavými lety v IT. Přežil jsem změny manažerů, reorganizace i konce projektů. Pracoval jsem jako QA, Dev a DevOps. Rád bych'
+      og_title: '112. [pro:]TEST! Saša Zejnilović: z QA na VP, Wed, Jan 18, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/protest_cz/events/290771011/
+      ical:
+        summary: '112. [pro:]TEST! Saša Zejnilović: z QA na VP'
+        description: '[pro:]TEST!
+
+          Wednesday, January 18 at 6:00 PM
+
+
+          **Anotace přednášky:**Prošel jsem si 7 hodně zajímavými lety v IT. Přežil jsem změny manažerů, reorganizace i konce projektů. Pracoval jsem jako QA, D...
+
+
+          https://www.meetup.com/protest_cz/events/290771011/'
+        location: Principal Engineering Ltd. (Na Hřebenech II 1718/8, Praha 4-Nusle, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290771011@meetup.com
+        url: https://www.meetup.com/protest_cz/events/290771011/
+        dtstart: 2023-01-18 18:00:00+01:00
+        dtend: 2023-01-18 19:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '[pro:]TEST! Vánoční Večírek'
+        description: '[pro:]TEST!
+
+          Tuesday, December 13 at 6:00 PM
+
+
+          Rádi bychom Vás pozvali na TEST! Vánoční večírek, kde budete mít možnost se potkat s členy naší testerské skupiny, probrat testerská i netesterská tém...\n
+
+          https://www.meetup.com/protest_cz/events/289876583/'
+        location: Inventi Development Ltd. (Táborská 940/31, Praha 4-Nusle, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289876583@meetup.com
+        url: https://www.meetup.com/protest_cz/events/289876583/
+        dtstart: 2022-12-13 18:00:00+01:00
+        dtend: 2022-12-13 23:00:00+01:00
