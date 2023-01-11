@@ -48094,3 +48094,26 @@ series:
         url: https://www.meetup.com/protest_cz/events/289876583/
         dtstart: 2022-12-13 18:00:00+01:00
         dtend: 2022-12-13 23:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '[pro:]TEST! Vánoční Večírek'
+        description: '[pro:]TEST!
+
+          Tuesday, December 13 at 6:00 PM
+
+
+          Rádi bychom Vás pozvali na TEST! Vánoční večírek, kde budete mít možnost se potkat s členy naší testerské skupiny, probrat testerská i netesterská tém...\n
+
+          https://www.meetup.com/protest_cz/events/289876583/'
+        location: Inventi Development Ltd. (Táborská 940/31, Praha 4-Nusle, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289876583@meetup.com
+        url: https://www.meetup.com/protest_cz/events/289876583/
+        dtstart: 2022-12-13 18:00:00+01:00
+        dtend: 2022-12-13 23:00:00+01:00
