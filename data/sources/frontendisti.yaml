@@ -32194,3 +32194,84 @@ series:
         url: https://www.meetup.com/frontendisti/events/288945709/
         dtstart: 2022-12-14 18:00:00+01:00
         dtend: 2022-12-14 20:00:00+01:00
+  - meetupcom:
+      meta_description: 'Je po vánoční pauze a to neznamená nic jiného, než že se vracíme s pořádným nášupem frontendů!
+
+
+        Akce nemůže být nikde jinde, než v kancelářích našich kamarádů z LMC, kterým'
+      og_title: 'Praha: meetup | Frontendisti.cz, Wed, Feb 8, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/frontendisti/events/290869166/
+      ical:
+        summary: 'Praha: meetup | Frontendisti.cz'
+        description: 'Frontendisti.cz
+
+          Wednesday, February 8 at 6:00 PM
+
+
+          Je po vánoční pauze a to neznamená nic jiného, než že se vracíme s pořádným nášupem frontendů! Akce nemůže být nikde jinde, než v kancelářích našich k...
+
+
+          https://www.meetup.com/frontendisti/events/290869166/'
+        location: LMC Ltd. (Menclova 2538/2, Praha 8-Libeň, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290869166@meetup.com
+        url: https://www.meetup.com/frontendisti/events/290869166/
+        dtstart: 2023-02-08 18:00:00+01:00
+        dtend: 2023-02-08 21:00:00+01:00
+  - meetupcom:
+      meta_description: 'Frontendisti se vrací do Plzně!
+
+
+        Meetup se uskuteční v kancelářích firmy Emplifi, se kterou sraz organizujeme. Zároveň je Emplifi partnerem srazu. Děkujeme za podporu :)
+
+
+        *'
+      og_title: 'Plzeň: meetup | Frontendisti.cz, Wed, Feb 22, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/frontendisti/events/290872251/
+      ical:
+        summary: 'Plzeň: meetup | Frontendisti.cz'
+        description: 'Frontendisti.cz
+
+          Wednesday, February 22 at 6:00 PM
+
+
+          Frontendisti se vrací do Plzně! Meetup se uskuteční v kancelářích firmy Emplifi, se kterou sraz organizujeme. Zároveň je Emplifi partnerem srazu. Děku...
+
+
+          https://www.meetup.com/frontendisti/events/290872251/'
+        location: Pod Všemi svatými 427/17 (Pod Všemi svatými 427/17, Plzeň 1-Severní Předměstí, Czech Republic 301 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290872251@meetup.com
+        url: https://www.meetup.com/frontendisti/events/290872251/
+        dtstart: 2023-02-22 18:00:00+01:00
+        dtend: 2023-02-22 21:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Brno: Vánoční meetup | Frontendisti.cz'
+        description: 'Frontendisti.cz
+
+          Wednesday, December 14 at 6:00 PM
+
+
+          **Zima je tady a pravidelný vánoční meetup komunity Frontendisti.cz se pod taktovkou SUPERKODERS koná 14.12. v Brně 🎄.**Přijďte se naladit na sváteční...
+
+
+          https://www.meetup.com/frontendisti/events/288945709/'
+        location: Hněvkovského 65 (Hněvkovského 65, Komárov, Brno-Brno-jih, Czech Republic 617 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288945709@meetup.com
+        url: https://www.meetup.com/frontendisti/events/288945709/
+        dtstart: 2022-12-14 18:00:00+01:00
+        dtend: 2022-12-14 20:00:00+01:00
