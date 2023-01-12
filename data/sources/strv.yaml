@@ -35884,3 +35884,73 @@ series:
         url: https://www.meetup.com/strv-meetups/events/289663632/
         dtstart: 2022-11-24 18:00:00+01:00
         dtend: 2022-11-24 22:00:00+01:00
+  - meetupcom:
+      meta_description: '**Imagine you want to have data-driven recommendation. Where do you even start? We’ll be sharing our experience with implementing social media recommendations in several li'
+      og_title: '(PRAGUE) Data & AI/ML Lightning Talks: Recommendations, Deconstructed, Tue, Jan 31, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/strv-meetups/events/290896731/
+      ical:
+        summary: '(PRAGUE) Data & AI/ML Lightning Talks: Recommendations, Deconstructed'
+        description: 'STRV Meetups
+
+          Tuesday, January 31 at 6:00 PM
+
+
+          **Imagine you want to have data-driven recommendation. Where do you even start? We’ll be sharing our experience with implementing social media recomme...
+
+          \nhttps://www.meetup.com/strv-meetups/events/290896731/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290896731@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/290896731/
+        dtstart: 2023-01-31 18:00:00+01:00
+        dtend: 2023-01-31 22:00:00+01:00
+  - meetupcom:
+      meta_description: '**Imagine you want to have data-driven recommendation. Where do you even start? We’ll be sharing our experience with implementing social media recommendations in several li'
+      og_title: '(BRNO) Data & AI/ML Lightning Talks: Recommendations, Deconstructed, Thu, Feb 2, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/strv-meetups/events/290896746/
+      ical:
+        summary: '(BRNO) Data & AI/ML Lightning Talks: Recommendations, Deconstructed'
+        description: 'STRV Meetups
+
+          Thursday, February 2 at 6:00 PM
+
+
+          **Imagine you want to have data-driven recommendation. Where do you even start? We’ll be sharing our experience with implementing social media recomme...
+
+
+          https://www.meetup.com/strv-meetups/events/290896746/'
+        location: STRV (Přízova 284/5, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290896746@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/290896746/
+        dtstart: 2023-02-02 18:00:00+01:00
+        dtend: 2023-02-02 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: STRV Backend Meetup - How We Build Backend PRG
+        description: 'STRV Meetups
+
+          Thursday, November 24 at 6:00 PM
+
+
+          **(https://www.eventbrite.com/e/backend-meetup-how-we-build-backend-prg-tickets-464986867237?aff=meetup)** Curious about how we build backend solution...\n
+
+          https://www.meetup.com/strv-meetups/events/289663632/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289663632@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/289663632/
+        dtstart: 2022-11-24 18:00:00+01:00
+        dtend: 2022-11-24 22:00:00+01:00

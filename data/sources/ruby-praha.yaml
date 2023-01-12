@@ -9222,14 +9222,14 @@ series:
           Wednesday, February 1 at 7:00 PM
 
 
-          https://www.meetup.com/praguerb/events/dkmktfyfcdbcb/'
+          https://www.meetup.com/praguerb/events/290899038/'
         location: null
         geo:
           lat: 50.08
           lon: 14.43
         status: CONFIRMED
         uid: event_dkmktfyfcdbcb@meetup.com
-        url: https://www.meetup.com/praguerb/events/dkmktfyfcdbcb/
+        url: https://www.meetup.com/praguerb/events/290899038/
         dtstart: 2023-02-01 19:00:00+01:00
         dtend: 2023-02-01 22:00:00+01:00
   - meetupcom:
@@ -14818,6 +14818,27 @@ series:
         url: https://www.meetup.com/praguerb/events/dkmktfyfchbfb/
         dtstart: 2023-05-03 19:00:00+02:00
         dtend: 2023-05-03 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: First Wednesday Of The Month - Ruby
+        description: 'Prague.rb / CSRUG
+
+          Wednesday, January 4 at 7:00 PM
+
+
+          https://www.meetup.com/praguerb/events/290352816/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_dkmktfyfccbgb@meetup.com
+        url: https://www.meetup.com/praguerb/events/290352816/
+        dtstart: 2023-01-04 19:00:00+01:00
+        dtend: 2023-01-04 22:00:00+01:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup

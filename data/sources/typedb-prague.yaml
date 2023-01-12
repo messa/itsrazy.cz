@@ -18481,11 +18481,9 @@ series:
         dtstart: 2022-12-08 18:30:00+01:00
         dtend: 2022-12-08 19:30:00+01:00
   - meetupcom:
-      meta_description: '**Talk Synopsis**
-
-        TypeDB is a strongly-typed database. It provides a rich and logical type system which breaks down complex problems into meaningful and logical systems, us'
-      og_title: Introduction to TypeDB and TypeQL | A Strongly-Typed Database, Thu, Jan 12, 2023, 6:30 PM   | Meetup
-      url: https://www.meetup.com/typedb-prague/events/290349309/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Introduction to TypeDB and TypeQL | A Strongly-Typed Database
         description: 'TypeDB Prague Engineers
@@ -20502,3 +20500,29 @@ series:
         url: https://www.meetup.com/typedb-prague/events/289790311/
         dtstart: 2022-12-08 18:30:00+01:00
         dtend: 2022-12-08 19:30:00+01:00
+  - meetupcom:
+      meta_description: '**Talk Synopsis**
+
+        Join the [TypeDB community](https://docs.vaticle.com/docs/general/quickstart) to learn how we think about data modelling, and how TypeDB''s expressivity al'
+      og_title: TypeDB Academy | Modelling Principles, Thu, Jan 26, 2023, 6:30 PM   | Meetup
+      url: https://www.meetup.com/typedb-prague/events/290418736/
+      ical:
+        summary: TypeDB Academy | Modelling Principles
+        description: 'TypeDB Prague Engineers
+
+          Thursday, January 26 at 6:30 PM
+
+
+          **Talk Synopsis**Join the (https://docs.vaticle.com/docs/general/quickstart) to learn how we think about data modelling, and how TypeDB''s expressivity...
+
+
+          https://www.meetup.com/typedb-prague/events/290418736/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290418736@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/290418736/
+        dtstart: 2023-01-26 18:30:00+01:00
+        dtend: 2023-01-26 19:30:00+01:00
