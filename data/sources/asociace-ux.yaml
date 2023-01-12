@@ -37009,3 +37009,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/290418481/
         dtstart: 2023-01-09 18:00:00+01:00
         dtend: 2023-01-09 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'UX Monday: Design maturity'
+        description: 'Asociace UX
+
+          Monday, January 9 at 6:00 PM
+
+
+          *Why in some companies designers don’t need to explain the value of design, while in others designers have to fight to do their job? How do companies ...
+
+
+          https://www.meetup.com/asociace-ux/events/290418481/'
+        location: Na Valentince (Na Valentince, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290418481@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/290418481/
+        dtstart: 2023-01-09 18:00:00+01:00
+        dtend: 2023-01-09 20:00:00+01:00
