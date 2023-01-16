@@ -17580,3 +17580,27 @@ series:
         url: https://www.meetup.com/pyvo-prague-python-meetup/events/289798942/
         dtstart: 2022-12-21 19:00:00+01:00
         dtend: 2022-12-21 23:59:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Pyvo Prague #139 - Christmas Hardware Edition'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, December 21 at 7:00 PM
+
+
+          Hou hou hou Vánoční Pyvo je tu! 🎄 Také máte doma šuplík plný HW pokladů, udělátek, hejblátek, tlačítek, tišťáků, robotů, her, konzolí, Arduin a jiného...
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/289798942/'
+        location: Na Venecku (Ostrovskeho 38a, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_bcxlssydcqbcc@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/289798942/
+        dtstart: 2022-12-21 19:00:00+01:00
+        dtend: 2022-12-21 23:59:00+01:00
