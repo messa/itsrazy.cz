@@ -53981,3 +53981,99 @@ series:
         url: https://www.meetup.com/prague-golang-meetup/events/278200916/
         dtstart: 2021-06-23 18:00:00+02:00
         dtend: 2021-06-23 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Go Meetup #9'
+        description: 'Prague Golang Meetup
+
+          Wednesday, November 30 at 6:00 PM
+
+
+          Hosted by SentinelOne Please note at the SentinelOne office, all meetup attendees will be required to sign a generic NDA used for all office visitors ...
+
+
+          https://www.meetup.com/prague-golang-meetup/events/289247920/'
+        location: SentinelOne CZ (Karolinská 707/7, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289247920@meetup.com
+        url: https://www.meetup.com/prague-golang-meetup/events/289247920/
+        dtstart: 2022-11-30 18:00:00+01:00
+        dtend: 2022-11-30 21:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Go meetup #8'
+        description: 'Prague Golang Meetup
+
+          Tuesday, June 28 at 6:00 PM
+
+
+          Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **Go Meetup** **8**!**🚨 Please (https://www.eventbrite.com/e/go-...
+
+
+          https://www.meetup.com/prague-golang-meetup/events/286541748/'
+        location: Productboard s.r.o. (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286541748@meetup.com
+        url: https://www.meetup.com/prague-golang-meetup/events/286541748/
+        dtstart: 2022-06-28 18:00:00+02:00
+        dtend: 2022-06-28 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Go Meetup in Prague #7'
+        description: 'Prague Golang Meetup
+
+          Tuesday, May 31 at 6:00 PM
+
+
+          Join us for our in-person and online meetup at Productboard HQ! We’re excited to host **our first Golang Meetup** **of 2022**! **🚨 Please (https://www...
+
+
+          https://www.meetup.com/prague-golang-meetup/events/285491798/'
+        location: Productboard s.r.o. (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285491798@meetup.com
+        url: https://www.meetup.com/prague-golang-meetup/events/285491798/
+        dtstart: 2022-05-31 18:00:00+02:00
+        dtend: 2022-05-31 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Golang Prague #6 with Jon Calhoun - Learning Go'
+        description: 'Prague Golang Meetup
+
+          Wednesday, June 23 at 6:00 PM
+
+
+          In the Golang Prague Meetup #6 we will focus on the process of learning Go and programming languages in general. We are joined by a fantastic guest Jo...
+
+
+          https://www.meetup.com/prague-golang-meetup/events/278200916/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_278200916@meetup.com
+        url: https://www.meetup.com/prague-golang-meetup/events/278200916/
+        dtstart: 2021-06-23 18:00:00+02:00
+        dtend: 2021-06-23 20:00:00+02:00

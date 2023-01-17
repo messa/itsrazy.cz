@@ -51404,3 +51404,30 @@ series:
         url: https://www.meetup.com/webexpo/events/285984047/
         dtstart: 2022-06-10 10:00:00+02:00
         dtend: 2022-06-12 18:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: WebExpo 2022
+        description: 'WebExpo
+
+          Friday, June 10 at 10:00 AM
+
+
+          WebExpo is Central Europe''s largest conference covering deep tech & practical topics for developers, UX professionals & researchers, product managers,...
+
+
+          Price: 424.00 EUR
+
+
+          https://www.meetup.com/webexpo/events/285984047/'
+        location: Palace Lucerna (Vodičkova 704/36, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285984047@meetup.com
+        url: https://www.meetup.com/webexpo/events/285984047/
+        dtstart: 2022-06-10 10:00:00+02:00
+        dtend: 2022-06-12 18:00:00+02:00
