@@ -29860,3 +29860,99 @@ series:
         url: https://www.meetup.com/tesena-testing-club/events/288376679/
         dtstart: 2022-10-05 16:00:00+02:00
         dtend: 2022-10-05 17:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (EN) Complete Test Automation With Cypress and Harmony
+        description: 'Tesena Testing Club
+
+          Tuesday, December 13 at 3:00 PM
+
+
+          In this presentation, I will show how test execution automation (Cypress) and test design automation (Harmony) work together. Harmony uses double-phas...
+
+
+          https://www.meetup.com/tesena-testing-club/events/289183729/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289183729@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/289183729/
+        dtstart: 2022-12-13 15:00:00+01:00
+        dtend: 2022-12-13 16:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '#GraphQL - aktuální trend v oblasti integrací'
+        description: 'Tesena Testing Club
+
+          Wednesday, December 7 at 4:00 PM
+
+
+          \\# GraphQL \\- aktuální trend v oblasti integrací\\, 7\\.12\\. 2022 od 16:00 do 17:00 ONLINE**Registrace zde: http://bit.ly/3Ovbp96** GraphQL je moderní p...
+
+
+          https://www.meetup.com/tesena-testing-club/events/289906551/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289906551@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/289906551/
+        dtstart: 2022-12-07 16:00:00+01:00
+        dtend: 2022-12-07 17:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Workshop: Empower your Testing Strategy with Autonomous Testing Bots'
+        description: 'Tesena Testing Club
+
+          Thursday, October 13 at 9:00 AM
+
+
+          * Learn how to „just enable“ the autonomous testing platform and let it work for you* Find out how to integrate autonomous testing into your CI/CD pip...
+
+
+          https://www.meetup.com/tesena-testing-club/events/288748722/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288748722@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/288748722/
+        dtstart: 2022-10-13 09:00:00+02:00
+        dtend: 2022-10-13 11:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (CZ) Test management na velkých projektech
+        description: 'Tesena Testing Club
+
+          Wednesday, October 5 at 4:00 PM
+
+
+          V průběhu semináře zkušení test manažeři nejprve vyjasní, co vnímají „velkým projektem“. Následně se budou věnovat dílčím výzvám, které na testmanažer...
+
+
+          https://www.meetup.com/tesena-testing-club/events/288376679/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288376679@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/288376679/
+        dtstart: 2022-10-05 16:00:00+02:00
+        dtend: 2022-10-05 17:00:00+02:00
