@@ -18505,11 +18505,9 @@ series:
         dtstart: 2023-01-12 18:30:00+01:00
         dtend: 2023-01-12 19:30:00+01:00
   - meetupcom:
-      meta_description: '**Talk Synopsis**
-
-        Knowledge of cyber threats is a key focus in cyber security. In this talk, we present [TypeDB CTI](https://t.sidekickopen87.com/s3t/c/5/f18dQhb0S7kF8cpfPy'
-      og_title: Building an Open Source Threat Intelligence Platform, Thu, Jan 19, 2023, 6:30 PM   | Meetup
-      url: https://www.meetup.com/typedb-prague/events/290350452/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Building an Open Source Threat Intelligence Platform
         description: 'TypeDB Prague Engineers

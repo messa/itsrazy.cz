@@ -55037,3 +55037,27 @@ series:
         url: https://www.meetup.com/pure-storage-talks/events/289456196/
         dtstart: 2022-11-10 17:30:00+01:00
         dtend: 2022-11-10 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Golang Meetup by Pure Storage
+        description: 'Pure Storage Talks
+
+          Thursday, November 10 at 5:30 PM
+
+
+          Autumn is the traditional time for new beginnings - at least in terms of studies, so we decided to go ahead and let our next **Golang Meetup** to be f...
+
+
+          https://www.meetup.com/pure-storage-talks/events/289456196/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289456196@meetup.com
+        url: https://www.meetup.com/pure-storage-talks/events/289456196/
+        dtstart: 2022-11-10 17:30:00+01:00
+        dtend: 2022-11-10 20:30:00+01:00

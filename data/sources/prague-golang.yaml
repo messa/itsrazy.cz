@@ -54557,3 +54557,54 @@ series:
         url: https://www.meetup.com/prague-golang-meetup/events/278200916/
         dtstart: 2021-06-23 18:00:00+02:00
         dtend: 2021-06-23 20:00:00+02:00
+  - meetupcom:
+      meta_description: 'Hosted by Pure Storage
+
+
+        Please note at the Pure Storage office, all meetup attendees will be required to sign a generic NDA used for all office visitors to be able to atten'
+      og_title: 'Go 1.20 Release Party - Meetup #10, Tue, Feb 21, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/prague-golang-meetup/events/291042846/
+      ical:
+        summary: 'Go 1.20 Release Party - Meetup #10'
+        description: 'Prague Golang Meetup
+
+          Tuesday, February 21 at 6:00 PM
+
+
+          Hosted by Pure Storage Please note at the Pure Storage office, all meetup attendees will be required to sign a generic NDA used for all office visitor...
+
+
+          https://www.meetup.com/prague-golang-meetup/events/291042846/'
+        location: Pure Storage (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291042846@meetup.com
+        url: https://www.meetup.com/prague-golang-meetup/events/291042846/
+        dtstart: 2023-02-21 18:00:00+01:00
+        dtend: 2023-02-21 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Go Meetup #9'
+        description: 'Prague Golang Meetup
+
+          Wednesday, November 30 at 6:00 PM
+
+
+          Hosted by SentinelOne Please note at the SentinelOne office, all meetup attendees will be required to sign a generic NDA used for all office visitors ...
+
+
+          https://www.meetup.com/prague-golang-meetup/events/289247920/'
+        location: SentinelOne CZ (Karolinská 707/7, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289247920@meetup.com
+        url: https://www.meetup.com/prague-golang-meetup/events/289247920/
+        dtstart: 2022-11-30 18:00:00+01:00
+        dtend: 2022-11-30 21:00:00+01:00
