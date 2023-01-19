@@ -41778,9 +41778,9 @@ series:
         dtstart: 2022-10-26 18:00:00+02:00
         dtend: 2022-10-26 21:00:00+02:00
   - meetupcom:
-      meta_description: Dámská jízda pro všechny, které zajímá svět IT, chtějí se setkat s podobně naladěnými lidmi a vyzkoušet si základy kódování.
-      og_title: Online Ladies Coding Night, Wed, Jan 18, 2023, 6:00 PM   | Meetup
-      url: https://www.meetup.com/prague-junior-software-developer-course/events/290196884/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Online Ladies Coding Night
         description: 'Become a software developer from 0

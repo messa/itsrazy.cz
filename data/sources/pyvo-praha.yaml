@@ -17769,3 +17769,27 @@ series:
         url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssyfchbwb/
         dtstart: 2023-05-17 19:00:00+02:00
         dtend: 2023-05-17 23:59:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Pyvo Prague #140 - Python Pub Quiz'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, January 18 at 7:00 PM
+
+
+          Hey Python lovers! You''re invited to come hang out and show off your Python skills at our Python Pub Quiz we''ve prepared for you in cooperation with P...
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/290046650/'
+        location: Na Venecku (Ostrovskeho 38a, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_bcxlssyfccbxb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/290046650/
+        dtstart: 2023-01-18 19:00:00+01:00
+        dtend: 2023-01-18 23:59:00+01:00
