@@ -10474,12 +10474,9 @@ series:
         dtstart: 2022-08-17 19:00:00+02:00
         dtend: 2022-08-17 23:59:00+02:00
   - meetupcom:
-      meta_description: 'Hey Python lovers!
-
-
-        You''re invited to come hang out and show off your Python skills at our Python Pub Quiz we''ve prepared for you in cooperation with Pure Storage. We''ll be'
-      og_title: 'Pyvo Prague #140 - Python Pub Quiz, Wed, Jan 18, 2023, 7:00 PM   | Meetup'
-      url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssyfccbxb/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Pyvo Prague #140 - Python Pub Quiz'
         description: 'Pyvo: Prague Python Meetup
@@ -17748,3 +17745,27 @@ series:
         url: https://www.meetup.com/pyvo-prague-python-meetup/events/289798942/
         dtstart: 2022-12-21 19:00:00+01:00
         dtend: 2022-12-21 23:59:00+01:00
+  - meetupcom:
+      meta_description: We will meet for an informal chat about Python, programming, and more. Details will be added.
+      og_title: 'Pyvo Prague #, Wed, May 17, 2023, 7:00 PM   | Meetup'
+      url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssyfchbwb/
+      ical:
+        summary: 'Pyvo Prague #'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, May 17 at 7:00 PM
+
+
+          We will meet for an informal chat about Python, programming, and more. Details will be added.
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssyfchbwb/'
+        location: Prague (, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_bcxlssyfchbwb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssyfchbwb/
+        dtstart: 2023-05-17 19:00:00+02:00
+        dtend: 2023-05-17 23:59:00+02:00
