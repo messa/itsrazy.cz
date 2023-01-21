@@ -64041,3 +64041,99 @@ series:
         url: https://www.meetup.com/gcdc-prague/events/272110257/
         dtstart: 2020-10-07 18:30:00+02:00
         dtend: 2020-10-07 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Cloud Talks vol.7 {Jak začít s GCP}
+        description: 'Google Cloud Developer Community Prague
+
+          Wednesday, May 19 at 6:30 PM
+
+
+          Proč?======Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme příležitost k setkávání nad tématy, které Vás zajímají. Pomocí krátkýc...
+
+
+          https://www.meetup.com/gcdc-prague/events/276944440/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_276944440@meetup.com
+        url: https://www.meetup.com/gcdc-prague/events/276944440/
+        dtstart: 2021-05-19 18:30:00+02:00
+        dtend: 2021-05-19 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Cloud Talks vol.6 {Kubernetes}
+        description: 'Google Cloud Developer Community Prague
+
+          Wednesday, March 3 at 6:30 PM
+
+
+          Proč?======Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme příležitost k setkávání nad tématy, které Vás zajímají. Pomocí krátkýc...
+
+
+          https://www.meetup.com/gcdc-prague/events/274666372/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_274666372@meetup.com
+        url: https://www.meetup.com/gcdc-prague/events/274666372/
+        dtstart: 2021-03-03 18:30:00+01:00
+        dtend: 2021-03-03 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Cloud Talks vol.5 {Serverless Computing}
+        description: 'Google Cloud Developer Community Prague
+
+          Wednesday, November 11 at 6:30 PM
+
+
+          Proč?======Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme příležitost k setkávání nad tématy, které Vás zajímají. Pomocí krátkýc...
+
+
+          https://www.meetup.com/gcdc-prague/events/273622225/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_273622225@meetup.com
+        url: https://www.meetup.com/gcdc-prague/events/273622225/
+        dtstart: 2020-11-11 18:30:00+01:00
+        dtend: 2020-11-11 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Cloud Talks vol.4 {Data}
+        description: 'Google Cloud Developer Community Prague
+
+          Wednesday, October 7 at 6:30 PM
+
+
+          Proč?======Baví nás Google Cloud technologie a díky sérii Cloud talks vytváříme příležitost k setkávání nad tématy, které Vás zajímají. Pomocí krátkýc...
+
+
+          https://www.meetup.com/gcdc-prague/events/272110257/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_272110257@meetup.com
+        url: https://www.meetup.com/gcdc-prague/events/272110257/
+        dtstart: 2020-10-07 18:30:00+02:00
+        dtend: 2020-10-07 20:00:00+02:00
