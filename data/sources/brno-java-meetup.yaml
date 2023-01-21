@@ -54317,3 +54317,27 @@ series:
         url: https://www.meetup.com/brno-java-meetup/events/289945428/
         dtstart: 2022-12-13 18:30:00+01:00
         dtend: 2022-12-13 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Introduction to OptaPlanner scheduling problem AI solver
+        description: 'Brno Java Meetup
+
+          Tuesday, December 13 at 6:30 PM
+
+
+          This session will be held in English. (Tentokrát to uděláme anglicky.) Have you ever tried to solve a scheduling problem? Easy right? Well, not really...
+
+
+          https://www.meetup.com/brno-java-meetup/events/289945428/'
+        location: Živo U Palečka (Koliště 643, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_289945428@meetup.com
+        url: https://www.meetup.com/brno-java-meetup/events/289945428/
+        dtstart: 2022-12-13 18:30:00+01:00
+        dtend: 2022-12-13 20:30:00+01:00
