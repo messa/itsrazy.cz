@@ -51601,3 +51601,99 @@ series:
         url: https://www.meetup.com/machine-learning-meetup-brno/events/288667429/
         dtstart: 2022-10-03 17:00:00+02:00
         dtend: 2022-10-03 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Optimizing Neural Networks for TinyML '
+        description: 'Machine Learning Meetup Brno
+
+          Monday, January 9 at 5:30 PM
+
+
+          Abstract:Embedded devices have dedicated acceleration hardware for machine learning such as parallel instruction sets for CPUs, multi-purpose GPUs wit...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/290445102/'
+        location: Impact Hub Brno (Cyrilská 7, Brno-střed-Trnitá, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_290445102@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/290445102/
+        dtstart: 2023-01-09 17:30:00+01:00
+        dtend: 2023-01-09 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Advances in Deep Learning in Genomics and Proteomics
+        description: 'Machine Learning Meetup Brno
+
+          Tuesday, December 13 at 6:30 PM
+
+
+          Abstract:The sciences of Genomics and Proteomics hold the keys of much of the biotechnological and medical advances in our future. From vaccines again...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/290006927/'
+        location: Impact Hub Brno (Cyrilská 7, Brno-střed-Trnitá, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_290006927@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/290006927/
+        dtstart: 2022-12-13 18:30:00+01:00
+        dtend: 2022-12-13 21:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Computer Vision in Manufacturing Industry
+        description: 'Machine Learning Meetup Brno
+
+          Monday, November 14 at 5:30 PM
+
+
+          Abstract:Automation is a hot manufacturing topic in recent years with ML technology being its key enabler. However, unlike popular and widespread ML a...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/289520074/'
+        location: Impact Hub Brno (Cyrilská 7, Brno-střed-Trnitá, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_289520074@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/289520074/
+        dtstart: 2022-11-14 17:30:00+01:00
+        dtend: 2022-11-14 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Learning to Learn:Training Language Models to Understand Tasks from Few Examples
+        description: 'Machine Learning Meetup Brno
+
+          Monday, October 3 at 5:00 PM
+
+
+          Abstract:As AI models become an increasingly common element of many applications, we more notoriously face practical limitations of specialized models...
+
+
+          https://www.meetup.com/machine-learning-meetup-brno/events/288667429/'
+        location: Open Garden Foundation Partnership (Údolní 33, Brno-Brno-střed\, Czech Republic 602 00)
+        geo:
+          lat: 49.2
+          lon: 16.61
+        status: CONFIRMED
+        uid: event_288667429@meetup.com
+        url: https://www.meetup.com/machine-learning-meetup-brno/events/288667429/
+        dtstart: 2022-10-03 17:00:00+02:00
+        dtend: 2022-10-03 20:00:00+02:00
