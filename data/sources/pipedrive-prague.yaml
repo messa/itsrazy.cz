@@ -55138,3 +55138,99 @@ series:
         url: https://www.meetup.com/pipedrive-talks-prague/events/281095226/
         dtstart: 2021-11-16 18:00:00+01:00
         dtend: 2021-11-16 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Engineering Meetup: Side Projects - Fun or Business? '
+        description: 'Pipedrive Talks Prague
+
+          Tuesday, October 4 at 6:00 PM
+
+
+          The summer is mostly over and people are back from holidays full of energy. While rest is crucial, as it turns out, many people like to be productive ...
+
+
+          https://www.meetup.com/pipedrive-talks-prague/events/288474379/'
+        location: Pipedrive (Pernerova 697/35, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288474379@meetup.com
+        url: https://www.meetup.com/pipedrive-talks-prague/events/288474379/
+        dtstart: 2022-10-04 18:00:00+02:00
+        dtend: 2022-10-04 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Engineering Meetup: Screw-ups and Lessons Learned'
+        description: 'Pipedrive Talks Prague
+
+          Thursday, July 28 at 6:00 PM
+
+
+          It''s mid-summer and so we’ve decided to make our next meetup a bit more lighthearted than usual. Join our upcoming engineering meetup, where we will e...
+
+
+          https://www.meetup.com/pipedrive-talks-prague/events/286919614/'
+        location: Pipedrive (Pernerova 697/35, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286919614@meetup.com
+        url: https://www.meetup.com/pipedrive-talks-prague/events/286919614/
+        dtstart: 2022-07-28 18:00:00+02:00
+        dtend: 2022-07-28 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Engineering Meetup: From Developer to a Leader'
+        description: 'Pipedrive Talks Prague
+
+          Tuesday, April 5 at 6:00 PM
+
+
+          One possible career path for engineers is leadership: technical leadership, people management, or both. Typically you’d start by mentoring other engin...
+
+
+          https://www.meetup.com/pipedrive-talks-prague/events/284508613/'
+        location: Pipedrive (Pernerova 697/35, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_284508613@meetup.com
+        url: https://www.meetup.com/pipedrive-talks-prague/events/284508613/
+        dtstart: 2022-04-05 18:00:00+02:00
+        dtend: 2022-04-05 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Backend Meetup: Advanced Microservices'
+        description: 'Pipedrive Talks Prague
+
+          Tuesday, November 16 at 6:00 PM
+
+
+          Microservices are a popular and well-known architectural choice. Over time, best practices regarding implementing and maintaining this architectural s...
+
+
+          https://www.meetup.com/pipedrive-talks-prague/events/281095226/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281095226@meetup.com
+        url: https://www.meetup.com/pipedrive-talks-prague/events/281095226/
+        dtstart: 2021-11-16 18:00:00+01:00
+        dtend: 2021-11-16 19:30:00+01:00

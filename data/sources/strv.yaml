@@ -36621,3 +36621,49 @@ series:
         url: https://www.meetup.com/strv-meetups/events/289663632/
         dtstart: 2022-11-24 18:00:00+01:00
         dtend: 2022-11-24 22:00:00+01:00
+  - meetupcom:
+      meta_description: '**You’re invited to our Lightning Talks! As opposed to our regular format, these will be short and quick. Expect eight 5-min long talks covering a whole bunch of topics rel'
+      og_title: (PRAGUE) iOS Lightning Talks, Thu, Feb 9, 2023, 6:00 PM   | Meetup
+      url: https://www.meetup.com/strv-meetups/events/291136548/
+      ical:
+        summary: (PRAGUE) iOS Lightning Talks
+        description: 'STRV Meetups
+
+          Thursday, February 9 at 6:00 PM
+
+
+          **You’re invited to our Lightning Talks! As opposed to our regular format, these will be short and quick. Expect eight 5-min long talks covering a who...\n
+
+          https://www.meetup.com/strv-meetups/events/291136548/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291136548@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/291136548/
+        dtstart: 2023-02-09 18:00:00+01:00
+        dtend: 2023-02-09 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: STRV Backend Meetup - How We Build Backend PRG
+        description: 'STRV Meetups
+
+          Thursday, November 24 at 6:00 PM
+
+
+          **(https://www.eventbrite.com/e/backend-meetup-how-we-build-backend-prg-tickets-464986867237?aff=meetup)** Curious about how we build backend solution...\n
+
+          https://www.meetup.com/strv-meetups/events/289663632/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289663632@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/289663632/
+        dtstart: 2022-11-24 18:00:00+01:00
+        dtend: 2022-11-24 22:00:00+01:00
