@@ -27921,3 +27921,27 @@ series:
         url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/290273157/
         dtstart: 2023-01-19 18:00:00+01:00
         dtend: 2023-01-19 23:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 54. sraz přátel PHP v Košík.cz v Praze
+        description: 'Pražské srazy přátel PHP - Pehapkari.cz
+
+          Thursday, January 19 at 6:00 PM
+
+
+          Zveme vás na první setkání přátel PHP po Novém roce, tentokrát v kancelářích Košík.cz. Těšit se můžete na zajímavé přednášky, chutné občerstvení po ce...
+
+
+          https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/290273157/'
+        location: Kosik.cz s.r.o. (Evropská 11/2758, Praha 6, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290273157@meetup.com
+        url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/290273157/
+        dtstart: 2023-01-19 18:00:00+01:00
+        dtend: 2023-01-19 23:00:00+01:00

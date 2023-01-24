@@ -33163,3 +33163,27 @@ series:
         url: https://www.meetup.com/frontendisti/events/288945709/
         dtstart: 2022-12-14 18:00:00+01:00
         dtend: 2022-12-14 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Brno: Vánoční meetup | Frontendisti.cz'
+        description: 'Frontendisti.cz
+
+          Wednesday, December 14 at 6:00 PM
+
+
+          **Zima je tady a pravidelný vánoční meetup komunity Frontendisti.cz se pod taktovkou SUPERKODERS koná 14.12. v Brně 🎄.**Přijďte se naladit na sváteční...
+
+
+          https://www.meetup.com/frontendisti/events/288945709/'
+        location: Hněvkovského 65 (Hněvkovského 65, Komárov, Brno-Brno-jih, Czech Republic 617 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288945709@meetup.com
+        url: https://www.meetup.com/frontendisti/events/288945709/
+        dtstart: 2022-12-14 18:00:00+01:00
+        dtend: 2022-12-14 20:00:00+01:00
