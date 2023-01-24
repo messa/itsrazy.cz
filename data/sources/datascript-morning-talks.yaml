@@ -50076,3 +50076,27 @@ series:
         url: https://www.meetup.com/morning-talks/events/290691440/
         dtstart: 2023-01-18 09:00:00+01:00
         dtend: 2023-01-18 10:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Dynamická infrastruktura v Consulu
+        description: 'Morning Talks
+
+          Wednesday, January 18 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/dynamicka-infrastruktura-v-consulu/ **Na co se můž...
+
+
+          https://www.meetup.com/morning-talks/events/290691440/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290691440@meetup.com
+        url: https://www.meetup.com/morning-talks/events/290691440/
+        dtstart: 2023-01-18 09:00:00+01:00
+        dtend: 2023-01-18 10:00:00+01:00
