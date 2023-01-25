@@ -21366,3 +21366,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/290419416/
         dtstart: 2023-01-24 18:30:00+01:00
         dtend: 2023-01-24 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Building Biomedical Knowledge Graphs for In-Silico Drug Discovery
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, January 24 at 6:30 PM
+
+
+          **Talk Synopsis:**The rapid development and spread of analytical tools in the biomedical sciences has produced a variety of information about all sort...
+
+
+          https://www.meetup.com/typedb-prague/events/290419416/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290419416@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/290419416/
+        dtstart: 2023-01-24 18:30:00+01:00
+        dtend: 2023-01-24 19:30:00+01:00
