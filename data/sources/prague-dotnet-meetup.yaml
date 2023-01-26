@@ -67071,3 +67071,99 @@ series:
         url: https://www.meetup.com/prague-net-meetup/events/277417529/
         dtstart: 2021-04-22 17:30:00+02:00
         dtend: 2021-04-22 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Sneak Peek at .NET 7
+        description: 'Dotnet Days Meetup
+
+          Tuesday, June 21 at 6:00 PM
+
+
+          Come and see what is planned for the next .NET release scheduled to be available later this year. We’ll go over small and big features that are availa...
+
+
+          https://www.meetup.com/prague-net-meetup/events/286539701/'
+        location: Impact Hub Praha D10 (Drtinova 557/10, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286539701@meetup.com
+        url: https://www.meetup.com/prague-net-meetup/events/286539701/
+        dtstart: 2022-06-21 18:00:00+02:00
+        dtend: 2022-06-21 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Blazor - frontend framework for backend developers?
+        description: 'Dotnet Days Meetup
+
+          Wednesday, June 8 at 6:00 PM
+
+
+          **Blazor** is a new SPA framework you might have heard about. Let''s share some experience from using it in a few enterprise applications, one of them ...
+
+
+          https://www.meetup.com/prague-net-meetup/events/286236089/'
+        location: Impact Hub Praha D10 (Drtinova 557/10, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286236089@meetup.com
+        url: https://www.meetup.com/prague-net-meetup/events/286236089/
+        dtstart: 2022-06-08 18:00:00+02:00
+        dtend: 2022-06-08 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: GraphQL in .NET
+        description: 'Dotnet Days Meetup
+
+          Thursday, September 9 at 5:30 PM
+
+
+          GraphQL is a great way to expose your APIs, and it has changed the way we think about consuming data over HTTP. Not only does GraphQL give us the powe...
+
+
+          https://www.meetup.com/prague-net-meetup/events/280482935/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280482935@meetup.com
+        url: https://www.meetup.com/prague-net-meetup/events/280482935/
+        dtstart: 2021-09-09 17:30:00+02:00
+        dtend: 2021-09-09 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Dominick Baier: OAuth - The good Parts'
+        description: 'Dotnet Days Meetup
+
+          Thursday, April 22 at 5:30 PM
+
+
+          OAuth has been around for more than 10 years now, and has become the standard protocol for token-based security. Like every popular technology that ha...
+
+
+          https://www.meetup.com/prague-net-meetup/events/277417529/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_277417529@meetup.com
+        url: https://www.meetup.com/prague-net-meetup/events/277417529/
+        dtstart: 2021-04-22 17:30:00+02:00
+        dtend: 2021-04-22 19:00:00+02:00
