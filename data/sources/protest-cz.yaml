@@ -50451,3 +50451,98 @@ series:
         url: https://www.meetup.com/protest_cz/events/288724353/
         dtstart: 2022-10-11 18:00:00+02:00
         dtend: 2022-10-11 19:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '112. [pro:]TEST! Saša Zejnilović: z QA na VP'
+        description: '[pro:]TEST!
+
+          Wednesday, January 18 at 6:00 PM
+
+
+          **Anotace přednášky:**Prošel jsem si 7 hodně zajímavými lety v IT. Přežil jsem změny manažerů, reorganizace i konce projektů. Pracoval jsem jako QA, D...
+
+
+          https://www.meetup.com/protest_cz/events/290771011/'
+        location: Principal Engineering Ltd. (Na Hřebenech II 1718/8, Praha 4-Nusle, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290771011@meetup.com
+        url: https://www.meetup.com/protest_cz/events/290771011/
+        dtstart: 2023-01-18 18:00:00+01:00
+        dtend: 2023-01-18 19:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '[pro:]TEST! Vánoční Večírek'
+        description: '[pro:]TEST!
+
+          Tuesday, December 13 at 6:00 PM
+
+
+          Rádi bychom Vás pozvali na TEST! Vánoční večírek, kde budete mít možnost se potkat s členy naší testerské skupiny, probrat testerská i netesterská tém...\n
+
+          https://www.meetup.com/protest_cz/events/289876583/'
+        location: Inventi Development Ltd. (Táborská 940/31, Praha 4-Nusle, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289876583@meetup.com
+        url: https://www.meetup.com/protest_cz/events/289876583/
+        dtstart: 2022-12-13 18:00:00+01:00
+        dtend: 2022-12-13 23:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '111. [pro:]TEST! Panelová diskuse: Je automatizace bullshit? '
+        description: '[pro:]TEST!
+
+          Tuesday, November 22 at 6:00 PM
+
+
+          Automatizace testování. Pojem, který zná každý. Pojďme se na automatizaci podívat z jiného úhlu. Má opravdu smysl ji zavádět všude? Kdy se vyplatí a k...
+
+
+          https://www.meetup.com/protest_cz/events/289664915/'
+        location: tesena | SMART TESTING (Budějovická 1550, Praha 4-Michle, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289664915@meetup.com
+        url: https://www.meetup.com/protest_cz/events/289664915/
+        dtstart: 2022-11-22 18:00:00+01:00
+        dtend: 2022-11-22 19:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 110. [pro:]TEST! meetup - Jak začít s testováním Accessibility - Alina Sedymova
+        description: '[pro:]TEST!
+
+          Tuesday, October 11 at 6:00 PM
+
+
+          **Anotace přednášky** Pomalu ale jistě i k nám do čech proniká důležitost Accessibility (přístupnost) Testingu.Na přednášce se s Ali podíváme se na to...
+
+
+          https://www.meetup.com/protest_cz/events/288724353/'
+        location: Karolinská 650/1 (Karolinská 650/1, Praha 8-Karlín, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288724353@meetup.com
+        url: https://www.meetup.com/protest_cz/events/288724353/
+        dtstart: 2022-10-11 18:00:00+02:00
+        dtend: 2022-10-11 19:00:00+02:00
