@@ -38441,3 +38441,97 @@ series:
         url: https://www.meetup.com/asociace-ux/events/289984927/
         dtstart: 2022-12-05 18:00:00+01:00
         dtend: 2022-12-05 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: UX Dinner Brno in January
+        description: 'Asociace UX
+
+          Thursday, January 26 at 5:30 PM
+
+
+          UX dinner is a meeting of the UX community in Brno. You can expect an informal dinner, discussing small design problems, an opportunity to find a ment...\n
+
+          https://www.meetup.com/asociace-ux/events/290744897/'
+        location: Padagali (Kotlářská 51a, Brno-střed-Veveří, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290744897@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/290744897/
+        dtstart: 2023-01-26 17:30:00+01:00
+        dtend: 2023-01-26 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'UX Monday: Design maturity'
+        description: 'Asociace UX
+
+          Monday, January 9 at 6:00 PM
+
+
+          *Why in some companies designers don’t need to explain the value of design, while in others designers have to fight to do their job? How do companies ...
+
+
+          https://www.meetup.com/asociace-ux/events/290418481/'
+        location: Na Valentince (Na Valentince, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290418481@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/290418481/
+        dtstart: 2023-01-09 18:00:00+01:00
+        dtend: 2023-01-09 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Research Tuesday in English: Design for Social Impact: Notes from UNICEF'
+        description: 'Asociace UX
+
+          Tuesday, December 20 at 9:30 AM
+
+
+          **Research Tuesday - this time in English.** Research Tuesdays are gatherings where professionals in the field of user research share their experience...
+
+          \nhttps://www.meetup.com/asociace-ux/events/290344986/'
+        location: The Forge – Kovárna Braník (Branická 26/43, , Hlavní město Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290344986@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/290344986/
+        dtstart: 2022-12-20 09:30:00+01:00
+        dtend: 2022-12-20 12:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'UX Monday: Jak se mít v práci dobře'
+        description: 'Asociace UX
+
+          Monday, December 5 at 6:00 PM
+
+
+          *Kdy jste naposledy přemýšleli, jak se cítíte v práci? Zvažujete někdy, co vám práce dává a co bere? Je pro Vás důležité vědět, k čemu vaší prací přis...
+
+
+          https://www.meetup.com/asociace-ux/events/289984927/'
+        location: Na Valentince (Na Valentince, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289984927@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/289984927/
+        dtstart: 2022-12-05 18:00:00+01:00
+        dtend: 2022-12-05 20:00:00+01:00
