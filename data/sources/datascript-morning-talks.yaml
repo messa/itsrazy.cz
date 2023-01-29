@@ -50434,3 +50434,27 @@ series:
         url: https://www.meetup.com/morning-talks/events/290691472/
         dtstart: 2023-01-25 09:00:00+01:00
         dtend: 2023-01-25 10:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Úvod do problematiky ESG
+        description: 'Morning Talks
+
+          Wednesday, January 25 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/uvod-do-problematiky-esg/ **Na co se můžete těšit:...
+
+
+          https://www.meetup.com/morning-talks/events/290691472/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290691472@meetup.com
+        url: https://www.meetup.com/morning-talks/events/290691472/
+        dtstart: 2023-01-25 09:00:00+01:00
+        dtend: 2023-01-25 10:00:00+01:00
