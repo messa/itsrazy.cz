@@ -25747,3 +25747,39 @@ series:
         url: https://www.meetup.com/gdgprague/events/290575688/
         dtstart: 2023-01-17 18:30:00+01:00
         dtend: 2023-01-17 20:30:00+01:00
+  - meetupcom:
+      meta_description: '• How to join?
+
+        Online only because of covid https://discord.gg/TnaMJMyTDw
+
+
+        • What we''ll do
+
+        https://sites.google.com/site/garagepragueone/home
+
+
+        http://gdg-garage.github.io/
+
+        '
+      og_title: GDG Garage Prague One, Tue, Mar 28, 2023, 6:30 PM   | Meetup
+      url: https://www.meetup.com/gdgprague/events/xqcsqsyfcfblc/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Tuesday, March 28 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/gdgprague/events/xqcsqsyfcfblc/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_xqcsqsyfcfblc@meetup.com
+        url: https://www.meetup.com/gdgprague/events/xqcsqsyfcfblc/
+        dtstart: 2023-03-28 18:30:00+02:00
+        dtend: 2023-03-28 20:30:00+02:00
