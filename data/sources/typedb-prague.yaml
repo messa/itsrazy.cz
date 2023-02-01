@@ -21820,3 +21820,27 @@ series:
         url: https://www.meetup.com/typedb-prague/events/290418736/
         dtstart: 2023-01-26 18:30:00+01:00
         dtend: 2023-01-26 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: TypeDB Academy | Modelling Principles
+        description: 'TypeDB Prague Engineers
+
+          Thursday, January 26 at 6:30 PM
+
+
+          **Talk Synopsis**Join the (https://docs.vaticle.com/docs/general/quickstart) to learn how we think about data modelling, and how TypeDB''s expressivity...
+
+
+          https://www.meetup.com/typedb-prague/events/290418736/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290418736@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/290418736/
+        dtstart: 2023-01-26 18:30:00+01:00
+        dtend: 2023-01-26 19:30:00+01:00

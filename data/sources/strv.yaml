@@ -37179,3 +37179,26 @@ series:
         url: https://www.meetup.com/strv-meetups/events/290896731/
         dtstart: 2023-01-31 18:00:00+01:00
         dtend: 2023-01-31 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '(PRAGUE) Data & AI/ML Lightning Talks: Recommendations, Deconstructed'
+        description: 'STRV Meetups
+
+          Tuesday, January 31 at 6:00 PM
+
+
+          Imagine you want to have data-driven recommendation. Where do you even start? We’ll be sharing our experience with implementing social media recommend...
+
+          \nhttps://www.meetup.com/strv-meetups/events/290896731/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290896731@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/290896731/
+        dtstart: 2023-01-31 18:00:00+01:00
+        dtend: 2023-01-31 22:00:00+01:00
