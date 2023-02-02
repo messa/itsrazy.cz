@@ -39283,3 +39283,79 @@ series:
         url: https://www.meetup.com/asociace-ux/events/290744897/
         dtstart: 2023-01-26 17:30:00+01:00
         dtend: 2023-01-26 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Research Tuesday jsou setkání, kde profesionálové z oboru uživatelského výzkumu sdílí svoje zkušenosti.
+
+        Akci organizují Výzkumatky – Volné sdružení výzkumnic s odbornými zk'
+      og_title: 'Research Tuesday: Výzkum ve veřejném prostoru, Tue, Feb 14, 2023, 9:30 AM   | Meetup'
+      url: https://www.meetup.com/asociace-ux/events/291344547/
+      ical:
+        summary: 'Research Tuesday: Výzkum ve veřejném prostoru'
+        description: 'Asociace UX
+
+          Tuesday, February 14 at 9:30 AM
+
+
+          Research Tuesday jsou setkání, kde profesionálové z oboru uživatelského výzkumu sdílí svoje zkušenosti.Akci organizují Výzkumatky – Volné sdružení výz...
+
+
+          https://www.meetup.com/asociace-ux/events/291344547/'
+        location: The Forge – Kovárna Braník (Branická 26/43, , Hlavní město Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291344547@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/291344547/
+        dtstart: 2023-02-14 09:30:00+01:00
+        dtend: 2023-02-14 12:30:00+01:00
+  - meetupcom:
+      meta_description: 'Our UX Association has become the **Community Partner for ProductWorld 2023**.
+
+
+        As a gesture of thanks, the ProductWorld team has offered our group **25 free OPEN Passes an'
+      og_title: Free OPEN Passes to ProductWorld 2023, Tue, Feb 21, 2023, 6:00 PM   | Meetup
+      url: https://www.meetup.com/asociace-ux/events/291343276/
+      ical:
+        summary: Free OPEN Passes to ProductWorld 2023
+        description: 'Asociace UX
+
+          Tuesday, February 21 at 6:00 PM
+
+
+          Our UX Association has become the **Community Partner for ProductWorld 2023**. As a gesture of thanks, the ProductWorld team has offered our group **2...
+
+
+          https://www.meetup.com/asociace-ux/events/291343276/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291343276@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/291343276/
+        dtstart: 2023-02-21 18:00:00+01:00
+        dtend: 2023-02-21 23:59:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: UX Dinner Brno in January
+        description: 'Asociace UX
+
+          Thursday, January 26 at 5:30 PM
+
+
+          UX dinner is a meeting of the UX community in Brno. You can expect an informal dinner, discussing small design problems, an opportunity to find a ment...\n
+
+          https://www.meetup.com/asociace-ux/events/290744897/'
+        location: Padagali (Kotlářská 51a, Brno-střed-Veveří, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290744897@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/290744897/
+        dtstart: 2023-01-26 17:30:00+01:00
+        dtend: 2023-01-26 20:30:00+01:00
