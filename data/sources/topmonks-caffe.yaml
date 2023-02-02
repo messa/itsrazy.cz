@@ -60516,3 +60516,51 @@ series:
         url: https://www.meetup.com/topmonks-caffe/events/288726950/
         dtstart: 2022-10-04 19:00:00+02:00
         dtend: 2022-10-04 21:00:00+02:00
+  - meetupcom:
+      meta_description: Jirka Fabián si pozval staré páky - jako on - z české IT scény, a budou společně vzpomínat na staré dobré časy, jejich cestu v IT a všechny ty technologie a změny, které od
+      og_title: Dobře už bylo, Tue, Feb 7, 2023, 7:00 PM   | Meetup
+      url: https://www.meetup.com/topmonks-caffe/events/291347743/
+      ical:
+        summary: Dobře už bylo
+        description: 'TopMonks Caffè
+
+          Tuesday, February 7 at 7:00 PM
+
+
+          Jirka Fabián si pozval staré páky - jako on - z české IT scény, a budou společně vzpomínat na staré dobré časy, jejich cestu v IT a všechny ty technol...
+
+
+          https://www.meetup.com/topmonks-caffe/events/291347743/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291347743@meetup.com
+        url: https://www.meetup.com/topmonks-caffe/events/291347743/
+        dtstart: 2023-02-07 19:00:00+01:00
+        dtend: 2023-02-07 21:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: První TopMonks Caffè v roce 2023
+        description: 'TopMonks Caffè
+
+          Tuesday, January 10 at 7:00 PM
+
+
+          Máme tu nový rok 2023 a ten zcela netradičně začneme až v druhém týdnu, protože ten první by stejně nikdo nemohl. Loft N8 už je po rekonstrukci, takže...
+
+
+          https://www.meetup.com/topmonks-caffe/events/290740583/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290740583@meetup.com
+        url: https://www.meetup.com/topmonks-caffe/events/290740583/
+        dtstart: 2023-01-10 19:00:00+01:00
+        dtend: 2023-01-10 21:00:00+01:00

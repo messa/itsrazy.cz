@@ -48523,14 +48523,9 @@ series:
         dtstart: 2023-01-25 09:00:00+01:00
         dtend: 2023-01-25 10:00:00+01:00
   - meetupcom:
-      meta_description: '**Prosíme Vás o registraci přímo na stránkách Datascriptu:**
-
-        https://www.datascript.cz/morning-talks/evoluce-pythonu-moderni-prostredi-nova-syntaxe-a-trendy/
-
-
-        Za více než 3'
-      og_title: Evoluce Pythonu - moderní prostředí, nová syntaxe a trendy, Thu, Feb 2, 2023, 9:00 AM   | Meetup
-      url: https://www.meetup.com/morning-talks/events/290691494/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Evoluce Pythonu - moderní prostředí, nová syntaxe a trendy
         description: 'Morning Talks
@@ -50698,3 +50693,31 @@ series:
         url: https://www.meetup.com/morning-talks/events/290691472/
         dtstart: 2023-01-25 09:00:00+01:00
         dtend: 2023-01-25 10:00:00+01:00
+  - meetupcom:
+      meta_description: '**Prosíme Vás o registraci přímo na stránkách Datascriptu:**
+
+        https://www.datascript.cz/morning-talks/microservices-patterny-a-jejich-pouziti-v-praxi/
+
+
+        Uděláme si menší výle'
+      og_title: Microservices patterny a jejich použítí v praxi, Tue, Feb 21, 2023, 9:00 AM   | Meetup
+      url: https://www.meetup.com/morning-talks/events/290691720/
+      ical:
+        summary: Microservices patterny a jejich použítí v praxi
+        description: 'Morning Talks
+
+          Tuesday, February 21 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/microservices-patterny-a-jejich-pouziti-v-praxi/ U...\n
+
+          https://www.meetup.com/morning-talks/events/290691720/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290691720@meetup.com
+        url: https://www.meetup.com/morning-talks/events/290691720/
+        dtstart: 2023-02-21 09:00:00+01:00
+        dtend: 2023-02-21 10:00:00+01:00
