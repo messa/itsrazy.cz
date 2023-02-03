@@ -37298,3 +37298,27 @@ series:
         url: https://www.meetup.com/strv-meetups/events/291307881/
         dtstart: 2023-02-16 18:00:00+01:00
         dtend: 2023-02-16 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '(BRNO) Data & AI/ML Lightning Talks: Recommendations, Deconstructed'
+        description: 'STRV Meetups
+
+          Thursday, February 2 at 6:00 PM
+
+
+          Imagine you want to have data-driven recommendation. Where do you even start? We’ll be sharing our experience with implementing social media recommend...
+
+
+          https://www.meetup.com/strv-meetups/events/290896746/'
+        location: STRV (Přízova 284/5, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290896746@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/290896746/
+        dtstart: 2023-02-02 18:00:00+01:00
+        dtend: 2023-02-02 22:00:00+01:00

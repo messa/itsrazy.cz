@@ -47932,13 +47932,13 @@ series:
         dtend: 2022-06-21 19:30:00+02:00
   - meetupcom:
       meta_description: Come and explore the effective sabotage techniques to put any company on knees, while looking at how to effectively evolve from sabotaging to value creation. We will play g
-      og_title: 6 Things You Should Do To Sabotage The Corporation - STUDENTS ONLY, Wed, Feb 22, 2023, 4:30 PM   | Meetup
+      og_title: 6 Things You Should Do To Sabotage The Corporation - STUDENTS ONLY, Tue, Feb 21, 2023, 4:30 PM   | Meetup
       url: https://www.meetup.com/msd-it-meet-ups/events/291358395/
       ical:
         summary: 6 Things You Should Do To Sabotage The Corporation - STUDENTS ONLY
         description: 'MSD IT Meet Ups
 
-          Wednesday, February 22 at 4:30 PM
+          Tuesday, February 21 at 4:30 PM
 
 
           Come and explore the effective sabotage techniques to put any company on knees, while looking at how to effectively evolve from sabotaging to value cr...
@@ -47952,8 +47952,32 @@ series:
         status: CONFIRMED
         uid: event_291358395@meetup.com
         url: https://www.meetup.com/msd-it-meet-ups/events/291358395/
-        dtstart: 2023-02-22 16:30:00+01:00
-        dtend: 2023-02-22 18:30:00+01:00
+        dtstart: 2023-02-21 16:30:00+01:00
+        dtend: 2023-02-21 18:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Cybersecurity Meetup
+        description: 'MSD IT Meet Ups
+
+          Thursday, December 8 at 6:00 PM
+
+
+          We are back with second Cybersecurity Meet Up! Building trusted cybersecurity community is one of our goals and ways how to be more resilient together...
+
+
+          https://www.meetup.com/msd-it-meet-ups/events/289744200/'
+        location: MSD building FIVE (Na Valentince 504, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289744200@meetup.com
+        url: https://www.meetup.com/msd-it-meet-ups/events/289744200/
+        dtstart: 2022-12-08 18:00:00+01:00
+        dtend: 2022-12-08 20:00:00+01:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
