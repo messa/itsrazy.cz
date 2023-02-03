@@ -60588,3 +60588,27 @@ series:
         url: https://www.meetup.com/topmonks-caffe/events/290740583/
         dtstart: 2023-01-10 19:00:00+01:00
         dtend: 2023-01-10 21:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: První TopMonks Caffè v roce 2023
+        description: 'TopMonks Caffè
+
+          Tuesday, January 10 at 7:00 PM
+
+
+          Máme tu nový rok 2023 a ten zcela netradičně začneme až v druhém týdnu, protože ten první by stejně nikdo nemohl. Loft N8 už je po rekonstrukci, takže...
+
+
+          https://www.meetup.com/topmonks-caffe/events/290740583/'
+        location: Loft N8 Restaurant and Shisha Lounge (Nekázanka 883/8, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290740583@meetup.com
+        url: https://www.meetup.com/topmonks-caffe/events/290740583/
+        dtstart: 2023-01-10 19:00:00+01:00
+        dtend: 2023-01-10 21:00:00+01:00
