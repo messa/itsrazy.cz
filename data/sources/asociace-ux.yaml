@@ -39613,3 +39613,26 @@ series:
         url: https://www.meetup.com/asociace-ux/events/290744897/
         dtstart: 2023-01-26 17:30:00+01:00
         dtend: 2023-01-26 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: UX Dinner Brno in January
+        description: 'Asociace UX
+
+          Thursday, January 26 at 5:30 PM
+
+
+          UX dinner is a meeting of the UX community in Brno. You can expect an informal dinner, discussing small design problems, an opportunity to find a ment...\n
+
+          https://www.meetup.com/asociace-ux/events/290744897/'
+        location: Padagali (Kotlářská 51a, Brno-střed-Veveří, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290744897@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/290744897/
+        dtstart: 2023-01-26 17:30:00+01:00
+        dtend: 2023-01-26 20:30:00+01:00
