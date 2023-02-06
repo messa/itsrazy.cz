@@ -11338,21 +11338,21 @@ series:
         dtstart: 2022-09-21 19:00:00+02:00
         dtend: 2022-09-21 23:59:00+02:00
   - meetupcom:
-      meta_description: We will meet for an informal chat about Python, programming, and more. Details will be added.
-      og_title: 'Pyvo Prague #, Wed, Feb 15, 2023, 7:00 PM   | Meetup'
+      meta_description: We organize Pyvo in February as well! We meet up at 19 at Klub Na Věnečku, presentations start at 19.30. You can look forward to 3 presentations, lightning talks and chit-c
+      og_title: 'Pyvo Prague #141 - Asyncio, Tech interview, Lunch break problem, Wed, Feb 15, 2023, 7:00 PM   | Meetup'
       url: https://www.meetup.com/pyvo-prague-python-meetup/events/bcxlssyfcdbtb/
       ical:
-        summary: 'Pyvo Prague #'
+        summary: 'Pyvo Prague #141 - Asyncio, Tech interview, Lunch break problem'
         description: 'Pyvo: Prague Python Meetup
 
           Wednesday, February 15 at 7:00 PM
 
 
-          We will meet for an informal chat about Python, programming, and more. Details will be added.
+          We organize Pyvo in February as well! We meet up at 19 at Klub Na Věnečku, presentations start at 19.30. You can look forward to 3 presentations, ligh...
 
 
           https://www.meetup.com/pyvo-prague-python-meetup/events/291145780/'
-        location: Prague (, Prague, Czech Republic)
+        location: Klub Na Věnečku (Ostrovského 38a, Praha 5, Czech Republic 150 00)
         geo:
           lat: 50.08
           lon: 14.43
@@ -18969,6 +18969,102 @@ series:
         url: https://www.meetup.com/pyvo-prague-python-meetup/events/290046650/
         dtstart: 2023-01-18 19:00:00+01:00
         dtend: 2023-01-18 23:59:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Pyvo Prague #140 - Python Pub Quiz'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, January 18 at 7:00 PM
+
+
+          Hey Python lovers! You''re invited to come hang out and show off your Python skills at our Python Pub Quiz we''ve prepared for you in cooperation with P...
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/290046650/'
+        location: Na Venecku (Ostrovskeho 38a, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_bcxlssyfccbxb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/290046650/
+        dtstart: 2023-01-18 19:00:00+01:00
+        dtend: 2023-01-18 23:59:00+01:00
+  - meetupcom:
+      meta_description: We will meet for an informal chat about Python, programming, and more. Details will be added.
+      og_title: 'Pyvo Prague #, Wed, Mar 15, 2023, 7:00 PM   | Meetup'
+      url: https://www.meetup.com/pyvo-prague-python-meetup/events/rrlcctyfcfbtb/
+      ical:
+        summary: 'Pyvo Prague #'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, March 15 at 7:00 PM
+
+
+          We will meet for an informal chat about Python, programming, and more. Details will be added.
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/rrlcctyfcfbtb/'
+        location: Klub Na Věnečku (Ostrovského 38a, Praha 5, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_rrlcctyfcfbtb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/rrlcctyfcfbtb/
+        dtstart: 2023-03-15 19:00:00+01:00
+        dtend: 2023-03-15 23:59:00+01:00
+  - meetupcom:
+      meta_description: We will meet for an informal chat about Python, programming, and more. Details will be added.
+      og_title: 'Pyvo Prague #, Wed, Apr 19, 2023, 7:00 PM   | Meetup'
+      url: https://www.meetup.com/pyvo-prague-python-meetup/events/rrlcctyfcgbzb/
+      ical:
+        summary: 'Pyvo Prague #'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, April 19 at 7:00 PM
+
+
+          We will meet for an informal chat about Python, programming, and more. Details will be added.
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/rrlcctyfcgbzb/'
+        location: Klub Na Věnečku (Ostrovského 38a, Praha 5, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_rrlcctyfcgbzb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/rrlcctyfcgbzb/
+        dtstart: 2023-04-19 19:00:00+02:00
+        dtend: 2023-04-19 23:59:00+02:00
+  - meetupcom:
+      meta_description: We will meet for an informal chat about Python, programming, and more. Details will be added.
+      og_title: 'Pyvo Prague #, Wed, May 17, 2023, 7:00 PM   | Meetup'
+      url: https://www.meetup.com/pyvo-prague-python-meetup/events/rrlcctyfchbwb/
+      ical:
+        summary: 'Pyvo Prague #'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, May 17 at 7:00 PM
+
+
+          We will meet for an informal chat about Python, programming, and more. Details will be added.
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/rrlcctyfchbwb/'
+        location: Klub Na Věnečku (Ostrovského 38a, Praha 5, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_rrlcctyfchbwb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/rrlcctyfchbwb/
+        dtstart: 2023-05-17 19:00:00+02:00
+        dtend: 2023-05-17 23:59:00+02:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
