@@ -649,3 +649,29 @@ series:
         url: https://www.meetup.com/praguejs/events/289943937/
         dtstart: 2023-01-19 18:30:00+01:00
         dtend: 2023-01-19 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Get out and get social in 2023 : come out and discuss JS together!
+
+        Get in touch with the organizers with any questions you have. We welcome a diverse range of topics that a'
+      og_title: '2023 #2 How to write clean and scalable code, Thu, Feb 23, 2023, 6:30 PM   | Meetup'
+      url: https://www.meetup.com/praguejs/events/291033365/
+      ical:
+        summary: '2023 #2 How to write clean and scalable code'
+        description: 'PragueJS
+
+          Thursday, February 23 at 6:30 PM
+
+
+          Get out and get social in 2023 : come out and discuss JS together!Get in touch with the organizers with any questions you have. We welcome a diverse r...
+
+
+          https://www.meetup.com/praguejs/events/291033365/'
+        location: WORLD HUB coworking meeting bookstore (Slovenská 1705, Vinohrady, Praha-Praha 2, Czech Republic 120 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291033365@meetup.com
+        url: https://www.meetup.com/praguejs/events/291033365/
+        dtstart: 2023-02-23 18:30:00+01:00
+        dtend: 2023-02-23 20:30:00+01:00
