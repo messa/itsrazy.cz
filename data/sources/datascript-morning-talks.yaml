@@ -48546,11 +48546,9 @@ series:
         dtstart: 2023-02-02 09:00:00+01:00
         dtend: 2023-02-02 10:00:00+01:00
   - meetupcom:
-      meta_description: '**Prosíme Vás o registraci přímo na stránkách Datascriptu:**
-
-        https://www.datascript.cz/morning-talks/predstaveni-modernich-linuxovych-kontejneru-pomoci-nastroju-podman-a-bu'
-      og_title: Představení moderních linuxových kontejnerů pomocí nástrojů Podman a Buildah, Wed, Feb 8, 2023, 9:00 AM   | Meetup
-      url: https://www.meetup.com/morning-talks/events/290691506/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Představení moderních linuxových kontejnerů pomocí nástrojů Podman a Buildah
         description: 'Morning Talks
@@ -51112,3 +51110,29 @@ series:
         url: https://www.meetup.com/morning-talks/events/290691494/
         dtstart: 2023-02-02 09:00:00+01:00
         dtend: 2023-02-02 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Dámy a pánové,
+
+
+        rádi bychom Vás pozvali na **11\. IT konferenci** pořádanou pod taktovkou společnosti Datascript. Tentorát jsme se zaměřili na best practices z pohledu návr'
+      og_title: Softwarová architektura a její dopady na provoz, Tue, Apr 4, 2023, 9:00 AM   | Meetup
+      url: https://www.meetup.com/morning-talks/events/290735923/
+      ical:
+        summary: Softwarová architektura a její dopady na provoz
+        description: 'Morning Talks
+
+          Tuesday, April 4 at 9:00 AM
+
+
+          Dámy a pánové\,  rádi bychom Vás pozvali na **11\\. IT konferenci** pořádanou pod taktovkou společnosti Datascript. Tentorát jsme se zaměřili na best pr...
+
+          \nhttps://www.meetup.com/morning-talks/events/290735923/'
+        location: Institute of Clinical and Experimental Medicine (Vídeňská 1958, Praha 4, Czech Republic 140 21)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290735923@meetup.com
+        url: https://www.meetup.com/morning-talks/events/290735923/
+        dtstart: 2023-04-04 09:00:00+02:00
+        dtend: 2023-04-04 17:30:00+02:00

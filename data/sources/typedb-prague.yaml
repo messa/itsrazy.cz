@@ -23400,3 +23400,99 @@ series:
         url: https://www.meetup.com/typedb-prague/events/290350452/
         dtstart: 2023-01-19 18:30:00+01:00
         dtend: 2023-01-19 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Graph Databases vs TypeDB | What You Can''t do With Graphs '
+        description: 'TypeDB Prague Engineers
+
+          Thursday, February 2 at 6:30 PM
+
+
+          **Talk Synopsis**Developing with graph databases has a number of challenges, such as the modelling of complex schemas, and maintaining data consistenc...
+
+
+          https://www.meetup.com/typedb-prague/events/290996615/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290996615@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/290996615/
+        dtstart: 2023-02-02 18:30:00+01:00
+        dtend: 2023-02-02 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: TypeDB Academy | Modelling Principles
+        description: 'TypeDB Prague Engineers
+
+          Thursday, January 26 at 6:30 PM
+
+
+          **Talk Synopsis**Join the (https://docs.vaticle.com/docs/general/quickstart) to learn how we think about data modelling, and how TypeDB''s expressivity...
+
+
+          https://www.meetup.com/typedb-prague/events/290418736/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290418736@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/290418736/
+        dtstart: 2023-01-26 18:30:00+01:00
+        dtend: 2023-01-26 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Building Biomedical Knowledge Graphs for In-Silico Drug Discovery
+        description: 'TypeDB Prague Engineers
+
+          Tuesday, January 24 at 6:30 PM
+
+
+          **Talk Synopsis:**The rapid development and spread of analytical tools in the biomedical sciences has produced a variety of information about all sort...
+
+
+          https://www.meetup.com/typedb-prague/events/290419416/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290419416@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/290419416/
+        dtstart: 2023-01-24 18:30:00+01:00
+        dtend: 2023-01-24 19:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Building an Open Source Threat Intelligence Platform
+        description: 'TypeDB Prague Engineers
+
+          Thursday, January 19 at 6:30 PM
+
+
+          **Talk Synopsis**Knowledge of cyber threats is a key focus in cyber security. In this talk, we present (https://t.sidekickopen87.com/s3t/c/5/f18dQhb0S...
+
+
+          https://www.meetup.com/typedb-prague/events/290350452/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290350452@meetup.com
+        url: https://www.meetup.com/typedb-prague/events/290350452/
+        dtstart: 2023-01-19 18:30:00+01:00
+        dtend: 2023-01-19 19:30:00+01:00
