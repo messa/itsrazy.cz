@@ -25789,9 +25789,9 @@ series:
         dtstart: 2022-12-14 18:00:00+01:00
         dtend: 2022-12-14 20:00:00+01:00
   - meetupcom:
-      meta_description: Hospodský sraz komunity [Frontendisti.cz](http://frontendisti.cz/). Cílem hospodského srazu je vytvoření diskusního večera. Úplně klasické přednášky tedy nečekejte, zaměřím
-      og_title: 'Brno: Diskuzní večer o kompresi dat na webu, Wed, Feb 8, 2023, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/frontendisti/events/289061411/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Brno: Diskuzní večer o kompresi dat na webu'
         description: 'Frontendisti.cz
@@ -34261,3 +34261,33 @@ series:
         url: https://www.meetup.com/frontendisti/events/288945709/
         dtstart: 2022-12-14 18:00:00+01:00
         dtend: 2022-12-14 20:00:00+01:00
+  - meetupcom:
+      meta_description: '**Pravidelný hospodský sraz komunity [Frontendisti.cz](http://frontendisti.cz/)**
+
+
+        **Program a místo budou upřesněny před konáním akce.**
+
+
+        Svoji přednášku můžeš přihlásit n'
+      og_title: 'Brno: Hospodský sraz - duben, Wed, Apr 12, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/frontendisti/events/289061415/
+      ical:
+        summary: 'Brno: Hospodský sraz - duben'
+        description: 'Frontendisti.cz
+
+          Wednesday, April 12 at 6:00 PM
+
+
+          **Pravidelný hospodský sraz komunity (http://frontendisti.cz/)** **Program a místo budou upřesněny před konáním akce.** Svoji přednášku můžeš přihlási...
+
+
+          https://www.meetup.com/frontendisti/events/289061415/'
+        location: Café Trojka (Dominikánská 9, Brno-Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289061415@meetup.com
+        url: https://www.meetup.com/frontendisti/events/289061415/
+        dtstart: 2023-04-12 18:00:00+02:00
+        dtend: 2023-04-12 20:00:00+02:00
