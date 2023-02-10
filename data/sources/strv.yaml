@@ -36619,12 +36619,9 @@ series:
         dtstart: 2022-11-24 18:00:00+01:00
         dtend: 2022-11-24 22:00:00+01:00
   - meetupcom:
-      meta_description: '**[🔥 PLEASE CLAIM YOUR FREE TICKET HERE 🔥](https://www.eventbrite.com/e/522566278807)**
-
-
-        You’re invited to our Lightning Talks! As opposed to our regular format, these wi'
-      og_title: (PRAGUE) iOS Lightning Talks, Thu, Feb 9, 2023, 6:00 PM   | Meetup
-      url: https://www.meetup.com/strv-meetups/events/291136548/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: (PRAGUE) iOS Lightning Talks
         description: 'STRV Meetups
