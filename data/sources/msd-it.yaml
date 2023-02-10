@@ -48530,3 +48530,27 @@ series:
         url: https://www.meetup.com/msd-it-meet-ups/events/289744200/
         dtstart: 2022-12-08 18:00:00+01:00
         dtend: 2022-12-08 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Cybersecurity Meetup
+        description: 'MSD IT Meet Ups
+
+          Thursday, December 8 at 6:00 PM
+
+
+          We are back with second Cybersecurity Meet Up! Building trusted cybersecurity community is one of our goals and ways how to be more resilient together...
+
+
+          https://www.meetup.com/msd-it-meet-ups/events/289744200/'
+        location: MSD building FIVE (Na Valentince 504, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289744200@meetup.com
+        url: https://www.meetup.com/msd-it-meet-ups/events/289744200/
+        dtstart: 2022-12-08 18:00:00+01:00
+        dtend: 2022-12-08 20:00:00+01:00
