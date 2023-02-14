@@ -37976,3 +37976,26 @@ series:
         url: https://www.meetup.com/strv-meetups/events/291136548/
         dtstart: 2023-02-09 18:00:00+01:00
         dtend: 2023-02-09 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (PRAGUE) iOS Lightning Talks
+        description: 'STRV Meetups
+
+          Thursday, February 9 at 6:00 PM
+
+
+          **(https://www.eventbrite.com/e/522566278807)** You’re invited to our Lightning Talks! As opposed to our regular format, these will be short and quick...\n
+
+          https://www.meetup.com/strv-meetups/events/291136548/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291136548@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/291136548/
+        dtstart: 2023-02-09 18:00:00+01:00
+        dtend: 2023-02-09 22:00:00+01:00
