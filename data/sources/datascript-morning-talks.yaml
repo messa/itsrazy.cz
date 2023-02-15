@@ -49602,14 +49602,9 @@ series:
         dtstart: 2022-10-26 09:00:00+02:00
         dtend: 2022-10-26 10:00:00+02:00
   - meetupcom:
-      meta_description: '**Prosíme Vás o registraci přímo na stránkách Datascriptu:**
-
-        https://www.datascript.cz/morning-talks/prometheus-pro-logging-metering-a-profiling/
-
-
-        Neustále rostoucí nároky '
-      og_title: Prometheus pro logging, metering a profiling, Wed, Feb 15, 2023, 9:00 AM   | Meetup
-      url: https://www.meetup.com/morning-talks/events/290691523/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Prometheus pro logging, metering a profiling
         description: 'Morning Talks
@@ -51616,3 +51611,26 @@ series:
         url: https://www.meetup.com/morning-talks/events/290691506/
         dtstart: 2023-02-08 09:00:00+01:00
         dtend: 2023-02-08 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Dovolujeme si Vás pozvat na konferenci věnovanou stresu a psychohygieně v dnešním zrychleném životě, kterou pořádá naše sesterská společnost. Pojďme se na chvilku zastavit '
+      og_title: Jarní restart mysli, Wed, Apr 26, 2023, 9:00 AM   | Meetup
+      url: https://www.meetup.com/morning-talks/events/291043363/
+      ical:
+        summary: Jarní restart mysli
+        description: 'Morning Talks
+
+          Wednesday, April 26 at 9:00 AM
+
+
+          Dovolujeme si Vás pozvat na konferenci věnovanou stresu a psychohygieně v dnešním zrychleném životě, kterou pořádá naše sesterská společnost. Pojďme s...\n
+
+          https://www.meetup.com/morning-talks/events/291043363/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291043363@meetup.com
+        url: https://www.meetup.com/morning-talks/events/291043363/
+        dtstart: 2023-04-26 09:00:00+02:00
+        dtend: 2023-04-26 17:00:00+02:00

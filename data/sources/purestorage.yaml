@@ -56861,3 +56861,27 @@ series:
         url: https://www.meetup.com/pure-storage-talks/events/291134551/
         dtstart: 2023-01-26 17:30:00+01:00
         dtend: 2023-01-26 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: C++ Meetup by Pure Storage
+        description: 'Pure Storage Talks
+
+          Thursday, January 26 at 5:30 PM
+
+
+          Let''s start the new year with something new! Local community is lacking some C++ initiative, so we have decided to cover this gap and set the cornerst...
+
+
+          https://www.meetup.com/pure-storage-talks/events/291134551/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291134551@meetup.com
+        url: https://www.meetup.com/pure-storage-talks/events/291134551/
+        dtstart: 2023-01-26 17:30:00+01:00
+        dtend: 2023-01-26 20:30:00+01:00
