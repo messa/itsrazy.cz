@@ -37125,12 +37125,9 @@ series:
         dtstart: 2022-11-24 18:00:00+01:00
         dtend: 2022-11-24 22:00:00+01:00
   - meetupcom:
-      meta_description: '**[🔥 PLEASE CLAIM YOUR FREE TICKET HERE 🔥](https://www.eventbrite.com/e/529055237457)**
-
-
-        After a long time, the STRV Frontend team is organizing a meetup solely focused o'
-      og_title: (BRNO) React Native Meetup, Tue, Feb 14, 2023, 6:00 PM   | Meetup
-      url: https://www.meetup.com/strv-meetups/events/291307706/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: (BRNO) React Native Meetup
         description: 'STRV Meetups

@@ -68192,3 +68192,27 @@ series:
         url: https://www.meetup.com/agilni-open-cafe-praha/events/290103310/
         dtstart: 2022-12-07 16:00:00+01:00
         dtend: 2022-12-07 18:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Certain Uncertainty & Evan Leybourn – 7.12.2022
+        description: 'Agilni Open Cafe Praha
+
+          Wednesday, December 7 at 4:00 PM
+
+
+          Registration: bit.ly/kb_certain_uncertainty Téma:  Certain UncertaintyNo matter what the future brings.These 6 words are the heart of business agility...
+
+
+          https://www.meetup.com/agilni-open-cafe-praha/events/290103310/'
+        location: Komercni Banka (Náměstí Junkových 2772/1, , Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290103310@meetup.com
+        url: https://www.meetup.com/agilni-open-cafe-praha/events/290103310/
+        dtstart: 2022-12-07 16:00:00+01:00
+        dtend: 2022-12-07 18:00:00+01:00
