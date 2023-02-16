@@ -51658,3 +51658,27 @@ series:
         url: https://www.meetup.com/morning-talks/events/290691523/
         dtstart: 2023-02-15 09:00:00+01:00
         dtend: 2023-02-15 10:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Prometheus pro logging, metering a profiling
+        description: 'Morning Talks
+
+          Wednesday, February 15 at 9:00 AM
+
+
+          **Prosíme Vás o registraci přímo na stránkách Datascriptu:**https://www.datascript.cz/morning-talks/prometheus-pro-logging-metering-a-profiling/ Neust...
+
+
+          https://www.meetup.com/morning-talks/events/290691523/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290691523@meetup.com
+        url: https://www.meetup.com/morning-talks/events/290691523/
+        dtstart: 2023-02-15 09:00:00+01:00
+        dtend: 2023-02-15 10:00:00+01:00

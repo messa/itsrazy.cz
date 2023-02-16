@@ -34087,3 +34087,27 @@ series:
         url: https://www.meetup.com/tesena-testing-club/events/289183729/
         dtstart: 2022-12-13 15:00:00+01:00
         dtend: 2022-12-13 16:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (EN) Complete Test Automation With Cypress and Harmony
+        description: 'Tesena Testing Club
+
+          Tuesday, December 13 at 3:00 PM
+
+
+          In this presentation, I will show how test execution automation (Cypress) and test design automation (Harmony) work together. Harmony uses double-phas...
+
+
+          https://www.meetup.com/tesena-testing-club/events/289183729/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289183729@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/289183729/
+        dtstart: 2022-12-13 15:00:00+01:00
+        dtend: 2022-12-13 16:00:00+01:00
