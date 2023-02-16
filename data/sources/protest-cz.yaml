@@ -55705,3 +55705,27 @@ series:
         url: https://www.meetup.com/protest_cz/events/290771011/
         dtstart: 2023-01-18 18:00:00+01:00
         dtend: 2023-01-18 19:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '112. [pro:]TEST! Saša Zejnilović: z QA na VP'
+        description: '[pro:]TEST!
+
+          Wednesday, January 18 at 6:00 PM
+
+
+          **Anotace přednášky:**Prošel jsem si 7 hodně zajímavými lety v IT. Přežil jsem změny manažerů, reorganizace i konce projektů. Pracoval jsem jako QA, D...
+
+
+          https://www.meetup.com/protest_cz/events/290771011/'
+        location: Principal Engineering Ltd. (Na Hřebenech II 1718/8, Praha 4-Nusle, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290771011@meetup.com
+        url: https://www.meetup.com/protest_cz/events/290771011/
+        dtstart: 2023-01-18 18:00:00+01:00
+        dtend: 2023-01-18 19:00:00+01:00
