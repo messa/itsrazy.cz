@@ -34873,3 +34873,27 @@ series:
         url: https://www.meetup.com/frontendisti/events/289061411/
         dtstart: 2023-02-08 18:00:00+01:00
         dtend: 2023-02-08 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Brno: Diskuzní večer o kompresi dat na webu'
+        description: 'Frontendisti.cz
+
+          Wednesday, February 8 at 6:00 PM
+
+
+          Hospodský sraz komunity (http://frontendisti.cz/). Cílem hospodského srazu je vytvoření diskusního večera. Úplně klasické přednášky tedy nečekejte, za...
+
+
+          https://www.meetup.com/frontendisti/events/289061411/'
+        location: BarCafé Éléphant (Lidická 705/43, Brno-střed-Veveří, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289061411@meetup.com
+        url: https://www.meetup.com/frontendisti/events/289061411/
+        dtstart: 2023-02-08 18:00:00+01:00
+        dtend: 2023-02-08 20:00:00+01:00
