@@ -40521,3 +40521,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/291344547/
         dtstart: 2023-02-14 09:30:00+01:00
         dtend: 2023-02-14 12:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Research Tuesday: Výzkum ve veřejném prostoru'
+        description: 'Asociace UX
+
+          Tuesday, February 14 at 9:30 AM
+
+
+          Research Tuesday jsou setkání, kde profesionálové z oboru uživatelského výzkumu sdílí svoje zkušenosti.Akci organizují Výzkumatky – Volné sdružení výz...
+
+
+          https://www.meetup.com/asociace-ux/events/291344547/'
+        location: The Forge – Kovárna Braník (Branická 26/43, , Hlavní město Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291344547@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/291344547/
+        dtstart: 2023-02-14 09:30:00+01:00
+        dtend: 2023-02-14 12:30:00+01:00
