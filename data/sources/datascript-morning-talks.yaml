@@ -50682,14 +50682,9 @@ series:
         dtstart: 2023-01-25 09:00:00+01:00
         dtend: 2023-01-25 10:00:00+01:00
   - meetupcom:
-      meta_description: '**Prosíme Vás o registraci přímo na stránkách Datascriptu:**
-
-        https://www.datascript.cz/morning-talks/microservices-patterny-a-jejich-pouziti-v-praxi/
-
-
-        Uděláme si menší výle'
-      og_title: Microservices patterny a jejich použítí v praxi, Tue, Feb 21, 2023, 9:00 AM   | Meetup
-      url: https://www.meetup.com/morning-talks/events/290691720/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Microservices patterny a jejich použítí v praxi
         description: 'Morning Talks
