@@ -34495,3 +34495,27 @@ series:
         url: https://www.meetup.com/tesena-testing-club/events/291286503/
         dtstart: 2023-02-16 16:30:00+01:00
         dtend: 2023-02-16 17:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (CZ) Jak najít více chyb za méně času - v praxi
+        description: 'Tesena Testing Club
+
+          Thursday, February 16 at 4:30 PM
+
+
+          **Popis webináře** Pokračování úspěšného webináře "Jak najít více chyb za méně času". Tentokrát si na praktickém příkladu ukážeme, jak velký rozdíl ná...
+
+
+          https://www.meetup.com/tesena-testing-club/events/291286503/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291286503@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/291286503/
+        dtstart: 2023-02-16 16:30:00+01:00
+        dtend: 2023-02-16 17:30:00+01:00
