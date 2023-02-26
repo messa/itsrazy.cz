@@ -18031,3 +18031,24 @@ series:
         url: https://www.meetup.com/praguerb/events/290899038/
         dtstart: 2023-02-01 19:00:00+01:00
         dtend: 2023-02-01 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: First Wednesday Of The Month - Ruby
+        description: 'Prague.rb / CSRUG
+
+          Wednesday, February 1 at 7:00 PM
+
+
+          https://www.meetup.com/praguerb/events/290899038/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_dkmktfyfcdbcb@meetup.com
+        url: https://www.meetup.com/praguerb/events/290899038/
+        dtstart: 2023-02-01 19:00:00+01:00
+        dtend: 2023-02-01 22:00:00+01:00
