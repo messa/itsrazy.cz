@@ -40926,3 +40926,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/291343276/
         dtstart: 2023-02-21 18:00:00+01:00
         dtend: 2023-02-21 23:59:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Free OPEN Passes to ProductWorld 2023
+        description: 'Asociace UX
+
+          Tuesday, February 21 at 6:00 PM
+
+
+          Our UX Association has become the **Community Partner for ProductWorld 2023**. As a gesture of thanks, the ProductWorld team has offered our group **2...
+
+
+          https://www.meetup.com/asociace-ux/events/291343276/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291343276@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/291343276/
+        dtstart: 2023-02-21 18:00:00+01:00
+        dtend: 2023-02-21 23:59:00+01:00
