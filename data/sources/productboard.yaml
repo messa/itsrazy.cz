@@ -59219,3 +59219,99 @@ series:
         url: https://www.meetup.com/productboard-meetups/events/288520503/
         dtstart: 2022-09-27 18:00:00+02:00
         dtend: 2022-09-27 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: JVM Meetup | BRNO
+        description: 'Productboard Meetups
+
+          Wednesday, October 26 at 6:00 PM
+
+
+          Join us for our in-person JVM Meetup at Impact Hub Brno! **Get your tickets here: (https://talkbase.io/event/jvm-meetup-brno/productboard" class="link...
+
+
+          https://www.meetup.com/productboard-meetups/events/289227181/'
+        location: Impact Hub Brno (Cyrilská 7, Brno-střed-Trnitá, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289227181@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/289227181/
+        dtstart: 2022-10-26 18:00:00+02:00
+        dtend: 2022-10-26 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Engineering Leadership Meetup #5'
+        description: 'Productboard Meetups
+
+          Tuesday, October 25 at 6:00 PM
+
+
+          🚨 Get inspired by people who have stepped up, found their voice, and propelled their careers in leadership roles in the software engineering industry....
+
+
+          https://www.meetup.com/productboard-meetups/events/289231460/'
+        location: Productboard (Boudníkova 2506/3, Praha 8-Libeň, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289231460@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/289231460/
+        dtstart: 2022-10-25 18:00:00+02:00
+        dtend: 2022-10-25 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Typescript Meetup: Functional programming in Typescript'
+        description: 'Productboard Meetups
+
+          Thursday, September 29 at 6:00 PM
+
+
+          **Productboard Meetups are back! This time, you will learn why and how to program functionally in TypeScript.** **Register here: (https://www.eventbri...
+
+
+          https://www.meetup.com/productboard-meetups/events/288646553/'
+        location: Boudníkova 3 (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288646553@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/288646553/
+        dtstart: 2022-09-29 18:00:00+02:00
+        dtend: 2022-09-29 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'JVM Meetup: Battle Edition'
+        description: 'Productboard Meetups
+
+          Tuesday, September 27 at 6:00 PM
+
+
+          **Java or Kotlin - which one is better?** ⚔️Representatives of both languages will compete and share why they think theirs is the right one! **Registe...
+
+
+          https://www.meetup.com/productboard-meetups/events/288520503/'
+        location: Boudníkova 3 (Boudníkova 3, Praha 8-Palmovka, Czech Republic 180 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288520503@meetup.com
+        url: https://www.meetup.com/productboard-meetups/events/288520503/
+        dtstart: 2022-09-27 18:00:00+02:00
+        dtend: 2022-09-27 21:00:00+02:00
