@@ -30213,26 +30213,21 @@ series:
         dtstart: 2022-11-09 18:30:00+01:00
         dtend: 2022-11-09 20:30:00+01:00
   - meetupcom:
-      meta_description: '**Pravidelný hospodský sraz komunity [Frontendisti.cz](http://frontendisti.cz/)**
-
-
-        **Program a místo budou upřesněny před konáním akce.**
-
-
-        Svoji přednášku můžeš přihlásit n'
-      og_title: 'Praha: Hospodský sraz - březen, Wed, Mar 8, 2023, 6:00 PM   | Meetup'
+      meta_description: Je to tady kamarádi, další hospodský sraz komunity [Frontendisti.cz](https://frontendisti.cz)! **Pozor, tentokrát bude na novém místě**, potkáme se v [klubu Na Věnečku](htt
+      og_title: 'Praha: Hospodský sraz v klubu Na Věnečku, Wed, Mar 8, 2023, 6:00 PM   | Meetup'
       url: https://www.meetup.com/frontendisti/events/289061494/
       ical:
-        summary: 'Praha: Hospodský sraz - březen'
+        summary: 'Praha: Hospodský sraz v klubu Na Věnečku'
         description: 'Frontendisti.cz
 
           Wednesday, March 8 at 6:00 PM
 
 
-          **Pravidelný hospodský sraz komunity (http://frontendisti.cz/)** **Program a místo budou upřesněny před konáním akce.** Svoji přednášku můžeš přihlási...\n
+          Je to tady kamarádi, další hospodský sraz komunity (https://frontendisti.cz)! **Pozor, tentokrát bude na novém místě**, potkáme se v (https://www.goog...
+
 
           https://www.meetup.com/frontendisti/events/289061494/'
-        location: Café Lajka (U Akademie 366/11, Praha 7-Bubeneč, Czech Republic 170 00)
+        location: Klub Na Věnečku (Ostrovského 38a, Praha 5, Czech Republic 150 00)
         geo:
           lat: 50.08
           lon: 14.43
@@ -34606,6 +34601,30 @@ series:
         url: https://www.meetup.com/frontendisti/events/289061439/
         dtstart: 2023-04-12 18:30:00+02:00
         dtend: 2023-04-12 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Brno: Diskuzní večer o kompresi dat na webu'
+        description: 'Frontendisti.cz
+
+          Wednesday, February 8 at 6:00 PM
+
+
+          Hospodský sraz komunity (http://frontendisti.cz/). Cílem hospodského srazu je vytvoření diskusního večera. Úplně klasické přednášky tedy nečekejte, za...
+
+
+          https://www.meetup.com/frontendisti/events/289061411/'
+        location: BarCafé Éléphant (Lidická 705/43, Brno-střed-Veveří, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289061411@meetup.com
+        url: https://www.meetup.com/frontendisti/events/289061411/
+        dtstart: 2023-02-08 18:00:00+01:00
+        dtend: 2023-02-08 20:00:00+01:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
