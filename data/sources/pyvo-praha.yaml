@@ -20576,3 +20576,27 @@ series:
         url: https://www.meetup.com/pyvo-prague-python-meetup/events/291145780/
         dtstart: 2023-02-15 19:00:00+01:00
         dtend: 2023-02-15 23:59:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Pyvo Prague #141 - Asyncio, Tech interview, Lunch break problem'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, February 15 at 7:00 PM
+
+
+          We organize Pyvo in February as well! We meet up at 19 at Klub Na Věnečku, presentations start at 19.30. You can look forward to 3 presentations, ligh...
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/291145780/'
+        location: Klub Na Věnečku (Ostrovského 38a, Praha 5, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_bcxlssyfcdbtb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/291145780/
+        dtstart: 2023-02-15 19:00:00+01:00
+        dtend: 2023-02-15 23:59:00+01:00
