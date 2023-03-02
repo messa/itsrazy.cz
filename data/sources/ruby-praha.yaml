@@ -10850,9 +10850,9 @@ series:
         dtstart: 2022-10-05 19:00:00+02:00
         dtend: 2022-10-05 22:00:00+02:00
   - meetupcom:
-      meta_description: Find Meetup events so you can do more of what matters to you. Or create your own group and meet people near you who share your interests.
-      og_title: First Wednesday Of The Month - Ruby, Wed, Mar 1, 2023, 7:00 PM   | Meetup
-      url: https://www.meetup.com/praguerb/events/dkmktfyfcfbcb/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: First Wednesday Of The Month - Ruby
         description: 'Prague.rb / CSRUG
@@ -18241,3 +18241,24 @@ series:
         url: https://www.meetup.com/praguerb/events/290899038/
         dtstart: 2023-02-01 19:00:00+01:00
         dtend: 2023-02-01 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find Meetup events so you can do more of what matters to you. Or create your own group and meet people near you who share your interests.
+      og_title: First Wednesday Of The Month - Ruby, Wed, Jul 5, 2023, 7:00 PM   | Meetup
+      url: https://www.meetup.com/praguerb/events/dkmktfyfckbhb/
+      ical:
+        summary: First Wednesday Of The Month - Ruby
+        description: 'Prague.rb / CSRUG
+
+          Wednesday, July 5 at 7:00 PM
+
+
+          https://www.meetup.com/praguerb/events/dkmktfyfckbhb/'
+        location: null
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_dkmktfyfckbhb@meetup.com
+        url: https://www.meetup.com/praguerb/events/dkmktfyfckbhb/
+        dtstart: 2023-07-05 19:00:00+02:00
+        dtend: 2023-07-05 22:00:00+02:00
