@@ -41094,12 +41094,9 @@ series:
         dtstart: 2023-02-06 18:00:00+01:00
         dtend: 2023-02-06 20:00:00+01:00
   - meetupcom:
-      meta_description: '*S radostí zveme všechny členy i nečleny Asociace UX na příští UX Monday, které bude unikátní hned v několika ohledech.*
-
-
-        Hybným tématem budou nadcházející **volby do správ'
-      og_title: 'UX Monday: Budoucnost Asociace UX aneb představení kandidátů, Mon, Mar 6, 2023, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/asociace-ux/events/291919857/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'UX Monday: Budoucnost Asociace UX aneb představení kandidátů'
         description: 'Asociace UX
@@ -41624,3 +41621,29 @@ series:
         url: https://www.meetup.com/asociace-ux/events/291419769/
         dtstart: 2023-02-27 17:30:00+01:00
         dtend: 2023-02-27 20:30:00+01:00
+  - meetupcom:
+      meta_description: 'Research Tuesday jsou setkání, kde profesionálové z oboru uživatelského výzkumu sdílí svoje zkušenosti.
+
+        Akci organizují Výzkumatky – Volné sdružení výzkumnic s odbornými zk'
+      og_title: 'Research Tuesday: Šablony, které nám dobře slouží, Tue, Mar 14, 2023, 10:00 AM   | Meetup'
+      url: https://www.meetup.com/asociace-ux/events/292066308/
+      ical:
+        summary: 'Research Tuesday: Šablony, které nám dobře slouží'
+        description: 'Asociace UX
+
+          Tuesday, March 14 at 10:00 AM
+
+
+          Research Tuesday jsou setkání, kde profesionálové z oboru uživatelského výzkumu sdílí svoje zkušenosti.Akci organizují Výzkumatky – Volné sdružení výz...
+
+
+          https://www.meetup.com/asociace-ux/events/292066308/'
+        location: The Forge – Kovárna Braník (Branická 26/43, , Hlavní město Praha, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_292066308@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/292066308/
+        dtstart: 2023-03-14 10:00:00+01:00
+        dtend: 2023-03-14 13:00:00+01:00
