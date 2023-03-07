@@ -30213,7 +30213,10 @@ series:
         dtstart: 2022-11-09 18:30:00+01:00
         dtend: 2022-11-09 20:30:00+01:00
   - meetupcom:
-      meta_description: Je to tady kamarádi, další hospodský sraz komunity [Frontendisti.cz](https://frontendisti.cz)! **Pozor, tentokrát bude na novém místě**, potkáme se v [klubu Na Věnečku](htt
+      meta_description: 'Je to tady kamarádi, další hospodský sraz komunity [Frontendisti.cz](https://frontendisti.cz)!
+
+
+        **Pozor, tentokrát bude na novém místě**, potkáme se v [klubu Na Věnečku](ht'
       og_title: 'Praha: Hospodský sraz v klubu Na Věnečku, Wed, Mar 8, 2023, 6:00 PM   | Meetup'
       url: https://www.meetup.com/frontendisti/events/289061494/
       ical:
@@ -30223,7 +30226,7 @@ series:
           Wednesday, March 8 at 6:00 PM
 
 
-          Je to tady kamarádi, další hospodský sraz komunity (https://frontendisti.cz)! **Pozor, tentokrát bude na novém místě**, potkáme se v (https://www.goog...
+          Je to tady kamarádi, další hospodský sraz komunity (https://frontendisti.cz)!  **Pozor, tentokrát bude na novém místě**, potkáme se v (https://www.goo...
 
 
           https://www.meetup.com/frontendisti/events/289061494/'
@@ -34601,6 +34604,30 @@ series:
         url: https://www.meetup.com/frontendisti/events/289061439/
         dtstart: 2023-04-12 18:30:00+02:00
         dtend: 2023-04-12 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Brno: Diskuzní večer o kompresi dat na webu'
+        description: 'Frontendisti.cz
+
+          Wednesday, February 8 at 6:00 PM
+
+
+          Hospodský sraz komunity (http://frontendisti.cz/). Cílem hospodského srazu je vytvoření diskusního večera. Úplně klasické přednášky tedy nečekejte, za...
+
+
+          https://www.meetup.com/frontendisti/events/289061411/'
+        location: BarCafé Éléphant (Lidická 705/43, Brno-střed-Veveří, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289061411@meetup.com
+        url: https://www.meetup.com/frontendisti/events/289061411/
+        dtstart: 2023-02-08 18:00:00+01:00
+        dtend: 2023-02-08 20:00:00+01:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
