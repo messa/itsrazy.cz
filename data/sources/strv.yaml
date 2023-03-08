@@ -43465,3 +43465,97 @@ series:
         url: https://www.meetup.com/strv-meetups/events/290868138/
         dtstart: 2023-02-08 18:00:00+01:00
         dtend: 2023-02-08 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (PRAGUE) React Native Meetup
+        description: 'STRV Meetups
+
+          Thursday, February 16 at 6:00 PM
+
+
+          **(https://www.eventbrite.com/e/529091897107)** After a long time, the STRV Frontend team is organizing a meetup solely focused on React Native. Over ...
+
+
+          https://www.meetup.com/strv-meetups/events/291307881/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291307881@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/291307881/
+        dtstart: 2023-02-16 18:00:00+01:00
+        dtend: 2023-02-16 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (BRNO) React Native Meetup
+        description: 'STRV Meetups
+
+          Tuesday, February 14 at 6:00 PM
+
+
+          **(https://www.eventbrite.com/e/529055237457)** After a long time, the STRV Frontend team is organizing a meetup solely focused on React Native. Over ...\n
+
+          https://www.meetup.com/strv-meetups/events/291307706/'
+        location: STRV (Přízova 284/5, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291307706@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/291307706/
+        dtstart: 2023-02-14 18:00:00+01:00
+        dtend: 2023-02-14 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (PRAGUE) iOS Lightning Talks
+        description: 'STRV Meetups
+
+          Thursday, February 9 at 6:00 PM
+
+
+          **(https://www.eventbrite.com/e/522566278807)** You’re invited to our Lightning Talks! As opposed to our regular format, these will be short and quick...\n
+
+          https://www.meetup.com/strv-meetups/events/291136548/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291136548@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/291136548/
+        dtstart: 2023-02-09 18:00:00+01:00
+        dtend: 2023-02-09 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Flutter Workshop: Architecture Using GetX'
+        description: 'STRV Meetups
+
+          Wednesday, February 8 at 6:00 PM
+
+
+          **(https://www.eventbrite.com/e/504286984947)** Still confused about how to write a Flutter app? We have some answers for you! During this workshop, w...
+
+
+          https://www.meetup.com/strv-meetups/events/290868138/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290868138@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/290868138/
+        dtstart: 2023-02-08 18:00:00+01:00
+        dtend: 2023-02-08 22:00:00+01:00

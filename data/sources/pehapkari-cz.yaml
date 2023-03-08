@@ -32574,3 +32574,27 @@ series:
         url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/291079064/
         dtstart: 2023-02-16 17:30:00+01:00
         dtend: 2023-02-16 23:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '55. sraz přátel PHP: Bezpečnější SQL (ShipMonk, Praha)'
+        description: 'Pražské srazy přátel PHP - Pehapkari.cz
+
+          Thursday, February 16 at 5:30 PM
+
+
+          Zveme vás na pravidelné setkání přátel PHP v Praze, tentokrát v karlínských kancelářích ShipMonk. Tématem večera bude práce s SQL databázemi v PHP, mi...
+
+
+          https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/291079064/'
+        location: ShipMonk R&D (Rohanské nábř. 23, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291079064@meetup.com
+        url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/291079064/
+        dtstart: 2023-02-16 17:30:00+01:00
+        dtend: 2023-02-16 23:00:00+01:00
