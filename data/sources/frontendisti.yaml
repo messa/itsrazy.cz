@@ -27763,12 +27763,9 @@ series:
         dtstart: 2023-02-08 18:30:00+01:00
         dtend: 2023-02-08 20:30:00+01:00
   - meetupcom:
-      meta_description: 'Brněnský meetup komunity **Frontendisti** je tady. Těšit se můžeme na tři přednášky a už tradičně vymezený prostor na lightning talks.
-
-
-        Akci nestreamujeme, záznamy na YouTu'
-      og_title: 'Brno: březnový meetup | Frontendisti.cz, Wed, Mar 8, 2023, 6:00 PM   | Meetup'
-      url: https://www.meetup.com/frontendisti/events/289061409/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Brno: březnový meetup | Frontendisti.cz'
         description: 'Frontendisti.cz
@@ -36212,3 +36209,63 @@ series:
         url: https://www.meetup.com/frontendisti/events/289061411/
         dtstart: 2023-02-08 18:00:00+01:00
         dtend: 2023-02-08 20:00:00+01:00
+  - meetupcom:
+      meta_description: '**Pravidelný hospodský sraz komunity [Frontendisti.cz](http://frontendisti.cz/)**
+
+
+        **Program a místo budou upřesněny před konáním akce.**
+
+
+        Svoji přednášku můžeš přihlásit n'
+      og_title: 'Praha: Hospodský sraz - květen, Wed, May 10, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/frontendisti/events/289061498/
+      ical:
+        summary: 'Praha: Hospodský sraz - květen'
+        description: 'Frontendisti.cz
+
+          Wednesday, May 10 at 6:00 PM
+
+
+          **Pravidelný hospodský sraz komunity (http://frontendisti.cz/)** **Program a místo budou upřesněny před konáním akce.** Svoji přednášku můžeš přihlási...
+
+
+          https://www.meetup.com/frontendisti/events/289061498/'
+        location: Café Lajka (U Akademie 366/11, Praha 7-Bubeneč, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289061498@meetup.com
+        url: https://www.meetup.com/frontendisti/events/289061498/
+        dtstart: 2023-05-10 18:00:00+02:00
+        dtend: 2023-05-10 20:00:00+02:00
+  - meetupcom:
+      meta_description: '**Pravidelný meetup komunity [Frontendisti.cz](http://frontendisti.cz/)**
+
+
+        **Program a místo budou upřesněny před konáním akce.**
+
+
+        Svoji přednášku můžeš přihlásit na odkazu'
+      og_title: 'Brno: květnový meetup | Frontendisti.cz, Wed, May 10, 2023, 6:00 PM   | Meetup'
+      url: https://www.meetup.com/frontendisti/events/289061529/
+      ical:
+        summary: 'Brno: květnový meetup | Frontendisti.cz'
+        description: 'Frontendisti.cz
+
+          Wednesday, May 10 at 6:00 PM
+
+
+          **Pravidelný meetup komunity (http://frontendisti.cz/)** **Program a místo budou upřesněny před konáním akce.** Svoji přednášku můžeš přihlásit na odk...
+
+
+          https://www.meetup.com/frontendisti/events/289061529/'
+        location: Hněvkovského 65 (Hněvkovského 65, Komárov, Brno-Brno-jih, Czech Republic 617 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289061529@meetup.com
+        url: https://www.meetup.com/frontendisti/events/289061529/
+        dtstart: 2023-05-10 18:00:00+02:00
+        dtend: 2023-05-10 20:00:00+02:00

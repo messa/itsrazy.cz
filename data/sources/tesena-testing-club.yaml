@@ -34133,12 +34133,9 @@ series:
         dtstart: 2022-12-13 15:00:00+01:00
         dtend: 2022-12-13 16:00:00+01:00
   - meetupcom:
-      meta_description: '📢 Řešíte výzvy test managementu a zajímá vás, jak k podobným situacím přistoupili zkušení test manažeři?
-
-
-        Zveme vás na náš nový online formát smitio BEST PRACTICES na téma'
-      og_title: Test management na velkých projektech - BEST PRACTICES, Wed, Mar 8, 2023, 4:30 PM   | Meetup
-      url: https://www.meetup.com/tesena-testing-club/events/291657544/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Test management na velkých projektech - BEST PRACTICES
         description: 'Tesena Testing Club
@@ -35527,3 +35524,75 @@ series:
         url: https://www.meetup.com/tesena-testing-club/events/291286503/
         dtstart: 2023-02-16 16:30:00+01:00
         dtend: 2023-02-16 17:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (CZ) Jak najít více chyb za méně času - v praxi
+        description: 'Tesena Testing Club
+
+          Thursday, February 16 at 4:30 PM
+
+
+          **Popis webináře** Pokračování úspěšného webináře "Jak najít více chyb za méně času". Tentokrát si na praktickém příkladu ukážeme, jak velký rozdíl ná...
+
+
+          https://www.meetup.com/tesena-testing-club/events/291286503/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291286503@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/291286503/
+        dtstart: 2023-02-16 16:30:00+01:00
+        dtend: 2023-02-16 17:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (EN) Complete Test Automation With Cypress and Harmony
+        description: 'Tesena Testing Club
+
+          Tuesday, December 13 at 3:00 PM
+
+
+          In this presentation, I will show how test execution automation (Cypress) and test design automation (Harmony) work together. Harmony uses double-phas...
+
+
+          https://www.meetup.com/tesena-testing-club/events/289183729/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289183729@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/289183729/
+        dtstart: 2022-12-13 15:00:00+01:00
+        dtend: 2022-12-13 16:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '#GraphQL - aktuální trend v oblasti integrací'
+        description: 'Tesena Testing Club
+
+          Wednesday, December 7 at 4:00 PM
+
+
+          \\# GraphQL \\- aktuální trend v oblasti integrací\\, 7\\.12\\. 2022 od 16:00 do 17:00 ONLINE**Registrace zde: http://bit.ly/3Ovbp96** GraphQL je moderní p...
+
+
+          https://www.meetup.com/tesena-testing-club/events/289906551/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289906551@meetup.com
+        url: https://www.meetup.com/tesena-testing-club/events/289906551/
+        dtstart: 2022-12-07 16:00:00+01:00
+        dtend: 2022-12-07 17:00:00+01:00
