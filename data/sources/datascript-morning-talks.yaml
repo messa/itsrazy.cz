@@ -52467,11 +52467,9 @@ series:
         dtstart: 2023-02-21 09:00:00+01:00
         dtend: 2023-02-21 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Prosíme o registraci přímo na stránkách Datascriptu, děkujeme za pochopení.
-
-        https://www.datascript.cz/morning-talks/apache-kafka-nejenom-v-aplikacich-zalozenych-na-mikroslu'
-      og_title: Apache Kafka (nejenom) v aplikacích založených na mikroslužbách, Wed, Mar 8, 2023, 9:00 AM   | Meetup
-      url: https://www.meetup.com/morning-talks/events/291952853/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Apache Kafka (nejenom) v aplikacích založených na mikroslužbách
         description: 'Morning Talks
