@@ -72080,3 +72080,27 @@ series:
         url: https://www.meetup.com/agilni-open-cafe-praha/events/291461554/
         dtstart: 2023-02-21 18:00:00+01:00
         dtend: 2023-02-21 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Agilní Open Café Praha – 21.2.2023
+        description: 'Agilni Open Cafe Praha
+
+          Tuesday, February 21 at 6:00 PM
+
+
+          Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve úterý 2. února 2023. Opencafé je pro ty, kteří c...
+
+
+          https://www.meetup.com/agilni-open-cafe-praha/events/291461554/'
+        location: Café Záhorský (Eliášova 279, Praha 6-Bubeneč, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291461554@meetup.com
+        url: https://www.meetup.com/agilni-open-cafe-praha/events/291461554/
+        dtstart: 2023-02-21 18:00:00+01:00
+        dtend: 2023-02-21 20:00:00+01:00
