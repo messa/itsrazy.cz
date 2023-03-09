@@ -41791,3 +41791,27 @@ series:
         url: https://www.meetup.com/asociace-ux/events/291919857/
         dtstart: 2023-03-06 18:00:00+01:00
         dtend: 2023-03-06 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'UX Monday: Budoucnost Asociace UX aneb představení kandidátů'
+        description: 'Asociace UX
+
+          Monday, March 6 at 6:00 PM
+
+
+          *S radostí zveme všechny členy i nečleny Asociace UX na příští UX Monday, které bude unikátní hned v několika ohledech.* Hybným tématem budou nadcháze...
+
+
+          https://www.meetup.com/asociace-ux/events/291919857/'
+        location: Salsita Club (Štefánikova 25, Praha 5-Smíchov, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291919857@meetup.com
+        url: https://www.meetup.com/asociace-ux/events/291919857/
+        dtstart: 2023-03-06 18:00:00+01:00
+        dtend: 2023-03-06 20:00:00+01:00
