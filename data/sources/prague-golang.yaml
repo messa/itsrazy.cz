@@ -61160,3 +61160,27 @@ series:
         url: https://www.meetup.com/prague-golang-meetup/events/291042846/
         dtstart: 2023-02-21 18:00:00+01:00
         dtend: 2023-02-21 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Go 1.20 Release Party - Meetup #10'
+        description: 'Prague Golang Meetup
+
+          Tuesday, February 21 at 6:00 PM
+
+
+          Hosted by Pure Storage Please note at the Pure Storage office, all meetup attendees will be required to sign a generic NDA used for all office visitor...
+
+
+          https://www.meetup.com/prague-golang-meetup/events/291042846/'
+        location: Pure Storage (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291042846@meetup.com
+        url: https://www.meetup.com/prague-golang-meetup/events/291042846/
+        dtstart: 2023-02-21 18:00:00+01:00
+        dtend: 2023-02-21 20:00:00+01:00
