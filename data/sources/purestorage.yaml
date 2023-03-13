@@ -64035,3 +64035,99 @@ series:
         url: https://www.meetup.com/pure-storage-talks/events/287928146/
         dtstart: 2022-08-31 17:30:00+02:00
         dtend: 2022-08-31 20:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Pure Tech Talk: Building as-a-service product'
+        description: 'Pure Storage Talks
+
+          Thursday, February 16 at 5:30 PM
+
+
+          **About the event**If you wonder how companies build a new generation of as-a-service products, or if you want to learn how a data storage company cal...
+
+
+          https://www.meetup.com/pure-storage-talks/events/291044122/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291044122@meetup.com
+        url: https://www.meetup.com/pure-storage-talks/events/291044122/
+        dtstart: 2023-02-16 17:30:00+01:00
+        dtend: 2023-02-16 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: C++ Meetup by Pure Storage
+        description: 'Pure Storage Talks
+
+          Thursday, January 26 at 5:30 PM
+
+
+          Let''s start the new year with something new! Local community is lacking some C++ initiative, so we have decided to cover this gap and set the cornerst...
+
+
+          https://www.meetup.com/pure-storage-talks/events/291134551/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291134551@meetup.com
+        url: https://www.meetup.com/pure-storage-talks/events/291134551/
+        dtstart: 2023-01-26 17:30:00+01:00
+        dtend: 2023-01-26 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Golang Meetup by Pure Storage
+        description: 'Pure Storage Talks
+
+          Thursday, November 10 at 5:30 PM
+
+
+          Autumn is the traditional time for new beginnings - at least in terms of studies, so we decided to go ahead and let our next **Golang Meetup** to be f...
+
+
+          https://www.meetup.com/pure-storage-talks/events/289456196/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289456196@meetup.com
+        url: https://www.meetup.com/pure-storage-talks/events/289456196/
+        dtstart: 2022-11-10 17:30:00+01:00
+        dtend: 2022-11-10 20:30:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Go Meetup
+        description: 'Pure Storage Talks
+
+          Wednesday, August 31 at 5:30 PM
+
+
+          Let’s have a cold beer at the next **Go MeetUp** and celebrate the last day of summer! Almost everyone has heard of Go and how it is used by now, but ...
+
+
+          https://www.meetup.com/pure-storage-talks/events/287928146/'
+        location: Amazon Court (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287928146@meetup.com
+        url: https://www.meetup.com/pure-storage-talks/events/287928146/
+        dtstart: 2022-08-31 17:30:00+02:00
+        dtend: 2022-08-31 20:30:00+02:00
