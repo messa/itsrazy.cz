@@ -24692,21 +24692,9 @@ series:
         dtstart: 2023-01-03 18:30:00+01:00
         dtend: 2023-01-03 20:30:00+01:00
   - meetupcom:
-      meta_description: '• How to join?
-
-        Online only because of covid https://discord.gg/TnaMJMyTDw
-
-
-        • What we''ll do
-
-        https://sites.google.com/site/garagepragueone/home
-
-
-        http://gdg-garage.github.io/
-
-        '
-      og_title: GDG Garage Prague One, Tue, Mar 14, 2023, 6:30 PM   | Meetup
-      url: https://www.meetup.com/gdgprague/events/xqcsqsyfcfbsb/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: GDG Garage Prague One
         description: 'GDG Prague
@@ -28651,3 +28639,39 @@ series:
         url: https://www.meetup.com/gdgprague/events/291492945/
         dtstart: 2023-02-28 18:30:00+01:00
         dtend: 2023-02-28 20:30:00+01:00
+  - meetupcom:
+      meta_description: '• How to join?
+
+        Online only because of covid https://discord.gg/TnaMJMyTDw
+
+
+        • What we''ll do
+
+        https://sites.google.com/site/garagepragueone/home
+
+
+        http://gdg-garage.github.io/
+
+        '
+      og_title: GDG Garage Prague One, Tue, May 9, 2023, 6:30 PM   | Meetup
+      url: https://www.meetup.com/gdgprague/events/xqcsqsyfchbmb/
+      ical:
+        summary: GDG Garage Prague One
+        description: 'GDG Prague
+
+          Tuesday, May 9 at 6:30 PM
+
+
+          • How to join?Online only because of covid https://discord.gg/TnaMJMyTDw • What we''ll dohttps://sites.google.com/site/garagepragueone/home...
+
+
+          https://www.meetup.com/gdgprague/events/xqcsqsyfchbmb/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_xqcsqsyfchbmb@meetup.com
+        url: https://www.meetup.com/gdgprague/events/xqcsqsyfchbmb/
+        dtstart: 2023-05-09 18:30:00+02:00
+        dtend: 2023-05-09 20:30:00+02:00
