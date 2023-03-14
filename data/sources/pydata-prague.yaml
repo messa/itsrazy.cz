@@ -52888,3 +52888,98 @@ series:
         url: https://www.meetup.com/pydata-prague/events/286566742/
         dtstart: 2022-06-27 18:00:00+02:00
         dtend: 2022-06-27 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'PyData Prague #13 - In Good We Rust'
+        description: 'PyData Prague
+
+          Tuesday, December 13 at 6:00 PM
+
+
+          Hello Python vivisectors & data manipulators!The 13th Prague PyData meetup will take place at **new Deepnote offices**. As usual, the talks will start...
+
+
+          https://www.meetup.com/pydata-prague/events/290041316/'
+        location: Deepnote (28. Října 377/13, Staré Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290041316@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/290041316/
+        dtstart: 2022-12-13 18:00:00+01:00
+        dtend: 2022-12-13 21:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: PyData Global 2022 (GLOBAL ONLINE CONFERENCE)
+        description: 'PyData Prague
+
+          Thursday, December 1 at 7:30 AM
+
+
+          The (https://pydata.org/global2022/) is where users, contributors, and newcomers can share experiences to learn from one another and grow together. Py...
+
+
+          https://www.meetup.com/pydata-prague/events/288055560/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288055560@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/288055560/
+        dtstart: 2022-12-01 07:30:00+01:00
+        dtend: 2022-12-04 00:59:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'PyData Prague #12 - Minutes to a Degree'
+        description: 'PyData Prague
+
+          Tuesday, October 18 at 6:00 PM
+
+
+          Hello Python & Data maniacs!The 12th Prague PyData meetup will take place at **new (https://goo.gl/maps/nvaV2vDJh8MneKg5A) offices**. As usual, the ta...\n
+
+          https://www.meetup.com/pydata-prague/events/288395992/'
+        location: LMC Ltd. (Menclova 2538/2, Praha 8-Libeň, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288395992@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/288395992/
+        dtstart: 2022-10-18 18:00:00+02:00
+        dtend: 2022-10-18 21:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'PyData Prague #11 - Hovering over Capulets'
+        description: 'PyData Prague
+
+          Monday, June 27 at 6:00 PM
+
+
+          Hello data-lovers and Python craft-masters! Another PyData Prague meetup is here and this time we will meet in **(https://goo.gl/maps/FHvjbwTtYULjTKvS...
+
+
+          https://www.meetup.com/pydata-prague/events/286566742/'
+        location: Ataccama Software, s.r.o. (Invalidovna, Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_286566742@meetup.com
+        url: https://www.meetup.com/pydata-prague/events/286566742/
+        dtstart: 2022-06-27 18:00:00+02:00
+        dtend: 2022-06-27 21:00:00+02:00

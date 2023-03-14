@@ -31760,7 +31760,7 @@ series:
         dtend: 2022-10-25 23:00:00+02:00
   - meetupcom:
       meta_description: 'Zveme Vás na pravidelné setkání přátel PHP v Praze - tentokrát se speciálním programem: panelovou diskuzí a networkingem na téma fuckupy ve vývoji. Hosté z řad (nejen PHP) '
-      og_title: '56. sraz PHP v Praze v Keboola - speciál: panelová diskuze feat. Fuckupy v IT, Fri, Mar 31, 2023, 12:00 AM   | Meetup'
+      og_title: '56. sraz PHP v Praze v Keboola - speciál: panelová diskuze feat. Fuckupy v IT, Thu, Mar 30, 2023, 6:00 PM   | Meetup'
       url: https://www.meetup.com/pražske-srazy-přatel-php-pehapkari-cz/events/291850509/
       ical:
         summary: '56. sraz PHP v Praze v Keboola - speciál: panelová diskuze feat. Fuckupy v IT'
@@ -31782,6 +31782,30 @@ series:
         url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/291850509/
         dtstart: 2023-03-30 18:00:00+02:00
         dtend: 2023-03-30 23:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: '55. sraz přátel PHP: Bezpečnější SQL (ShipMonk, Praha)'
+        description: 'Pražské srazy přátel PHP - Pehapkari.cz
+
+          Thursday, February 16 at 5:30 PM
+
+
+          Zveme vás na pravidelné setkání přátel PHP v Praze, tentokrát v karlínských kancelářích ShipMonk. Tématem večera bude práce s SQL databázemi v PHP, mi...
+
+
+          https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/291079064/'
+        location: ShipMonk R&D (Rohanské nábř. 23, Karlín, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291079064@meetup.com
+        url: https://www.meetup.com/pra%C5%BEske-srazy-p%C5%99atel-php-pehapkari-cz/events/291079064/
+        dtstart: 2023-02-16 17:30:00+01:00
+        dtend: 2023-02-16 23:00:00+01:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup

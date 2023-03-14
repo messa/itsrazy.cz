@@ -61018,13 +61018,13 @@ series:
 
 
         Temporal.io is the platform that allows you to save your precious neurons when handling complex interaction of distributed services'
-      og_title: 'Go meetup #11, Thu, Apr 27, 2023, 12:00 AM   | Meetup'
+      og_title: 'Go meetup #11, Wed, Apr 26, 2023, 5:00 PM   | Meetup'
       url: https://www.meetup.com/prague-golang-meetup/events/292126460/
       ical:
         summary: 'Go meetup #11'
         description: 'Prague Golang Meetup
 
-          Wednesday, April 26 at 6:00 PM
+          Wednesday, April 26 at 5:00 PM
 
 
           **Temporal.io - Vaclav Broz, PumpITup** Temporal.io is the platform that allows you to save your precious neurons when handling complex interaction of...
@@ -61038,8 +61038,32 @@ series:
         status: CONFIRMED
         uid: event_292126460@meetup.com
         url: https://www.meetup.com/prague-golang-meetup/events/292126460/
-        dtstart: 2023-04-26 18:00:00+02:00
-        dtend: 2023-04-26 21:00:00+02:00
+        dtstart: 2023-04-26 17:00:00+02:00
+        dtend: 2023-04-26 20:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Go 1.20 Release Party - Meetup #10'
+        description: 'Prague Golang Meetup
+
+          Tuesday, February 21 at 6:00 PM
+
+
+          Hosted by Pure Storage Please note at the Pure Storage office, all meetup attendees will be required to sign a generic NDA used for all office visitor...
+
+
+          https://www.meetup.com/prague-golang-meetup/events/291042846/'
+        location: Pure Storage (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291042846@meetup.com
+        url: https://www.meetup.com/prague-golang-meetup/events/291042846/
+        dtstart: 2023-02-21 18:00:00+01:00
+        dtend: 2023-02-21 20:00:00+01:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup

@@ -34261,7 +34261,7 @@ series:
 
 
         Svoji přednášku můžeš přihlásit n'
-      og_title: 'Brno: Hospodský sraz - duben, Thu, Apr 13, 2023, 12:00 AM   | Meetup'
+      og_title: 'Brno: Hospodský sraz - duben, Wed, Apr 12, 2023, 6:00 PM   | Meetup'
       url: https://www.meetup.com/frontendisti/events/289061415/
       ical:
         summary: 'Brno: Hospodský sraz - duben'
@@ -34579,7 +34579,7 @@ series:
 
 
         Svoji přednášku můžeš přihlásit na odkazu'
-      og_title: 'Praha: dubnový meetup | Frontendisti.cz, Thu, Apr 13, 2023, 12:30 AM   | Meetup'
+      og_title: 'Praha: dubnový meetup | Frontendisti.cz, Wed, Apr 12, 2023, 6:30 PM   | Meetup'
       url: https://www.meetup.com/frontendisti/events/289061439/
       ical:
         summary: 'Praha: dubnový meetup | Frontendisti.cz'
@@ -36217,7 +36217,7 @@ series:
 
 
         Svoji přednášku můžeš přihlásit n'
-      og_title: 'Praha: Hospodský sraz - květen, Thu, May 11, 2023, 12:00 AM   | Meetup'
+      og_title: 'Praha: Hospodský sraz - květen, Wed, May 10, 2023, 6:00 PM   | Meetup'
       url: https://www.meetup.com/frontendisti/events/289061498/
       ical:
         summary: 'Praha: Hospodský sraz - květen'
@@ -36593,7 +36593,7 @@ series:
         dtend: 2023-03-08 20:00:00+01:00
   - meetupcom:
       meta_description: Je to tady kamarádi, po delší pauze se naše komunita [Frontendisti.cz](https://frontendisti.cz/) vrací **do Plzně**! Těšit se můžeme na Nowwwinky ze světa frontendů a tři p
-      og_title: 'Plzeň: březnový meetup | Frontendisti.cz, Wed, Mar 29, 2023, 11:30 PM   | Meetup'
+      og_title: 'Plzeň: březnový meetup | Frontendisti.cz, Wed, Mar 29, 2023, 5:30 PM   | Meetup'
       url: https://www.meetup.com/frontendisti/events/292220585/
       ical:
         summary: 'Plzeň: březnový meetup | Frontendisti.cz'
@@ -36615,6 +36615,29 @@ series:
         url: https://www.meetup.com/frontendisti/events/292220585/
         dtstart: 2023-03-29 17:30:00+02:00
         dtend: 2023-03-29 19:30:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Brno: březnový meetup | Frontendisti.cz'
+        description: 'Frontendisti.cz
+
+          Wednesday, March 8 at 6:00 PM
+
+
+          Brněnský meetup komunity **Frontendisti** je tady. Těšit se můžeme na tři přednášky a už tradičně vymezený prostor na lightning talks. Akci nestreamuj...\n
+
+          https://www.meetup.com/frontendisti/events/289061409/'
+        location: Kentico Software (Nové sady 25, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289061409@meetup.com
+        url: https://www.meetup.com/frontendisti/events/289061409/
+        dtstart: 2023-03-08 18:00:00+01:00
+        dtend: 2023-03-08 20:00:00+01:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup

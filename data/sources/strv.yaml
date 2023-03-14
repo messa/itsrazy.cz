@@ -43564,7 +43564,7 @@ series:
 
 
         If you''re like us, you know how important it'
-      og_title: (BRNO) Backend Meetup - Databases, Wed, Mar 29, 2023, 12:00 AM   | Meetup
+      og_title: (BRNO) Backend Meetup - Databases, Tue, Mar 28, 2023, 6:00 PM   | Meetup
       url: https://www.meetup.com/strv-meetups/events/292104888/
       ical:
         summary: (BRNO) Backend Meetup - Databases
@@ -43591,7 +43591,7 @@ series:
 
 
         If you''re like us, you know how important it'
-      og_title: (PRAGUE) Backend Meetup - Databases, Fri, Mar 31, 2023, 12:00 AM   | Meetup
+      og_title: (PRAGUE) Backend Meetup - Databases, Thu, Mar 30, 2023, 6:00 PM   | Meetup
       url: https://www.meetup.com/strv-meetups/events/292104850/
       ical:
         summary: (PRAGUE) Backend Meetup - Databases
@@ -43802,6 +43802,30 @@ series:
         url: https://www.meetup.com/strv-meetups/events/290868138/
         dtstart: 2023-02-08 18:00:00+01:00
         dtend: 2023-02-08 22:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (PRAGUE) React Native Meetup
+        description: 'STRV Meetups
+
+          Thursday, February 16 at 6:00 PM
+
+
+          **(https://www.eventbrite.com/e/529091897107)** After a long time, the STRV Frontend team is organizing a meetup solely focused on React Native. Over ...
+
+
+          https://www.meetup.com/strv-meetups/events/291307881/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291307881@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/291307881/
+        dtstart: 2023-02-16 18:00:00+01:00
+        dtend: 2023-02-16 22:00:00+01:00
   - meetupcom:
       meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
       og_title: Login to Meetup | Meetup
