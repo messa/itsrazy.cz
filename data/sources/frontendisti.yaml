@@ -36799,3 +36799,26 @@ series:
         url: https://www.meetup.com/frontendisti/events/289061409/
         dtstart: 2023-03-08 18:00:00+01:00
         dtend: 2023-03-08 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Brno: březnový meetup | Frontendisti.cz'
+        description: 'Frontendisti.cz
+
+          Wednesday, March 8 at 6:00 PM
+
+
+          Brněnský meetup komunity **Frontendisti** je tady. Těšit se můžeme na tři přednášky a už tradičně vymezený prostor na lightning talks. Akci nestreamuj...\n
+
+          https://www.meetup.com/frontendisti/events/289061409/'
+        location: Kentico Software (Nové sady 25, Brno-střed, Czech Republic 602 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289061409@meetup.com
+        url: https://www.meetup.com/frontendisti/events/289061409/
+        dtstart: 2023-03-08 18:00:00+01:00
+        dtend: 2023-03-08 20:00:00+01:00
