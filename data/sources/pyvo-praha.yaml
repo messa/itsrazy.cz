@@ -18994,9 +18994,9 @@ series:
         dtstart: 2023-01-18 19:00:00+01:00
         dtend: 2023-01-18 23:59:00+01:00
   - meetupcom:
-      meta_description: We meet up at 19 at Klub Na Věnečku, presentations start at 19.30. You can look forward to two presentations, lightning talks and chit-chat until early morning. You can hav
-      og_title: 'Pyvo Prg #142: GraalPy & HPy i Práce se Stresem a Hacky Pro Sezení u Klávesnice, Wed, Mar 15, 2023, 7:00 PM   | Meetup'
-      url: https://www.meetup.com/pyvo-prague-python-meetup/events/rrlcctyfcfbtb/
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: 'Pyvo Prg #142: GraalPy & HPy i Práce se Stresem a Hacky Pro Sezení u Klávesnice'
         description: 'Pyvo: Prague Python Meetup
@@ -21769,3 +21769,32 @@ series:
         url: https://www.meetup.com/pyvo-prague-python-meetup/events/291145780/
         dtstart: 2023-02-15 19:00:00+01:00
         dtend: 2023-02-15 23:59:00+01:00
+  - meetupcom:
+      meta_description: 'We will meet for an informal chat about Python, programming, and more. Details will be added.
+
+
+        **Good to know**
+
+
+        * You don’t have to register for this meetup – the actual a'
+      og_title: 'Pyvo Prague #, Wed, Jul 19, 2023, 7:00 PM   | Meetup'
+      url: https://www.meetup.com/pyvo-prague-python-meetup/events/nzltctyfckbzb/
+      ical:
+        summary: 'Pyvo Prague #'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, July 19 at 7:00 PM
+
+          \nWe will meet for an informal chat about Python, programming, and more. Details will be added. **Good to know** * You don’t have to register for this m...
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/nzltctyfckbzb/'
+        location: Klub Na Věnečku (Ostrovského 38a, Praha 5, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_nzltctyfckbzb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/nzltctyfckbzb/
+        dtstart: 2023-07-19 19:00:00+02:00
+        dtend: 2023-07-19 23:59:00+02:00
