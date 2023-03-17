@@ -50047,3 +50047,75 @@ series:
         url: https://www.meetup.com/api-prague/events/280531427/
         dtstart: 2021-09-16 18:00:00+02:00
         dtend: 2021-09-16 22:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Software Architecture for Autonomous Integrations👨🏻‍💻👩🏽‍💻 Online Webinar
+        description: 'API Prague: The people and tech behind open APIs
+
+          Tuesday, September 27 at 4:00 PM
+
+
+          As your application evolves, the need for integration with external services only grows. Each integration is a burden. You need to keep track of API c...
+
+
+          https://www.meetup.com/api-prague/events/288286218/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_288286218@meetup.com
+        url: https://www.meetup.com/api-prague/events/288286218/
+        dtstart: 2022-09-27 16:00:00+02:00
+        dtend: 2022-09-27 17:00:00+02:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: APIs without the Pain 🚀 Superface Intro Webinar
+        description: 'API Prague: The people and tech behind open APIs
+
+          Monday, November 8 at 4:00 PM
+
+
+          Integrate APIs with Superface in 3 lines of code. Your applications will self-integrate (and maintain the integrations) autonomously, without any prox...
+
+
+          https://www.meetup.com/api-prague/events/281693311/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_281693311@meetup.com
+        url: https://www.meetup.com/api-prague/events/281693311/
+        dtstart: 2021-11-08 16:00:00+01:00
+        dtend: 2021-11-08 17:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Superface Demo Day: Self-integrating applications in Node.js'
+        description: 'API Prague: The people and tech behind open APIs
+
+          Thursday, September 16 at 6:00 PM
+
+
+          ⚠️ Register via Eventbrite to get the ticket:...
+
+
+          https://www.meetup.com/api-prague/events/280531427/'
+        location: Paralelní Polis (Dělnická, Praha 7-Holešovice, Czech Republic 170 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280531427@meetup.com
+        url: https://www.meetup.com/api-prague/events/280531427/
+        dtstart: 2021-09-16 18:00:00+02:00
+        dtend: 2021-09-16 22:00:00+02:00
