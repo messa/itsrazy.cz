@@ -21918,3 +21918,27 @@ series:
         url: https://www.meetup.com/pyvo-prague-python-meetup/events/291655272/
         dtstart: 2023-03-15 19:00:00+01:00
         dtend: 2023-03-15 23:59:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Pyvo Prg #142: GraalPy & HPy i Práce se Stresem a Hacky Pro Sezení u Klávesnice'
+        description: 'Pyvo: Prague Python Meetup
+
+          Wednesday, March 15 at 7:00 PM
+
+
+          We meet up at 19 at Klub Na Věnečku, presentations start at 19.30. You can look forward to two presentations, lightning talks and chit-chat until earl...
+
+
+          https://www.meetup.com/pyvo-prague-python-meetup/events/291655272/'
+        location: Klub Na Věnečku (Ostrovského 38a, Praha 5, Czech Republic 150 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_rrlcctyfcfbtb@meetup.com
+        url: https://www.meetup.com/pyvo-prague-python-meetup/events/291655272/
+        dtstart: 2023-03-15 19:00:00+01:00
+        dtend: 2023-03-15 23:59:00+01:00
