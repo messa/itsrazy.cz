@@ -60425,3 +60425,99 @@ series:
         url: https://www.meetup.com/prague-junior-software-developer-course/events/290309297/
         dtstart: 2023-01-04 18:00:00+01:00
         dtend: 2023-01-04 21:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Online informační schůzka: Jak nastartovat kariéru v IT od nuly?'
+        description: 'Become a software developer from 0
+
+          Tuesday, January 24 at 6:00 PM
+
+
+          Chceš do IT, ale nevíš, jaká specializace by ti sedla? Tápeš ve specializacích, které nabízíme? Přemýšlíš, že bys začal/a splácet školné až po kurzu a...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/290418607/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290418607@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/290418607/
+        dtstart: 2023-01-24 18:00:00+01:00
+        dtend: 2023-01-24 20:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Online Ladies Coding Night
+        description: 'Become a software developer from 0
+
+          Wednesday, January 18 at 6:00 PM
+
+
+          Dámská jízda pro všechny, které zajímá svět IT, chtějí se setkat s podobně naladěnými lidmi a vyzkoušet si základy kódování.
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/290196884/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290196884@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/290196884/
+        dtstart: 2023-01-18 18:00:00+01:00
+        dtend: 2023-01-18 21:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Den otevřených dveří aneb navštiv doupě ajťáků!
+        description: 'Become a software developer from 0
+
+          Saturday, January 14 at 10:00 AM
+
+
+          V rámci **Dne otevřených dveří** tě necháme nakouknout do našich nových učeben. Zatím jsme je ještě skoro nikomu neukázali, takže budeš mezi prvními. ...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/290418619/'
+        location: Green Fox Academy (Václavské nám. 11, Nové Město, Praha-Praha 1, Czech Republic 110 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290418619@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/290418619/
+        dtstart: 2023-01-14 10:00:00+01:00
+        dtend: 2023-01-14 17:00:00+01:00
+  - meetupcom:
+      meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 'Online workshop: Základy programování'
+        description: 'Become a software developer from 0
+
+          Wednesday, January 4 at 6:00 PM
+
+
+          Nenech si utéct příležitost! Vyzkoušej si kódování pod vedením zkušených mentorů. Seznámíš se základy JavaScriptu i platformou ServiceNow. Navíc získá...
+
+
+          https://www.meetup.com/prague-junior-software-developer-course/events/290309297/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290309297@meetup.com
+        url: https://www.meetup.com/prague-junior-software-developer-course/events/290309297/
+        dtstart: 2023-01-04 18:00:00+01:00
+        dtend: 2023-01-04 21:00:00+01:00
