@@ -1,7 +1,7 @@
 series:
   meetupcom:
     url: https://www.meetup.com/login/
-    meta_description: Find groups that host online or in person events and meet people in your local community who share your interests.
+    meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
     og_title: Login to Meetup | Meetup
     image: https://secure.meetupstatic.com/photos/event/b/1/e/7/600_469905543.jpeg
   events:
