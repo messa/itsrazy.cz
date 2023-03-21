@@ -44618,3 +44618,51 @@ series:
         url: https://www.meetup.com/strv-meetups/events/291307881/
         dtstart: 2023-02-16 18:00:00+01:00
         dtend: 2023-02-16 22:00:00+01:00
+  - meetupcom:
+      meta_description: '**We’re excited to bring Petr Mara onto the stage of this STRV Web3 Meetup edition to discuss web3, NFTs, his podcasting and YouTube endeavors, and insights from building h'
+      og_title: STRV Web3 Meetup ft. Petr Mara, Wed, Mar 29, 2023, 6:30 PM   | Meetup
+      url: https://www.meetup.com/strv-meetups/events/292380515/
+      ical:
+        summary: STRV Web3 Meetup ft. Petr Mara
+        description: 'STRV Meetups
+
+          Wednesday, March 29 at 6:30 PM
+
+
+          **We’re excited to bring Petr Mara onto the stage of this STRV Web3 Meetup edition to discuss web3, NFTs, his podcasting and YouTube endeavors, and in...
+
+
+          https://www.meetup.com/strv-meetups/events/292380515/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_292380515@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/292380515/
+        dtstart: 2023-03-29 18:30:00+02:00
+        dtend: 2023-03-29 22:00:00+02:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: (PRAGUE) React Native Meetup
+        description: 'STRV Meetups
+
+          Thursday, February 16 at 6:00 PM
+
+
+          **(https://www.eventbrite.com/e/529091897107)** After a long time, the STRV Frontend team is organizing a meetup solely focused on React Native. Over ...
+
+
+          https://www.meetup.com/strv-meetups/events/291307881/'
+        location: STRV Prague (Rohanske nabrezi 678/23, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291307881@meetup.com
+        url: https://www.meetup.com/strv-meetups/events/291307881/
+        dtstart: 2023-02-16 18:00:00+01:00
+        dtend: 2023-02-16 22:00:00+01:00
