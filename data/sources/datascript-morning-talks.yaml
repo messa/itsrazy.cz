@@ -52514,12 +52514,9 @@ series:
         dtstart: 2023-03-15 09:00:00+01:00
         dtend: 2023-03-15 10:00:00+01:00
   - meetupcom:
-      meta_description: 'Prosíme o registraci přímo na stránkách Datascriptu, děkujeme za pochopení: https://www.datascript.cz/morning-talks/navrh-systemu-na-pevnem-zakladu/
-
-
-        V posledních letech se'
-      og_title: Návrh systému na pevném základu, Wed, Mar 22, 2023, 9:00 AM   | Meetup
-      url: https://www.meetup.com/morning-talks/events/291952895/
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
       ical:
         summary: Návrh systému na pevném základu
         description: 'Morning Talks
@@ -53967,3 +53964,27 @@ series:
         url: https://www.meetup.com/morning-talks/events/291952876/
         dtstart: 2023-03-15 09:00:00+01:00
         dtend: 2023-03-15 10:00:00+01:00
+  - meetupcom:
+      meta_description: 'Prosíme o registraci přímo na stránkách Datascriptu, děkujeme za pochopení: https://www.datascript.cz/morning-talks/modelem-rizeny-byznys-a-byznysem-rizena-it-infrastruktur'
+      og_title: Modelem řízený byznys a byznysem řízená IT infrastruktura, Wed, Apr 19, 2023, 9:00 AM   | Meetup
+      url: https://www.meetup.com/morning-talks/events/291952914/
+      ical:
+        summary: Modelem řízený byznys a byznysem řízená IT infrastruktura
+        description: 'Morning Talks
+
+          Wednesday, April 19 at 9:00 AM
+
+
+          Prosíme o registraci přímo na stránkách Datascriptu, děkujeme za pochopení:...
+
+
+          https://www.meetup.com/morning-talks/events/291952914/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291952914@meetup.com
+        url: https://www.meetup.com/morning-talks/events/291952914/
+        dtstart: 2023-04-19 09:00:00+02:00
+        dtend: 2023-04-19 10:00:00+02:00
