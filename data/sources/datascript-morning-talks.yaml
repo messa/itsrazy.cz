@@ -53944,3 +53944,26 @@ series:
         url: https://www.meetup.com/morning-talks/events/291952876/
         dtstart: 2023-03-15 09:00:00+01:00
         dtend: 2023-03-15 10:00:00+01:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Síťová vrstva v Kubernetes
+        description: 'Morning Talks
+
+          Wednesday, March 15 at 9:00 AM
+
+
+          Prosíme o registraci přímo na stránkách Datascriptu, děkujeme za pochopení: https://www.datascript.cz/morning-talks/sitova-vrstva-v-kubernetes/ Kubern...\n
+
+          https://www.meetup.com/morning-talks/events/291952876/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291952876@meetup.com
+        url: https://www.meetup.com/morning-talks/events/291952876/
+        dtstart: 2023-03-15 09:00:00+01:00
+        dtend: 2023-03-15 10:00:00+01:00
