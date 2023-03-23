@@ -72114,3 +72114,99 @@ series:
         url: https://www.meetup.com/gdg-ostrava/events/281546792/
         dtstart: 2021-11-26 09:00:00+01:00
         dtend: 2021-11-26 21:00:00+01:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: WTM IWD 2023
+        description: 'GDG Ostrava
+
+          Saturday, March 18 at 9:30 AM
+
+
+          &lt\;p&gt\;A face-to-face event in 3 cities in Czechia and a stream – with a brunch!&lt\;br&gt\;&lt\;/p&gt\;&lt\;p&gt\;2 amazing talks and networking.&amp\;nbs...
+
+
+          https://www.meetup.com/gdg-ostrava/events/291382153/'
+        location: Online event
+        geo:
+          lat: 49.83
+          lon: 18.27
+        status: CONFIRMED
+        uid: event_291382153@meetup.com
+        url: https://www.meetup.com/gdg-ostrava/events/291382153/
+        dtstart: 2023-03-18 09:30:00+01:00
+        dtend: 2023-03-18 13:00:00+01:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: I/O 2022 Extended Ostrava Meetup
+        description: 'GDG Ostrava
+
+          Wednesday, May 11 at 4:00 PM
+
+
+          THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW <br/>https://gdg.community.dev/events/details/google-gdg-ostrava-presents-io-2022-ext...
+
+
+          https://www.meetup.com/gdg-ostrava/events/284926288/'
+        location: Online event
+        geo:
+          lat: 49.83
+          lon: 18.27
+        status: CONFIRMED
+        uid: event_284926288@meetup.com
+        url: https://www.meetup.com/gdg-ostrava/events/284926288/
+        dtstart: 2022-05-11 16:00:00+02:00
+        dtend: 2022-05-11 19:00:00+02:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Mezinárodní Týden žen (international women's week)
+        description: 'GDG Ostrava
+
+          Wednesday, March 2 at 10:00 AM
+
+
+          THIS IS A FREE EVENT - PLEASE FINISH YOUR RSVP IN THE LINK BELOW <br/>https://gdg.community.dev/events/details/google-gdg-ostrava-presents-mezinarodni...
+
+
+          https://www.meetup.com/gdg-ostrava/events/283915704/'
+        location: null
+        geo:
+          lat: 49.83
+          lon: 18.27
+        status: CONFIRMED
+        uid: event_283915704@meetup.com
+        url: https://www.meetup.com/gdg-ostrava/events/283915704/
+        dtstart: 2022-03-02 10:00:00+01:00
+        dtend: 2022-03-08 21:00:00+01:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: DevFest.cz 2021 powered by TechMeetup
+        description: 'GDG Ostrava
+
+          Friday, November 26 at 9:00 AM
+
+
+          PLEASE RSVP USING THE LINK BELOW <br/>https://gdg.community.dev/events/details/google-gdg-ostrava-presents-devfestcz-2021-powered-by-techmeetup/     &...
+
+
+          https://www.meetup.com/gdg-ostrava/events/281546792/'
+        location: null
+        geo:
+          lat: 49.83
+          lon: 18.27
+        status: CONFIRMED
+        uid: event_281546792@meetup.com
+        url: https://www.meetup.com/gdg-ostrava/events/281546792/
+        dtstart: 2021-11-26 09:00:00+01:00
+        dtend: 2021-11-26 21:00:00+01:00

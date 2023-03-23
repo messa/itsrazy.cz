@@ -73304,3 +73304,99 @@ series:
         url: https://www.meetup.com/agilni-open-cafe-praha/events/285202778/
         dtstart: 2022-05-10 18:00:00+02:00
         dtend: 2022-05-10 20:00:00+02:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Agilní Open Café Praha – 21.3.2023
+        description: 'Agilni Open Cafe Praha
+
+          Tuesday, March 21 at 6:00 PM
+
+
+          Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve úterý 21. března 2023. Opencafé je pro ty, kteří...
+
+
+          https://www.meetup.com/agilni-open-cafe-praha/events/292043325/'
+        location: Café Záhorský (Eliášova 279, Praha 6-Bubeneč, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_292043325@meetup.com
+        url: https://www.meetup.com/agilni-open-cafe-praha/events/292043325/
+        dtstart: 2023-03-21 18:00:00+01:00
+        dtend: 2023-03-21 20:00:00+01:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Agilní Open Café Praha – 21.2.2023
+        description: 'Agilni Open Cafe Praha
+
+          Tuesday, February 21 at 6:00 PM
+
+
+          Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve úterý 2. února 2023. Opencafé je pro ty, kteří c...
+
+
+          https://www.meetup.com/agilni-open-cafe-praha/events/291461554/'
+        location: Café Záhorský (Eliášova 279, Praha 6-Bubeneč, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291461554@meetup.com
+        url: https://www.meetup.com/agilni-open-cafe-praha/events/291461554/
+        dtstart: 2023-02-21 18:00:00+01:00
+        dtend: 2023-02-21 20:00:00+01:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Certain Uncertainty & Evan Leybourn – 7.12.2022
+        description: 'Agilni Open Cafe Praha
+
+          Wednesday, December 7 at 4:00 PM
+
+
+          Registration: bit.ly/kb_certain_uncertainty Téma:  Certain UncertaintyNo matter what the future brings.These 6 words are the heart of business agility...
+
+
+          https://www.meetup.com/agilni-open-cafe-praha/events/290103310/'
+        location: Komercni Banka (Náměstí Junkových 2772/1, , Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_290103310@meetup.com
+        url: https://www.meetup.com/agilni-open-cafe-praha/events/290103310/
+        dtstart: 2022-12-07 16:00:00+01:00
+        dtend: 2022-12-07 18:00:00+01:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Agilní Open Café Praha – 10.5.2022
+        description: 'Agilni Open Cafe Praha
+
+          Tuesday, May 10 at 6:00 PM
+
+
+          Příští Agilní Open Café alias setkání Agilních nadšenců bude po dlouhé době opět v kavárně v Praze ve úterý 10. května 2022. Opencafé je pro ty, kteří...
+
+
+          https://www.meetup.com/agilni-open-cafe-praha/events/285202778/'
+        location: Café Záhorský (Eliášova 279, Praha 6-Bubeneč, Czech Republic 160 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_285202778@meetup.com
+        url: https://www.meetup.com/agilni-open-cafe-praha/events/285202778/
+        dtstart: 2022-05-10 18:00:00+02:00
+        dtend: 2022-05-10 20:00:00+02:00
