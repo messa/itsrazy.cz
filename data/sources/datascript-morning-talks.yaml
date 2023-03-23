@@ -54057,3 +54057,26 @@ series:
         url: https://www.meetup.com/morning-talks/events/291952895/
         dtstart: 2023-03-22 09:00:00+01:00
         dtend: 2023-03-22 10:00:00+01:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Návrh systému na pevném základu
+        description: 'Morning Talks
+
+          Wednesday, March 22 at 9:00 AM
+
+
+          Prosíme o registraci přímo na stránkách Datascriptu, děkujeme za pochopení: https://www.datascript.cz/morning-talks/navrh-systemu-na-pevnem-zakladu/ V...\n
+
+          https://www.meetup.com/morning-talks/events/291952895/'
+        location: Online event
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291952895@meetup.com
+        url: https://www.meetup.com/morning-talks/events/291952895/
+        dtstart: 2023-03-22 09:00:00+01:00
+        dtend: 2023-03-22 10:00:00+01:00

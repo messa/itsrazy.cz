@@ -58977,3 +58977,99 @@ series:
         url: https://www.meetup.com/prague-aws-meetup/events/280751506/
         dtstart: 2021-10-20 18:00:00+02:00
         dtend: 2021-10-20 20:00:00+02:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Thursday, March 9 at 6:00 PM
+
+
+          We would like to invite you for next Prague AWS User Group Community Meetup to Ataccama. There will be two speakers with the following presentations: ...
+
+
+          https://www.meetup.com/prague-aws-meetup/events/291816432/'
+        location: Ataccama Software, s.r.o. (Invalidovna, Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291816432@meetup.com
+        url: https://www.meetup.com/prague-aws-meetup/events/291816432/
+        dtstart: 2023-03-09 18:00:00+01:00
+        dtend: 2023-03-09 20:00:00+01:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Tuesday, December 13 at 6:00 PM
+
+
+          We would like to invite you for next Prague AWS User Group Community Meetup to Ataccama. There will be two speakers with the following presentations: ...
+
+
+          https://www.meetup.com/prague-aws-meetup/events/289253635/'
+        location: Ataccama Software, s.r.o. (Invalidovna, Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_289253635@meetup.com
+        url: https://www.meetup.com/prague-aws-meetup/events/289253635/
+        dtstart: 2022-12-13 18:00:00+01:00
+        dtend: 2022-12-13 20:00:00+01:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Wednesday, September 7 at 5:30 PM
+
+
+          We would like to invite you for the next Prague AWS User Group Community Meetup at Pure Storage. There will be three speakers with the following prese...
+
+
+          https://www.meetup.com/prague-aws-meetup/events/287394375/'
+        location: Pure Storage (Rohanské nábř. 661/5, Rohanský ostrov, Praha-Praha 8, Czech Republic 186 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_287394375@meetup.com
+        url: https://www.meetup.com/prague-aws-meetup/events/287394375/
+        dtstart: 2022-09-07 17:30:00+02:00
+        dtend: 2022-09-07 19:30:00+02:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: Regular Prague AWS User Group Meetup
+        description: 'Prague AWS User Group
+
+          Wednesday, October 20 at 6:00 PM
+
+
+          We would like to invite you for next Prague AWS User Group Community Meetup at MSD IT. There will be two speakers with the following presentations: • ...
+
+
+          https://www.meetup.com/prague-aws-meetup/events/280751506/'
+        location: MSD IT Global Innovation Center - Five (FIVE, Na Valentince 3336/4, 150 00, Prague, Prague, Czech Republic)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_280751506@meetup.com
+        url: https://www.meetup.com/prague-aws-meetup/events/280751506/
+        dtstart: 2021-10-20 18:00:00+02:00
+        dtend: 2021-10-20 20:00:00+02:00

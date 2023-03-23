@@ -62930,3 +62930,27 @@ series:
         url: https://www.meetup.com/protest_cz/events/291603944/
         dtstart: 2023-02-21 18:00:00+01:00
         dtend: 2023-02-21 20:00:00+01:00
+  - meetupcom:
+      meta_description: Not a Meetup member yet? Log in and find groups that host online or in person events and meet people in your local community who share your interests.
+      og_title: Login to Meetup | Meetup
+      url: https://www.meetup.com/login/
+      ical:
+        summary: 113. [pro:]TEST! Testerský Open Space - Diskuze bez hranic
+        description: '[pro:]TEST!
+
+          Tuesday, February 21 at 6:00 PM
+
+
+          Trápí vás nějaký problém, nebo přemýšlíte nad nějakým tématem? Tak si o něm přijďte popovídat s naší testerskou komunitou. Open Space Technology (OST)...
+
+
+          https://www.meetup.com/protest_cz/events/291603944/'
+        location: Absa (Milevská 5, Praha 4-Podolí, Czech Republic 140 00)
+        geo:
+          lat: 50.08
+          lon: 14.43
+        status: CONFIRMED
+        uid: event_291603944@meetup.com
+        url: https://www.meetup.com/protest_cz/events/291603944/
+        dtstart: 2023-02-21 18:00:00+01:00
+        dtend: 2023-02-21 20:00:00+01:00
